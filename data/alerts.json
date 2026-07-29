@@ -1,0 +1,127 @@
+{
+  "compiledAt": "2026-07-29T12:00:00+05:30",
+  "note": "Manually-refreshed research digest compiled from public news sources. Not a live news-wire feed — update this file (or re-run research) to refresh. Built for Meesho 3P logistics capacity planning (Delhivery · Shadowfax · Xpressbees): LM/FM manifestation, non-adherence hotspots, and serviceability-loss tracking. Not an official Meesho product.",
+  "upcomingEvents": [
+    {
+      "id": "kanwar-yatra-2026",
+      "icon": "🕉️",
+      "title": "Kanwar Yatra 2026 (Jul 30 – Aug 11): Delhi Police issue 13-day traffic advisory",
+      "eta": "Jul 30, 2026",
+      "daysAway": 1
+    },
+    {
+      "id": "independence-day-2026",
+      "icon": "🛡️",
+      "title": "Independence Day (Aug 15): expect VIP security bandobast & route restrictions in capitals",
+      "eta": "Aug 15, 2026",
+      "daysAway": 17
+    }
+  ],
+  "alerts": [
+    {
+      "id": "jk-jammu-srinagar-landslide",
+      "icon": "⛰️",
+      "title": "Jammu-Srinagar Highway: fresh landslide strands 1,700+ trucks near Udhampur",
+      "category": "Landslide",
+      "categoryKey": "landslide",
+      "severity": "critical",
+      "status": "ongoing",
+      "region": "north",
+      "states": ["Jammu & Kashmir"],
+      "date": "2026-07-28",
+      "summary": "A fresh landslide at Dewal in Udhampur district forced NHAI to suspend traffic in both directions on the Jammu-Srinagar National Highway, stranding around 1,700 trucks and numerous passenger vehicles between Udhampur and Banihal — just a day after the highway had reopened from a prior 3-day closure.",
+      "impact": "Direct FM/LM hit: Kashmir-bound linehaul via NH44 is the only road link to the Valley — expect multi-day TAT breaches for Srinagar, Baramulla, Anantnag hubs. Flag as non-adherence root cause and pre-build buffer stock at Jammu hub; hold non-serviceable (NS) flags for Valley pincodes until NHAI confirms full reopening.",
+      "sources": ["The Tribune", "Kashmir Vision", "The Hans India"]
+    },
+    {
+      "id": "south-truckers-strike-warning",
+      "icon": "🚛",
+      "title": "South India truckers threaten indefinite strike from Aug 1 over VLTD mandate",
+      "category": "Strike / Bandh",
+      "categoryKey": "strike",
+      "severity": "high",
+      "status": "upcoming",
+      "region": "south",
+      "states": ["Tamil Nadu", "Karnataka", "Kerala", "Andhra Pradesh", "Telangana", "Puducherry"],
+      "date": "2026-07-24",
+      "summary": "Truck owners' associations across Tamil Nadu, Karnataka, Kerala, Andhra Pradesh, Telangana and Puducherry have warned of an indefinite strike from August 1 if demands are not met — chiefly opposing mandatory Vehicle Location Tracking Devices (VLTDs) and panic buttons, plus rising toll and compliance costs. If it goes ahead, lakhs of trucks could go off the road, disrupting cargo movement across the south.",
+      "impact": "Expand LM with 3P, pre-plan now: If the strike proceeds Aug 1, expect FM linehaul stoppages out of Chennai, Bengaluru, Hyderabad, Kochi and Coimbatore hubs. Pre-position 5-7 days of buffer inventory, line up alternate LM partners for last-mile continuity, and prepare SLA-relaxation comms for southern pincodes ahead of the deadline.",
+      "sources": ["Channel iam", "LinkedIn — Gaurav Rawal"]
+    },
+    {
+      "id": "jk-poonch-rajouri-doda-floods",
+      "icon": "🌊",
+      "title": "J&K flash floods: 25+ dead across Poonch, Rajouri & Doda after cloudburst rain",
+      "category": "Flood",
+      "categoryKey": "flood",
+      "severity": "critical",
+      "status": "ongoing",
+      "region": "north",
+      "states": ["Jammu & Kashmir"],
+      "date": "2026-07-20",
+      "summary": "Weekend cloudbursts and flash flooding across Poonch, Rajouri and Doda districts killed at least 15 people with several missing, part of a wider spell that has now claimed 25+ lives across northern India, damaging roads and submerging low-lying villages.",
+      "impact": "Serviceability loss risk — Jammu region: Expect road washouts and hub inaccessibility across Poonch/Rajouri/Doda pincodes. Build temporary NS flags for worst-hit talukas and monitor for extended TAT breaches feeding into the wider J&K corridor squeeze.",
+      "sources": ["Al Jazeera", "The Watchers", "The Federal"]
+    },
+    {
+      "id": "assam-floods-army-standby",
+      "icon": "🌊",
+      "title": "Assam floods: authorities put Army & Air Force on standby for evacuations",
+      "category": "Flood",
+      "categoryKey": "flood",
+      "severity": "high",
+      "status": "ongoing",
+      "region": "east",
+      "states": ["Assam"],
+      "date": "2026-07-20",
+      "summary": "Continued monsoon rainfall has kept several Assam districts under flood alert, with state authorities requesting Army and Air Force standby support for possible evacuations as low-lying areas remain submerged.",
+      "impact": "Serviceability loss risk — Northeast: Maintain NS flags for the worst-affected Assam pincodes and monitor Guwahati hub inbound linehaul for delays; coordinate contingency capacity with Delhivery/Xpressbees for alternate NE routing.",
+      "sources": ["The Federal", "Al Jazeera"]
+    },
+    {
+      "id": "nagaland-landslides",
+      "icon": "⛰️",
+      "title": "Nagaland: persistent-rain landslides kill 9, cut hill roads",
+      "category": "Landslide",
+      "categoryKey": "landslide",
+      "severity": "moderate",
+      "status": "ongoing",
+      "region": "east",
+      "states": ["Nagaland"],
+      "date": "2026-07-19",
+      "summary": "Multiple landslides triggered by persistent monsoon rain across Nagaland have killed nine people and disrupted hill-road connectivity in the state.",
+      "impact": "Watch list: Kohima/Dimapur-linked hill routes carry recurring landslide risk through August — keep alternate routing on standby and relax SLA penalties for affected pincodes during active rain spells.",
+      "sources": ["The Federal"]
+    },
+    {
+      "id": "mumbai-pune-expressway-rain",
+      "icon": "🌧️",
+      "title": "Mumbai-Pune corridor: rain-hit expressway & rail slow JNPA cargo movement",
+      "category": "Flood",
+      "categoryKey": "flood",
+      "severity": "moderate",
+      "status": "ongoing",
+      "region": "west",
+      "states": ["Maharashtra"],
+      "date": "2026-07-22",
+      "summary": "Landslides and flooding along the Mumbai-Pune Expressway and the old NH have slowed truck movement between western India's manufacturing hubs and Jawaharlal Nehru Port (JNPA), with rain also disrupting rail connectivity in the region.",
+      "impact": "Watch list: Karjat-Lonavala ghat section remains a recurring bottleneck for Mumbai-Pune linehaul. Build extra transit buffer for Pune/Navi Mumbai hub dispatches and monitor for repeat closures through August.",
+      "sources": ["Logistics Insider"]
+    },
+    {
+      "id": "fuel-prices-multi-city-high",
+      "icon": "⛽",
+      "title": "Petrol/diesel steady but sit at multi-city highs; LPG flat this cycle",
+      "category": "Fuel & Energy",
+      "categoryKey": "fuel",
+      "severity": "watch",
+      "status": "ongoing",
+      "region": "pan-india",
+      "states": ["Pan-India"],
+      "date": "2026-07-29",
+      "summary": "Retail petrol and diesel prices have held steady since OMCs' May 25 hike, but remain at elevated levels — Delhi ₹102.12/₹95.20 per litre (petrol/diesel), Mumbai ₹111.21/₹99.82, with Bengaluru, Hyderabad and Kolkata petrol above ₹110. LPG, CNG and PNG prices are unchanged for over a month.",
+      "impact": "Cost watch, no action yet: No immediate LM/FM disruption, but sustained high fuel levels keep pressure on 3P per-km rates. Track weekly for early signal on Delhivery/Shadowfax/Xpressbees fuel surcharge asks ahead of next pricing cycle.",
+      "sources": ["BusinessToday", "Goodreturns"]
+    }
+  ]
+}

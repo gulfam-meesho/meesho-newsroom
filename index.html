@@ -1,0 +1,102 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<title>Meesho Supply Chain Newsroom</title>
+<meta name="description" content="Live supply chain constraint monitor — landslides, floods, festivals, strikes, fuel news impacting Last Mile & First Mile capacity across India." />
+<link rel="icon" href="data:image/svg+xml,<svg xmlns=%22http://www.w3.org/2000/svg%22 viewBox=%220 0 100 100%22><text y=%22.9em%22 font-size=%2290%22>📦</text></svg>" />
+<link rel="stylesheet" href="style.css" />
+</head>
+<body>
+  <header class="site-header">
+    <div class="header-inner">
+      <div class="brand">
+        <div class="brand-icon">📦</div>
+        <div>
+          <h1>Meesho Supply Chain <span class="accent">Newsroom</span></h1>
+          <p class="subtitle">LM · FM CAPACITY &amp; SERVICEABILITY RISK MONITOR</p>
+        </div>
+      </div>
+      <div class="header-meta">
+        <span class="live-pill"><span class="dot"></span>LIVE MONITOR</span>
+        <span id="clock" class="clock">—</span>
+      </div>
+    </div>
+    <div class="ticker-wrap">
+      <span class="ticker-label">BREAKING</span>
+      <div class="ticker" id="ticker"><span>Loading breaking alerts…</span></div>
+    </div>
+  </header>
+
+  <main>
+    <section class="section">
+      <h2>⚡ Live Situation Room</h2>
+      <p class="section-sub">ongoing vs upcoming — click any item to jump to full details</p>
+      <div class="situation-grid">
+        <div class="situation-card current">
+          <div class="situation-head">
+            <span><span class="dot purple"></span> CURRENT SITUATION</span>
+            <span class="count-badge" id="currentCount">0</span>
+          </div>
+          <p class="situation-summary" id="currentSummary">Loading summary…</p>
+          <div id="currentList" class="situation-list"></div>
+        </div>
+        <div class="situation-card upcoming">
+          <div class="situation-head">
+            <span><span class="dot cyan"></span> UPCOMING EVENTS</span>
+            <span class="count-badge" id="upcomingCount">0</span>
+          </div>
+          <p class="situation-summary">Planned events not yet in effect — get ahead of route curbs.</p>
+          <div id="upcomingList" class="situation-list"></div>
+        </div>
+      </div>
+    </section>
+
+    <section class="section">
+      <h2>📊 Today's Snapshot</h2>
+      <p class="section-sub">Updated <span id="snapshotDate">—</span></p>
+      <div class="snapshot-grid" id="snapshotGrid"></div>
+    </section>
+
+    <section class="section">
+      <h2>🔍 Filter Alerts</h2>
+      <p class="section-sub">by category &amp; severity</p>
+      <div class="filter-row" id="categoryFilters"></div>
+      <div class="filter-row" id="severityFilters"></div>
+    </section>
+
+    <section class="section">
+      <h2>🗺️ Regional Impact Zones</h2>
+      <p class="section-sub">illustrative — grouped by geography</p>
+      <div class="region-grid" id="regionGrid"></div>
+    </section>
+
+    <section class="section">
+      <h2>📰 Full Alert Feed</h2>
+      <p class="section-sub" id="feedCount">stories</p>
+      <div class="feed-grid">
+        <aside class="legend-card">
+          <h3>Alerts by Severity</h3>
+          <div class="donut-wrap">
+            <svg viewBox="0 0 42 42" class="donut" id="donutChart"></svg>
+          </div>
+          <ul class="legend-list">
+            <li><span class="swatch critical"></span> Critical — active, direct LM/FM stoppage</li>
+            <li><span class="swatch high"></span> High — active disruption / route restriction</li>
+            <li><span class="swatch moderate"></span> Moderate — localized / partial impact</li>
+            <li><span class="swatch watch"></span> Watch — emerging, monitor cost/route risk</li>
+          </ul>
+        </aside>
+        <div class="feed-list" id="feedList"></div>
+      </div>
+    </section>
+  </main>
+
+  <footer class="site-footer">
+    <p id="footerNote">Loading…</p>
+  </footer>
+
+  <script src="script.js"></script>
+</body>
+</html>
