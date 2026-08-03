@@ -1,13 +1,13 @@
 {
-  "compiledAt": "2026-08-03T12:30:00+05:30",
+  "compiledAt": "2026-08-03T12:00:00+05:30",
   "note": "Manually-refreshed research digest compiled from public news sources. Not a live news-wire feed — update this file (or re-run research) to refresh. Built for Meesho 3P logistics capacity planning (Delhivery · Shadowfax · Xpressbees): LM/FM manifestation, non-adherence hotspots, and serviceability-loss tracking. Not an official Meesho product.",
   "upcomingEvents": [
     {
-      "id": "kanwar-yatra-concludes",
+      "id": "delhi-haridwar-highway-ban",
       "icon": "🕉️",
-      "title": "Kanwar Yatra 2026 concludes Aug 11 — expect gradual lifting of NH restrictions",
-      "eta": "Aug 11, 2026",
-      "daysAway": 8
+      "title": "Delhi-Haridwar Highway: total vehicle ban Aug 4-12 as Kanwar Yatra peaks",
+      "eta": "Aug 4, 2026",
+      "daysAway": 1
     },
     {
       "id": "independence-day-2026",
@@ -19,114 +19,81 @@
   ],
   "alerts": [
     {
-      "id": "south-india-truckers-strike-active",
-      "icon": "🚛",
-      "title": "South India truckers' strike confirmed active: 4,000+ daily loads halted on Karnataka-TN corridor",
-      "category": "Strike / Bandh",
-      "categoryKey": "strike",
+      "id": "nh44-jammu-srinagar-closed",
+      "icon": "⛰️",
+      "title": "NH44 Jammu-Srinagar Highway remains shut after fresh landslide at Dewal, Udhampur",
+      "category": "Landslide",
+      "categoryKey": "landslide",
       "severity": "critical",
       "status": "ongoing",
-      "region": "south",
-      "states": ["Tamil Nadu", "Karnataka", "Kerala", "Andhra Pradesh", "Telangana", "Puducherry"],
-      "date": "2026-08-02",
-      "summary": "The indefinite strike threatened over VLTD/panic-button mandates and toll costs is now confirmed active. By Aug 2, over 4,000 daily loads on the Karnataka–Tamil Nadu corridor had stopped, roughly 6 lakh lorries in Karnataka are off the road, and Chennai is already seeing produce-supply shortages from the Kolar belt — mirroring Rajasthan's separate, ongoing VLTD strike.",
-      "impact": "Active FM/LM stoppage: Chennai, Bengaluru, Hyderabad, Kochi and Coimbatore hub linehaul is severely constrained. Activate alternate LM 3P capacity immediately, flag non-serviceable (NS) pincodes dependent on truck linehaul, and extend SLA relaxation across the southern zone until the strike resolves.",
-      "sources": ["Logistics Insider", "Deccan Herald", "Siasat"]
+      "region": "north",
+      "states": ["Jammu & Kashmir"],
+      "date": "2026-08-01",
+      "summary": "The Jammu-Srinagar National Highway (NH44) — the only all-weather road link connecting the Kashmir Valley with the rest of India — remains closed after a landslide triggered by heavy rain blocked the carriageway at Dewal in Udhampur district. Restoration crews are working under active rockfall risk near the Dawal Bridge/Samroli area; authorities have not yet declared the stretch safe to reopen.",
+      "impact": "Direct FM/LM hit: Kashmir-bound linehaul via NH44 has no alternate road route — expect multi-day TAT breaches for Srinagar, Baramulla, Anantnag hubs. Hold non-serviceable (NS) flags for Valley pincodes and pre-build buffer stock at the Jammu hub until NHAI confirms full reopening.",
+      "sources": [
+        { "name": "Kashmir Age", "url": "https://kashmirage.net/2026/08/01/jammu-srinagar-highway-closed-amid-landslides-heavy-rain/" },
+        { "name": "Kashmir Observer", "url": "https://kashmirobserver.net/2026/07/27/landslide-blocks-srinagar-jammu-highway-3/" }
+      ]
     },
     {
-      "id": "assam-arunachal-nagaland-floods-escalation",
+      "id": "kerala-floods-landslides-aug",
       "icon": "🌊",
-      "title": "Assam flood toll nears 80, 2.12 lakh affected across 8 districts; Arunachal & Nagaland also under IMD alert",
+      "title": "Kerala floods and landslides: 8 dead, 8 missing, over 500 rescued as heavy rain continues",
       "category": "Flood",
       "categoryKey": "flood",
       "severity": "critical",
       "status": "ongoing",
-      "region": "east",
-      "states": ["Assam", "Arunachal Pradesh", "Nagaland"],
+      "region": "south",
+      "states": ["Kerala"],
       "date": "2026-08-02",
-      "summary": "Assam's flood emergency has escalated sharply — death toll near 80 with over 2.12 lakh people affected across 437 villages in 21 revenue circles spanning Golaghat, Sivasagar, Biswanath, Charaideo, Kamrup Metro, Jorhat, Dhemaji and Nagaon districts; the Brahmaputra and tributaries remain above danger levels in places, though waters are receding in Upper Assam. Arunachal Pradesh (~1.5 lakh affected) and Nagaland (8+ deaths in Mon district) also remain under IMD orange alerts, with PM Modi having pledged Central assistance.",
-      "impact": "Serviceability loss risk widens across Upper Assam — extend NS flags for the 8 affected districts, monitor Guwahati hub inbound linehaul closely, and coordinate contingency LM/FM capacity with Delhivery/Xpressbees for alternate Northeast routing as floodwaters recede.",
-      "sources": ["The Statesman", "Newslaundry", "India TV News"]
+      "summary": "Heavy rainfall has caused floods and landslides across Kerala, killing at least 8 people with 8 more missing and 13 injured, per Chief Minister V. D. Satheesan. Nearly 5,800 people have been relocated to 209 relief camps, 27 houses destroyed and 196 damaged; IMD warns of further heavy to very heavy rainfall over Kerala and Mahe.",
+      "impact": "Serviceability loss risk — South zone: Expect road washouts and hub inaccessibility across Pathanamthitta and other worst-hit districts. Build temporary NS flags for affected talukas, keep contingency routing via Kochi/Kozhikode hubs, and monitor for extended TAT breaches through the week.",
+      "sources": [
+        { "name": "Al Jazeera", "url": "https://www.aljazeera.com/video/newsfeed/2026/8/2/deadly-floods-and-landslide-hit-indias-kerala" },
+        { "name": "The Watchers", "url": "https://watchers.news/2026/08/02/16-dead-and-missing-as-floods-and-landslides-hit-kerala-india/" }
+      ]
     },
     {
-      "id": "jk-jammu-srinagar-highway-landslide",
-      "icon": "⛰️",
-      "title": "NH-44 Jammu-Srinagar partially reopens Aug 3 for light vehicles; heavy trucks still alternate-day only",
-      "category": "Landslide",
-      "categoryKey": "landslide",
-      "severity": "high",
-      "status": "ongoing",
-      "region": "north",
-      "states": ["Jammu & Kashmir"],
-      "date": "2026-08-03",
-      "summary": "NH-44 reopened for light motor vehicles on Aug 3 after being fully closed since Aug 1 due to fresh landslides, shooting stones and slushy conditions near Dawal Bridge (Udhampur) and Gangroo (Ramban) — the second closure spell in under a week. Heavy vehicles, including freight trucks, remain restricted to alternate-day movement only, with single-lane bottlenecks persisting at Dewal and between Marog-Kishtwari Pather.",
-      "impact": "Kashmir Valley linehaul stays constrained even with light traffic resumed — Srinagar, Baramulla and Anantnag hubs still face TAT breaches since freight HMVs move only on alternate days. Maintain buffer stock at the Jammu hub and hold SLA-relaxation flags for Valley pincodes until full HMV movement resumes.",
-      "sources": ["Kashmir Images", "News on Air", "Business Today"]
-    },
-    {
-      "id": "himachal-monsoon-road-closures",
-      "icon": "⛰️",
-      "title": "108+ roads still blocked across Himachal Pradesh as IMD heavy-rain alert runs through Aug 4",
-      "category": "Landslide",
-      "categoryKey": "landslide",
-      "severity": "high",
-      "status": "ongoing",
-      "region": "north",
-      "states": ["Himachal Pradesh"],
-      "date": "2026-08-02",
-      "summary": "108 roads remain closed across Himachal Pradesh — 39 in Mandi, 33 in Kullu, 11 in Shimla, 9 in Sirmaur, 7 in Chamba and 5 in Kangra — after torrential rain damage; 9 transformers and 38 water-supply schemes are also disrupted. IMD has an orange alert for Kangra/Mandi/Chamba and yellow alert for Shimla/Kullu/Sirmaur, with isolated heavy rain expected through Aug 7.",
-      "impact": "FM linehaul into hill hubs (Shimla, Mandi, Kullu) faces repeated single-lane or no-access windows through the week — hold flexible SLAs and avoid new dispatch commitments to blocked-road pincodes until district lists clear.",
-      "sources": ["The Tribune"]
-    },
-    {
-      "id": "rajasthan-truckers-vltd-strike",
+      "id": "south-india-truckers-strike-aug1",
       "icon": "🚛",
-      "title": "Rajasthan truckers' indefinite strike over VLTD costs grounds 10,000+ trucks",
+      "title": "South India truckers' indefinite strike over VLTD mandate begins August 1",
       "category": "Strike / Bandh",
       "categoryKey": "strike",
       "severity": "high",
       "status": "ongoing",
-      "region": "north",
-      "states": ["Rajasthan"],
+      "region": "south",
+      "states": ["Tamil Nadu", "Karnataka", "Kerala", "Andhra Pradesh", "Telangana", "Puducherry"],
       "date": "2026-08-01",
-      "summary": "The Rajasthan Truck Transport Sangharsh Samiti has kept over 10,000 trucks off the road in an indefinite strike against VLTD costs (₹25,000-30,000 in Rajasthan vs ₹3,000-3,500 in neighbouring states), permit hurdles, fitness-renewal rules and e-detection challans. Associations warn of disruption to steel, cement, grocery and agri-produce movement if talks with the state government fail.",
-      "impact": "Expect FM linehaul delays out of Jaipur, Jodhpur and Kota hubs; line up alternate 3P capacity or inter-state rerouting for Rajasthan-bound dispatches and pre-position buffer stock at bordering hubs.",
-      "sources": ["ETV Bharat", "The Hans India"]
+      "summary": "Truck owners' associations across Tamil Nadu, Karnataka, Kerala, Andhra Pradesh, Telangana and Puducherry went ahead with a threatened indefinite strike from August 1, opposing mandatory Vehicle Location Tracking Devices (VLTDs) and panic buttons, plus rising toll and compliance costs. Reports on the ground-level participation and duration are still developing.",
+      "impact": "Expand LM with 3P, monitor hour-by-hour: FM linehaul out of Chennai, Bengaluru, Hyderabad, Kochi and Coimbatore hubs is at risk. Keep 5-7 days of buffer inventory pre-positioned, line up alternate LM partners, and prepare SLA-relaxation comms for southern pincodes until the strike is confirmed resolved.",
+      "sources": [
+        { "name": "Siasat", "url": "https://www.siasat.com/truck-owners-in-south-india-to-go-on-strike-from-august-1-3503345/" },
+        { "name": "Channel iam", "url": "https://en.channeliam.com/2026/07/08/south-india-truck-strike-august-freight-disruption/" }
+      ]
     },
     {
-      "id": "nagaland-nh2-manipur-link-landslide",
-      "icon": "⛰️",
-      "title": "Landslide shuts NH-2 Kohima-Mao stretch daily 6am-6pm, cutting key Nagaland-Manipur link",
-      "category": "Landslide",
-      "categoryKey": "landslide",
-      "severity": "moderate",
-      "status": "ongoing",
-      "region": "east",
-      "states": ["Nagaland", "Manipur"],
-      "date": "2026-08-02",
-      "summary": "Active sliding debris at the Phesama sinking zone on NH-2 (Kohima-Mao section, Km 191.8-192.1) has forced district authorities to close the stretch daily from 6am-6pm for restoration work — the only major highway link between Nagaland and Manipur.",
-      "impact": "Expect daytime transit delays for Dimapur/Kohima-Imphal linehaul; schedule FM dispatches for the overnight open window and flag partial-day SLA relaxation for Manipur-bound shipments routed via this corridor.",
-      "sources": ["EastMojo"]
-    },
-    {
-      "id": "kanwar-yatra-heavy-vehicle-restrictions",
+      "id": "kanwar-yatra-restrictions-live",
       "icon": "🕉️",
-      "title": "Kanwar Yatra: Delhi-Haridwar highway bars heavy vehicles from Aug 4; GT Road fully shuts Aug 9-12",
+      "title": "Kanwar Yatra 2026: Delhi route diversions live, full Delhi-Haridwar highway ban from Aug 4",
       "category": "Festival / Yatra",
       "categoryKey": "festival",
-      "severity": "moderate",
-      "status": "upcoming",
+      "severity": "high",
+      "status": "ongoing",
       "region": "north",
       "states": ["Delhi", "Uttar Pradesh", "Uttarakhand", "Haryana"],
-      "date": "2026-08-04",
-      "summary": "Delhi Police and UP authorities will restrict heavy-vehicle movement on the Delhi-Haridwar National Highway and Ganga Canal road from Aug 4, and close the UP stretch of the Delhi-Meerut Expressway to regular traffic entirely from Aug 7-12, reserving lanes for Kanwar Yatra pilgrims through the yatra's Aug 11 conclusion. HTVs have already been diverted off GT Road, Wazirabad Road and Vikas Marg since Jul 30, and GT Road between Apsara Border and Yamuna Bridge will close fully to general traffic from 7am Aug 9 to 8pm Aug 12 for peak pilgrim movement.",
-      "impact": "Reroute FM linehaul between Delhi NCR and the Haridwar/Meerut/Dehradun corridor around the restriction windows via NH-9, NH-44, the Eastern Peripheral Expressway and Delhi-Dehradun Expressway; build 3-4 days of transit buffer for affected pincodes, especially the Aug 9-12 peak closure.",
-      "sources": ["India TV News", "Newsgram", "The Tribune"]
+      "date": "2026-07-29",
+      "summary": "Delhi Traffic Police's Kanwar Yatra advisory (Jul 30 - Aug 12) is in effect: heavy vehicles are restricted/diverted on GT Road, Wazirabad Road, Vikas Marg and Loni Road, with GT Road (Apsara Border to Yamuna Bridge) fully closed Aug 9-12. Separately, all vehicle movement will be banned on the Ganga Canal road and Delhi-Haridwar Highway from August 4 to August 12.",
+      "impact": "Expand LM with 3P, pre-plan now: Linehaul on Delhi-Meerut-Haridwar (NH58), Ghaziabad, and connecting UP/Uttarakhand corridors faces a total ban Aug 4-12. Shift linehaul to alternate NH-9/NH-44 corridors or night slots outside restricted windows for NCR/UP/Uttarakhand/Haryana pincodes through Aug 12.",
+      "sources": [
+        { "name": "The Tribune", "url": "https://www.tribuneindia.com/news/delhi/delhi-issues-traffic-advisory-route-diversions-for-kanwar-yatra-2026/" },
+        { "name": "Newsgram", "url": "https://www.newsgram.com/india/2026/07/29/kanwar-yatra-2026-delhi-haridwar-highway-reserved-for-kanwariyas" }
+      ]
     },
     {
-      "id": "fuel-prices-multi-city-high",
+      "id": "fuel-prices-aug3",
       "icon": "⛽",
-      "title": "Petrol/diesel hold at multi-city highs for 11th straight week; LPG/CNG unchanged",
+      "title": "Petrol/diesel steady at multi-city highs; commercial LPG cut ~₹200 from Aug 1",
       "category": "Fuel & Energy",
       "categoryKey": "fuel",
       "severity": "watch",
@@ -134,9 +101,11 @@
       "region": "pan-india",
       "states": ["Pan-India"],
       "date": "2026-08-03",
-      "summary": "Retail petrol and diesel prices remain steady since OMCs' May 25 hike — Delhi ₹102.12/₹95.20, Mumbai ₹111.18/₹99.82, Bengaluru ₹111.68/₹99.56, Hyderabad ₹115.73/₹103.82, Chennai ₹107.87/₹99.65 (petrol/diesel per litre). LPG, CNG and PNG rates remain unchanged for over a month.",
-      "impact": "No immediate LM/FM disruption; sustained elevated fuel levels combined with the ongoing south India and Rajasthan trucker strikes raise near-term risk of 3P fuel-surcharge asks — track weekly for signals from Delhivery/Shadowfax/Xpressbees ahead of the next pricing cycle.",
-      "sources": ["BusinessToday", "CarDekho"]
+      "summary": "Retail petrol and diesel prices remain unchanged since the May 25 OMC hike — Delhi ₹102.12/₹95.20 per litre (petrol/diesel), Mumbai ₹111.18/₹99.82. Separately, commercial (19kg) LPG cylinder rates were cut by roughly ₹200 effective August 1, while 14.2kg domestic cylinder rates stayed flat.",
+      "impact": "Cost watch, no action yet: No immediate LM/FM disruption. Retail fuel staying flat is a mild positive for 3P per-km rate stability, but track weekly for the next OMC pricing cycle and any fresh crude volatility feeding into Delhivery/Shadowfax/Xpressbees surcharge asks.",
+      "sources": [
+        { "name": "BusinessToday", "url": "https://www.businesstoday.in/india/story/petrol-diesel-prices-today-august-3-check-latest-rates-in-delhi-mumbai-chennai-kolkata-more-546738-2026-08-03" }
+      ]
     }
   ]
-      }
+}
