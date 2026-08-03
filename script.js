@@ -2,10 +2,10 @@ const SEV_ORDER = ["critical", "high", "moderate", "watch"];
 const SEV_LABEL = { critical: "Critical", high: "High", moderate: "Moderate", watch: "Watch" };
 const SEV_COLOR = { critical: "#f43f5e", high: "#f97316", moderate: "#eab308", watch: "#38bdf8" };
 const REGION_LABEL = {
-  "north": "NORTH (DELHI-NCR · UP · UTTARAKHAND · HP · J&K)",
-  "west": "WEST (RAJASTHAN · MAHARASHTRA · GOA)",
-  "south": "SOUTH (TN · KARNATAKA · KERALA · AP · TELANGANA)",
-  "east": "EAST / NORTHEAST (ASSAM · NAGALAND)",
+  "north": "NORTH (DELHI-NCR · PUNJAB · HARYANA · UP · UTTARAKHAND · HP · J&K)",
+  "west": "WEST (RAJASTHAN · GUJARAT · MAHARASHTRA · GOA)",
+  "south": "SOUTH (TN · KARNATAKA · KERALA · AP · TELANGANA · PUDUCHERRY)",
+  "east": "EAST / NORTHEAST (ASSAM · NAGALAND · WEST BENGAL)",
   "pan-india": "PAN-INDIA"
 };
 
