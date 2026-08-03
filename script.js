@@ -135,18 +135,30 @@ function renderSnapshot() {
     : "—";
 
   const cards = [
-    { num: DATA.alerts.length, label: "ACTIVE ALERTS", link: "See full feed →", target: "#feed" },
-    { num: crit, label: "CRITICAL (LM/FM STOPPAGE)", link: "Filter critical →", action: () => setSeverity("critical") },
-    { num: high, label: "HIGH SEVERITY", link: "Filter high →", action: () => setSeverity("high") },
-    { num: states.size, label: "STATES IMPACTED", link: "See regional zones →" },
-    { num: nextEvent ? nextEvent.daysAway : "—", label: nextEvent ? "DAYS TO " + nextEvent.title.split("(")[0].trim().toUpperCase() : "NEXT EVENT", link: "See upcoming events →" }
+    { num: DATA.alerts.length, label: "ACTIVE ALERTS", link: "See full feed →", onClick: "goToFeed()" },
+    { num: crit, label: "CRITICAL (LM/FM STOPPAGE)", link: "Filter critical →", onClick: "setSeverity('critical'); scrollToSection('feedSection');" },
+    { num: high, label: "HIGH SEVERITY", link: "Filter high →", onClick: "setSeverity('high'); scrollToSection('feedSection');" },
+    { num: states.size, label: "STATES IMPACTED", link: "See regional zones →", onClick: "scrollToSection('regionsSection')" },
+    { num: nextEvent ? nextEvent.daysAway : "—", label: nextEvent ? "DAYS TO " + nextEvent.title.split("(")[0].trim().toUpperCase() : "NEXT EVENT", link: "See upcoming events →", onClick: "scrollToSection('situationRoom')" }
   ];
   document.getElementById("snapshotGrid").innerHTML = cards.map((c, i) => `
-    <div class="stat-card">
+    <div class="stat-card clickable" onclick="${c.onClick}" role="button" tabindex="0">
       <div class="stat-num" style="color:${["#fff", "#f43f5e", "#f97316", "#22d3ee", "#22c55e"][i]}">${c.num}</div>
       <div class="stat-label">${c.label}</div>
       <span class="stat-link">${c.link}</span>
     </div>`).join("");
+}
+
+function scrollToSection(id) {
+  const el = document.getElementById(id);
+  if (el) el.scrollIntoView({ behavior: "smooth", block: "start" });
+}
+
+function goToFeed() {
+  activeCategory = "all";
+  activeSeverity = "all";
+  render();
+  scrollToSection("feedSection");
 }
 
 function renderFilters() {
