@@ -33,7 +33,9 @@
       "impact": "Direct FM/LM hit: Kashmir-bound linehaul via NH44 has no alternate road route — expect multi-day TAT breaches for Srinagar, Baramulla, Anantnag hubs. Hold non-serviceable (NS) flags for Valley pincodes and pre-build buffer stock at the Jammu hub until NHAI confirms full reopening.",
       "sources": [
         { "name": "Kashmir Age", "url": "https://kashmirage.net/2026/08/01/jammu-srinagar-highway-closed-amid-landslides-heavy-rain/" },
-        { "name": "Kashmir Observer", "url": "https://kashmirobserver.net/2026/07/27/landslide-blocks-srinagar-jammu-highway-3/" }
+        { "name": "Kashmir Observer", "url": "https://kashmirobserver.net/2026/07/27/landslide-blocks-srinagar-jammu-highway-3/" },
+        { "name": "Kashmir Reader (ground report)", "url": "https://kashmirreader.com/2026/07/27/1700-trucks-stranded-as-landslide-hits-jammu-srinagar-highway/" },
+        { "name": "Kashmir Images (ground report)", "url": "https://thekashmirimages.com/2026/07/28/fresh-landslide-in-udhampur-leaves-hundreds-of-vehicles-stranded-along-jmu-sgr-highway/" }
       ]
     },
     {
@@ -51,7 +53,9 @@
       "impact": "Serviceability loss risk — South zone: Expect road washouts and hub inaccessibility across Pathanamthitta and other worst-hit districts. Build temporary NS flags for affected talukas, keep contingency routing via Kochi/Kozhikode hubs, and monitor for extended TAT breaches through the week.",
       "sources": [
         { "name": "Al Jazeera", "url": "https://www.aljazeera.com/video/newsfeed/2026/8/2/deadly-floods-and-landslide-hit-indias-kerala" },
-        { "name": "The Watchers", "url": "https://watchers.news/2026/08/02/16-dead-and-missing-as-floods-and-landslides-hit-kerala-india/" }
+        { "name": "The Watchers", "url": "https://watchers.news/2026/08/02/16-dead-and-missing-as-floods-and-landslides-hit-kerala-india/" },
+        { "name": "Onmanorama (ground report)", "url": "https://www.onmanorama.com/news/kerala/2026/08/02/kerala-rains-death-toll-missing-injuries.html" },
+        { "name": "Onmanorama — district live updates", "url": "https://www.onmanorama.com/news/kerala/2026/08/01/kerala-rain-imd-alerts-district-updates-august-1-live.html" }
       ]
     },
     {
@@ -68,8 +72,9 @@
       "summary": "Truck owners' associations across Tamil Nadu, Karnataka, Kerala, Andhra Pradesh, Telangana and Puducherry went ahead with a threatened indefinite strike from August 1, opposing mandatory Vehicle Location Tracking Devices (VLTDs) and panic buttons, plus rising toll and compliance costs. Reports on the ground-level participation and duration are still developing.",
       "impact": "Expand LM with 3P, monitor hour-by-hour: FM linehaul out of Chennai, Bengaluru, Hyderabad, Kochi and Coimbatore hubs is at risk. Keep 5-7 days of buffer inventory pre-positioned, line up alternate LM partners, and prepare SLA-relaxation comms for southern pincodes until the strike is confirmed resolved.",
       "sources": [
-        { "name": "Siasat", "url": "https://www.siasat.com/truck-owners-in-south-india-to-go-on-strike-from-august-1-3503345/" },
-        { "name": "Channel iam", "url": "https://en.channeliam.com/2026/07/08/south-india-truck-strike-august-freight-disruption/" }
+        { "name": "Siasat (ground report)", "url": "https://www.siasat.com/truck-owners-in-south-india-to-go-on-strike-from-august-1-3503345/" },
+        { "name": "Channel iam", "url": "https://en.channeliam.com/2026/07/08/south-india-truck-strike-august-freight-disruption/" },
+        { "name": "WION", "url": "https://www.wionews.com/india-news/why-are-indian-truckers-on-nationwide-strike-what-are-they-protesting-675789" }
       ]
     },
     {
@@ -87,7 +92,8 @@
       "impact": "Expand LM with 3P, pre-plan now: Linehaul on Delhi-Meerut-Haridwar (NH58), Ghaziabad, and connecting UP/Uttarakhand corridors faces a total ban Aug 4-12. Shift linehaul to alternate NH-9/NH-44 corridors or night slots outside restricted windows for NCR/UP/Uttarakhand/Haryana pincodes through Aug 12.",
       "sources": [
         { "name": "The Tribune", "url": "https://www.tribuneindia.com/news/delhi/delhi-issues-traffic-advisory-route-diversions-for-kanwar-yatra-2026/" },
-        { "name": "Newsgram", "url": "https://www.newsgram.com/india/2026/07/29/kanwar-yatra-2026-delhi-haridwar-highway-reserved-for-kanwariyas" }
+        { "name": "Newsgram", "url": "https://www.newsgram.com/india/2026/07/29/kanwar-yatra-2026-delhi-haridwar-highway-reserved-for-kanwariyas" },
+        { "name": "BusinessToday — route-by-route detail", "url": "https://www.businesstoday.in/india/story/kanwar-yatra-2026-kicks-off-key-routes-major-highway-closures-diversions-to-avoid-in-delhi-ncr-546398-2026-07-31" }
       ]
     },
     {
