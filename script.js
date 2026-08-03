@@ -12,6 +12,8 @@ const REGION_LABEL = {
 let DATA = { alerts: [], upcomingEvents: [] };
 let activeCategory = "all";
 let activeSeverity = "all";
+const STALE_DAYS = 14; // ongoing alerts older than this many days are auto-hidden
+const REFRESH_INTERVAL_MS = 5 * 60 * 1000; // re-check for fresh data every 5 minutes while the tab is open
 
 function fmtDate(d) {
   const dt = new Date(d + "T00:00:00");
@@ -31,15 +33,39 @@ function startClock() {
   setInterval(tick, 1000);
 }
 
-async function loadData() {
+function daysSince(dateStr) {
+  const then = new Date(dateStr + "T00:00:00");
+  const now = new Date();
+  return Math.floor((now - then) / (1000 * 60 * 60 * 24));
+}
+
+function pruneStaleAlerts(alerts) {
+  // Keep everything that's upcoming (future-looking); auto-remove ongoing
+  // alerts once they're older than STALE_DAYS so the feed doesn't accumulate
+  // dead news between refreshes.
+  return (alerts || []).filter(a => a.status === "upcoming" || daysSince(a.date) <= STALE_DAYS);
+}
+
+async function loadData(isBackgroundRefresh) {
   try {
-    const res = await fetch("data/alerts.json", { cache: "no-store" });
-    DATA = await res.json();
+    const res = await fetch("data/alerts.json?ts=" + Date.now(), { cache: "no-store" });
+    const fresh = await res.json();
+    fresh.alerts = pruneStaleAlerts(fresh.alerts);
+    DATA = fresh;
   } catch (e) {
     console.error("Failed to load alerts.json", e);
-    DATA = { alerts: [], upcomingEvents: [], note: "Could not load data/alerts.json" };
+    if (!isBackgroundRefresh) DATA = { alerts: [], upcomingEvents: [], note: "Could not load data/alerts.json" };
   }
   render();
+}
+
+function startAutoRefresh() {
+  // Re-fetch periodically so a dashboard left open in a browser tab picks up
+  // newly-published alerts without needing a manual reload.
+  setInterval(() => loadData(true), REFRESH_INTERVAL_MS);
+  document.addEventListener("visibilitychange", () => {
+    if (document.visibilityState === "visible") loadData(true);
+  });
 }
 
 function render() {
@@ -190,6 +216,16 @@ function renderDonut(counts, total) {
   svg.innerHTML = segments;
 }
 
+function renderSources(sources) {
+  if (!sources || !sources.length) return "<span>—</span>";
+  return sources.map(s => {
+    // Support both the new { name, url } shape and legacy plain-string sources.
+    if (typeof s === "string") return `<span>${s}</span>`;
+    if (s && s.url) return `<a href="${s.url}" target="_blank" rel="noopener noreferrer">${s.name}</a>`;
+    return `<span>${s && s.name ? s.name : s}</span>`;
+  }).join(" &nbsp;/&nbsp; ");
+}
+
 function renderFeed() {
   const list = filteredAlerts();
   document.getElementById("feedCount").textContent = `${list.length} of ${DATA.alerts.length} stories shown`;
@@ -213,7 +249,7 @@ function renderFeed() {
       </div>
       <div class="alert-summary">${a.summary}</div>
       <div class="impact-box"><b>IMPACT ON MEESHO OPS</b><br/>${a.impact}</div>
-      <div class="source-line">📰 ${(a.sources || []).join(" / ")}</div>
+      <div class="source-line"><b>Source:</b> ${renderSources(a.sources)}</div>
     </div>`).join("") || "<p class='situation-summary'>No alerts match the current filters.</p>";
 }
 
@@ -231,4 +267,5 @@ function jumpTo(id) {
 }
 
 startClock();
-loadData();
+loadData(false);
+startAutoRefresh();
