@@ -1,5 +1,5 @@
 {
-  "compiledAt": "2026-08-06T10:52:00+05:30",
+  "compiledAt": "2026-08-09T18:21:00+05:30",
   "note": "Manually-refreshed research digest compiled from public news sources, including regional/vernacular press, local TV channels and YouTube ground reports where available. Not a live news-wire feed — update this file (or re-run research) to refresh. Built for Meesho 3P logistics capacity planning (Delhivery · Shadowfax · Xpressbees): LM/FM manifestation, non-adherence hotspots, and serviceability-loss tracking. Not an official Meesho product.",
   "upcomingEvents": [
     {
@@ -7,14 +7,28 @@
       "icon": "🛡️",
       "title": "Independence Day (Aug 15): expect VIP security bandobast & route restrictions in capitals",
       "eta": "Aug 15, 2026",
-      "daysAway": 9
+      "daysAway": 6
+    },
+    {
+      "id": "onam-2026",
+      "icon": "🕉️",
+      "title": "Onam (Aug 26): Kerala harvest festival — expect demand surge and courier volume spike ahead of the day",
+      "eta": "Aug 26, 2026",
+      "daysAway": 17
+    },
+    {
+      "id": "raksha-bandhan-2026",
+      "icon": "🕉️",
+      "title": "Raksha Bandhan (Aug 28): national gifting-season courier surge — plan LM capacity ahead of the rakhi rush",
+      "eta": "Aug 28, 2026",
+      "daysAway": 19
     }
   ],
   "alerts": [
     {
-      "id": "jk-jammu-srinagar-landslide",
+      "id": "jk-udhampur-nh44-dewal-landslide",
       "icon": "⛰️",
-      "title": "Jammu-Srinagar Highway shut again near Udhampur's Dewal/Samroli; Tharar stretch still blocked",
+      "title": "NH-44 shut again at Dewal-Samroli (Udhampur) after fresh mudslides, shooting stones",
       "category": "Landslide",
       "categoryKey": "landslide",
       "severity": "critical",
@@ -22,251 +36,206 @@
       "region": "north",
       "states": ["Jammu & Kashmir"],
       "date": "2026-08-01",
-      "summary": "A fresh landslide near Dawal Bridge in Udhampur's Samroli area, and continuing slides at Tharar between Udhampur and Chenani, have kept NH-44 closed to traffic on and off through late July into August. Shooting stones, mudslides and slushy conditions in the Ramban and Banihal sectors have repeatedly stranded trucks and passenger vehicles, with restoration work ongoing on a single-carriageway basis.",
-      "impact": "Direct FM/LM hit: NH44 is the sole road link to the Kashmir Valley — expect repeat multi-day TAT breaches for Srinagar, Baramulla, Anantnag hubs. Keep buffer stock pre-built at Jammu hub, flag Valley pincodes as high non-adherence risk, and hold NS flags during active closure windows until J&K Traffic Police confirm reopening.",
+      "summary": "The Jammu-Srinagar National Highway (NH-44) has been repeatedly closed through early August at the Dewal-Samroli stretch (Km 79) in Udhampur district, with fresh mudslides, shooting stones and slushy conditions forcing traffic suspension even after earlier restoration. The Centre has since listed damage across five separate J&K NH stretches this season.",
+      "impact": "Kashmir Valley linehaul remains the single point of failure via NH44 — Srinagar, Baramulla, Anantnag, Budgam hubs face repeat multi-day TAT breaches each time this stretch shuts. Keep buffer stock pre-positioned at Jammu, hold NS flags ready for Valley pincodes, and treat this corridor as a standing non-adherence root cause through August.",
       "sources": [
-        { "name": "ETV Bharat (ground report)", "url": "https://www.etvbharat.com/en/!state/jammu-srinagar-continues-to-remain-shut-at-tharar-between-udhampur-and-chenani-enn25090504858" },
         { "name": "Kashmir Age (ground report)", "url": "https://kashmirage.net/2026/08/01/jammu-srinagar-highway-closed-amid-landslides-heavy-rain/" },
-        { "name": "Kashmir Reader (ground report)", "url": "https://kashmirreader.com/2026/07/27/1700-trucks-stranded-as-landslide-hits-jammu-srinagar-highway/" }
+        { "name": "Kashmir Observer (ground report)", "url": "https://kashmirobserver.net/2026/08/06/centre-lists-damage-on-5-jk-nh-stretches/" }
       ]
     },
     {
-      "id": "south-truckers-strike-mixed-response",
-      "icon": "🚛",
-      "title": "South India VLTD truckers' strike: mixed/patchy response reported since Aug 1 deadline",
-      "category": "Strike / Bandh",
-      "categoryKey": "strike",
-      "severity": "moderate",
-      "status": "ongoing",
-      "region": "south",
-      "states": ["Tamil Nadu", "Karnataka", "Kerala", "Andhra Pradesh", "Telangana", "Puducherry"],
-      "date": "2026-08-01",
-      "summary": "Truck owners' associations across the south had threatened an indefinite strike from August 1 over mandatory Vehicle Location Tracking Devices (VLTDs), panic buttons and rising toll/compliance costs. Reports since Aug 1 indicate a mixed, patchy response — some Karnataka unions report large-scale non-plying of vehicles while other pockets continued near-normal operations amid ongoing talks with authorities; a clean nationwide resolution has not been confirmed.",
-      "impact": "Continue contingency posture at Chennai, Bengaluru, Hyderabad, Kochi and Coimbatore hubs — maintain 3-5 days buffer inventory and keep alternate LM/3P partners on standby for southern pincodes until unions confirm the strike is fully called off.",
-      "sources": [
-        { "name": "Logistics Insider", "url": "https://www.logisticsinsider.in/karnataka-truckers-strike-hits-over-6-lakh-vehicles-disrupts-supply-chains-across-south-india/" },
-        { "name": "Siasat", "url": "https://www.siasat.com/truck-owners-in-south-india-to-go-on-strike-from-august-1-3503345/" },
-        { "name": "Channel iam", "url": "https://en.channeliam.com/2026/07/08/south-india-truck-strike-august-freight-disruption/" }
-      ]
-    },
-    {
-      "id": "kerala-red-alert-districts-floods-landslides",
-      "icon": "🌊",
-      "title": "Kerala: 9-district red alert as floods, landslides bury homes in Pathanamthitta, Idukki & Kottayam",
-      "category": "Flood",
-      "categoryKey": "flood",
-      "severity": "critical",
-      "status": "ongoing",
-      "region": "south",
-      "states": ["Kerala"],
-      "date": "2026-08-02",
-      "summary": "Intense monsoon rain from July 31 into August 1-2 triggered floods and landslides across Kerala's Western Ghats, killing 8, leaving 8 missing and 13 injured; 27 houses were destroyed and 196 damaged, with 5,792 people moved to relief camps. IMD red alert covers Pathanamthitta, Kottayam, Idukki, Malappuram, Kozhikode, Wayanad, Kannur and Kasaragod, with rivers overflowing and roads collapsing in Pathanamthitta, Idukki and Kottayam.",
-      "impact": "Serviceability loss risk across Idukki, Kottayam, Pathanamthitta and Wayanad pincodes — flag worst-hit talukas as non-serviceable until roads are cleared. Pre-build buffer stock at Kochi/Kottayam hubs and coordinate with Delhivery/Shadowfax for alternate routing around collapsed roads.",
-      "sources": [
-        { "name": "Onmanorama (ground report)", "url": "https://www.onmanorama.com/news/kerala/2026/08/01/kerala-rain-imd-alerts-district-updates-august-1-live.html" },
-        { "name": "The Watchers", "url": "https://watchers.news/2026/08/02/16-dead-and-missing-as-floods-and-landslides-hit-kerala-india/" },
-        { "name": "Gulf Today", "url": "https://www.gulftoday.ae/news/2026/08/01/kerala-reels-under-torrential-rain-as-floods-landslides-claim-four-lives" }
-      ]
-    },
-    {
-      "id": "dakshina-kannada-landslides-rivers-spate",
+      "id": "jk-rajouri-highway-landslide",
       "icon": "⛰️",
-      "title": "Dakshina Kannada: landslide near Kajila on Kaikamba-BC Road; rivers in spate, ghat routes on alert",
+      "title": "Jammu-Rajouri National Highway blocked by landslide; PWD restoration hampered by fresh slides",
       "category": "Landslide",
       "categoryKey": "landslide",
       "severity": "high",
       "status": "ongoing",
-      "region": "south",
-      "states": ["Karnataka"],
+      "region": "north",
+      "states": ["Jammu & Kashmir"],
       "date": "2026-08-04",
-      "summary": "Torrential rain across coastal Karnataka's Dakshina Kannada district triggered a landslide near Kajila on the Kaikamba–BC Road highway (Aug 4) and an earlier slide between Yedakumeri and Shiribagilu railway stations near Mangaluru (Aug 2). The Netravathi, Kumaradhara, Phalguni and Somavathi rivers are flowing near or above danger marks, threatening riverside settlements; SDRF/NDRF are on high alert and earthmovers are stationed on the Charmadi, Shiradi and Sampaje ghat routes.",
-      "impact": "Watch list for Mangaluru hub linehaul via Shiradi/Charmadi/Sampaje ghats — build extra transit buffer and pre-clear alternate routing with Delhivery/Xpressbees. Flag Kaikamba-BC Road-adjacent pincodes for possible short TAT extensions.",
+      "summary": "A landslide blocked the Jammu-Rajouri National Highway, stranding vehicles on both sides. Continuous rainfall has caused extensive damage to roads and public infrastructure across Rajouri district, and PWD's JCB-led restoration work is being repeatedly undone by fresh landslides during active rain spells.",
+      "impact": "Rajouri/Poonch-bound LM routes at risk of repeat closures — pre-clear non-serviceable flags for affected talukas and route Rajouri-bound parcels via alternate approach roads where 3P partners have coverage until PWD confirms a stable reopening.",
       "sources": [
-        { "name": "Daijiworld (ground report)", "url": "https://daijiworld.com/news/newsDisplay?newsID=1321814" },
-        { "name": "The Tribune", "url": "https://www.tribuneindia.com/news/india/torrential-rain-lashes-dakshina-kannada-rivers-in-spate-landslides-block-key-routes/" },
-        { "name": "Daily Pioneer", "url": "https://dailypioneer.com/news/torrential-rains-lash-dakshina-kannada-rivers-swell-landslides-disrupt-traffic" }
+        { "name": "ANI (ground report)", "url": "https://aninews.in/news/national/general-news/rainfall-causes-extensive-damage-to-roads-public-infrastructure-in-j-ks-rajouri-restoration-work-underway20260804095958/" },
+        { "name": "Business Standard", "url": "https://www.business-standard.com/india-news/landslide-blocks-jammu-rajouri-national-highway-restoration-in-progress-125081200367_1.html" }
       ]
     },
     {
-      "id": "bengaluru-heavy-rain-waterlogging-watch",
-      "icon": "🌧️",
-      "title": "Bengaluru: IMD heavy-rain alert flags waterlogging risk in Bellandur, Outer Ring Road belt",
-      "category": "Flood",
-      "categoryKey": "flood",
-      "severity": "watch",
+      "id": "himachal-185-roads-closed",
+      "icon": "⛰️",
+      "title": "185 roads shut across Himachal — 92 in Mandi, 48 in Kullu, 14 in Shimla — after torrential rain",
+      "category": "Landslide",
+      "categoryKey": "landslide",
+      "severity": "high",
       "status": "ongoing",
-      "region": "south",
-      "states": ["Karnataka"],
-      "date": "2026-08-04",
-      "summary": "IMD issued a heavy-rain alert for Bengaluru on August 4, warning of intense evening thunderstorms, waterlogging in low-lying areas such as Bellandur and stretches of the Outer Ring Road, fallen trees and power disruption risk in eastern and southern parts of the city.",
-      "impact": "Early-warning watch: pre-position LM riders away from Bellandur/ORR low points during evening storm windows and keep SLA-relaxation messaging ready for east/south Bengaluru pincodes if waterlogging recurs.",
+      "region": "north",
+      "states": ["Himachal Pradesh"],
+      "date": "2026-08-08",
+      "summary": "Torrential rain has closed 185 roads across Himachal Pradesh as of Aug 8, concentrated in Mandi (92), Kullu (48) and Shimla (14) districts, alongside 77 disrupted water schemes and 104 damaged transformers. IMD has issued an orange alert for heavy to very heavy rain through Aug 10, and 65 people have died in rain-related incidents since the monsoon began.",
+      "impact": "Mandi and Kullu hub LM routes carry the heaviest hit — flag rural pincodes in these two districts for temporary NS status, hold buffer stock at Shimla/Mandi hubs, and expect non-adherence to stay elevated at least through Aug 10 per IMD's own timeline.",
       "sources": [
-        { "name": "Sunday Guardian Live", "url": "https://sundayguardianlive.com/india/weather-bengaluru-flash-flood-risk-looms-amid-heavy-rain-warning-waterlogging-feared-in-low-lying-areas-check-weather-forecast-198392/" },
-        { "name": "Nativeplanet", "url": "https://www.nativeplanet.com/news/imd-heavy-rain-alert-2026-bengaluru-kerala-weather-forecast-011-23337.html" }
+        { "name": "Business Standard", "url": "https://www.business-standard.com/india-news/torrential-rain-closes-185-himachal-roads-imd-issues-orange-alert-126080800501_1.html" },
+        { "name": "The Tribune", "url": "https://www.tribuneindia.com/news/himachal/153-roads-closed-in-himachal-heavy-rain-likely-till-august-10-yellow-warning-issued/" }
       ]
     },
     {
-      "id": "assam-floods-14-districts",
+      "id": "manipur-noney-nh37-landslides",
+      "icon": "⛰️",
+      "title": "Recurring landslides cut NH-37 near Rongdai, Nungba Bazar & Luangchum villages in Noney district",
+      "category": "Landslide",
+      "categoryKey": "landslide",
+      "severity": "high",
+      "status": "ongoing",
+      "region": "east",
+      "states": ["Manipur"],
+      "date": "2026-07-29",
+      "summary": "Days of incessant rain have triggered repeated landslides along the Imphal-Jiribam National Highway (NH-37) in Manipur's Noney district — at Rongdai (2 km from Nungba Bazar), near Nungba Merryland, and between Luangchum and Awangkhul Part-I/Part-II villages — each freshly blocking stretches NHIDCL clears days earlier. Over 100 goods-laden trucks have been stranded near the CPFP camp at Nungba at various points.",
+      "impact": "This is Manipur's lifeline for FM inbound goods — treat Noney district as a standing bottleneck through August. Pre-build 5-7 day buffer stock for Imphal hub, expect essential-commodity delays, and coordinate with 3P partners on single-lane convoy timing once NHIDCL reopens a lane.",
+      "sources": [
+        { "name": "Imphal Times (ground report)", "url": "https://www.imphaltimes.com/news/fresh-landslides-hit-noney-as-heavy-rain-disrupts-nh-37-power-supply/" },
+        { "name": "Northeast Today (ground report)", "url": "https://northeasttoday.in/northeast/manipur-fresh-landslide-hits-nh-37-in-noney-district-strands-vehicles-on-both-sides/" },
+        { "name": "Ukhrul Times (ground report)", "url": "https://ukhrultimes.com/landslides-at-multiple-locations-in-noney-district-cuts-off-imphal-jiribam-nh-37/" }
+      ]
+    },
+    {
+      "id": "nagaland-nh2-phesama-sinking",
+      "icon": "⛰️",
+      "title": "NH-2 shut daily 6am-6pm at Phesama sinking zone (Kohima-Mao) as hill slope keeps sliding",
+      "category": "Landslide",
+      "categoryKey": "landslide",
+      "severity": "moderate",
+      "status": "ongoing",
+      "region": "east",
+      "states": ["Nagaland"],
+      "date": "2026-08-04",
+      "summary": "The Kohima district administration has ordered repeated daytime closures of NH-2 at the Phesama sinking zone (Km 191+840 to 192+100) on the Kohima-Mao corridor, most recently through Aug 4, to allow NHIDCL to carry out slope-stabilisation work amid continued boulder-fall risk. Light vehicles are diverted via Phesama-Kisama-Kigwema; heavy vehicles bound for Manipur are routed via Peren district.",
+      "impact": "Kohima-Mao FM linehaul into Manipur loses its daytime window on this stretch — schedule Manipur-bound dispatches for early morning or evening outside the 6am-6pm closure, or route HMVs via Peren as NHIDCL advises, to avoid TAT breaches on this specific 260m stretch.",
+      "sources": [
+        { "name": "EastMojo (ground report)", "url": "https://eastmojo.com/nagaland/2026/08/03/nagaland-nh-2-at-phesama-sinking-area-to-remain-closed-on-august-4/" },
+        { "name": "The Print", "url": "https://theprint.in/india/nh-2-sinking-forces-road-closure-in-nagalands-kohima-district/2644159/" }
+      ]
+    },
+    {
+      "id": "assam-floods-five-districts",
       "icon": "🌊",
-      "title": "Assam floods: death toll hits 95, Sivasagar, Golaghat & Charaideo worst-hit as 14 districts on alert",
+      "title": "Assam floods: toll at 87, 1.3 lakh people still affected across 335 villages in five districts",
       "category": "Flood",
       "categoryKey": "flood",
       "severity": "critical",
       "status": "ongoing",
       "region": "east",
       "states": ["Assam"],
-      "date": "2026-08-06",
-      "summary": "Assam's flood death toll has risen to 95 with roughly 1.6 lakh people affected across 14 districts as of Aug 6. Charaideo (77,456 affected), Sivasagar (63,492) and Jorhat (34,067) are worst-hit; the Dikhow river at Sivasagar and Numaligarh, and the Dhansiri river, are in severe flood. Golaghat is showing improvement but families remain displaced and are demanding an alternate drainage channel; over 17,000 hectares of cropland are submerged and rail lines are down in parts.",
-      "impact": "Serviceability loss risk across Charaideo, Sivasagar, Golaghat, Jorhat and Nagaon pincodes — extend NS flags and monitor Guwahati hub inbound linehaul for rail-linked delays; coordinate contingency LM capacity with Delhivery/Xpressbees for alternate NE routing.",
+      "date": "2026-08-03",
+      "summary": "Assam's flood death toll has risen to 87, with roughly 1.3 lakh people still affected across 335 villages in Golaghat, Jorhat, Sivasagar, Charaideo and Dhemaji districts. Cloudbursts in upstream tributaries like the Dikhow and Dhansiri caused sudden surges ahead of the Brahmaputra's own peak, flooding areas that rarely see water, with 15,422 hectares of farmland submerged. IMD has forecast further extremely heavy rain in neighbouring Arunachal Pradesh and Meghalaya that could feed back into these districts.",
+      "impact": "Serviceability loss risk concentrated in Golaghat, Jorhat, Sivasagar, Charaideo, Dhemaji pincodes — maintain NS flags for the worst-hit revenue circles and route Guwahati hub outbound around the flooded belt; watch for a second surge if Arunachal/Meghalaya rain feeds back into these five districts this week.",
       "sources": [
-        { "name": "ETV Bharat", "url": "https://www.etvbharat.com/en/state/assam-flood-death-toll-latest-updates-several-districts-on-high-alert-enn26080600410" },
-        { "name": "ANI News (ground report)", "url": "https://aninews.in/news/national/general-news/assam-floods-improvement-in-golaghat-but-families-remain-displaced-locals-demand-alternate-drainage-channel20260803113308/" },
-        { "name": "Siasat", "url": "https://www.siasat.com/assam-flood-situation-worsens-death-toll-rises-to-95-3519469/" }
+        { "name": "India Today NE", "url": "https://www.indiatodayne.in/amp/assam/story/assam-floods-136-lakh-people-still-affected-across-five-districts-death-toll-rises-to-85-1432815-2026-08-02" },
+        { "name": "Daily Pioneer", "url": "https://dailypioneer.com/news/slug-lite/assam-flood-toll-rises-to-87-with-2?year=2026" }
       ]
     },
     {
-      "id": "manipur-churachandpur-ukhrul-flash-floods",
-      "icon": "🌊",
-      "title": "Manipur: flash floods swamp Churachandpur's Kerith village and Ukhrul's Chingjaroi as rivers overflow",
-      "category": "Flood",
-      "categoryKey": "flood",
-      "severity": "high",
-      "status": "ongoing",
-      "region": "east",
-      "states": ["Manipur"],
-      "date": "2026-08-05",
-      "summary": "Two days of relentless rain triggered flash floods across Manipur's hill districts. Ukhrul district recorded the highest rainfall (91.6mm); Kerith village in Churachandpur was inundated by the overflowing Khuga River, prompting the DC to distribute relief, while villages including Chingjaroi in northern Ukhrul saw some of their worst floods in years, submerging paddy fields along the Rangazak Kong river.",
-      "impact": "Watch list — Churachandpur and Ukhrul hill-district pincodes at risk of road washouts; flag Kerith and Chingjaroi-adjacent delivery points as short-term non-serviceable and monitor Imphal hub linehaul for delays.",
-      "sources": [
-        { "name": "EastMojo (ground report)", "url": "https://eastmojo.com/manipur/2026/08/05/flash-floods-hit-manipur-hill-districts-after-heavy-rain-paddy-fields-submerged/" },
-        { "name": "NE Now (ground report)", "url": "https://nenow.in/north-east-news/manipur/manipur-flash-floods-hit-churachandpur-dc-leads-relief-distribution.html" },
-        { "name": "Nagaland Post (ground report)", "url": "https://nagalandpost.com/heavy-rains-trigger-flash-flood-in-manipurs-churachandpur/" }
-      ]
-    },
-    {
-      "id": "northeast-imd-red-orange-alert",
-      "icon": "🌧️",
-      "title": "IMD red alert for Meghalaya & Sikkim, orange alert for Arunachal, Nagaland, Mizoram, Tripura, Bihar",
-      "category": "Flood",
-      "categoryKey": "flood",
-      "severity": "watch",
-      "status": "ongoing",
-      "region": "east",
-      "states": ["Meghalaya", "Sikkim", "Arunachal Pradesh", "Nagaland", "Mizoram", "Tripura", "Bihar", "West Bengal"],
-      "date": "2026-08-05",
-      "summary": "IMD's Aug 5 bulletin placed Meghalaya, sub-Himalayan West Bengal and Sikkim under red alert for extremely heavy rainfall, with Arunachal Pradesh, Bihar, Nagaland, Manipur, Mizoram and Tripura under orange alert for heavy to very heavy rain over the following five days, raising flood and landslide risk across the Northeast.",
-      "impact": "Early-warning watch across NE hub network — pre-position buffer stock at Guwahati/Shillong/Agartala hubs and keep alternate routing plans ready in case red-alert districts see fresh road or rail cuts in the next few days.",
-      "sources": [
-        { "name": "Free Press Journal", "url": "https://www.freepressjournal.in/india/imd-warns-of-extremely-heavy-rain-in-meghalaya-flood-and-landslide-risks-across-northeast" },
-        { "name": "ETV Bharat", "url": "https://www.etvbharat.com/en/bharat/india-weather-update-imd-warns-of-heavy-rain-thunderstorms-and-flash-flood-risk-across-multiple-states-enn26080501858" }
-      ]
-    },
-    {
-      "id": "chamoli-nandprayag-landslide",
-      "icon": "⛰️",
-      "title": "Uttarakhand: landslide blocks Nandprayag route in Chamoli days after Uttarkashi cloudburst-hit region reels",
-      "category": "Landslide",
-      "categoryKey": "landslide",
-      "severity": "moderate",
-      "status": "ongoing",
-      "region": "north",
-      "states": ["Uttarakhand"],
-      "date": "2026-08-05",
-      "summary": "Heavy rainfall triggered a landslide blocking the Nandprayag route in Chamoli district; the district administration confirmed restoration work is underway to reopen the road. The incident follows a separate cloudburst-related bridge reconstruction effort connecting Uttarkashi to the Harsil/Dharali area, underscoring the hill state's continued monsoon vulnerability.",
-      "impact": "Watch list for Chamoli/Badrinath-belt LM routes — hold buffer transit time for Nandprayag-adjacent pincodes until DM confirms reopening; monitor for repeat closures through August given ongoing rain.",
-      "sources": [
-        { "name": "DD News", "url": "https://ddnews.gov.in/en/landslide-blocks-nandprayag-route-in-uttarakhand-days-after-uttarkashi-cloudburst/" }
-      ]
-    },
-    {
-      "id": "himachal-sainj-valley-landslide-lake",
-      "icon": "⛰️",
-      "title": "Himachal: expanding landslide-dammed lake near Niri village in Kullu's Sainj Valley raises flood-risk watch",
-      "category": "Landslide",
-      "categoryKey": "landslide",
-      "severity": "watch",
-      "status": "ongoing",
-      "region": "north",
-      "states": ["Himachal Pradesh"],
-      "date": "2026-08-01",
-      "summary": "Fresh landslides on the Jiva nullah in Kullu district's Sainj Valley continue to expand a landslide-dammed lake just downhill of Niri village, raising concern over a possible downstream flood if the blockage breaches; no major drainage intervention has been undertaken yet. Separately, an earlier July landslide and flash flood in Kinnaur's Lippa village damaged three houses, orchards and submerged a 100-foot iron bridge.",
-      "impact": "Early-warning watch: flag Kullu/Sainj Valley and Kinnaur downstream pincodes for a possible sudden flood event; keep alternate routing options ready for Kullu-Manali corridor deliveries pending administration's monitoring updates.",
-      "sources": [
-        { "name": "SANDRP", "url": "https://sandrp.in/2026/08/01/july-2026-flood-threat-from-landslide-lake-in-sainj-valley-himachal-pradesh/" },
-        { "name": "Deccan Herald", "url": "https://www.deccanherald.com/india/himachal-pradesh/landslide-flash-flood-batter-himachal-pradeshs-kinnaur-100-foot-iron-bridge-submerged-4068152" }
-      ]
-    },
-    {
-      "id": "godavari-krishna-floods-telangana-ap",
-      "icon": "🌊",
-      "title": "Godavari in spate at Kaleshwaram crosses warning mark; road links severed to 100 AP villages",
-      "category": "Flood",
-      "categoryKey": "flood",
-      "severity": "high",
-      "status": "ongoing",
-      "region": "south",
-      "states": ["Telangana", "Andhra Pradesh"],
-      "date": "2026-08-01",
-      "summary": "Heavy upstream rain pushed the Godavari river past its warning level of 12.21m at Kaleshwaram (nearing the 13.46m danger mark), with Medigadda, SRSP and Yellampalli reservoirs releasing large inflows. In Andhra Pradesh's Godavari districts, road links to around 100 villages were severed and roughly 700 houses submerged; unified Godavari district villages report disrupted daily life as officials step up evacuations.",
-      "impact": "Serviceability loss risk across Godavari-belt villages in Telangana and AP — flag the ~100 road-cut villages as non-serviceable, pre-position buffer stock at Kaleshwaram/Rajahmundry-side hubs, and monitor Krishna-basin reservoirs (Srisailam) for a second wave.",
-      "sources": [
-        { "name": "News Meter Telugu (ground report)", "url": "https://telugu.newsmeter.in/andhra-pradesh/godavari-floods-road-links-severed-to-100-villages-hundreds-of-houses-submerged-in-andhra-pradesh-772833" },
-        { "name": "Telangana Today", "url": "https://telanganatoday.com/telangana-floods-godavari-and-krishna-rivers-in-spate-officials-step-up-evacuation-efforts" },
-        { "name": "ETV Bharat Telugu (ground report, TV)", "url": "https://www.etvbharat.com/te/state/surging-floodwaters-in-the-godavari-and-krishna-rivers-due-to-heavy-rains-in-telangana-tgs26080100542" }
-      ]
-    },
-    {
-      "id": "malda-murshidabad-ganga-erosion",
+      "id": "assam-brahmaputra-erosion-dibrugarh-barkhetri",
       "icon": "🏞️",
-      "title": "Ganga erosion swallows villages in Malda's Ratua block and Murshidabad's Dhuliyan after Bhutni Char breach",
+      "title": "Brahmaputra erosion swallows land in Dibrugarh's Chabua-Pukhurijan belt & Barkhetri's Doulashal",
       "category": "River Erosion",
       "categoryKey": "erosion",
       "severity": "watch",
       "status": "ongoing",
       "region": "east",
-      "states": ["West Bengal"],
-      "date": "2026-08-01",
-      "summary": "Persistent Ganga riverbank erosion continues to devastate Malda and Murshidabad districts; a breach at the Bhutni Char dam has caused fresh erosion in the Mahanandtola and Bilaimari gram panchayats of Ratua block. Villages including Kantatola have already been lost to the river, with Srikantatola and settlements in Manikchak, Kaliachak I & II, Farakka, Samserganj (Dhuliyan) and Raninagar among the CD blocks worst affected year after year.",
-      "impact": "Watch list — flag delivery points in Ratua, Manikchak, Kaliachak and Samserganj/Dhuliyan blocks for gradually shifting addressability; coordinate with LM partners on ground-truthing pincode boundaries as riverbank land loss continues.",
+      "states": ["Assam"],
+      "date": "2026-08-02",
+      "summary": "Assam CM Himanta Biswa Sarma inspected erosion-hit villages in Dibrugarh district — Chabua, Balijan, Pukhurijan, Dinjan and Rahmoria — announcing an IIT-Guwahati-led study and a proposed Rs 90 crore mitigation project. Separately, residents of Doulashal village in Barkhetri report nearly a month of relentless Brahmaputra erosion advancing dangerously close to the embankment near Roumari Pathar.",
+      "impact": "Early-warning signal, not yet a full stoppage: flag Dibrugarh and Barkhetri-area delivery points for road-access risk if erosion reaches approach roads or the embankment; no NS flags needed yet but worth a monthly recheck given the pace reported by residents.",
       "sources": [
-        { "name": "News Arena India (ground report)", "url": "https://newsarenaindia.com/states/ganga-erosion-ravages-malda-murshidabad-villages-on-the-brink/58840" },
-        { "name": "Millennium Post", "url": "https://www.millenniumpost.in/nation/malda-murshidabad-districts-hit-by-erosion-mamata-at-national-ganga-council-meet-503927" }
+        { "name": "The Shillong Times", "url": "https://theshillongtimes.com/2026/08/03/assam-govt-to-rope-in-iit-guwahati-experts-to-check-river-erosion/" },
+        { "name": "Sentinel Assam (ground report)", "url": "https://www.sentinelassam.com/north-east-india-news/assam-news/assam-riverbank-erosion-along-brahmaputra-keeps-barkhetri-residents-awake-at-night" }
       ]
     },
     {
-      "id": "kanwar-yatra-2026-active",
-      "icon": "🕉️",
-      "title": "Kanwar Yatra 2026 (Jul 30–Aug 11): Delhi GT Road, Outer Ring Road, Singhu Border under active diversions",
-      "category": "Festival / Yatra",
-      "categoryKey": "festival",
+      "id": "kerala-orange-alert-nine-districts",
+      "icon": "🌧️",
+      "title": "Kerala orange alert in 9 districts incl. Idukki, Wayanad, Kannur; schools shut, extremely heavy rain isolated spots",
+      "category": "Flood",
+      "categoryKey": "flood",
+      "severity": "high",
+      "status": "ongoing",
+      "region": "south",
+      "states": ["Kerala"],
+      "date": "2026-08-06",
+      "summary": "IMD has kept Pathanamthitta, Alappuzha, Kottayam, Idukki, Ernakulam, Kozhikode, Wayanad, Kannur and Kasaragod on orange alert, with isolated extremely heavy rainfall (>20cm/24h) flagged for Pathanamthitta, Kottayam and Idukki. Educational institutions have been shut in several districts, and squally coastal weather has kept fishermen off the Kerala-Karnataka-Lakshadweep coast. Rain is forecast to continue through Aug 10.",
+      "impact": "Idukki, Wayanad and Kannur hill-taluka LM routes are the most exposed — pre-empt SLA relaxation for these pincodes through Aug 10, and watch Kochi hub inbound linehaul for delays from waterlogging in Ernakulam/Alappuzha.",
+      "sources": [
+        { "name": "Onmanorama (ground report)", "url": "https://www.onmanorama.com/news/kerala/2026/08/05/kerala-rain-orange-alert-yellow-red-holiday-educational-institutions-live.html" }
+      ]
+    },
+    {
+      "id": "gujarat-saurashtra-flood",
+      "icon": "🌊",
+      "title": "Saurashtra flooding: red alert for Morbi, Surendranagar, Rajkot, Ahmedabad; 4 dead, evacuations underway",
+      "category": "Flood",
+      "categoryKey": "flood",
       "severity": "moderate",
       "status": "ongoing",
-      "region": "north",
-      "states": ["Delhi", "Uttar Pradesh", "Haryana", "Uttarakhand"],
-      "date": "2026-07-30",
-      "summary": "Delhi Police's 13-day Kanwar Yatra advisory is in effect, restricting Heavy Transport Vehicles (except city buses) on GT Karnal Road, Outer Ring Road and near Singhu Border from Jul 30 to Aug 12. GT Road from Apsara Border to Yamuna Bridge closes fully to general traffic from 7am Aug 9 to 8pm Aug 12 for peak Kanwariya movement.",
-      "impact": "Plan LM/FM linehaul around Delhi-NCR HTV restrictions now through Aug 12 — avoid GT Karnal Road/ORR/Singhu Border windows and pre-clear alternate routing for Ghaziabad-Delhi corridor dispatches, especially Aug 9-12.",
+      "region": "west",
+      "states": ["Gujarat"],
+      "date": "2026-08-01",
+      "summary": "IMD issued a red alert for heavy to very heavy rain across six Gujarat districts including Morbi, Surendranagar, Rajkot and Ahmedabad as the rain spell shifted into Saurashtra, causing widespread waterlogging; four deaths were reported and severely flooded areas evacuated. Gujarat's CM has held emergency review meetings on the flood situation.",
+      "impact": "Rajkot and Morbi hub LM routes at risk of waterlogging-driven delays — hold buffer stock at Ahmedabad and monitor Surendranagar rural pincodes for temporary NS flags if waterlogging persists beyond this week.",
       "sources": [
-        { "name": "The Tribune", "url": "https://www.tribuneindia.com/news/delhi/delhi-issues-traffic-advisory-route-diversions-for-kanwar-yatra-2026/" },
-        { "name": "India.com", "url": "https://www.india.com/news/india/delhi-traffic-advisory-kanwar-yatra-to-impact-gt-karnal-road-outer-ring-road-singhu-border-check-affected-roads-and-alternate-routes-8489820/" }
+        { "name": "The Week", "url": "https://www.theweek.in/news/india/2026/08/01/gujarat-weather-4-dead-severely-flooded-areas-evacuated-red-alert-in-5-districts-today.html" }
+      ]
+    },
+    {
+      "id": "maharashtra-raigad-konkan-rain",
+      "icon": "🌧️",
+      "title": "Orange alert for Raigad district & Pune Ghats as Konkan braces for another heavy-rain spell",
+      "category": "Flood",
+      "categoryKey": "flood",
+      "severity": "moderate",
+      "status": "ongoing",
+      "region": "west",
+      "states": ["Maharashtra"],
+      "date": "2026-08-08",
+      "summary": "IMD has issued a fresh orange alert for Raigad district and the Pune Ghat region, forecasting isolated heavy to very heavy rain over the following 24-48 hours, with the wider heavy-rain band concentrated over Konkan, the Ghats and eastern Vidarbha. Raigad remains India's most landslide-scarred district from past monsoons (Irshalwadi, 2023), keeping authorities on alert for slope failures.",
+      "impact": "Mumbai-Pune-JNPA linehaul and Raigad rural LM routes should carry extra transit buffer through this spell — pre-flag ghat-adjacent Raigad talukas for possible short-notice NS status if slope warnings escalate.",
+      "sources": [
+        { "name": "Pune Pulse", "url": "https://www.mypunepulse.com/maharashtra-weather-alert-orange-warning-for-raigad-and-pune-ghats-heavy-rain-forecast-for-konkan-and-vidarbha/" }
+      ]
+    },
+    {
+      "id": "bay-of-bengal-squally-weather-advisory",
+      "icon": "🌀",
+      "title": "IMD squally-weather advisory for Bay of Bengal off WB-Odisha-north AP coast & Andaman Sea through Aug 12",
+      "category": "Cyclone",
+      "categoryKey": "cyclone",
+      "severity": "watch",
+      "status": "ongoing",
+      "region": "east",
+      "states": ["West Bengal", "Odisha", "Andhra Pradesh"],
+      "date": "2026-08-07",
+      "summary": "IMD has issued squally weather warnings (strong winds, rough seas) along and off the West Bengal, Odisha and north Andhra Pradesh coasts through Aug 9, over the Andaman Sea through Aug 12, and off the south Sri Lanka coast/south Bay of Bengal through Aug 9, advising fishermen not to venture out. No cyclonic system has organised yet; the Bay of Bengal remains at the start of its post-monsoon storm-formation window.",
+      "impact": "No LM/FM action needed yet — early watch only. Track for potential port-side FM disruption at Kolkata/Paradip/Visakhapatnam if the system organises further; no current impact on inland routing.",
+      "sources": [
+        { "name": "Skymet Weather", "url": "https://www.skymetweather.com/content/monsoon-update/cyclone-threat-grows-over-bay-of-bengal-track-details-tenuous-so-far" }
       ]
     },
     {
       "id": "fuel-prices-multi-city-high",
       "icon": "⛽",
-      "title": "Petrol/diesel hold at multi-city highs — Hyderabad petrol above ₹115, Mumbai diesel near ₹98",
+      "title": "Petrol/diesel hold steady at multi-city highs; Bengaluru & Hyderabad petrol above ₹111-115/litre",
       "category": "Fuel & Energy",
       "categoryKey": "fuel",
       "severity": "watch",
       "status": "ongoing",
       "region": "pan-india",
       "states": ["Pan-India"],
-      "date": "2026-08-06",
-      "summary": "Retail petrol and diesel prices remain at elevated multi-city levels as of Aug 5-6: Delhi ₹102.12/₹95.20 per litre (petrol/diesel), Mumbai ₹111.21/₹97.83, Bengaluru ₹110.82/₹99.56, Hyderabad ₹115.69/₹103.82, Chennai ₹107.76/₹99.55, Ahmedabad ₹101.81/₹98.13.",
-      "impact": "Cost watch, no action yet: sustained high fuel levels keep pressure on 3P per-km rates. Track weekly for early signal on Delhivery/Shadowfax/Xpressbees fuel surcharge asks ahead of the next pricing cycle.",
+      "date": "2026-08-09",
+      "summary": "Retail petrol and diesel prices remain steady but elevated as of Aug 9: Delhi ₹102.12/₹95.20 (petrol/diesel), Mumbai ₹111.21/₹97.83, Bengaluru ₹111.68/₹98.80, Hyderabad ₹115.43/₹103.82, Chennai ₹107.76/₹99.55. No fluctuation over the past week; LPG/CNG/PNG also unchanged.",
+      "impact": "Cost watch, no action yet: sustained high fuel levels keep pressure on 3P per-km rates in southern metros especially. Track weekly for early signal on Delhivery/Shadowfax/Xpressbees fuel-surcharge asks ahead of the next OMC pricing cycle.",
       "sources": [
-        { "name": "The Hans India", "url": "https://www.thehansindia.com/business/petrol-and-diesel-prices-today-in-hyderabad-delhi-chennai-and-mumbai-on-5-august-2026-1105398" },
-        { "name": "CarDekho", "url": "https://www.cardekho.com/fuel-price" }
+        { "name": "The Hans India", "url": "https://www.thehansindia.com/business/market-compass/petrol-and-diesel-prices-today-in-hyderabad-delhi-chennai-and-mumbai-on-9-august-2026-1107158" },
+        { "name": "Goodreturns", "url": "https://www.goodreturns.in/diesel-price.html" }
       ]
     }
   ]
