@@ -85,7 +85,7 @@
       "states": ["Rajasthan"],
       "date": "2026-08-09",
       "summary": "Transporters' associations across Rajasthan launched an indefinite strike from Sunday midnight (Aug 9) over Vehicle Location Tracking Device (VLTD) costs — cited at ₹25,000-30,000 in Rajasthan versus ₹5,000-6,000 elsewhere — plus permit renewal and e-detection challan issues. Over 10,000 trucks have been grounded statewide.",
-      "impact": "Direct FM/LM stoppage risk: Jaipur, Jodhpur, Udaipur and Kota hub linehalu into and out of Rajasthan is exposed — activate alternate 3P carriers for inbound/outbound freight, pre-build 3-5 day buffer stock, and prepare SLA-relaxation comms for Rajasthan pincodes until the strike is resolved.",
+      "impact": "Direct FM/LM stoppage risk: Jaipur, Jodhpur, Udaipur and Kota hub linehaul into and out of Rajasthan is exposed — activate alternate 3P carriers for inbound/outbound freight, pre-build 3-5 day buffer stock, and prepare SLA-relaxation comms for Rajasthan pincodes until the strike is resolved.",
       "sources": [
         { "name": "ETV Bharat", "url": "https://www.etvbharat.com/en/state/rajasthan-transporters-begin-indefinite-strike-against-vehicle-tracking-devices-permit-issues-enn26071304137" },
         { "name": "The Hans India", "url": "https://www.thehansindia.com/news/national/transporters-strike-in-raj-grounds-over-10k-trucks-1097713" }
@@ -139,7 +139,7 @@
       "states": ["Kerala"],
       "date": "2026-08-03",
       "summary": "Multiple landslides on Aug 3 tore through the Nadukani-Parappanangadi State Highway between Edeypalam and Karathodu in Malappuram district, sending soil, trees and rocks onto the road and into the Kadalundi River; traffic is being diverted via Konompara. Statewide, heavy rain and landslides have killed 15 people across Kerala, with 11,018 people sheltering in 316 relief camps.",
-      "impact": "Serviceability loss — Malappuram belt: flag Vengara-route pincodes NS until the Nadukani-Parappanangadi stretch clears, use the Konompara diversion for LM continuity, and pre-position buffer stock at Kozhikode/Malappuram hubs given the elevated relief-camp load on local infrastructure.",
+      "impact": "Serviceability loss risk — Malappuram belt: flag Vengara-route pincodes NS until the Nadukani-Parappanangadi stretch clears, use the Konompara diversion for LM continuity, and pre-position buffer stock at Kozhikode/Malappuram hubs given the elevated relief-camp load on local infrastructure.",
       "sources": [
         { "name": "ANI News", "url": "https://aninews.in/news/national/general-news/keralam-massive-landslides-triggered-by-heavy-rainfall-on-nadukani-parappanangadi-state-highway-in-malappuram-traffic-disrupted20260803145709/" },
         { "name": "Outlook India", "url": "https://www.outlookindia.com/national/kerala-rains-three-dead-one-missing-as-landslides-and-floods-hit-several-districts" }
@@ -193,7 +193,7 @@
       "states": ["Telangana"],
       "date": "2026-08-08",
       "summary": "The Telangana Gig and Platform Workers Union and Telangana App-Based Drivers Forum postponed a planned indefinite strike — which would have hit autos, cabs, Ola, Uber, Rapido, Swiggy, Zomato, Zepto and Instamart — for 10 days after Labour Minister Gaddam Vivek Venkataswamy's government sought time to act on fair fares, the Welfare Board and Motor Vehicle Aggregator Guidelines.",
-      "impact": "Contingency planning for ~Lug 18: this directly threatens app-based LM/delivery capacity in Hyderabad if talks fail. Track government action on the 10-day window and pre-identify backup LM partners for Hyderabad pincodes in case the strike resumes.",
+      "impact": "Contingency planning for ~Aug 18: this directly threatens app-based LM/delivery capacity in Hyderabad if talks fail. Track government action on the 10-day window and pre-identify backup LM partners for Hyderabad pincodes in case the strike resumes.",
       "sources": [
         { "name": "ANI News", "url": "https://aninews.in/news/national/general-news/telangana-indefinite-strike-by-gig-and-platform-workers-postponed-for-10-days-following-govt-assurance20260808140159/" },
         { "name": "Siasat", "url": "https://www.siasat.com/telangana-gig-workers-defer-strike-by-10-days-aft-govt-assurance-3520814/" }
@@ -211,7 +211,7 @@
       "states": ["Assam"],
       "date": "2026-08-08",
       "summary": "The death toll from Assam's 2026 floods has risen to 98, with over 155,000 people affected across 13 districts. Cloudbursts upstream drove sudden surges in tributaries like the Dikhow and Dhansiri that arrived ahead of the Brahmaputra's own peak, pushing water into areas — Sivasagar, Charaideo, Jorhat and Golaghat — that rarely flood. More than 2,000 villages and 10,748 hectares of cropland remain submerged.",
-      "impact": "Serviceability loss — widespread: maintain NS flags across the 13 affected districts, especially Sivasagar/Charaideo/Jorhat/Golaghat where flooding is unusual and local infra is least prepared; expect extended TAT breaches on Guwahati hub linehalu and coordinate contingency capacity with all three 3P partners for NE routing.",
+      "impact": "Serviceability loss — widespread: maintain NS flags across the 13 affected districts, especially Sivasagar/Charaideo/Jorhat/Golaghat where flooding is unusual and local infra is least prepared; expect extended TAT breaches on Guwahati hub linehaul and coordinate contingency capacity with all three 3P partners for NE routing.",
       "sources": [
         { "name": "Business Standard", "url": "https://www.business-standard.com/india-news/assam-floods-toll-rises-to-98-as-155k-remain-affected-across-13-districts-126080800019_1.html" },
         { "name": "MapsOfIndia", "url": "https://www.mapsofindia.com/my-india/news/assam-floods-2026-death-toll-affected-districts-and-relief-efforts" }
@@ -219,7 +219,7 @@
     },
     {
       "id": "assam-brahmaputra-erosion",
-      "icon": "🏞�",
+      "icon": "🏞️",
       "title": "Brahmaputra erosion threatens Borakhat (Kamrup), Doulashal & Roumari Pathar (Nalbari) villages",
       "category": "River Erosion",
       "categoryKey": "erosion",
@@ -316,7 +316,7 @@
       "region": "pan-india",
       "states": ["Pan-India"],
       "date": "2026-08-09",
-      "summary": "Retail petrol and diesel prices remain unchanged in early August, holding at elevated levels — Delhi ₹102.12/₹95-98 (�petrol/diesel), Mumbai ₹111.21, Bengaluru ₹111.68, Hyderabad ₹115.43. Domestic LPG is flat month-on-month, while the Commercial LPG (19kg) cylinder price has dropped by ₹194 in August (e.g. to ₹2,691.50 in Mumbai from ₹2,885.50).",
+      "summary": "Retail petrol and diesel prices remain unchanged in early August, holding at elevated levels — Delhi ₹102.12/₹95-98 (petrol/diesel), Mumbai ₹111.21, Bengaluru ₹111.68, Hyderabad ₹115.43. Domestic LPG is flat month-on-month, while the Commercial LPG (19kg) cylinder price has dropped by ₹194 in August (e.g. to ₹2,691.50 in Mumbai from ₹2,885.50).",
       "impact": "Cost watch, no LM/FM action needed yet: sustained high retail fuel keeps pressure on 3P per-km rates, but the commercial LPG cut is a mild tailwind for hub operating costs. Track weekly for early signal on Delhivery/Shadowfax/Xpressbees fuel surcharge asks ahead of the next OMC pricing cycle.",
       "sources": [
         { "name": "Goodreturns", "url": "https://www.goodreturns.in/lpg-price.html" },
