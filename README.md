@@ -18,6 +18,7 @@ Open `data/alerts.json` and edit:
   - `title` — headline, ideally naming the operational impact
   - `date` — `YYYY-MM-DD`, the event's start date (or its only day, for single-day events)
   - `endDate` — optional `YYYY-MM-DD`, the last day for multi-day events (e.g. Navratri, Ganesh Chaturthi, Onam, Paryushan). Omit for single-day events.
+  - `sources` — array of `{ "name": "Publication", "url": "https://..." }` objects verifying the date (e.g. drikpanchang.com, a panchang site, or a publicholidays.in page). Every event should carry at least one real, checkable source — never fabricate a date or URL. Renders as a small "🔗 Source" link in the Upcoming Events panel.
   - There is no cap on how far out an event's date can be — add the full year's calendar; the site decides on its own when to surface each one (see below).
 - `alerts` — the main feed. Each alert:
   - `id` — unique slug (used for anchor links from the situation room)
@@ -40,7 +41,7 @@ Save the file and push to `main` — GitHub Actions rebuilds and redeploys Pages
 The dashboard itself does two things to stay fresh without manual reloads:
 
 - **Auto-prune**: any `"status": "ongoing"` alert older than 14 days (see `STALE_DAYS` in `script.js`) is automatically hidden from the feed, so resolved/dead stories don't pile up. `"status": "upcoming"` items are never auto-pruned since they're future-dated.
-- **Rolling 14-day festival window**: `upcomingEvents` in the JSON is the full year-round, all-communities calendar. On every load, `script.js` (`computeUpcomingWindow`, `UPCOMING_WINDOW_DAYS`) computes each event's real distance from *today* and only shows it in the Upcoming Events panel once it's ≤14 days away — then keeps it visible for the duration of multi-day events (`date` → `endDate`) and automatically drops it once it's over. This is computed purely from the browser's clock, so it's correct on every page load with no daily editing required — you only need to keep the master calendar stocked a few months ahead.
+- **Rolling 15-day festival window**: `upcomingEvents` in the JSON is the full year-round, all-communities calendar. On every load, `script.js` (`computeUpcomingWindow`, `UPCOMING_WINDOW_DAYS`) computes each event's real distance from *today* and only shows it in the Upcoming Events panel once it's ≤15 days away — then keeps it visible for the duration of multi-day events (`date` → `endDate`) and automatically drops it once it's over. This is computed purely from the browser's clock, so it's correct on every page load with no daily editing required — you only need to keep the master calendar stocked a few months ahead.
 - **Auto-refresh**: the page re-fetches `data/alerts.json` every 5 minutes while it's open, and again whenever the tab regains focus — so a dashboard left open in a browser tab picks up newly-published data without a manual reload.
 
 On top of that, a scheduled task researches current disruptions and pushes an updated `alerts.json` to `main` daily, so the live site's underlying data also refreshes on its own each day.
