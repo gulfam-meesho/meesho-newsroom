@@ -71,7 +71,7 @@ h1,h2,h3{margin:0;}
 }
 .ticker{white-space:nowrap;overflow:hidden;flex:1;padding:8px 0;}
 .ticker span{display:inline-block;padding-right:60px;font-size:13px;font-weight:600;color:#fff;}
-.ticker-track{display:inline-block;animation:scroll-left 40s linear infinite;}
+.ticker-track{display:inline-block;animation:scroll-left 110s linear infinite;}
 @keyframes scroll-left{from{transform:translateX(0);}to{transform:translateX(-50%);}}
 
 main{max-width:1400px;margin:0 auto;padding:28px 24px 10px;}
