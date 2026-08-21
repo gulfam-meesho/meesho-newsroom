@@ -12,6 +12,7 @@ const REGION_LABEL = {
 let DATA = { alerts: [], upcomingEvents: [] };
 let activeCategory = "all";
 let activeSeverity = "all";
+let calendarViewDate = null; // month cursor for the community festival calendar widget; lazily set to today's month
 const STALE_DAYS = 14; // ongoing alerts older than this many days are auto-hidden
 const UPCOMING_WINDOW_DAYS = 15; // festivals/events only enter the Upcoming panel once within this many days
 const REFRESH_INTERVAL_MS = 5 * 60 * 1000; // re-check for fresh data every 5 minutes while the tab is open
@@ -109,11 +110,117 @@ function startAutoRefresh() {
 function render() {
   renderTicker();
   renderSituationRoom();
+  renderCalendar();
   renderSnapshot();
   renderFilters();
   renderRegions();
   renderFeed();
   renderFooter();
+}
+
+// ---- Community Festival Calendar widget ----
+// Self-contained: reads DATA.allUpcomingEvents (the full, unwindowed, all-communities
+// calendar) plus any "status": "upcoming" alerts (local/regional advisories announced
+// ahead of time), and lets the user crawl month-to-month independently of the main
+// 15-day Upcoming Events panel above.
+
+function communityColor(c) {
+  if (!c) return "#9aa3c7";
+  if (c.startsWith("Hindu")) return "#f97316";
+  if (c.startsWith("Muslim")) return "#22d3ee";
+  if (c.startsWith("Christian")) return "#a855f7";
+  if (c.startsWith("Sikh")) return "#eab308";
+  if (c.startsWith("Jain")) return "#38bdf8";
+  if (c.startsWith("National")) return "#f43f5e";
+  return "#9aa3c7"; // local/regional/other
+}
+
+function parseYMD(s) {
+  const [y, m, d] = s.split("-").map(Number);
+  return new Date(y, m - 1, d);
+}
+
+function allCalendarEvents() {
+  const festivals = DATA.allUpcomingEvents || [];
+  const localUpcoming = (DATA.alerts || []).filter(a => a.status === "upcoming").map(a => ({
+    id: a.id, icon: a.icon, community: "Local / Regional", title: a.title, date: a.date, sources: a.sources
+  }));
+  return [...festivals, ...localUpcoming];
+}
+
+function eventsOverlappingDate(events, dateObj) {
+  return events.filter(e => {
+    const start = parseYMD(e.date);
+    const end = e.endDate ? parseYMD(e.endDate) : start;
+    return dateObj >= start && dateObj <= end;
+  });
+}
+
+function shiftCalendarMonth(delta) {
+  if (!calendarViewDate) calendarViewDate = new Date();
+  calendarViewDate = new Date(calendarViewDate.getFullYear(), calendarViewDate.getMonth() + delta, 1);
+  renderCalendar();
+}
+
+function renderCalendar() {
+  const grid = document.getElementById("calendarGrid");
+  if (!grid) return; // widget not present on the page
+  if (!calendarViewDate) {
+    const now = new Date();
+    calendarViewDate = new Date(now.getFullYear(), now.getMonth(), 1);
+  }
+
+  const events = allCalendarEvents();
+  const year = calendarViewDate.getFullYear();
+  const month = calendarViewDate.getMonth();
+  document.getElementById("calendarMonthLabel").textContent =
+    calendarViewDate.toLocaleDateString("en-IN", { month: "long", year: "numeric" });
+
+  const startWeekday = new Date(year, month, 1).getDay();
+  const daysInThisMonth = new Date(year, month + 1, 0).getDate();
+  const daysInPrevMonth = new Date(year, month, 0).getDate();
+  const today = new Date(); today.setHours(0, 0, 0, 0);
+
+  const cells = [];
+  for (let i = 0; i < startWeekday; i++) {
+    const dayNum = daysInPrevMonth - startWeekday + 1 + i;
+    cells.push({ dayNum, inMonth: false, dateObj: new Date(year, month - 1, dayNum) });
+  }
+  for (let d = 1; d <= daysInThisMonth; d++) {
+    cells.push({ dayNum: d, inMonth: true, dateObj: new Date(year, month, d) });
+  }
+  let trailingDay = 1;
+  while (cells.length % 7 !== 0) {
+    cells.push({ dayNum: trailingDay, inMonth: false, dateObj: new Date(year, month + 1, trailingDay) });
+    trailingDay++;
+  }
+
+  grid.innerHTML = cells.map(c => {
+    const dayEvents = eventsOverlappingDate(events, c.dateObj);
+    const isToday = c.dateObj.getTime() === today.getTime();
+    const cls = ["calendar-cell", c.inMonth ? "in-month" : "", isToday ? "today" : "", dayEvents.length ? "has-event" : ""].filter(Boolean).join(" ");
+    const dots = dayEvents.slice(0, 4).map(e => `<span class="cal-dot" style="background:${communityColor(e.community)}"></span>`).join("");
+    const titleAttr = dayEvents.length ? ` title="${dayEvents.map(e => e.title).join(" · ").replace(/"/g, "&quot;")}"` : "";
+    return `<div class="${cls}"${titleAttr}>${c.dayNum}<span class="cal-dots">${dots}</span></div>`;
+  }).join("");
+
+  const monthStart = new Date(year, month, 1);
+  const monthEnd = new Date(year, month + 1, 0);
+  const monthEvents = events.filter(e => {
+    const start = parseYMD(e.date);
+    const end = e.endDate ? parseYMD(e.endDate) : start;
+    return start <= monthEnd && end >= monthStart;
+  }).sort((a, b) => parseYMD(a.date) - parseYMD(b.date));
+
+  const listEl = document.getElementById("calendarMonthEvents");
+  const label = calendarViewDate.toLocaleDateString("en-IN", { month: "long", year: "numeric" }).toUpperCase();
+  listEl.innerHTML = `<h4>${label} — ${monthEvents.length} EVENT${monthEvents.length === 1 ? "" : "S"}</h4>` +
+    (monthEvents.length ? monthEvents.map(e => `
+      <div class="calendar-event-row">
+        <span class="cal-ev-date">${fmtDate(e.date)}</span>
+        <span class="cal-ev-title">${e.icon || "📅"} ${e.title}</span>
+        ${firstSourceLink(e.sources)}
+      </div>`).join("") : "<p class='situation-summary'>No events this month.</p>");
 }
 
 function renderTicker() {
