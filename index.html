@@ -82,10 +82,10 @@
             <svg viewBox="0 0 42 42" class="donut" id="donutChart"></svg>
           </div>
           <ul class="legend-list">
-            <li><span class="swatch critical"></span> Critical — active, direct LM/FM stoppage</li>
-            <li><span class="swatch high"></span> High — active disruption / route restriction</li>
-            <li><span class="swatch moderate"></span> Moderate — localized / partial impact</li>
-            <li><span class="swatch watch"></span> Watch — emerging, monitor cost/route risk</li>
+            <li class="clickable" onclick="setSeverity('critical'); scrollToSection('feedSection');"><span class="swatch critical"></span> Critical — active, direct LM/FM stoppage</li>
+            <li class="clickable" onclick="setSeverity('high'); scrollToSection('feedSection');"><span class="swatch high"></span> High — active disruption / route restriction</li>
+            <li class="clickable" onclick="setSeverity('moderate'); scrollToSection('feedSection');"><span class="swatch moderate"></span> Moderate — localized / partial impact</li>
+            <li class="clickable" onclick="setSeverity('watch'); scrollToSection('feedSection');"><span class="swatch watch"></span> Watch — emerging, monitor cost/route risk</li>
           </ul>
         </aside>
         <div class="feed-list" id="feedList"></div>
