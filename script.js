@@ -13,7 +13,7 @@ let DATA = { alerts: [], upcomingEvents: [] };
 let activeCategory = "all";
 let activeSeverity = "all";
 const STALE_DAYS = 14; // ongoing alerts older than this many days are auto-hidden
-const UPCOMING_WINDOW_DAYS = 14; // festivals/events only enter the Upcoming panel once within this many days
+const UPCOMING_WINDOW_DAYS = 15; // festivals/events only enter the Upcoming panel once within this many days
 const REFRESH_INTERVAL_MS = 5 * 60 * 1000; // re-check for fresh data every 5 minutes while the tab is open
 
 function fmtDate(d) {
