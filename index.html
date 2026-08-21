@@ -53,6 +53,25 @@
       </div>
     </section>
 
+    <section class="section" id="calendarSection">
+      <h2>🗓️ Community Festival Calendar</h2>
+      <p class="section-sub">crawl month by month — every community's festivals &amp; planned local events, marked on their exact date</p>
+      <div class="calendar-wrap">
+        <div class="calendar-card">
+          <div class="calendar-head">
+            <button class="cal-nav" onclick="shiftCalendarMonth(-1)" aria-label="Previous month">‹</button>
+            <span class="calendar-month-label" id="calendarMonthLabel">—</span>
+            <button class="cal-nav" onclick="shiftCalendarMonth(1)" aria-label="Next month">›</button>
+          </div>
+          <div class="calendar-weekdays">
+            <span>S</span><span>M</span><span>T</span><span>W</span><span>T</span><span>F</span><span>S</span>
+          </div>
+          <div class="calendar-grid" id="calendarGrid"></div>
+        </div>
+        <div class="calendar-events" id="calendarMonthEvents"></div>
+      </div>
+    </section>
+
     <section class="section">
       <h2>📊 Today's Snapshot</h2>
       <p class="section-sub">Updated <span id="snapshotDate">—</span></p>
