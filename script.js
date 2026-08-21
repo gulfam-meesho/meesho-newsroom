@@ -128,10 +128,10 @@ function renderSituationRoom() {
   const current = DATA.alerts.filter(a => a.status === "ongoing");
   const upcoming = [
     ...DATA.alerts.filter(a => a.status === "upcoming").map(a => ({
-      icon: a.icon, title: a.title, severity: "watch", startAway: daysUntil(a.date), id: a.id
+      icon: a.icon, title: a.title, severity: "watch", startAway: daysUntil(a.date), id: a.id, sources: a.sources
     })),
     ...DATA.upcomingEvents.map(e => ({
-      icon: e.icon, title: e.title, severity: "watch", startAway: e.startAway, id: e.id
+      icon: e.icon, title: e.title, severity: "watch", startAway: e.startAway, id: e.id, sources: e.sources
     }))
   ].sort((a, b) => a.startAway - b.startAway);
 
@@ -162,7 +162,10 @@ function renderSituationRoom() {
       <div class="left">
         <span class="title">${a.icon} ${a.title}</span>
       </div>
-      <span class="eta">${etaLabel(a)}</span>
+      <div class="eta-col">
+        <span class="eta">${etaLabel(a)}</span>
+        ${firstSourceLink(a.sources)}
+      </div>
     </div>`).join("") || "<p class='situation-summary'>Nothing planned.</p>";
 }
 
@@ -244,9 +247,9 @@ function renderRegions() {
         <span class="region-count">${regions[r].length}</span>
       </div>
       ${regions[r].map(a => `
-        <div class="region-row">
+        <div class="region-row clickable" onclick="jumpTo('${a.id}')">
           <span class="left"><span class="sev-dot" style="background:${SEV_COLOR[a.severity]}"></span>${(a.states || []).join(", ")}</span>
-          <span class="sev-label" style="color:${SEV_COLOR[a.severity]}">${SEV_LABEL[a.severity]}</span>
+          <span class="sev-label clickable" style="color:${SEV_COLOR[a.severity]}" onclick="event.stopPropagation(); setSeverity('${a.severity}'); scrollToSection('feedSection');">${SEV_LABEL[a.severity]}</span>
         </div>`).join("")}
     </div>`).join("");
 }
@@ -281,6 +284,16 @@ function renderSources(sources) {
   }).join(" &nbsp;/&nbsp; ");
 }
 
+// Compact "Source" link used in the Upcoming Events / situation-room list —
+// links out to the first real source for that festival/alert so the date and
+// impact claim can be verified. Returns "" (no link) if no source is known.
+function firstSourceLink(sources) {
+  if (!sources || !sources.length) return "";
+  const s = sources[0];
+  if (typeof s === "string" || !s || !s.url) return "";
+  return `<a class="eta-source" href="${s.url}" target="_blank" rel="noopener noreferrer" onclick="event.stopPropagation()">🔗 Source</a>`;
+}
+
 function renderFeed() {
   const list = filteredAlerts();
   document.getElementById("feedCount").textContent = `${list.length} of ${DATA.alerts.length} stories shown`;
@@ -293,12 +306,12 @@ function renderFeed() {
     <div class="alert-card ${a.severity}" id="${a.id}">
       <div class="alert-top">
         <span class="alert-icon">${a.icon}</span>
-        <span class="sev-badge ${a.severity}">${SEV_LABEL[a.severity].toUpperCase()}</span>
+        <span class="sev-badge clickable ${a.severity}" title="Filter by ${SEV_LABEL[a.severity]}" onclick="setSeverity('${a.severity}'); scrollToSection('feedSection');">${SEV_LABEL[a.severity].toUpperCase()}</span>
       </div>
       <div class="alert-title">${a.title}</div>
       <div class="tag-row">
         <span class="tag">📍 ${(a.states || []).join(", ")}</span>
-        <span class="tag">${a.icon} ${a.category}</span>
+        <span class="tag clickable" title="Filter by ${a.category}" onclick="setCategory('${a.categoryKey}'); scrollToSection('feedSection');">${a.icon} ${a.category}</span>
         <span class="tag status-${a.status}">${a.status === "ongoing" ? "🔴 Ongoing" : "🕓 Upcoming"}</span>
         <span class="tag">🗓️ ${a.date}</span>
       </div>
