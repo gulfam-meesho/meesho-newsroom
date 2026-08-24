@@ -203,24 +203,6 @@ function renderCalendar() {
     const titleAttr = dayEvents.length ? ` title="${dayEvents.map(e => e.title).join(" · ").replace(/"/g, "&quot;")}"` : "";
     return `<div class="${cls}"${titleAttr}>${c.dayNum}<span class="cal-dots">${dots}</span></div>`;
   }).join("");
-
-  const monthStart = new Date(year, month, 1);
-  const monthEnd = new Date(year, month + 1, 0);
-  const monthEvents = events.filter(e => {
-    const start = parseYMD(e.date);
-    const end = e.endDate ? parseYMD(e.endDate) : start;
-    return start <= monthEnd && end >= monthStart;
-  }).sort((a, b) => parseYMD(a.date) - parseYMD(b.date));
-
-  const listEl = document.getElementById("calendarMonthEvents");
-  const label = calendarViewDate.toLocaleDateString("en-IN", { month: "long", year: "numeric" }).toUpperCase();
-  listEl.innerHTML = `<h4>${label} — ${monthEvents.length} EVENT${monthEvents.length === 1 ? "" : "S"}</h4>` +
-    (monthEvents.length ? monthEvents.map(e => `
-      <div class="calendar-event-row">
-        <span class="cal-ev-date">${fmtDate(e.date)}</span>
-        <span class="cal-ev-title">${e.icon || "📅"} ${e.title}</span>
-        ${firstSourceLink(e.sources)}
-      </div>`).join("") : "<p class='situation-summary'>No events this month.</p>");
 }
 
 function renderTicker() {
