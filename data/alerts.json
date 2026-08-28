@@ -1,7 +1,17 @@
 {
-  "compiledAt": "2026-08-24T14:00:00+05:30",
+  "compiledAt": "2026-08-28T11:20:00+05:30",
   "note": "Manually-refreshed research digest compiled from public news sources, including regional/vernacular press, local TV channels and YouTube ground reports where available. Not a live news-wire feed — update this file (or re-run research) to refresh. Built for Meesho 3P logistics capacity planning (Delhivery · Shadowfax · Xpressbees): LM/FM manifestation, non-adherence hotspots, and serviceability-loss tracking. Not an official Meesho product.",
   "upcomingEvents": [
+    {
+      "id": "raksha-bandhan-2026",
+      "icon": "🧵",
+      "community": "Hindu",
+      "title": "Raksha Bandhan (Aug 28): bank holiday in Gujarat, MP, Uttarakhand, Sikkim, Rajasthan, J&K, UP, Kerala, Chhattisgarh, HP — 1-day dispatch/pickup slip in these states",
+      "date": "2026-08-28",
+      "sources": [
+        { "name": "Sakshi Post", "url": "https://www.sakshipost.com/news/national/bank-holiday-august-28-raksha-bandhan-check-state-wise-list-482016" }
+      ]
+    },
     {
       "id": "milad-un-nabi-2026",
       "icon": "🌙",
@@ -9,10 +19,7 @@
       "title": "Eid Milad-un-Nabi (Aug 26): gazetted holiday nationwide — banks, govt offices shut; expect 1-day dispatch/pickup slip",
       "date": "2026-08-26",
       "sources": [
-        {
-          "name": "Drikpanchang",
-          "url": "https://www.drikpanchang.com/calendars/indian/muslim-festivals/milad-un-nabi/milad-un-nabi-date-time.html?year=2026"
-        }
+        { "name": "Drikpanchang", "url": "https://www.drikpanchang.com/calendars/indian/muslim-festivals/milad-un-nabi/milad-un-nabi-date-time.html?year=2026" }
       ]
     },
     {
@@ -23,14 +30,8 @@
       "date": "2026-08-16",
       "endDate": "2026-08-26",
       "sources": [
-        {
-          "name": "Drikpanchang",
-          "url": "https://www.drikpanchang.com/festivals/onam/onam-thiruvonam-date.html"
-        },
-        {
-          "name": "PublicHolidays.in",
-          "url": "https://publicholidays.in/onam/"
-        }
+        { "name": "Drikpanchang", "url": "https://www.drikpanchang.com/festivals/onam/onam-thiruvonam-date.html" },
+        { "name": "PublicHolidays.in", "url": "https://publicholidays.in/onam/" }
       ]
     },
     {
@@ -41,23 +42,7 @@
       "date": "2026-09-04",
       "endDate": "2026-09-05",
       "sources": [
-        {
-          "name": "Drikpanchang",
-          "url": "https://www.drikpanchang.com/dashavatara/lord-krishna/krishna-janmashtami-date-time.html"
-        }
-      ]
-    },
-    {
-      "id": "guru-granth-sahib-parkash-2026",
-      "icon": "🪯",
-      "community": "Sikh",
-      "title": "Guru Granth Sahib Parkash Gurpurab (Nov 5): gurdwara processions in Punjab/Delhi-NCR, minor local route congestion",
-      "date": "2026-11-05",
-      "sources": [
-        {
-          "name": "BankBazaar",
-          "url": "https://www.bankbazaar.com/indian-holiday/guru-granth-sahib-parkash-utsav.html"
-        }
+        { "name": "Drikpanchang", "url": "https://www.drikpanchang.com/dashavatara/lord-krishna/krishna-janmashtami-date-time.html" }
       ]
     },
     {
@@ -68,10 +53,7 @@
       "date": "2026-09-08",
       "endDate": "2026-09-15",
       "sources": [
-        {
-          "name": "The Jain Religion",
-          "url": "https://thejainreligion.in/shwetambar-paryushan-parva-dates-2026"
-        }
+        { "name": "The Jain Religion", "url": "https://thejainreligion.in/shwetambar-paryushan-parva-dates-2026" }
       ]
     },
     {
@@ -82,14 +64,8 @@
       "date": "2026-09-14",
       "endDate": "2026-09-25",
       "sources": [
-        {
-          "name": "Drikpanchang",
-          "url": "https://www.drikpanchang.com/festivals/ganesh-visarjan/half-day/ganesh-visarjan-date-time.html"
-        },
-        {
-          "name": "Panchang.org",
-          "url": "https://panchang.org/ganesh-chaturthi-2026-date-puja-vidhi-vrat-visarjan-significance/"
-        }
+        { "name": "Drikpanchang", "url": "https://www.drikpanchang.com/festivals/ganesh-visarjan/half-day/ganesh-visarjan-date-time.html" },
+        { "name": "Panchang.org", "url": "https://panchang.org/ganesh-chaturthi-2026-date-puja-vidhi-vrat-visarjan-significance/" }
       ]
     },
     {
@@ -100,10 +76,7 @@
       "date": "2026-09-16",
       "endDate": "2026-09-25",
       "sources": [
-        {
-          "name": "The Jain Religion",
-          "url": "https://thejainreligion.in/shwetambar-paryushan-parva-dates-2026"
-        }
+        { "name": "The Jain Religion", "url": "https://thejainreligion.in/shwetambar-paryushan-parva-dates-2026" }
       ]
     },
     {
@@ -113,10 +86,7 @@
       "title": "Guru Ram Das Ji Parkash Gurpurab (Oct 9): Punjab gurdwara gatherings, localized route congestion",
       "date": "2026-10-09",
       "sources": [
-        {
-          "name": "FestivalsFun",
-          "url": "https://www.festivalsfun.com/india/guru-purab/guru-ram-das-jayanti.html"
-        }
+        { "name": "FestivalsFun", "url": "https://www.festivalsfun.com/india/guru-purab/guru-ram-das-jayanti.html" }
       ]
     },
     {
@@ -127,10 +97,7 @@
       "date": "2026-10-11",
       "endDate": "2026-10-19",
       "sources": [
-        {
-          "name": "Samvat.in",
-          "url": "https://samvat.in/festivals/navaratri-2026/"
-        }
+        { "name": "Samvat.in", "url": "https://samvat.in/festivals/navaratri-2026/" }
       ]
     },
     {
@@ -141,10 +108,7 @@
       "date": "2026-10-17",
       "endDate": "2026-10-20",
       "sources": [
-        {
-          "name": "GiftsToIndia24x7",
-          "url": "https://www.giftstoindia24x7.com/a/when-is-durga-puja"
-        }
+        { "name": "GiftsToIndia24x7", "url": "https://www.giftstoindia24x7.com/a/when-is-durga-puja" }
       ]
     },
     {
@@ -154,10 +118,7 @@
       "title": "Dussehra/Vijayadashami (Oct 20): pan-India Ravana-dahan processions, route closures likely in city centers",
       "date": "2026-10-20",
       "sources": [
-        {
-          "name": "Samvat.in",
-          "url": "https://samvat.in/festivals/navaratri-2026/"
-        }
+        { "name": "Samvat.in", "url": "https://samvat.in/festivals/navaratri-2026/" }
       ]
     },
     {
@@ -167,10 +128,7 @@
       "title": "Karva Chauth (Oct 29): North India evening market rush — expect last-mile delays 5-9pm in Delhi-NCR/Punjab/UP",
       "date": "2026-10-29",
       "sources": [
-        {
-          "name": "Drikpanchang",
-          "url": "https://www.drikpanchang.com/festivals/karwa-chauth/karwa-chauth-date-time.html"
-        }
+        { "name": "Drikpanchang", "url": "https://www.drikpanchang.com/festivals/karwa-chauth/karwa-chauth-date-time.html" }
       ]
     },
     {
@@ -180,10 +138,7 @@
       "title": "Diwali (Nov 8): peak-season demand surge + multi-day shop closures pan-India — plan buffer stock & extended SLA nationwide",
       "date": "2026-11-08",
       "sources": [
-        {
-          "name": "Goodreturns",
-          "url": "https://www.goodreturns.in/news/when-is-diwali-in-2026-check-diwali-dhanteras-govardhan-pooja-bhai-dooj-date-other-info-1479316.html"
-        }
+        { "name": "Goodreturns", "url": "https://www.goodreturns.in/news/when-is-diwali-in-2026-check-diwali-dhanteras-govardhan-pooja-bhai-dooj-date-other-info-1479316.html" }
       ]
     },
     {
@@ -193,10 +148,7 @@
       "title": "Govardhan Puja (Nov 10): North India regional holiday, local market closures",
       "date": "2026-11-10",
       "sources": [
-        {
-          "name": "Goodreturns",
-          "url": "https://www.goodreturns.in/news/when-is-diwali-in-2026-check-diwali-dhanteras-govardhan-pooja-bhai-dooj-date-other-info-1479316.html"
-        }
+        { "name": "Goodreturns", "url": "https://www.goodreturns.in/news/when-is-diwali-in-2026-check-diwali-dhanteras-govardhan-pooja-bhai-dooj-date-other-info-1479316.html" }
       ]
     },
     {
@@ -206,10 +158,7 @@
       "title": "Bhai Dooj (Nov 11): pan-India family-visit travel rush, minor LM slowdown",
       "date": "2026-11-11",
       "sources": [
-        {
-          "name": "Goodreturns",
-          "url": "https://www.goodreturns.in/news/when-is-diwali-in-2026-check-diwali-dhanteras-govardhan-pooja-bhai-dooj-date-other-info-1479316.html"
-        }
+        { "name": "Goodreturns", "url": "https://www.goodreturns.in/news/when-is-diwali-in-2026-check-diwali-dhanteras-govardhan-pooja-bhai-dooj-date-other-info-1479316.html" }
       ]
     },
     {
@@ -220,31 +169,8 @@
       "date": "2026-11-13",
       "endDate": "2026-11-16",
       "sources": [
-        {
-          "name": "Drikpanchang",
-          "url": "https://www.drikpanchang.com/festivals/chhath-puja/chhath-puja-date-time.html"
-        },
-        {
-          "name": "Dekho Panchang",
-          "url": "https://dekhopanchang.com/en/festivals/chhath-puja/2026"
-        }
-      ]
-    },
-    {
-      "id": "guru-nanak-jayanti-2026",
-      "icon": "🪯",
-      "community": "Sikh",
-      "title": "Guru Nanak Gurpurab (Nov 24): Punjab-wide processions/holiday — expect statewide LM slowdown",
-      "date": "2026-11-24",
-      "sources": [
-        {
-          "name": "Drikpanchang",
-          "url": "https://www.drikpanchang.com/calendars/indian/sikh-festivals/jayanti/guru-nanak-jayanti-date.html?year=2026"
-        },
-        {
-          "name": "PublicHolidays.in",
-          "url": "https://publicholidays.in/guru-nanak-jayanti/"
-        }
+        { "name": "Drikpanchang", "url": "https://www.drikpanchang.com/festivals/chhath-puja/chhath-puja-date-time.html" },
+        { "name": "Dekho Panchang", "url": "https://dekhopanchang.com/en/festivals/chhath-puja/2026" }
       ]
     },
     {
@@ -255,10 +181,28 @@
       "date": "2026-11-01",
       "endDate": "2026-11-02",
       "sources": [
-        {
-          "name": "Herald Goa",
-          "url": "https://www.heraldgoa.in/goa-history/all-souls-day-in-goa-where-the-living-pray-and-the-dead-come-visiting/451559/"
-        }
+        { "name": "Herald Goa", "url": "https://www.heraldgoa.in/goa-history/all-souls-day-in-goa-where-the-living-pray-and-the-dead-come-visiting/451559/" }
+      ]
+    },
+    {
+      "id": "guru-nanak-jayanti-2026",
+      "icon": "🪯",
+      "community": "Sikh",
+      "title": "Guru Nanak Gurpurab (Nov 24): Punjab-wide processions/holiday — expect statewide LM slowdown",
+      "date": "2026-11-24",
+      "sources": [
+        { "name": "Drikpanchang", "url": "https://www.drikpanchang.com/calendars/indian/sikh-festivals/jayanti/guru-nanak-jayanti-date.html?year=2026" },
+        { "name": "PublicHolidays.in", "url": "https://publicholidays.in/guru-nanak-jayanti/" }
+      ]
+    },
+    {
+      "id": "guru-granth-sahib-parkash-2026",
+      "icon": "🪯",
+      "community": "Sikh",
+      "title": "Guru Granth Sahib Parkash Gurpurab (Nov 5): gurdwara processions in Punjab/Delhi-NCR, minor local route congestion",
+      "date": "2026-11-05",
+      "sources": [
+        { "name": "BankBazaar", "url": "https://www.bankbazaar.com/indian-holiday/guru-granth-sahib-parkash-utsav.html" }
       ]
     },
     {
@@ -268,10 +212,7 @@
       "title": "Christmas (Dec 25): Goa/Kerala/Northeast peak demand & multi-day closures — plan buffer stock in Christian-majority belts",
       "date": "2026-12-25",
       "sources": [
-        {
-          "name": "PublicHolidays.in",
-          "url": "https://publicholidays.in/christmas/"
-        }
+        { "name": "PublicHolidays.in", "url": "https://publicholidays.in/christmas/" }
       ]
     },
     {
@@ -281,10 +222,7 @@
       "title": "New Year's Day (Jan 1, 2027): pan-India public holiday, 1-day dispatch/pickup slip expected",
       "date": "2027-01-01",
       "sources": [
-        {
-          "name": "Wikipedia",
-          "url": "https://en.wikipedia.org/wiki/New_Year%27s_Day"
-        }
+        { "name": "Wikipedia", "url": "https://en.wikipedia.org/wiki/New_Year%27s_Day" }
       ]
     },
     {
@@ -295,232 +233,191 @@
       "date": "2027-01-14",
       "endDate": "2027-01-15",
       "sources": [
-        {
-          "name": "Prokerala",
-          "url": "https://www.prokerala.com/festivals/makar-sankranti.html"
-        }
+        { "name": "Prokerala", "url": "https://www.prokerala.com/festivals/makar-sankranti.html" }
       ]
     }
   ],
   "alerts": [
     {
-      "id": "assam-floods-crisis-aug2026",
+      "id": "assam-floods-recovery-aug2026",
       "icon": "🌊",
-      "title": "Assam floods: death toll tops 100, 2,700 villages destroyed, 700K displaced",
+      "title": "Assam floods: over 100 dead, recovery underway but rivers still elevated in Upper Assam",
       "category": "Flood",
       "categoryKey": "flood",
-      "severity": "critical",
+      "severity": "high",
       "status": "ongoing",
       "region": "east",
-      "states": [
-        "Assam"
-      ],
+      "states": ["Assam"],
       "date": "2026-08-22",
-      "summary": "Weeks of catastrophic monsoon flooding across Assam — worst in Sivasagar, Nazira, Charaideo and Jorhat districts — have now killed more than 100 people, destroyed roughly 2,700 villages and displaced 700,000 people, with the state government putting total affected population at 1.2 million. Residents describe tsunami-like surges that swept away homes and livestock; several rivers remain above danger levels, keeping the risk of fresh flooding elevated.",
-      "impact": "Critical serviceability loss — Upper Assam (Sivasagar/Nazira/Charaideo/Jorhat): keep NS flags active for flood-hit pincodes, coordinate with Delhivery/Xpressbees for alternate NE routing around Guwahati hub, and expect extended non-adherence in this belt for at least another 1-2 weeks given rivers remain above danger mark.",
+      "summary": "Weeks of catastrophic monsoon flooding across Upper Assam — worst in Sivasagar, Nazira, Charaideo and Jorhat districts — killed over 100 people and displaced roughly 700,000. Many residents have begun returning home as floodwaters recede and 52 relief camps continue operating, but around 119,000 hectares of cropland remain submerged and rehabilitation is still underway across affected districts.",
+      "impact": "Serviceability recovering but fragile — Upper Assam (Sivasagar/Nazira/Charaideo/Jorhat): keep a light NS watch on flood-hit pincodes as roads and bridges are still being repaired; resume normal manifestation gradually and coordinate with Delhivery/Xpressbees on NE routing around Guwahati hub as access improves.",
       "sources": [
-        {
-          "name": "Al Jazeera",
-          "url": "https://www.aljazeera.com/news/2026/8/22/it-was-a-tsunami-floods-leave-death-trail-in-indias-assam"
-        }
+        { "name": "NPR", "url": "https://www.npr.org/2026/08/10/g-s1-138015/flood-death-toll-in-indias-assam-reaches-100-as-thousands-lose-their-homes" },
+        { "name": "Mongabay India", "url": "https://india.mongabay.com/2026/08/assam-floods-expose-a-crisis-beyond-heavy-rain/" }
       ]
     },
     {
-      "id": "hp-mandi-pandoh-landslide-aug23",
+      "id": "assam-dibrugarh-tingkhong-erosion",
+      "icon": "🏞️",
+      "title": "Assam: fresh Brahmaputra riverbank erosion at Tingkhong's Mohanaghat in Dibrugarh, CM engages IIT-Guwahati",
+      "category": "River Erosion",
+      "categoryKey": "erosion",
+      "severity": "moderate",
+      "status": "ongoing",
+      "region": "east",
+      "states": ["Assam"],
+      "date": "2026-08-24",
+      "summary": "Fresh riverbank erosion by the Brahmaputra has hit the Mohanaghat area near Tingkhong Bhoga Ali in Dibrugarh district, the latest in a string of erosion incidents this monsoon across Chabua, Balijan, Pukhurijan, Dinjan and Rahmoria that Chief Minister Himanta Biswa Sarma toured on August 2. The state government has now engaged IIT-Guwahati to design a long-term erosion-control solution for the Brahmaputra basin.",
+      "impact": "Watch list — Dibrugarh belt (Tingkhong, Chabua, Dinjan, Rahmoria): flag riverside pincodes as erosion-risk, expect gradual land loss to keep some approach roads unstable through the monsoon; no full stoppage yet but build in extra transit time for last-mile in these panchayats.",
+      "sources": [
+        { "name": "NE Now (ground report)", "url": "https://nenow.in/north-east-news/assam/assambrahmaputra-riverbank-erosion-triggers-panic-in-tingkhongs-mohanaghat.html" },
+        { "name": "India Today NE", "url": "https://www.indiatodayne.in/assam/story/assam-to-engage-iit-guwahati-for-long-term-brahmaputra-erosion-solution-himanta-1432853-2026-08-03" }
+      ]
+    },
+    {
+      "id": "hp-mandi-kiratpur-manali-highway-recurring",
       "icon": "⛰️",
-      "title": "Himachal Pradesh: Pandoh landslide shuts Kiratpur-Manali NH, 333 roads blocked, 2,000 vehicles stranded",
+      "title": "Himachal Pradesh: Kiratpur-Manali highway hit by repeated landslides/shooting stones, 118 roads shut statewide",
       "category": "Landslide",
       "categoryKey": "landslide",
       "severity": "critical",
       "status": "ongoing",
       "region": "north",
-      "states": [
-        "Himachal Pradesh"
-      ],
-      "date": "2026-08-23",
-      "summary": "Fresh landslides near Pandoh (Baglamukhi ropeway and Jogni Mata Temple stretches) have shut the Kiratpur-Manali National Highway between Mandi and Kullu, stranding around 2,000 vehicles. 333 roads are blocked in Mandi district alone. Authorities have opened an alternative diversion road from Pandoh and set up relief camps at Pandoh and Aut with food, shelter and essentials for stranded drivers.",
-      "impact": "Serviceability loss risk — Mandi/Kullu/Manali corridor: hold non-time-critical linehaul through the Kiratpur-Manali NH until NHAI confirms reopening, route via the Pandoh diversion where possible, and pre-build 3-5 day buffer stock at Mandi/Kullu hubs. Flag Manali-bound LM as at-risk given this is the single main road link.",
+      "states": ["Himachal Pradesh"],
+      "date": "2026-08-26",
+      "summary": "The Pandoh stretch of the Kiratpur-Manali National Highway (Mandi-Kullu) has been restored to one-way traffic after its latest landslide closure, but the corridor keeps getting hit — most recently by shooting stones near Mehla village in Bilaspur district, which forced police to suspend all vehicle movement beyond Mandi Bharari Chowk and divert traffic via Nauni Chowk/NH-205 towards Swarghat. Statewide, 118 roads remain blocked by monsoon damage, 44 of them in Mandi district alone.",
+      "impact": "Critical serviceability risk — Mandi/Kullu/Manali/Bilaspur corridor: continue holding non-time-critical linehaul on this NH, use the Nauni Chowk-NH205-Swarghat diversion where police permit, and keep 3-5 day buffer stock at Mandi/Kullu hubs given the highway has now closed and reopened multiple times this month.",
       "sources": [
-        {
-          "name": "The Tribune",
-          "url": "https://www.tribuneindia.com/news/himachal/mandi-paralysed-333-roads-blocked-2000-vehicles-stranded/"
-        },
-        {
-          "name": "Deccan Herald",
-          "url": "https://www.deccanherald.com/india/himachal-pradesh/alternative-road-opened-in-himachals-pandoh-to-divert-vehicular-traffic-2662002"
-        }
+        { "name": "The Tribune", "url": "https://www.tribuneindia.com/news/himachal/kiratpur-manali-highway-restored-to-one-way-traffic-at-pandoh-in-mandi/" },
+        { "name": "The Tribune", "url": "https://www.tribuneindia.com/news/himachal/kiratpur-manali-highway-blocked-by-shooting-stones-118-roads-remain-shut" }
       ]
     },
     {
-      "id": "odisha-north-floods-baleswar",
+      "id": "manipur-ukhrul-senapati-kamjong-ongoing",
       "icon": "🌊",
-      "title": "North Odisha floods: Jalka crosses danger mark at Mathani, 90 villages at risk in Basta block",
-      "category": "Flood",
-      "categoryKey": "flood",
-      "severity": "critical",
-      "status": "ongoing",
-      "region": "east",
-      "states": [
-        "Odisha"
-      ],
-      "date": "2026-08-23",
-      "summary": "Two more days of incessant rain have pushed the Baitarani above the danger mark at Anandapur and the Jalka past its danger level at Mathani in Balasore's Basta block (7.84m vs 6.50m danger mark at 6am). Around 90 villages across 17 panchayats in Basta block are at risk if rain continues, with floodwater entering low-lying areas and road connectivity affected at multiple locations; administration has shifted vulnerable residents to flood shelters.",
-      "impact": "Critical serviceability loss — Balasore/Basta belt: flag Basta-block pincodes non-serviceable while river levels stay above the danger mark, hold linehaul into the Baleswar/Bhadrak hub, and pre-position buffer stock at Bhubaneswar for re-routing once roads reopen.",
-      "sources": [
-        {
-          "name": "OdishaTV",
-          "url": "https://odishatv.in/odisha/odisha-floods-live-update-baitarani-budhabalanga-jalka-swell-amid-incessant-rain-12259381"
-        },
-        {
-          "name": "Pragativadi",
-          "url": "https://pragativadi.com/north-odisha-rivers-on-the-rise-jalaka-crosses-danger-mark-baitarani-and-subarnarekha-swell/"
-        }
-      ]
-    },
-    {
-      "id": "manipur-senapati-ukhrul-kamjong-floods",
-      "icon": "🌊",
-      "title": "Manipur: flash floods/landslides isolate border villages across Senapati, Ukhrul & Kamjong hill districts",
+      "title": "Manipur: NH202 Imphal-Ukhrul road still in deplorable condition, Kamjong bailey bridge unrepaired since July",
       "category": "Flood",
       "categoryKey": "flood",
       "severity": "high",
       "status": "ongoing",
       "region": "east",
-      "states": [
-        "Manipur"
-      ],
-      "date": "2026-08-18",
-      "summary": "Two days of incessant rain triggered flash floods and landslides across Manipur's Senapati, Ukhrul and Kamjong hill districts, damaging farmland, roads and bridges and cutting off several remote border villages from essential services. The Ngaorei (Laini) river, which runs along the Ukhrul-Senapati border, crossed the danger mark.",
-      "impact": "Serviceability loss risk — Ukhrul/Senapati/Kamjong pincodes: flag remote border villages as NS until bridge/road repairs complete; route Imphal-hub linehaul via alternate NH2 stretches and monitor for extended non-adherence in hill-district LM.",
-      "sources": [
-        {
-          "name": "NE Now (ground report)",
-          "url": "https://nenow.in/north-east-news/manipur/manipur-flash-floods-and-landslides-isolate-border-villages-devastate-farms-across-three-hill-districts.html"
-        }
-      ]
-    },
-    {
-      "id": "meghalaya-shillong-dawki-landslide",
-      "icon": "⛰️",
-      "title": "Meghalaya: Shillong-Dawki road shut after major landslide; Mawsynram records 526.5mm rain",
-      "category": "Landslide",
-      "categoryKey": "landslide",
-      "severity": "high",
-      "status": "ongoing",
-      "region": "east",
-      "states": [
-        "Meghalaya"
-      ],
-      "date": "2026-08-18",
-      "summary": "A major landslide has completely cut off the Shillong-Dawki road — the key link to the Bangladesh border trade point — after Mawsynram in East Khasi Hills recorded 526.5mm of rain, among the highest in the region. The East Khasi Hills Deputy Commissioner has closed the road until further notice; repair work is expected to take a few days.",
-      "impact": "LM disruption — East Khasi Hills/Dawki corridor: flag Dawki-route pincodes non-serviceable, hold cross-border-linked shipments, and use alternate Shillong-Jowai routing where feasible for the next several days.",
-      "sources": [
-        {
-          "name": "Curly Tales",
-          "url": "https://curlytales.com/india/trending/landslides-road-closures-flood-warnings-why-travelling-to-meghalaya-right-now-is-risky/"
-        }
-      ]
-    },
-    {
-      "id": "darjeeling-jorebungalow-teesta-landslide",
-      "icon": "⛰️",
-      "title": "Darjeeling hills: landslide on Jorebungalow-Teesta Bazar road via Peshok disrupts Darjeeling-Sikkim traffic",
-      "category": "Landslide",
-      "categoryKey": "landslide",
-      "severity": "moderate",
-      "status": "ongoing",
-      "region": "east",
-      "states": [
-        "West Bengal",
-        "Sikkim"
-      ],
-      "date": "2026-08-17",
-      "summary": "A heavy landslide on the Jorebungalow-Teesta Bazar road via Peshok in Darjeeling district caused part of the road to disappear, halting traffic on this key Darjeeling-Kalimpong-Gangtok link for goods and passenger vehicles. One-way traffic has since been arranged while PWD repairs the site; more rain is forecast for Darjeeling, Jalpaiguri and Alipurduar.",
-      "impact": "Watch list — Darjeeling/Kalimpong/Gangtok LM: expect delays on this hill corridor; build extra transit buffer for Sikkim-bound dispatches and monitor for repeat blockages given further rain forecast.",
-      "sources": [
-        {
-          "name": "Mangalorean.com (ground report)",
-          "url": "https://www.mangalorean.com/landslides-on-busy-road-in-darjeeling-district-stall-traffic-movement-in-bengal-hill-areas-more-rains-predicted/"
-        }
-      ]
-    },
-    {
-      "id": "telangana-bob-depression-rain-watch",
-      "icon": "🌧️",
-      "title": "Telangana: yellow alert for 13 districts as Bay of Bengal depression brings heavy rain, reservoirs rising",
-      "category": "Flood",
-      "categoryKey": "flood",
-      "severity": "moderate",
-      "status": "ongoing",
-      "region": "south",
-      "states": [
-        "Telangana"
-      ],
-      "date": "2026-08-20",
-      "summary": "A depression/trough over the Bay of Bengal brought heavy to extremely heavy rain to Telangana, prompting a yellow alert across 13 districts from the Hyderabad Meteorological Centre; reservoirs are rising and residents in Hyderabad and surrounding districts have been advised to stay alert.",
-      "impact": "Watch list — Hyderabad hub and northern Telangana pincodes: pre-position buffer stock and be ready to relax SLAs if the depression intensifies; monitor the Kamareddy/Medak/Nirmal belt, historically first to see village-road cutoffs in this rain pattern.",
-      "sources": [
-        {
-          "name": "NTV Telugu",
-          "url": "https://ntvtelugu.com/news/telangana-heavy-rain-alert-13-districts-yellow-alert-1006742.html"
-        },
-        {
-          "name": "Telangana Today",
-          "url": "https://telanganatoday.com/heavy-rains-swell-telangana-reservoirs-trigger-flood-alerts"
-        }
-      ]
-    },
-    {
-      "id": "telangana-auto-strike-averted-aug24",
-      "icon": "🚕",
-      "title": "Telangana auto/cab strike called off hours before Aug 24 start, talks planned next month",
-      "category": "Strike / Bandh",
-      "categoryKey": "strike",
-      "severity": "watch",
-      "status": "ongoing",
-      "region": "south",
-      "states": [
-        "Telangana"
-      ],
+      "states": ["Manipur"],
       "date": "2026-08-24",
-      "summary": "Auto-rickshaw, cab (Ola/Uber/Rapido) and school-van unions under the JAC banner called off their planned indefinite strike hours before its Sunday midnight start, after transport minister Ponnam Prabhakar assured talks on their demands — a welfare board, ₹12,000 annual assistance and ₹5 lakh accident insurance — next month. Hyderabad and other Telangana cities avoided disruption to commute, food and grocery delivery.",
-      "impact": "Watch list, no current disruption: Hyderabad hub LM/FM unaffected today, but the underlying gig/auto-worker demands remain unresolved and talks are only scheduled for next month — treat as a recurring strike-risk watch item and revisit before the next JAC deadline.",
+      "summary": "The August flash floods and landslides across Senapati, Ukhrul and Kamjong hill districts washed away roads, farmland and bridges, and NH202 (Imphal-Ukhrul road) remains in deplorable, monsoon-battered condition with persistent roadblocks stranding vehicles. The Bailey bridge over the Namban/Nambalok river in Kamjong district — the only link for Chatric and 12 neighbouring border villages — has still not been repaired since it was destroyed in July.",
+      "impact": "Serviceability loss — Ukhrul/Kamjong/Senapati pincodes: keep border villages served via the Kamjong bridge flagged non-serviceable, route Imphal-hub linehaul with extra transit buffer on NH202, and monitor for continued non-adherence in this hill-district LM belt through the monsoon.",
       "sources": [
-        {
-          "name": "Siasat",
-          "url": "https://www.siasat.com/indefinite-auto-strike-from-august-24-across-telangana-3529137/"
-        },
-        {
-          "name": "Deccan Chronicle",
-          "url": "https://www.deccanchronicle.com/southern-states/telangana/telangana-auto-unions-call-off-indefinite-strike-1981665"
-        }
+        { "name": "Ukhrul Times", "url": "https://ukhrultimes.com/pathetic-imphal-ukhrul-road-causing-hardship-to-people/" },
+        { "name": "EastMojo", "url": "https://eastmojo.com/manipur/2026/07/22/manipur-miscreants-damage-lifeline-bailey-bridge-in-kamjong/" }
       ]
     },
     {
-      "id": "fuel-prices-multi-city-high",
+      "id": "meghalaya-shillong-dawki-partial-reopen",
+      "icon": "⛰️",
+      "title": "Meghalaya: Shillong-Dawki road's Laitlyngkot stretch reopens with night-travel restrictions, landslide risk continues",
+      "category": "Landslide",
+      "categoryKey": "landslide",
+      "severity": "moderate",
+      "status": "ongoing",
+      "region": "east",
+      "states": ["Meghalaya"],
+      "date": "2026-08-10",
+      "summary": "The Laitlyngkot-Lyngkyrdem stretch of the Shillong-Dawki Road (NH-206) — closed for weeks after landslides — reopened to all vehicular traffic from August 10 following a joint safety inspection. Night-time movement restrictions remain in force, and with the monsoon still active authorities continue to warn of landslide, rockfall and road-instability risk, advising against non-essential travel during and right after heavy rain.",
+      "impact": "Watch list — East Khasi Hills/Dawki corridor: daytime LM/FM movement can resume on this stretch, but keep night dispatches suspended and hold a contingency buffer given this road has closed repeatedly (April, June, August) this monsoon season.",
+      "sources": [
+        { "name": "The Shillong Times", "url": "https://theshillongtimes.com/2026/08/10/damaged-stretch-of-shillong-dawki-road-set-to-reopen-today/" },
+        { "name": "Hub Network", "url": "https://hubnetwork.in/shillong-dawki-road-stretch-to-reopen-for-traffic-from-august-10/" }
+      ]
+    },
+    {
+      "id": "sikkim-nh10-20th-mile-landslide",
+      "icon": "⛰️",
+      "title": "Sikkim: recurring landslides at NH-10's 20th Mile cut Singtam-Rangpo link, West Sikkim's Gyalshing-Legship route also blocked",
+      "category": "Landslide",
+      "categoryKey": "landslide",
+      "severity": "high",
+      "status": "ongoing",
+      "region": "east",
+      "states": ["Sikkim"],
+      "date": "2026-08-25",
+      "summary": "Expanding land instability at the 20th Mile point on NH-10's Singtam-Rangpo stretch (near ATTC College and the Singtam tunnel portal) has repeatedly blocked this key East Sikkim link through the month; clearance crews are working the site but officials warn restoration will take time. Separately, the Gyalshing-Legship route in West Sikkim has also been cut off by landslides. NHIDCL has proposed four tunnels on the Rangpo-Singtam stretch as a long-term fix.",
+      "impact": "Serviceability loss risk — East Sikkim (Singtam-Rangpo) and West Sikkim (Gyalshing-Legship): route Siliguri-Gangtok linehaul via the Singtam-Duga-Rangpo diversion, flag West Sikkim pincodes served via Gyalshing-Legship as at-risk, and pre-position extra buffer stock at the Siliguri gateway hub.",
+      "sources": [
+        { "name": "North East Live TV", "url": "https://northeastlivetv.com/topnews/sikkim-landslide-blocks-nh10-at-20th-mile-on-singtam-rangpo-stretch-traffic-disrupted/" },
+        { "name": "Sikkim Express", "url": "https://www.sikkimexpress.com/news-details/20th-mile-landslide-indra-hang-urges-ministrys-immediate-intervention" },
+        { "name": "NE News (ground report)", "url": "https://nenews.in/politics/west-sikkim-cut-off-as-landslides-block-key-gyalshing-legship-route/55117/" }
+      ]
+    },
+    {
+      "id": "gujarat-central-south-red-alert-aug26",
+      "icon": "🌧️",
+      "title": "Gujarat: red alert for 13 districts as extreme rainfall batters Surat, Kheda and Anand",
+      "category": "Flood",
+      "categoryKey": "flood",
+      "severity": "high",
+      "status": "ongoing",
+      "region": "west",
+      "states": ["Gujarat"],
+      "date": "2026-08-26",
+      "summary": "IMD issued a red alert for very heavy rainfall across 13 Gujarat districts as central and south Gujarat were battered by extreme rain on August 26, with Surat, Kheda and Anand the hardest-hit; parts of Saurashtra/Kutch also saw rainfall thousands of percent above normal for the date, driven by a land-based deep depression pulling moisture from both the Bay of Bengal and Arabian Sea.",
+      "impact": "Serviceability risk — Surat/Kheda/Anand belt: flag flood-prone pincodes non-serviceable while the red alert holds, pre-position buffer stock at the Ahmedabad/Vadodara hubs, and coordinate with Delhivery/Shadowfax on alternate routing around waterlogged stretches in these three districts.",
+      "sources": [
+        { "name": "Down To Earth", "url": "https://www.downtoearth.org.in/natural-disasters/a-rare-atmospheric-phenomena-is-behind-extreme-rainfall-floods-in-gujarat-and-its-fuelled-by-soil-moisture" },
+        { "name": "Outlook India", "url": "https://www.outlookindia.com/national/rains-batter-central-south-gujarat-red-alert-in-13-districts-surat-kheda-anand-hardest-hit-2" }
+      ]
+    },
+    {
+      "id": "kerala-orange-alert-aug28-29",
+      "icon": "🌧️",
+      "title": "Kerala: orange alert for Idukki, Wayanad, Palakkad, Malappuram, Kozhikode, Kannur as heavy rain continues to Aug 29",
+      "category": "Flood",
+      "categoryKey": "flood",
+      "severity": "moderate",
+      "status": "ongoing",
+      "region": "south",
+      "states": ["Kerala"],
+      "date": "2026-08-28",
+      "summary": "IMD has placed Idukki, Palakkad, Malappuram, Kozhikode, Wayanad and Kannur on orange alert for August 28, extending to Pathanamthitta, Kottayam, Idukki, Palakkad, Malappuram and Wayanad on August 29, forecasting extremely heavy rain of around 20cm along with squally winds up to 50-60kmph off the Arabian Sea coast. All other districts remain on yellow alert.",
+      "impact": "Watch list — Idukki/Wayanad/Malappuram/Kottayam hill and highland pincodes: pre-build 2-3 day buffer stock, monitor for fresh landslide-triggered village cutoffs given this belt's monsoon history, and be ready to flag NS for hill-taluka pincodes if the alert is upgraded.",
+      "sources": [
+        { "name": "Onmanorama", "url": "https://www.onmanorama.com/news/kerala/2026/08/24/heavy-rain-likely-in-kerala-till-aug-29-yellow-alert-districts-today.html" },
+        { "name": "India.com", "url": "https://www.india.com/news/india/imd-weather-forecast-august-28-orange-alert-for-kerala-heavy-rainfall-predicted-in-south-bengal-check-forecast-for-madhya-pradesh-chhattisgarh-uttar-pradesh-8511347/" }
+      ]
+    },
+    {
+      "id": "bay-of-bengal-fresh-lowpressure-aug29",
+      "icon": "🌀",
+      "title": "Fresh Bay of Bengal low-pressure system to form near West Bengal-North Odisha coast around Aug 29",
+      "category": "Cyclone",
+      "categoryKey": "cyclone",
+      "severity": "watch",
+      "status": "upcoming",
+      "region": "east",
+      "states": ["Odisha", "West Bengal"],
+      "date": "2026-08-29",
+      "summary": "A cyclonic circulation is already active over the northwest Bay of Bengal and adjoining West Bengal-North Odisha coast, and IMD expects it to consolidate into a fresh low-pressure area around August 29 — the latest in a run of back-to-back systems that have already brought repeated heavy rain to the region this month. Squally winds and rough seas are expected off the West Bengal-Odisha coast.",
+      "impact": "Cost/route watch — Balasore/Bhadrak/coastal Odisha and South Bengal hubs: pre-position buffer stock ahead of the system's landfall window, advise fishermen-adjacent coastal pincodes may see short LM slowdowns, and monitor for a repeat of the river-flooding pattern seen earlier this month in Balasore's Basta block.",
+      "sources": [
+        { "name": "OdishaTV", "url": "https://odishatv.in/odisha/another-low-pressure-system-around-august-29-more-rain-to-lash-odisha-12445293" },
+        { "name": "Deccan Herald", "url": "https://www.deccanherald.com/india/odisha/low-pressure-area-over-bay-of-bengal-intensifies-into-depression-heavy-rain-to-lash-odisha-4087926" }
+      ]
+    },
+    {
+      "id": "fuel-lpg-cng-steady-aug28",
       "icon": "⛽",
-      "title": "Petrol/diesel hold steady at multi-city highs amid Strait of Hormuz shipping relief",
+      "title": "Petrol/diesel hold at multi-city highs; commercial LPG down for 2nd straight month, CNG/PNG unchanged",
       "category": "Fuel & Energy",
       "categoryKey": "fuel",
       "severity": "watch",
       "status": "ongoing",
       "region": "pan-india",
-      "states": [
-        "Pan-India"
-      ],
-      "date": "2026-08-24",
-      "summary": "Retail petrol and diesel prices remain unchanged since OMCs' May 25 hike — Delhi ₹102.12/₹95.20, Mumbai ₹111.21/₹97.83, Bengaluru ₹111.68/₹99.56, Hyderabad ₹115.69/₹103.82, Chennai ₹107.76/₹99.55, Kolkata ₹113.51/₹99.82 (petrol/diesel per litre). Prices have settled after the latest US-Iran de-escalation raised hopes of resumed shipping via the Strait of Hormuz.",
-      "impact": "Cost watch, no action yet: no immediate LM/FM disruption, but sustained high fuel levels keep pressure on 3P per-km rates. Track weekly for early signal on Delhivery/Shadowfax/Xpressbees fuel surcharge asks ahead of the next pricing cycle.",
+      "states": ["Pan-India"],
+      "date": "2026-08-28",
+      "summary": "Retail petrol and diesel prices remain unchanged since OMCs' May 25 hike — Delhi ₹102.12/₹95.20, Mumbai ₹111.21/₹97.83, Hyderabad ₹115.69/₹103.82 (petrol/diesel per litre). Commercial 19kg LPG cylinders were cut by ₹202-209 in major metros on August 1 — the second straight monthly cut — while domestic 14.2kg LPG has stayed at ₹941.50 since June and CNG/PNG rates are unchanged in Delhi, Mumbai, Kolkata, Chennai, Bengaluru and Hyderabad despite crude prices rising ~24% last month on US-Iran tensions.",
+      "impact": "Cost watch, no action yet: no immediate LM/FM disruption. Track weekly for early signal on Delhivery/Shadowfax/Xpressbees fuel-surcharge asks — sustained high crude with flat retail fuel prices keeps margin pressure building ahead of the next OMC pricing cycle.",
       "sources": [
-        {
-          "name": "BusinessToday",
-          "url": "https://www.businesstoday.in/india/story/petrol-diesel-prices-today-august-24-check-latest-rates-in-delhi-mumbai-chennai-kolkata-more-550821-2026-08-24"
-        },
-        {
-          "name": "Goodreturns",
-          "url": "https://www.goodreturns.in/petrol-price.html"
-        }
+        { "name": "BusinessToday", "url": "https://www.businesstoday.in/india/story/petrol-diesel-prices-today-august-28-check-latest-rates-in-delhi-mumbai-chennai-kolkata-more-551922-2026-08-28" },
+        { "name": "Goodreturns", "url": "https://www.goodreturns.in/personal-finance/cng-png-prices-in-india-natural-gas-prices-cut-hiked-or-unchanged-in-august-2026-find-out-1525615.html" }
       ]
     }
   ]
-    }
+}
