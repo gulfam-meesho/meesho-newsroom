@@ -1,5 +1,5 @@
 {
-  "compiledAt": "2026-09-23T19:45:00+05:30",
+  "compiledAt": "2026-09-23T15:15:00+05:30",
   "note": "Manually-refreshed research digest compiled from public news sources, including regional/vernacular press, local TV channels and YouTube ground reports where available. Not a live news-wire feed — update this file (or re-run research) to refresh. Built for Meesho 3P logistics capacity planning (Delhivery · Shadowfax · Xpressbees): LM/FM manifestation, non-adherence hotspots, and serviceability-loss tracking. Not an official Meesho product.",
   "upcomingEvents": [
     {
@@ -159,6 +159,23 @@
         {
           "name": "GiftsToIndia24x7",
           "url": "https://www.giftstoindia24x7.com/a/when-is-durga-puja"
+        }
+      ]
+    },
+    {
+      "id": "kati-bihu-2026",
+      "icon": "🪔",
+      "community": "Hindu (Assam regional)",
+      "title": "Kati Bihu (Kongali Bihu) — Assam state holiday; expect lighter LM/FM staffing across Assam hubs",
+      "date": "2026-10-18",
+      "sources": [
+        {
+          "name": "Office Holidays",
+          "url": "https://www.officeholidays.com/holidays/india/assam/kati-bihu"
+        },
+        {
+          "name": "National Today",
+          "url": "https://nationaltoday.com/kati-bihu/"
         }
       ]
     },
@@ -2111,6 +2128,50 @@
           "url": "https://sundayguardianlive.com/india/india-weather-forecast-tomorrow-imd-issues-alert-for-heavy-rain-thunderstorm-for-several-states-check-forecast-for-delhi-maharashtra-up-jharkhand-bihar-odisha-northeast-safety-advisory-290406/"
         }
       ]
+    },
+    {
+      "id": "ap-vizianagaram-chandrampeta-vasantha-road-ginjerugedda-sep2026",
+      "icon": "🌊",
+      "title": "Vizianagaram: Chandrampeta–Vasantha road shut as Ginjerugedda stream floods; Palasa, Kalingapatnam log ~10 cm",
+      "category": "Flood",
+      "categoryKey": "flood",
+      "severity": "high",
+      "status": "ongoing",
+      "region": "south",
+      "states": [
+        "Andhra Pradesh"
+      ],
+      "date": "2026-09-22",
+      "summary": "Officials suspended traffic on the Chandrampeta–Vasantha road in Vizianagaram district after heavy water from the Ginjerugedda stream flooded it following rain since Monday night. APSDMA recorded about 10 cm at Palasa and Kalingapatnam (Srikakulam), 7.1 cm at Peda Bayalu (Alluri Sitarama Raju) and 6.2 cm at Bhogapuram (Vizianagaram). IMD-Amaravati issued an orange alert for 24 Sep for Parvathipuram Manyam, ASR, Kakinada, Konaseema, East/West Godavari and Eluru, with a yellow alert for Srikakulam, Vizianagaram, Visakhapatnam, Anakapalle, Krishna, Guntur, NTR and Bapatla.",
+      "impact": "Treat rural LM beats around Chandrampeta/Vasantha (Vizianagaram) and the Palasa–Kalingapatnam belt (Srikakulam) as partly non-serviceable until the stream recedes. Also, pre-alert Delhivery/Shadowfax/Xpressbees hubs in Kakinada, Konaseema (Amalapuram), Rajahmundry, Eluru and Bhimavaram: the orange alert moves south on 24 Sep. Stagger FM pickups and relax SLAs for 24–25 Sep.",
+      "sources": [
+        {
+          "name": "Deccan Chronicle (Visakhapatnam bureau, ground report)",
+          "url": "https://www.deccanchronicle.com/southern-states/andhra-pradesh/heavy-rains-lash-several-parts-of-ap-1989704"
+        }
+      ]
+    },
+    {
+      "id": "gujarat-saurashtra-93-talukas-mahuva-gondal-rain-sep2026",
+      "icon": "🌧️",
+      "title": "Saurashtra: rain across 93 talukas — Mahuva 4 in, Gondal 3.6 in, Manavadar 3 in ahead of monsoon withdrawal",
+      "category": "Flood",
+      "categoryKey": "flood",
+      "severity": "watch",
+      "status": "ongoing",
+      "region": "west",
+      "states": [
+        "Gujarat"
+      ],
+      "date": "2026-09-21",
+      "summary": "Rain fell across 93 talukas of Gujarat in 24 hours, mostly in Saurashtra. Mahuva (Bhavnagar) had the most at 4 inches, followed by Gondal (Rajkot) at 3.62 inches, Manavadar 3 inches, Junagadh city 2.36 inches, and Vanthali, Veraval and Bhanvad about 2 inches each. Keshod and Vadia recorded about 1.7–1.8 inches.",
+      "impact": "Localized waterlogging risk only; no route closures reported. Watch LM TAT on Mahuva, Gondal, Junagadh, Veraval and Keshod beats (Rajkot/Junagadh/Bhavnagar hubs) for short delays. No non-serviceable flags needed for now.",
+      "sources": [
+        {
+          "name": "Gujarat First (ground report, TV)",
+          "url": "https://www.gujaratfirst.com/ahmedabad/gujarat-rain-93-talukas-mahuva-4-inch-gondal-manavadar-junagadh-gujarat-first-digital/340667"
+        }
+      ]
     }
   ]
-    }
+}
