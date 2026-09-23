@@ -1,5 +1,5 @@
 {
-  "compiledAt": "2026-09-23T10:30:00+05:30",
+  "compiledAt": "2026-09-23T19:45:00+05:30",
   "note": "Manually-refreshed research digest compiled from public news sources, including regional/vernacular press, local TV channels and YouTube ground reports where available. Not a live news-wire feed — update this file (or re-run research) to refresh. Built for Meesho 3P logistics capacity planning (Delhivery · Shadowfax · Xpressbees): LM/FM manifestation, non-adherence hotspots, and serviceability-loss tracking. Not an official Meesho product.",
   "upcomingEvents": [
     {
@@ -91,6 +91,24 @@
       ]
     },
     {
+      "id": "bathukamma-2026",
+      "icon": "🌼",
+      "community": "Hindu (Telangana regional)",
+      "title": "Bathukamma (Oct 10-18, Saddula Bathukamma Oct 18): nine-day Telangana flower festival - evening tank-bund and colony gatherings in Hyderabad, Warangal and Karimnagar push LM attempt windows earlier",
+      "date": "2026-10-10",
+      "endDate": "2026-10-18",
+      "sources": [
+        {
+          "name": "Office Holidays - Saddula Bathukamma, Telangana 2026",
+          "url": "https://www.officeholidays.com/holidays/india/telangana/india-telangana-bathukamma"
+        },
+        {
+          "name": "Wego Travel Blog - Bathukamma 2026",
+          "url": "https://blog.wego.com/bathukamma/"
+        }
+      ]
+    },
+    {
       "id": "sharad-navratri-2026",
       "icon": "🕉️",
       "community": "Hindu",
@@ -109,6 +127,24 @@
       ]
     },
     {
+      "id": "mysuru-dasara-2026",
+      "icon": "🐘",
+      "community": "Hindu (Karnataka regional)",
+      "title": "Mysuru Dasara / Nada Habba (Oct 11-21, Jamboo Savari Oct 21): Mysuru city-centre road closures and a heavy Bengaluru-Mysuru corridor tourist surge",
+      "date": "2026-10-11",
+      "endDate": "2026-10-21",
+      "sources": [
+        {
+          "name": "Mysore Dasara (official)",
+          "url": "https://www.mysoredasara.org/mysore-dasara-program-dates.html"
+        },
+        {
+          "name": "InMysore - Mysore Dasara 2026",
+          "url": "https://www.inmysore.com/about-mysore/mysore-dasara-festival/mysore-dasara-2026"
+        }
+      ]
+    },
+    {
       "id": "durga-puja-2026",
       "icon": "🕉️",
       "community": "Hindu (East India)",
@@ -123,6 +159,23 @@
         {
           "name": "GiftsToIndia24x7",
           "url": "https://www.giftstoindia24x7.com/a/when-is-durga-puja"
+        }
+      ]
+    },
+    {
+      "id": "ayudha-puja-maha-navami-2026",
+      "icon": "🛠️",
+      "community": "Hindu (South India)",
+      "title": "Ayudha Puja / Maha Navami (Oct 19): vehicles and machinery are worshipped and kept off the road - 3P fleet availability drops sharply in Tamil Nadu, Karnataka, Andhra Pradesh, Telangana and Kerala",
+      "date": "2026-10-19",
+      "sources": [
+        {
+          "name": "SmartPuja - Ayudha Puja 2026",
+          "url": "https://www.smartpuja.com/blog/ayudha-puja-2026-date-muhurat-rituals-significance/"
+        },
+        {
+          "name": "BankBazaar - Ayudha Puja",
+          "url": "https://www.bankbazaar.com/indian-holiday/ayudha-puja.html"
         }
       ]
     },
@@ -681,7 +734,7 @@
         "Punjab"
       ],
       "date": "2026-09-24",
-      "summary": "Punbus, PRTC and Punjab Roadways contract workers deferred the indefinite chakka jam that was to begin on 22 September after meeting the new Transport Secretary, and agreed to keep buses running until a government meeting on 24 September. Union president Resham Singh Gill said the strike proceeds only if the 24 September meeting fails. Demands are regularisation, an end to the contract system, and salary and service benefits.",
+      "summary": "Punbus, PRTC and Punjab Roadways contract workers deferred the indefinite chakka jam that was to begin on 22 September after meeting the new Transport Secretary, and agreed to keep buses running until a government meeting on 24 September. Union president Resham Singh Gill said the strike proceeds only if the 24 September meeting fails. Demands are regularisation, an end to the contract system, and salary and service benefits. The deferral followed a meeting with newly appointed Transport Secretary Anurag Verma, who assured the union its concerns would be considered; the workers additionally want outsourced staff brought under direct departmental contracts with equal pay for equal work.",
       "impact": "24 September is a double flashpoint in Punjab - this bus-strike decision and the farmers' MSP meeting land on the same day. Hold a contingency plan for Ludhiana, Jalandhar, Amritsar and Patiala FM pickups on 25-26 September and re-verify the outcome on the evening of 24 September.",
       "sources": [
         {
@@ -697,7 +750,7 @@
     {
       "id": "nationwide-fuel-lpg-cng-price-hike-sep2026",
       "icon": "⛽",
-      "title": "Crude near $102 on Strait of Hormuz disruption; Delhi diesel Rs 95.44, commercial LPG Rs 2,747.50 (+32% since April)",
+      "title": "Crude near $102; Delhi diesel Rs 95.20 and Hyderabad diesel Rs 103.82 on 23 Sep, commercial LPG Rs 2,747.50",
       "category": "Fuel & Energy",
       "categoryKey": "fuel",
       "severity": "high",
@@ -707,8 +760,8 @@
         "Pan-India"
       ],
       "date": "2026-09-23",
-      "summary": "Brent crude is trading near $102 a barrel amid Strait of Hormuz shipping disruption. Delhi petrol has moved to Rs 101.96 a litre and diesel to Rs 95.44 after holding flat from 11 to 20 September, following an earlier Rs 3 a litre hike. The 19-kg commercial LPG cylinder is at Rs 2,747.50, up Rs 9.50 month-on-month and up Rs 669 (32.2%) since April. CNG stands at Rs 86.98/kg in Delhi, Rs 88 in Mumbai, Rs 97 in Bengaluru, Rs 112 in Hyderabad, Rs 97.50 in Chennai, Rs 94.02 in Ahmedabad and Rs 93.50 in Kolkata.",
-      "impact": "Diesel above Rs 95 and crude above $100 put upward pressure on 3P per-shipment LM/FM rates - expect Delhivery, Shadowfax and Xpressbees to raise fuel-surcharge asks in the next rate cycle. Hyderabad CNG at Rs 112/kg materially worsens CNG-fleet LM economics there versus Delhi and Mumbai; factor this into capacity-expansion cost cases for Telangana pincodes.",
+      "summary": "Brent crude is trading near $102 a barrel amid Strait of Hormuz shipping disruption. Pump prices held steady again on 23 September: Delhi petrol Rs 102.12 and diesel Rs 95.20, Mumbai Rs 111.21 and Rs 97.83, Chennai Rs 107.76 and Rs 99.55, Bengaluru Rs 110.82 and Rs 98.78, and Hyderabad Rs 115.69 and Rs 103.82 - the costliest metro for both fuels. The 19-kg commercial LPG cylinder is at Rs 2,747.50 in Delhi, up Rs 669 (32.2%) since April, and Rs 2,831.00 in Bengaluru; domestic 14.2-kg LPG is Rs 942 in Delhi. CNG stands at Rs 86.98/kg in Delhi, Rs 88 in Mumbai, Rs 97 in Bengaluru, Rs 112 in Hyderabad, Rs 97.50 in Chennai, Rs 94.02 in Ahmedabad and Rs 93.50 in Kolkata.",
+      "impact": "Diesel above Rs 95 in Delhi and above Rs 103 in Hyderabad, with crude over $100, keeps upward pressure on 3P per-shipment LM/FM rates - expect Delhivery, Shadowfax and Xpressbees to raise fuel-surcharge asks in the next rate cycle. Hyderabad is now the worst metro on both diesel (Rs 103.82) and CNG (Rs 112/kg), which materially worsens LM economics there versus Delhi and Mumbai; factor this into capacity-expansion cost cases for Telangana pincodes.",
       "sources": [
         {
           "name": "Sunday Guardian Live",
@@ -721,6 +774,10 @@
         {
           "name": "Goodreturns CNG price tracker",
           "url": "https://www.goodreturns.in/cng-price.html"
+        },
+        {
+          "name": "The Hans India",
+          "url": "https://www.thehansindia.com/business/market-compass/petrol-and-diesel-prices-today-in-hyderabad-delhi-chennai-and-mumbai-on-23-september-2026-1124809"
         }
       ]
     },
@@ -931,7 +988,7 @@
         "Telangana"
       ],
       "date": "2026-09-23",
-      "summary": "IMD has issued a red alert for 23-25 September for Komuram Bheem Asifabad, Mancherial, Karimnagar, Peddapalli, Jayashankar Bhupalapally, Mulugu, Bhadradri Kothagudem, Khammam, Mahabubabad, Warangal and Hanumakonda, forecasting very heavy to extremely heavy rain that may exceed 204.5 mm. An orange alert covers a further 20 districts including Adilabad, Nizamabad, Jagtial, Nalgonda and Suryapet through 26 September. Hyderabad, Rangareddy, Medchal-Malkajgiri, Vikarabad, Sangareddy and Medak are under a yellow alert on 23 September. Thunderstorms with squally winds of 50-60 kmph are warned for 24-26 September.",
+      "summary": "IMD has issued a red alert for 23-25 September for Komuram Bheem Asifabad, Mancherial, Karimnagar, Peddapalli, Jayashankar Bhupalapally, Mulugu, Bhadradri Kothagudem, Khammam, Mahabubabad, Warangal and Hanumakonda, forecasting very heavy to extremely heavy rain that may exceed 204.5 mm. An orange alert covers a further 20 districts including Adilabad, Nizamabad, Jagtial, Nalgonda and Suryapet through 26 September. Hyderabad, Rangareddy, Medchal-Malkajgiri, Vikarabad, Sangareddy and Medak are under a yellow alert on 23 September. Thunderstorms with squally winds of 50-60 kmph are warned for 24-26 September. An updated 23 September count puts 18 districts under the red alert, with IMD warning of a flash-flood threat where totals may exceed 20 cm, and Hyderabad forecast multiple spells of rain from the afternoon onwards.",
       "impact": "Treat Warangal, Hanumakonda, Karimnagar, Peddapalli, Khammam, Bhadradri Kothagudem and Mancherial as high non-adherence risk for 23-25 Sep - expect FM pickup slippage and LM attempt failure across the red-alert belt. Hold Hyderabad line-haul departures to north Telangana until the 50-60 kmph squall window passes, and pre-flag Mulugu and Jayashankar Bhupalapally rural pincodes for serviceability loss.",
       "sources": [
         {
@@ -945,6 +1002,14 @@
         {
           "name": "NewsMeter Hyderabad (ground report)",
           "url": "https://newsmeter.in/hyderabad/hyderabad-weather-alert-heavy-rain-thunderstorms-likely-for-next-four-days-775881"
+        },
+        {
+          "name": "Deccan Chronicle (ground report)",
+          "url": "https://www.deccanchronicle.com/southern-states/telangana/september-23-weather-update-heavy-rains-in-several-district-hyderabad-likely-to-receive-multiple-spells-of-rain-from-afternoon-1989789"
+        },
+        {
+          "name": "Asianet Newsable",
+          "url": "https://newsable.asianetnews.com/gallery/india/andhra-pradesh-telangana-latest-weather-update-heavy-rain-flash-flood-alert-schools-shut-7nz7lr6"
         }
       ]
     },
@@ -1563,6 +1628,14 @@
         {
           "name": "India TV News",
           "url": "https://www.indiatvnews.com/news/india/cyclone-arnab-live-tracker-landfall-update-bay-of-bengal-deep-depression-odisha-andhra-pradesh-bengal-rain-alert-2026-09-22-1054959"
+        },
+        {
+          "name": "The Week",
+          "url": "https://www.theweek.in/news/india/2026/09/23/deep-depression-nears-andhra-odisha-coast-imd-issues-red-warning.html"
+        },
+        {
+          "name": "The Tribune",
+          "url": "https://www.tribuneindia.com/news/india/deep-depression-rolls-towards-odisha-andhra-coast-landfall-likely-tonight-heavy-rain-alert-issued"
         }
       ]
     },
@@ -1967,6 +2040,77 @@
           "url": "https://www.tribuneindia.com/news/himachal/one-way-traffic-restored-after-24-hour-landslide-block-on-chandigarh-manali-highway/"
         }
       ]
+    },
+    {
+      "id": "odisha-gajapati-140-landslide-spots-vigil-sep2026",
+      "icon": "⛰️",
+      "title": "Gajapati keeps 140 identified landslide-prone spots under watch; 6 cyclone and 264 temporary shelters readied",
+      "category": "Landslide",
+      "categoryKey": "landslide",
+      "severity": "high",
+      "status": "ongoing",
+      "region": "east",
+      "states": [
+        "Odisha"
+      ],
+      "date": "2026-09-22",
+      "summary": "Rain intensified across Gajapati district through 22 September after overnight drizzle, and a red warning is in force for the district. The administration is keeping a special watch on 140 identified landslide-prone locations and has directed BDOs and tehsildars of every block to monitor and act immediately. Six cyclone shelters and 264 temporary shelters have been readied, and the Fire Services Department is on alert for uprooted trees and blocked roads. The District Fire Officer said rescue teams were pre-positioned a week in advance on the strength of the red warning.",
+      "impact": "Gajapati's ghat pincodes - Mohana, Nuagada, R Udayagiri and the Paralakhemundi-Berhampur approach - should be treated as landslide-interruptible rather than merely wet: a slide can close a beat with no forecast lead time. Hold Paralakhemundi LM attempts on 23-24 September, stage stock at Berhampur, and expect FM pickup loss across the district's interior blocks.",
+      "sources": [
+        {
+          "name": "OdishaTV (ground report)",
+          "url": "https://odishatv.in/odisha/heavy-rain-batters-gajapati-red-warning-issued-140-landslide-prone-locations-kept-under-vigil-12563806"
+        }
+      ]
+    },
+    {
+      "id": "odisha-koraput-red-warning-district-lockdown-sep2026",
+      "icon": "🛡️",
+      "title": "Koraput officials barred from leaving HQ till 25 Sep; schools shut across 10 Odisha districts, Malkangiri to the 25th",
+      "category": "National Advisory",
+      "categoryKey": "advisory",
+      "severity": "high",
+      "status": "ongoing",
+      "region": "east",
+      "states": [
+        "Odisha"
+      ],
+      "date": "2026-09-23",
+      "summary": "IMD has a red warning for Koraput running from 23 September to the morning of 25 September, with heavy to extremely heavy rain forecast on 23-24 September. The Koraput district administration has barred government officials and employees from leaving district headquarters without prior permission until 25 September, is monitoring water levels at four dams, and is stocking chuda, jaggery and medicines in low-lying areas. Educational institutions are shut in Malkangiri from 23 to 25 September; in Khordha, Nabarangpur, Ganjam, Koraput, Rayagada and Bolangir on 23-24 September; and in Jagatsinghpur, Puri and Kalahandi on 23 September.",
+      "impact": "Treat Koraput, Malkangiri, Nabarangpur and Rayagada as non-serviceable through 24 September, and Malkangiri through the 25th. With the district machinery locked to headquarters there is no local escalation path for stuck consignments, so keep Jeypore and Berhampur as holding points rather than pushing stock into block-level branches, and restart south-Odisha LM only after the Koraput red warning lapses on the morning of 25 September.",
+      "sources": [
+        {
+          "name": "OdishaTV (ground report)",
+          "url": "https://odishatv.in/odisha/heavy-rain-alert-for-odisha-schools-colleges-shut-in-10-districts-red-warning-for-koraput-12566253"
+        }
+      ]
+    },
+    {
+      "id": "konkan-goa-heavy-rain-thunderstorm-sep2026",
+      "icon": "🌧️",
+      "title": "Konkan and Goa under widespread rain with thunderstorms and gusty winds on 23 September",
+      "category": "Flood",
+      "categoryKey": "flood",
+      "severity": "watch",
+      "status": "ongoing",
+      "region": "west",
+      "states": [
+        "Goa",
+        "Maharashtra"
+      ],
+      "date": "2026-09-23",
+      "summary": "IMD's outlook for 23 September puts widespread rainfall over Konkan and Goa with heavy showers likely at isolated places, accompanied by thunderstorms, lightning and gusty winds. The spell lands inside the Ganeshotsav immersion window, when NH-66 is already closed to trucks of 16 tonnes and above and Mumbai and Pune have their own heavy-vehicle bans in force.",
+      "impact": "Panaji, Margao, Mapusa and Ponda LM should carry a half-day weather buffer on 23-24 September, and Ratnagiri-Sindhudurg beats already routed off NH-66 have almost no slack left. Do not commit same-day in coastal Goa while thunderstorm and gusty-wind conditions persist.",
+      "sources": [
+        {
+          "name": "India.com",
+          "url": "https://www.india.com/news/india/weather-tomorrow-september-23-imd-issues-heavy-rain-thunderstorm-alert-for-several-states-check-forecast-for-delhi-maharashtra-up-jharkhand-bihar-odisha-northeast-8528973/"
+        },
+        {
+          "name": "Sunday Guardian Live",
+          "url": "https://sundayguardianlive.com/india/india-weather-forecast-tomorrow-imd-issues-alert-for-heavy-rain-thunderstorm-for-several-states-check-forecast-for-delhi-maharashtra-up-jharkhand-bihar-odisha-northeast-safety-advisory-290406/"
+        }
+      ]
     }
   ]
-}
+    }
