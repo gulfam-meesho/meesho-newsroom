@@ -1,5 +1,5 @@
 {
-  "compiledAt": "2026-09-23T15:15:00+05:30",
+  "compiledAt": "2026-09-23T18:30:00+05:30",
   "note": "Manually-refreshed research digest compiled from public news sources, including regional/vernacular press, local TV channels and YouTube ground reports where available. Not a live news-wire feed — update this file (or re-run research) to refresh. Built for Meesho 3P logistics capacity planning (Delhivery · Shadowfax · Xpressbees): LM/FM manifestation, non-adherence hotspots, and serviceability-loss tracking. Not an official Meesho product.",
   "upcomingEvents": [
     {
@@ -2170,6 +2170,76 @@
         {
           "name": "Gujarat First (ground report, TV)",
           "url": "https://www.gujaratfirst.com/ahmedabad/gujarat-rain-93-talukas-mahuva-4-inch-gondal-manavadar-junagadh-gujarat-first-digital/340667"
+        }
+      ]
+    },
+    {
+      "id": "ap-srikakulam-tekkali-palasa-sompeta-inundation-sep2026",
+      "icon": "🌊",
+      "title": "Srikakulam: Palasa 14 cm, Sompeta 13 cm, Tekkali 11 cm; water enters homes at Tekkali's Bhavani Nagar",
+      "category": "Flood",
+      "categoryKey": "flood",
+      "severity": "high",
+      "status": "ongoing",
+      "region": "south",
+      "states": [
+        "Andhra Pradesh"
+      ],
+      "date": "2026-09-23",
+      "summary": "IMD said Palasa in Srikakulam district recorded 14 cm on 23 September, the state's highest, followed by Sompeta (13 cm), Kalingapatnam (12 cm), Tekkali (11 cm) and Araku Valley (10 cm). Incessant rain inundated agricultural fields, low-lying areas and roads at several places in Srikakulam district; rainwater entered homes at Bhavani Nagar in Tekkali and a tree was uprooted in Neelapuram mandal. IMD has a red alert for extremely heavy rain in Srikakulam, Vizianagaram, Parvathipuram Manyam and Alluri Sitarama Raju districts until 8:30 am on 24 September, and flags extremely heavy rain again over Eluru and ASR from 24 to 25 September. The state expects heavy rain in 129 mandals and extremely heavy rain in nine.",
+      "impact": "Treat the Palasa–Sompeta–Tekkali belt (Srikakulam's northern beats on the NH-16 corridor toward Odisha) as partly non-serviceable on 23–24 September: hold LM attempts in low-lying Tekkali wards, stagger FM pickups, and route Srikakulam-bound line-haul only after the landfall squalls pass. Pre-alert Eluru and Araku/Paderu (ASR) hubs for the second extreme-rain window on 24–25 September.",
+      "sources": [
+        {
+          "name": "ThePrint (PTI)",
+          "url": "https://theprint.in/india/deep-depression-brings-heavy-rains-to-several-parts-of-andhra/3050998/"
+        }
+      ]
+    },
+    {
+      "id": "kerala-idukki-night-travel-ban-munnar-diversion-sep2026",
+      "icon": "⛰️",
+      "title": "Idukki bans night travel (7 pm–6 am) in hill areas; Munnar town traffic diverted, Adimali Pazhampillichal families shifted",
+      "category": "Landslide",
+      "categoryKey": "landslide",
+      "severity": "high",
+      "status": "ongoing",
+      "region": "south",
+      "states": [
+        "Kerala"
+      ],
+      "date": "2026-09-22",
+      "summary": "The Idukki district administration has banned all night travel in high-range areas from 7 pm to 6 am and shut adventure-tourism spots until rain alerts are withdrawn. In Munnar, vehicles from Old Munnar to the town are diverted via the Gap Road near the CSI church and the bridge by the police station. Families at landslide risk in Adimali's Pazhampillichal were evacuated, fallen trees blocked the Kochi–Dhanushkodi national highway at several points, and travellers on the Neriamangalam–Valara stretch were told to take extreme care. On 22 September, landslides briefly cut the Erattupetta–Vagamon road, damaged the Poonjar–Adivaram road at several points, and cut off about 30 families and tourists at Thattambara near Vattavada; Idukki's minister-in-charge asked tourists to postpone non-essential travel to the high ranges.",
+      "impact": "Night line-haul into Idukki is effectively closed. Push Munnar, Adimali, Kattappana and Nedumkandam dispatches out of Kochi/Muvattupuzha in the morning so vans clear the ghat before 7 pm, and add a D+1 buffer for Vagamon, Vattavada and the Poonjar–Erattupetta belt. Mark Thattambara/Kottakamboor pincodes non-serviceable until the washed-out roads reopen.",
+      "sources": [
+        {
+          "name": "Times Kerala (ground report)",
+          "url": "https://timeskerala.com/kerala/idukki-heavy-rain-restrictions-night-travel-ban-landslide-threat-orange-alert/"
+        },
+        {
+          "name": "Onmanorama (ground report)",
+          "url": "https://www.onmanorama.com/news/kerala/2026/09/22/kottayam-idukki-flood-causes.html"
+        }
+      ]
+    },
+    {
+      "id": "maharashtra-east-vidarbha-heavy-rain-sep24-27",
+      "icon": "🌧️",
+      "title": "East Vidarbha braces for very heavy rain on 24–25 Sep as Bay system pushes inland; wet spell till 27 Sep",
+      "category": "Flood",
+      "categoryKey": "flood",
+      "severity": "moderate",
+      "status": "upcoming",
+      "region": "west",
+      "states": [
+        "Maharashtra"
+      ],
+      "date": "2026-09-24",
+      "summary": "The Nagpur regional Met centre forecasts thunderstorms with heavy spells across Vidarbha from 23 September as the Bay of Bengal system moves toward central India, with heavy to very heavy rain possible in some east Vidarbha districts on 24 and 25 September and heavy rain likely to continue until 27 September. Yellow and orange alerts are in force; rivers, streams, low-lying areas and fields may see water accumulation.",
+      "impact": "Build a half-day to one-day buffer for Gadchiroli, Chandrapur, Gondia and Bhandara LM on 24–26 September, and pre-flag interior Gadchiroli beats for possible serviceability loss if streams overtop. Run Nagpur hub line-haul toward Chandrapur and Gondia in daylight.",
+      "sources": [
+        {
+          "name": "eSakal (Marathi, ground report)",
+          "url": "https://www.esakal.com/vidarbha/nagpur/vidarbha-rain-forecast-cyclone-impact-heavy-rain-alert-september-2026-asi01"
         }
       ]
     }
