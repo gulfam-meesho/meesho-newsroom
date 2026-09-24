@@ -1,5 +1,5 @@
 {
-  "compiledAt": "2026-09-23T18:30:00+05:30",
+  "compiledAt": "2026-09-24T12:30:00+05:30",
   "note": "Manually-refreshed research digest compiled from public news sources, including regional/vernacular press, local TV channels and YouTube ground reports where available. Not a live news-wire feed — update this file (or re-run research) to refresh. Built for Meesho 3P logistics capacity planning (Delhivery · Shadowfax · Xpressbees): LM/FM manifestation, non-adherence hotspots, and serviceability-loss tracking. Not an official Meesho product.",
   "upcomingEvents": [
     {
@@ -271,6 +271,23 @@
       ]
     },
     {
+      "id": "karnataka-rajyotsava-2026",
+      "icon": "🟡",
+      "community": "National (Karnataka regional)",
+      "title": "Kannada Rajyotsava (Nov 1): Karnataka state holiday with Bengaluru flag-hoisting events - lighter LM/FM staffing statewide",
+      "date": "2026-11-01",
+      "sources": [
+        {
+          "name": "Office Holidays - Kannada Rajyothsava 2026",
+          "url": "https://www.officeholidays.com/holidays/india/karnataka/kannada-rajyothsava"
+        },
+        {
+          "name": "BankBazaar - Karnataka Rajyotsava 2026",
+          "url": "https://www.bankbazaar.com/indian-holiday/karnataka-rajyotsava-holiday.html"
+        }
+      ]
+    },
+    {
       "id": "guru-granth-sahib-parkash-2026",
       "icon": "🪯",
       "community": "Sikh",
@@ -375,6 +392,24 @@
         {
           "name": "PublicHolidays.in",
           "url": "https://publicholidays.in/guru-nanak-jayanti/"
+        }
+      ]
+    },
+    {
+      "id": "st-francis-xavier-feast-2026",
+      "icon": "✝️",
+      "community": "Christian (Goa regional)",
+      "title": "Feast of St Francis Xavier (Dec 3, novena Nov 24-Dec 2): large pilgrim crowds at Old Goa - congestion on the Panaji-Old Goa corridor",
+      "date": "2026-11-24",
+      "endDate": "2026-12-03",
+      "sources": [
+        {
+          "name": "National Today - Feast of St. Francis Xavier",
+          "url": "https://nationaltoday.com/feast-of-st-francis-xavier/"
+        },
+        {
+          "name": "BankBazaar - Feast of St Francis Xavier 2026",
+          "url": "https://www.bankbazaar.com/indian-holiday/feast-of-st-francis-xavier.html"
         }
       ]
     },
@@ -511,6 +546,144 @@
     }
   ],
   "alerts": [
+    {
+      "id": "jharkhand-tspc-3day-bandh-7-districts-sep24-26-2026",
+      "icon": "🚛",
+      "title": "TSPC calls 3-day bandh Sep 24-26 in Chatra, Hazaribagh, Palamu, Latehar, Garhwa, Lohardaga, Gumla",
+      "category": "Strike / Bandh",
+      "categoryKey": "strike",
+      "severity": "high",
+      "status": "ongoing",
+      "region": "east",
+      "states": [
+        "Jharkhand"
+      ],
+      "date": "2026-09-24",
+      "summary": "The Maoist splinter group TSPC (Tritiya Prastuti Committee) has called a three-day shutdown from 24 to 26 September across seven Jharkhand districts - Chatra, Hazaribagh, Palamu, Latehar, Garhwa, Lohardaga and Gumla - calling the police encounter of its leader Brijesh Ganjhu in Uttar Pradesh fake. Posters announcing the bandh have been put up, and the districts are on alert for three days.",
+      "impact": "Naxal-called bandhs in this belt typically halt trucks and rural road traffic even where markets open - hold line-haul into Palamu (Daltonganj), Latehar, Garhwa and Chatra for 24-26 September and push FM pickups to 27 September. Expect LM attempt failures in rural pincodes of all seven districts; Hazaribagh town and Ranchi-bound NH traffic may run with security escort only.",
+      "sources": [
+        {
+          "name": "ETV Bharat Jharkhand (ground report, Hindi)",
+          "url": "https://www.etvbharat.com/hi/state/tspc-announced-three-day-shutdown-across-seven-districts-of-jharkhand-in-protest-against-brijesh-ganjhu-encounter-jhs26092306290"
+        },
+        {
+          "name": "Amar Ujala Ranchi (ground report, Hindi)",
+          "url": "https://www.amarujala.com/jharkhand/ranchi/shutdown-announced-from-september-24-to-26-in-protest-against-the-death-of-tpc-supremo-brijesh-ganjhu-ranchi-news-c-1-1-noi1475-4759485-2026-09-24"
+        },
+        {
+          "name": "AajTak",
+          "url": "https://www.aajtak.in/india/jharkhand/story/naxalite-brijesh-ganjhu-encounter-tspc-announces-3-day-bandh-ntc-drmt-rpti-2651472-2026-09-24"
+        }
+      ]
+    },
+    {
+      "id": "ap-srikakulam-vamsadhara-nagavali-spate-gangavaram-culvert-sep2026",
+      "icon": "🌊",
+      "title": "Srikakulam: Vamsadhara and Nagavali in spate; culvert at Gangavaram washed away, 53 riverside villages on alert",
+      "category": "Flood",
+      "categoryKey": "flood",
+      "severity": "high",
+      "status": "ongoing",
+      "region": "south",
+      "states": [
+        "Andhra Pradesh"
+      ],
+      "date": "2026-09-24",
+      "summary": "The Vamsadhara and Nagavali rivers in Srikakulam district are in spate with heavy inflows after the deep depression's landfall. A canal culvert at Gangavaram village was washed away, cutting road links to several villages, and precautionary measures are in place in 53 villages in the river basin. The district red alert continues, with cyclone-impact risk flagged in ten coastal mandals; rainwater entered homes at Bhavani Nagar in Tekkali and a tree fell in Neelapuram mandal.",
+      "impact": "Flag villages beyond the Gangavaram culvert and low-lying Vamsadhara-Nagavali basin pincodes as non-serviceable until the road is restored. Hold Srikakulam and Tekkali LM for 24-25 September and reroute via NH-16 only once waters drop.",
+      "sources": [
+        {
+          "name": "The News Minute",
+          "url": "https://www.thenewsminute.com/andhra-pradesh/heavy-rain-triggers-floods-in-vamsadhara-nagavali-in-north-coastal-andhra"
+        },
+        {
+          "name": "UNI India",
+          "url": "https://www.uniindia.com/south-india/normal-life-hit/190459"
+        },
+        {
+          "name": "Sakshi Post (ground report)",
+          "url": "https://www.sakshipost.com/news/andhrapradesh/ap-rain-update-heavy-rains-lash-north-andhra-schools-holidays-482396"
+        }
+      ]
+    },
+    {
+      "id": "odisha-gajapati-paribeta-ghat-rockfall-sep2026",
+      "icon": "⛰️",
+      "title": "Odisha: huge rock blocks Paribeta Ghat road in Gajapati's R. Udayagiri block; 1,500 evacuated statewide",
+      "category": "Landslide",
+      "categoryKey": "landslide",
+      "severity": "moderate",
+      "status": "ongoing",
+      "region": "east",
+      "states": [
+        "Odisha"
+      ],
+      "date": "2026-09-24",
+      "summary": "Incessant rain triggered a landslide on the Paribeta Ghat road in R. Udayagiri block of Gajapati district, where a huge rock tumbled onto the road and disrupted traffic; no injuries were reported. Gajapati has identified 140 landslide-vulnerable spots. Across south Odisha, falling trees and road blockades have been reported from Gajapati and Ganjam, with about 1,500 people evacuated and rainfall of around 230 mm recorded.",
+      "impact": "Treat R. Udayagiri and Mohana-side Gajapati pincodes as extended-TAT until the ghat is cleared; avoid Paribeta Ghat for Berhampur-Paralakhemundi feeder runs. Keep Ganjam and Gajapati FM pickups on hold for 24 September.",
+      "sources": [
+        {
+          "name": "OdishaTV (ground report, TV)",
+          "url": "https://odishatv.in/odisha/incessant-heavy-rain-triggers-landslide-in-odishas-gajapati-huge-rock-blocks-ghat-road-12567477"
+        },
+        {
+          "name": "Zee News",
+          "url": "https://zeenews.india.com/india/230-mm-rain-1500-evacuated-what-cyclone-arnab-has-done-to-odisha-so-far-3073013.html"
+        }
+      ]
+    },
+    {
+      "id": "assam-biswanath-solmari-embankment-erosion-sep2026",
+      "icon": "🏞️",
+      "title": "Assam: Brahmaputra within 10 m of breaching Biswanath Ghat-Panpur embankment at Solmari village",
+      "category": "River Erosion",
+      "categoryKey": "erosion",
+      "severity": "high",
+      "status": "ongoing",
+      "region": "east",
+      "states": [
+        "Assam"
+      ],
+      "date": "2026-09-22",
+      "summary": "Strong Brahmaputra currents have eaten about 200 metres of land at Solmari village, bringing the river to within 10 metres of the Biswanath Ghat-Panpur embankment. The stretch had been safe since anti-erosion works in 2014. Locals have urged the administration to deploy mega geo-bags immediately, warning the embankment could breach if erosion continues at the current rate.",
+      "impact": "Early-warning item for Biswanath district: an embankment breach would flood Biswanath Ghat and Panpur-side villages. Keep Biswanath Chariali LM on normal SLA but pre-flag riverside pincodes for extended TAT, and watch for breach reports before dispatch.",
+      "sources": [
+        {
+          "name": "The Assam Tribune (ground report)",
+          "url": "https://assamtribune.com/assam/brahmaputra-comes-within-10m-of-breaching-biswanath-embankment-locals-on-edge-1618180"
+        }
+      ]
+    },
+    {
+      "id": "hyderabad-ganesh-nimajjanam-traffic-curbs-sep25-2026",
+      "icon": "🛡️",
+      "title": "Hyderabad Ganesh Nimajjanam Sep 25: curbs on Upper Tank Bund, PVNR and NTR Marg; Cyberabad diversions",
+      "category": "National Advisory",
+      "categoryKey": "advisory",
+      "severity": "high",
+      "status": "upcoming",
+      "region": "south",
+      "states": [
+        "Telangana"
+      ],
+      "date": "2026-09-25",
+      "summary": "Hyderabad's main Ganesh immersion is on 25 September. Immersion from Tank Bund is prohibited following court directions, with idols routed to NTR Gardens, People's Plaza, Necklace Road and artificial ponds. Traffic will tighten around Hussain Sagar with need-based restrictions on PVNR Marg and NTR Marg and movement curbs on Upper Tank Bund, with about 1,200 traffic personnel deployed; Cyberabad police have separately notified traffic curbs. More than 43,000 idols had already been immersed ahead of the main day.",
+      "impact": "Treat central Hyderabad (Khairatabad, Himayatnagar, Secunderabad, Lakdikapul) as a no-movement zone from the afternoon of 25 September to the early hours of 26 September, compounded by the ongoing rain alert. Move Hyderabad city FM pickups to the morning of the 25th and route line-haul via the Outer Ring Road.",
+      "sources": [
+        {
+          "name": "Sakshi Post (ground report)",
+          "url": "https://www.sakshipost.com/news/telangana/hyderabad-ganesh-immersion-2026-tank-bund-rules-and-latest-updates-482319"
+        },
+        {
+          "name": "The Siasat Daily (ground report)",
+          "url": "https://www.siasat.com/ganesh-immersion-cyberabad-police-puts-traffic-curbs-in-place-3546035/"
+        },
+        {
+          "name": "Nativeplanet",
+          "url": "https://www.nativeplanet.com/travel-guide/hyderabad-ganesh-immersion-2026-special-mmts-trains-traffic-diversions-parking-guide-011-24517.html"
+        }
+      ]
+    },
     {
       "id": "manipur-nh37-jiribam-jirighat-truck-stranding-sep2026",
       "icon": "🚛",
@@ -751,7 +924,7 @@
         "Punjab"
       ],
       "date": "2026-09-24",
-      "summary": "Punbus, PRTC and Punjab Roadways contract workers deferred the indefinite chakka jam that was to begin on 22 September after meeting the new Transport Secretary, and agreed to keep buses running until a government meeting on 24 September. Union president Resham Singh Gill said the strike proceeds only if the 24 September meeting fails. Demands are regularisation, an end to the contract system, and salary and service benefits. The deferral followed a meeting with newly appointed Transport Secretary Anurag Verma, who assured the union its concerns would be considered; the workers additionally want outsourced staff brought under direct departmental contracts with equal pay for equal work.",
+      "summary": "Punbus, PRTC and Punjab Roadways contract workers deferred the indefinite chakka jam that was to begin on 22 September after meeting the new Transport Secretary, and agreed to keep buses running until a government meeting on 24 September. Union president Resham Singh Gill said the strike proceeds only if the 24 September meeting fails. Demands are regularisation, an end to the contract system, and salary and service benefits. The deferral followed a meeting with newly appointed Transport Secretary Anurag Verma, who assured the union its concerns would be considered; the workers additionally want outsourced staff brought under direct departmental contracts with equal pay for equal work. No outcome of the 24 September meeting had been reported at compile time - re-check this evening.",
       "impact": "24 September is a double flashpoint in Punjab - this bus-strike decision and the farmers' MSP meeting land on the same day. Hold a contingency plan for Ludhiana, Jalandhar, Amritsar and Patiala FM pickups on 25-26 September and re-verify the outcome on the evening of 24 September.",
       "sources": [
         {
@@ -767,7 +940,7 @@
     {
       "id": "nationwide-fuel-lpg-cng-price-hike-sep2026",
       "icon": "⛽",
-      "title": "Crude near $102; Delhi diesel Rs 95.20 and Hyderabad diesel Rs 103.82 on 23 Sep, commercial LPG Rs 2,747.50",
+      "title": "Brent slips below $100 to ~$98 on Iran's Hormuz reopening offer; pump prices unchanged, commercial LPG Rs 2,747.50",
       "category": "Fuel & Energy",
       "categoryKey": "fuel",
       "severity": "high",
@@ -776,8 +949,8 @@
       "states": [
         "Pan-India"
       ],
-      "date": "2026-09-23",
-      "summary": "Brent crude is trading near $102 a barrel amid Strait of Hormuz shipping disruption. Pump prices held steady again on 23 September: Delhi petrol Rs 102.12 and diesel Rs 95.20, Mumbai Rs 111.21 and Rs 97.83, Chennai Rs 107.76 and Rs 99.55, Bengaluru Rs 110.82 and Rs 98.78, and Hyderabad Rs 115.69 and Rs 103.82 - the costliest metro for both fuels. The 19-kg commercial LPG cylinder is at Rs 2,747.50 in Delhi, up Rs 669 (32.2%) since April, and Rs 2,831.00 in Bengaluru; domestic 14.2-kg LPG is Rs 942 in Delhi. CNG stands at Rs 86.98/kg in Delhi, Rs 88 in Mumbai, Rs 97 in Bengaluru, Rs 112 in Hyderabad, Rs 97.50 in Chennai, Rs 94.02 in Ahmedabad and Rs 93.50 in Kolkata.",
+      "date": "2026-09-24",
+      "summary": "Oil fell about 3% after Iran offered to reopen the Strait of Hormuz within seven days if the US eases pressure, taking Brent below $100 to around $98 a barrel and WTI to about $91. Indian pump prices have not yet moved. Brent crude is trading near $102 a barrel amid Strait of Hormuz shipping disruption. Pump prices held steady again on 23 September: Delhi petrol Rs 102.12 and diesel Rs 95.20, Mumbai Rs 111.21 and Rs 97.83, Chennai Rs 107.76 and Rs 99.55, Bengaluru Rs 110.82 and Rs 98.78, and Hyderabad Rs 115.69 and Rs 103.82 - the costliest metro for both fuels. The 19-kg commercial LPG cylinder is at Rs 2,747.50 in Delhi, up Rs 669 (32.2%) since April, and Rs 2,831.00 in Bengaluru; domestic 14.2-kg LPG is Rs 942 in Delhi. CNG stands at Rs 86.98/kg in Delhi, Rs 88 in Mumbai, Rs 97 in Bengaluru, Rs 112 in Hyderabad, Rs 97.50 in Chennai, Rs 94.02 in Ahmedabad and Rs 93.50 in Kolkata.",
       "impact": "Diesel above Rs 95 in Delhi and above Rs 103 in Hyderabad, with crude over $100, keeps upward pressure on 3P per-shipment LM/FM rates - expect Delhivery, Shadowfax and Xpressbees to raise fuel-surcharge asks in the next rate cycle. Hyderabad is now the worst metro on both diesel (Rs 103.82) and CNG (Rs 112/kg), which materially worsens LM economics there versus Delhi and Mumbai; factor this into capacity-expansion cost cases for Telangana pincodes.",
       "sources": [
         {
@@ -795,6 +968,14 @@
         {
           "name": "The Hans India",
           "url": "https://www.thehansindia.com/business/market-compass/petrol-and-diesel-prices-today-in-hyderabad-delhi-chennai-and-mumbai-on-23-september-2026-1124809"
+        },
+        {
+          "name": "OilPrice.com",
+          "url": "https://oilprice.com/Latest-Energy-News/World-News/Oil-Tumbles-3-as-Iran-Floats-Hormuz-Reopening-Within-a-Week.html"
+        },
+        {
+          "name": "NPG News (Hindi)",
+          "url": "https://npg.news/national/petrol-diesel-price-today-24-september-2026-crude-oil-impact-india-news-1320737"
         }
       ]
     },
@@ -887,17 +1068,17 @@
     {
       "id": "kerala-statewide-orange-alert-emergency-sep2026",
       "icon": "🌧️",
-      "title": "Kerala orange alert for Kottayam, Idukki, Ernakulam, Thrissur, Malappuram, Palakkad; 9 dead in flash floods",
+      "title": "Kerala eases to yellow alert in 7 districts Sep 23-25 after flash floods killed 9 in Malappuram, Kottayam, Idukki",
       "category": "Flood",
       "categoryKey": "flood",
-      "severity": "high",
+      "severity": "moderate",
       "status": "ongoing",
       "region": "south",
       "states": [
         "Kerala"
       ],
-      "date": "2026-09-23",
-      "summary": "IMD has an orange alert running for Kottayam, Idukki, Ernakulam, Thrissur, Malappuram and Palakkad with winds up to 40 kmph, and isolated heavy rain forecast for Kerala from 20 to 24 September. Flash floods and landslides have killed nine people in 24 hours - five in Malappuram and two each in Kottayam and Idukki - with several still missing. IMD scientist Neetha K Gopal has flagged cloudburst potential and landslide risk on the Idukki-Wayanad ghats. Authorities have advised against night travel in hilly areas and the Meenachil river is swollen at Kottayam.",
+      "date": "2026-09-24",
+      "summary": "IMD has an orange alert running for Kottayam, Idukki, Ernakulam, Thrissur, Malappuram and Palakkad with winds up to 40 kmph, and isolated heavy rain forecast for Kerala from 20 to 24 September. Flash floods and landslides have killed nine people in 24 hours - five in Malappuram and two each in Kottayam and Idukki - with several still missing. IMD scientist Neetha K Gopal has flagged cloudburst potential and landslide risk on the Idukki-Wayanad ghats. Authorities have advised against night travel in hilly areas and the Meenachil river is swollen at Kottayam. IMD has since scaled the outlook to isolated heavy rain from 23 to 25 September, with Thiruvananthapuram, Kollam, Pathanamthitta, Kottayam, Idukki, Kannur and Kasaragod under yellow alert.",
       "impact": "Keep night line-haul off the Idukki-Wayanad ghat sections and the Kottayam-Kumily and Thodupuzha routes. Treat Malappuram, Kottayam and Idukki hill pincodes as extended-SLA and expect Ernakulam and Thrissur LM attempt failure from waterlogging. Stage buffer stock at Kochi rather than upcountry hill hubs until 25 Sep.",
       "sources": [
         {
@@ -911,6 +1092,10 @@
         {
           "name": "Nativeplanet",
           "url": "https://www.nativeplanet.com/news/kerala-rain-alert-2026-imd-issues-orange-warnings-for-central-districts-and-thunderstorm-risks-011-24477.html"
+        },
+        {
+          "name": "National Herald",
+          "url": "https://www.nationalheraldindia.com/national/heavy-rain-forecast-for-kerala-yellow-alerts-issued-in-seven-districts"
         }
       ]
     },
@@ -971,28 +1156,6 @@
       ]
     },
     {
-      "id": "tamilnadu-21-districts-heavy-rain-sep2026",
-      "icon": "🌧️",
-      "title": "Tamil Nadu rain eases: only moderate showers forecast for Chennai and Western Ghats on 23 September",
-      "category": "Flood",
-      "categoryKey": "flood",
-      "severity": "watch",
-      "status": "ongoing",
-      "region": "south",
-      "states": [
-        "Tamil Nadu"
-      ],
-      "date": "2026-09-23",
-      "summary": "The 21-district heavy-rain spell of 21 September has passed. RMC Chennai forecasts only moderate rain for 23 September in Chennai, Tiruvallur, Kancheepuram, Chengalpattu, Ranipet and the Western Ghats districts, dropping to light-to-moderate at isolated places on 24 September and light-to-moderate over the Western Ghats and north Tamil Nadu on 25-26 September.",
-      "impact": "Restore normal cut-offs across Tamil Nadu including Chennai, Coimbatore, Madurai and Trichy. Only the Western Ghats districts - Nilgiris, the Coimbatore hills and Theni - warrant a residual weather buffer.",
-      "sources": [
-        {
-          "name": "DT Next (ground report)",
-          "url": "https://www.dtnext.in/news/tamilnadu/expect-moderate-rain-in-chennai-coastal-districts-on-september-23-says-rmc"
-        }
-      ]
-    },
-    {
       "id": "telangana-heavy-rain-waterlogging-sep2026",
       "icon": "🌧️",
       "title": "IMD red alert Sep 23-25 for 11 north/east Telangana districts; Hyderabad yellow, 50-60 kmph squalls",
@@ -1004,8 +1167,8 @@
       "states": [
         "Telangana"
       ],
-      "date": "2026-09-23",
-      "summary": "IMD has issued a red alert for 23-25 September for Komuram Bheem Asifabad, Mancherial, Karimnagar, Peddapalli, Jayashankar Bhupalapally, Mulugu, Bhadradri Kothagudem, Khammam, Mahabubabad, Warangal and Hanumakonda, forecasting very heavy to extremely heavy rain that may exceed 204.5 mm. An orange alert covers a further 20 districts including Adilabad, Nizamabad, Jagtial, Nalgonda and Suryapet through 26 September. Hyderabad, Rangareddy, Medchal-Malkajgiri, Vikarabad, Sangareddy and Medak are under a yellow alert on 23 September. Thunderstorms with squally winds of 50-60 kmph are warned for 24-26 September. An updated 23 September count puts 18 districts under the red alert, with IMD warning of a flash-flood threat where totals may exceed 20 cm, and Hyderabad forecast multiple spells of rain from the afternoon onwards.",
+      "date": "2026-09-24",
+      "summary": "IMD has issued a red alert for 23-25 September for Komuram Bheem Asifabad, Mancherial, Karimnagar, Peddapalli, Jayashankar Bhupalapally, Mulugu, Bhadradri Kothagudem, Khammam, Mahabubabad, Warangal and Hanumakonda, forecasting very heavy to extremely heavy rain that may exceed 204.5 mm. An orange alert covers a further 20 districts including Adilabad, Nizamabad, Jagtial, Nalgonda and Suryapet through 26 September. Hyderabad, Rangareddy, Medchal-Malkajgiri, Vikarabad, Sangareddy and Medak are under a yellow alert on 23 September. Thunderstorms with squally winds of 50-60 kmph are warned for 24-26 September. An updated 23 September count puts 18 districts under the red alert, with IMD warning of a flash-flood threat where totals may exceed 20 cm, and Hyderabad forecast multiple spells of rain from the afternoon onwards. On 24 September, district administrations declared school holidays in Hanumakonda, Warangal and Mahabubabad as very heavy to extremely heavy rain continued over the erstwhile Warangal region, raising concern about overflowing streams and canals.",
       "impact": "Treat Warangal, Hanumakonda, Karimnagar, Peddapalli, Khammam, Bhadradri Kothagudem and Mancherial as high non-adherence risk for 23-25 Sep - expect FM pickup slippage and LM attempt failure across the red-alert belt. Hold Hyderabad line-haul departures to north Telangana until the 50-60 kmph squall window passes, and pre-flag Mulugu and Jayashankar Bhupalapally rural pincodes for serviceability loss.",
       "sources": [
         {
@@ -1027,6 +1190,10 @@
         {
           "name": "Asianet Newsable",
           "url": "https://newsable.asianetnews.com/gallery/india/andhra-pradesh-telangana-latest-weather-update-heavy-rain-flash-flood-alert-schools-shut-7nz7lr6"
+        },
+        {
+          "name": "IndToday (ground report)",
+          "url": "https://indtoday.com/heavy-rains-schools-closed-in-three-districts-in-telangana/"
         }
       ]
     },
@@ -1242,8 +1409,8 @@
       "states": [
         "Sikkim"
       ],
-      "date": "2026-09-17",
-      "summary": "A mudslide blocked NH-10 at Bardang, 20th Mile on the morning of 17 September, suspending movement. The stretch reopened to one-way traffic on 20 September after a day-long clearance in dry weather; twelve households were affected, Rs 2,70,400 in relief was distributed and one person was injured. Boulders and sludge at the site remain a live concern and the Sikkim chief secretary has directed early full reopening. IMD forecasts 7-11 cm at one or two places over Darjeeling and Jalpaiguri on 23-24 September, the classic precursor for fresh NH-10 slides.",
+      "date": "2026-09-20",
+      "summary": "A mudslide blocked NH-10 at Bardang, 20th Mile on the morning of 17 September, suspending movement. The stretch reopened to one-way traffic on 20 September after a day-long clearance in dry weather; twelve households were affected, Rs 2,70,400 in relief was distributed and one person was injured. Boulders and sludge at the site remain a live concern and the Sikkim chief secretary has directed early full reopening. IMD forecasts 7-11 cm at one or two places over Darjeeling and Jalpaiguri on 23-24 September, the classic precursor for fresh NH-10 slides. NH-10 at 20th Mile, Bardang was reopened to one-way traffic on 20 September after a day-long clearance, and the 30th Mile stretch was also temporarily opened, but the section remains soft and waterlogged and drivers are advised to go slow.",
       "impact": "Siliguri-Gangtok line-haul is running but single-lane, so plan one-way convoy timings and roughly half a day of extra transit. With heavy rain forecast for 23-24 September, hold a contingency for full NH-10 closure and keep Gangtok buffer stock topped up.",
       "sources": [
         {
@@ -1253,6 +1420,10 @@
         {
           "name": "Borok Times (ground report)",
           "url": "https://boroktimes.com/nh-10-20th-mile-one-way-traffic-continues-near-bardang/"
+        },
+        {
+          "name": "UNI India",
+          "url": "https://www.uniindia.com/east-india/transport-sikkim-nh10-reopen/186726"
         }
       ]
     },
@@ -1355,7 +1526,7 @@
         "Punjab"
       ],
       "date": "2026-09-24",
-      "summary": "KMM and the Kisan Mazdoor Sangharsh Committee blocked tracks at Gurdaspur, Amritsar, Moga, Firozepur and Sangrur on 18 September, disrupting 20 trains including the New Delhi-Amritsar Shatabdi. The blockade was lifted after about six hours on an assurance of a meeting with Agriculture Minister Gurmeet Singh Khuddian at Kisan Bhawan, Chandigarh on 24 September. Demands include a legal MSP guarantee on basmati, maize, moong, mustard and potato, loan waiver and withdrawal of the land-pooling policy. Separately, KMM ran a five-day gherao of eight AAP ministers' residences from 14 September at Sunam, Ludhiana, Jalandhar, Faridkot and elsewhere.",
+      "summary": "KMM and the Kisan Mazdoor Sangharsh Committee blocked tracks at Gurdaspur, Amritsar, Moga, Firozepur and Sangrur on 18 September, disrupting 20 trains including the New Delhi-Amritsar Shatabdi. The blockade was lifted after about six hours on an assurance of a meeting with Agriculture Minister Gurmeet Singh Khuddian at Kisan Bhawan, Chandigarh on 24 September. Demands include a legal MSP guarantee on basmati, maize, moong, mustard and potato, loan waiver and withdrawal of the land-pooling policy. Separately, KMM ran a five-day gherao of eight AAP ministers' residences from 14 September at Sunam, Ludhiana, Jalandhar, Faridkot and elsewhere. Farmers ended their rail roko ahead of the 24 September meeting with the Agriculture Minister and will decide next steps after it. Separately, BKU (Ekta Sidhupur) has called a farmers' panchayat at Maur Mandi, Bathinda on 26 September over delayed paddy procurement at MSP and DAP availability.",
       "impact": "Rail-linked Punjab movement is normal today, but a failed 24 September meeting would restore rail-roko at Gurdaspur, Amritsar, Moga, Firozepur and Sangrur within hours. Keep road fallbacks priced for the Amritsar and Ludhiana hubs and avoid committing rail-dependent SLAs for 25-27 September.",
       "sources": [
         {
@@ -1369,6 +1540,14 @@
         {
           "name": "PTC News (ground report, TV)",
           "url": "https://www.ptcnews.tv/punjab/kusan-mazdoor-morcha-five-day-protest-punjab-against-aap-ministers-residences-4429334"
+        },
+        {
+          "name": "Lalluram (ground report, Hindi)",
+          "url": "https://lalluram.com/punjab-farmers-end-rail-roko-protest-agriculture-minister-meeting-september-24/"
+        },
+        {
+          "name": "The Tribune (ground report)",
+          "url": "https://www.tribuneindia.com/news/jalandhar/bku-ekta-sidhupur-to-hold-farmers-panchayat-on-sept-26"
         }
       ]
     },
@@ -1422,32 +1601,6 @@
         {
           "name": "Amar Ujala (ground report)",
           "url": "https://www.amarujala.com/uttar-pradesh/lakhimpur-kheri/homes-destroyed-by-sharda-river-erosion-villagers-demolish-their-own-houses-in-lakhimpur-kheri-2026-09-12"
-        }
-      ]
-    },
-    {
-      "id": "uttar-pradesh-ballia-saryu-ganga-erosion-sep2026",
-      "icon": "🏞️",
-      "title": "Saryu erosion takes two Ballia homes; Nauranga Bhuwal Chhapra village of 20,000 faces Ganga cut",
-      "category": "River Erosion",
-      "categoryKey": "erosion",
-      "severity": "moderate",
-      "status": "ongoing",
-      "region": "north",
-      "states": [
-        "Uttar Pradesh"
-      ],
-      "date": "2026-09-12",
-      "summary": "After the flood peak receded, erosion by the Saryu swallowed two houses in a Ballia village with half a dozen more on the brink. Separately, Nauranga Bhuwal Chhapra village in Bairia tehsil, with a population of around 20,000, faces the threat of being lost to the Ganga, with residents building their own spur after flood-department measures failed. The Ganga remains above the danger mark at Ballia and the Ghaghara is also above danger.",
-      "impact": "Bairia tehsil is a serviceability-loss candidate rather than a temporary weather block - re-verify Nauranga Bhuwal Chhapra and neighbouring riverside pincodes before committing delivery promises. Keep Ballia rural on extended TAT while the Ganga stays above danger.",
-      "sources": [
-        {
-          "name": "Amar Ujala (ground report)",
-          "url": "https://www.amarujala.com/uttar-pradesh/ballia/after-floods-now-havoc-of-erosion-two-homes-swallowed-saryu-half-dozen-houses-in-ballia-village-teetering-2026-09-12"
-        },
-        {
-          "name": "Prabhat Khabar (ground report)",
-          "url": "https://www.prabhatkhabar.com/state/uttar-pradesh/ballia-ganga-erosion-ballia-nauranga-village-rurals-build-spur"
         }
       ]
     },
@@ -1594,7 +1747,7 @@
     {
       "id": "madhya-pradesh-17-district-heavy-rain-sep2026",
       "icon": "🌧️",
-      "title": "Madhya Pradesh heavy-rain spell from 23 September; 17 districts peak on 24-25 in east MP",
+      "title": "East MP heavy rain from Sep 24: Chhatarpur, Panna, Satna, Shahdol, Mandla, Balaghat, Seoni, Chhindwara; peak Sep 25-26",
       "category": "Flood",
       "categoryKey": "flood",
       "severity": "moderate",
@@ -1604,23 +1757,23 @@
         "Madhya Pradesh"
       ],
       "date": "2026-09-24",
-      "summary": "IMD Bhopal indicated no heavy-rain warning up to 23 September, then a fresh spell beginning that day with the strongest activity on 24-25 September, when 17 districts are expected to see heavy to very heavy rainfall. The affected belt is concentrated in east Madhya Pradesh - the Jabalpur, Rewa, Shahdol and Sagar divisions - with spillover into the Bhopal and Narmadapuram divisions. Bhopal, Indore, Ujjain, Jabalpur and Gwalior are all forecast rain.",
-      "impact": "East MP hubs - Jabalpur, Rewa, Satna, Shahdol and Sagar - carry the 24-25 September risk, so add a day of buffer on rural pincodes there. Keep Indore, Bhopal and Gwalior on normal cut-offs unless the spell broadens westward.",
+      "summary": "IMD forecasts heavy rain on 24 September in Chhatarpur, Panna, Satna, Umaria, Shahdol, Dindori, Mandla, Balaghat, Seoni and Chhindwara, while west Madhya Pradesh does not carry the same warning. The Bay of Bengal system's impact is expected to peak on 25-26 September with heavy to very heavy rain across most of eastern MP. The state has already received about 90% of its seasonal monsoon quota.",
+      "impact": "Relax SLAs for eastern MP rural pincodes (Mandla, Dindori, Balaghat, Seoni, Shahdol) for 25-26 September and route Jabalpur-bound line-haul in daylight. West MP (Indore, Bhopal, Ujjain) should run near normal.",
       "sources": [
         {
-          "name": "Free Press Journal Bhopal (ground report)",
-          "url": "https://www.freepressjournal.in/bhopal/mp-weather-update-sun-shines-in-bhopal-imd-issues-heavy-rain-alert-for-17-districts-downpour-likely-from-september-23"
+          "name": "Free Press Journal (ground report)",
+          "url": "https://www.freepressjournal.in/bhopal/madhya-pradesh-weather-today-depression-over-bay-of-bengal-intensifies-heavy-rainfall-alert-issued-for-anant-chaturdashi"
         },
         {
-          "name": "Dainik Jagran MPCG (ground report)",
-          "url": "https://english.dainikjagranmpcg.com/states/madhya-pradesh/-mp-weather-heavy-rain-alert-in-bhopal-33-districts/article-32456"
+          "name": "Free Press Journal",
+          "url": "https://www.freepressjournal.in/bhopal/madhya-pradesh-weather-update-heavy-rain-alert-from-september-24-as-monsoon-nears-departure-clouds-hover-in-bhopal-after-late-night-drizzle"
         }
       ]
     },
     {
       "id": "bob-deep-depression-landfall-vizag-gopalpur-sep2026",
       "icon": "🌀",
-      "title": "Deep depression 70 km off Kalingapatnam; landfall between Visakhapatnam & Gopalpur on night of Sep 23",
+      "title": "Deep depression 'Arnab' crossed coast near Kalingapatnam overnight; now moving inland over north Andhra",
       "category": "Cyclone",
       "categoryKey": "cyclone",
       "severity": "critical",
@@ -1630,29 +1783,25 @@
         "Andhra Pradesh",
         "Odisha"
       ],
-      "date": "2026-09-23",
-      "summary": "IMD's 0530 IST bulletin on 23 September placed the deep depression about 70 km east-southeast of Kalingapatnam, 150 km south of Gopalpur and 150 km east-northeast of Visakhapatnam, moving west at 12 kmph. It is expected to cross the north Andhra Pradesh-south Odisha coast between Visakhapatnam and Gopalpur as a deep depression on the night of 23 September. Winds are forecast to reach 75 kmph over the sea, with squally 55-65 kmph winds along the south Odisha-north Andhra coasts from 23 September to the evening of 24 September. It has stayed below cyclonic-storm strength, so it has not been named Cyclone Arnab.",
-      "impact": "Suspend LM delivery attempts and FM pickups across Srikakulam, Vizianagaram, Parvathipuram Manyam, Visakhapatnam, Ganjam and Gajapati through 24 Sep. Hold Vizag- and Berhampur-bound line-haul until the 55-65 kmph squall window clears, and apply blanket SLA relaxation for north-coastal AP and south Odisha pincodes for 23-25 Sep.",
+      "date": "2026-09-24",
+      "summary": "The Bay of Bengal deep depression crossed the north Andhra Pradesh coast just southwest of Kalingapatnam between 11 pm on 23 September and 1 am on 24 September, with sustained winds of 55-65 kmph gusting to 75 kmph. At 5:30 am on 24 September it lay about 50 km west of Kalingapatnam; IMD expects it to hold deep-depression strength for about 12 hours while moving northwest, then weaken over the following 24 hours. The system did not reach cyclone strength. Rain above 100 mm was recorded at 80 locations, and heavy rain is lashing Srikakulam, Vizianagaram, Visakhapatnam and Anakapalli, with NDRF and SDRF teams deployed.",
+      "impact": "Treat 24 September as a washout for north coastal Andhra (Srikakulam, Vizianagaram, Visakhapatnam rural, Anakapalli) and south Odisha (Ganjam, Gajapati, Koraput) - hold line-haul into these districts and relax SLAs by 48 hours. As the remnant tracks northwest, expect the rain footprint to move over Chhattisgarh, east MP, Jharkhand and Bihar on 25-26 September, so pre-position buffer at Raipur, Ranchi and Patna hubs.",
       "sources": [
         {
-          "name": "ThePrint",
-          "url": "https://theprint.in/india/deep-depression-over-bay-of-bengal-to-cross-andhra-odisha-coast-on-sep-23-night-imd/3050342/"
+          "name": "LatestLY",
+          "url": "https://www.latestly.com/india/news/cyclone-arnab-tracker-deep-depression-moves-inland-over-north-andhra-pradesh-after-landfall-says-imd-7617910.html"
         },
         {
           "name": "Pragativadi (ground report)",
-          "url": "https://pragativadi.com/deep-depression-likely-to-cross-north-andhra-south-odisha-coast-tonight/"
+          "url": "https://pragativadi.com/deep-depression-landfall-begins-near-kalingapatnam-vizag-gopalpur-coast/"
         },
         {
-          "name": "India TV News",
-          "url": "https://www.indiatvnews.com/news/india/cyclone-arnab-live-tracker-landfall-update-bay-of-bengal-deep-depression-odisha-andhra-pradesh-bengal-rain-alert-2026-09-22-1054959"
+          "name": "Telangana Today",
+          "url": "https://telanganatoday.com/heavy-rains-gusty-winds-lash-north-coastal-andhra-as-deep-depression-crosses-coast"
         },
         {
-          "name": "The Week",
-          "url": "https://www.theweek.in/news/india/2026/09/23/deep-depression-nears-andhra-odisha-coast-imd-issues-red-warning.html"
-        },
-        {
-          "name": "The Tribune",
-          "url": "https://www.tribuneindia.com/news/india/deep-depression-rolls-towards-odisha-andhra-coast-landfall-likely-tonight-heavy-rain-alert-issued"
+          "name": "ThePrint",
+          "url": "https://theprint.in/india/deep-depression-brings-heavy-rains-to-several-parts-of-andhra/3050998/"
         }
       ]
     },
@@ -1781,26 +1930,30 @@
     {
       "id": "bihar-rain-turn-from-23sep2026",
       "icon": "🌧️",
-      "title": "Bihar rain turns from 23 September after a dry spell; heavy to very heavy in some districts",
+      "title": "Bihar: orange alert in 19 districts, yellow in 19 more as depression remnant brings rain Sep 24-26",
       "category": "Flood",
       "categoryKey": "flood",
-      "severity": "watch",
+      "severity": "high",
       "status": "ongoing",
       "region": "east",
       "states": [
         "Bihar"
       ],
-      "date": "2026-09-23",
-      "summary": "After a dry spell through 21 September, IMD flagged a turn from 23 September with light to moderate rain over most of Bihar and heavy to very heavy rain with thunder and lightning in some districts. Patna is forecast rain or thundershowers towards evening and night on 23 September. Surface winds of 40-50 kmph are possible.",
-      "impact": "Patna, Muzaffarpur and Bhagalpur evening LM will slip on 23-24 September - pull cut-offs forward and avoid committing same-day in north Bihar rural pincodes. Watch the Kosi and Ganga embankment belt where September breaches are repaired-but-fragile.",
+      "date": "2026-09-24",
+      "summary": "The Meteorological Centre, Patna has put all Bihar districts on alert for 24 September - 19 under orange and 19 under yellow - with heavy rain at isolated places, lightning and 40-50 kmph gusts. Weather is forecast to stay poor from 24 to 26 September as the Bay of Bengal deep depression moves inland. The state is already carrying a severe flood season, with the Ganga, Kosi and Gandak above danger marks at several gauges earlier this month.",
+      "impact": "Expect FM pickup slippage and LM attempt failures across Bihar on 24-26 September, worst in already-flooded riverine blocks of Bhagalpur, Khagaria, Katihar and Saran. Keep extended TAT on Kosi-Gandak belt pincodes and run Patna hub outbound in morning windows before afternoon thunderstorms.",
       "sources": [
         {
           "name": "Patna Press (ground report)",
-          "url": "https://patnapress.com/bihar-weather-rain-forecast-september-23-28-2026/"
+          "url": "https://patnapress.com/bihar-weather-update-rain-likely-in-9-districts-today-heavy-rain-alert-from-september-24/"
         },
         {
-          "name": "Patna Press (ground report)",
-          "url": "https://patnapress.com/bihar-weather-tomorrow-september-21-imd-rain-alert-september-23/"
+          "name": "Prabhat Khabar (ground report, Hindi)",
+          "url": "https://www.prabhatkhabar.com/state/bihar/bihar-weather-alert-heavy-rain-19-districts-orange-alert-50-kmph-wind-imd-forecast"
+        },
+        {
+          "name": "News Tak (ground report, Hindi)",
+          "url": "https://www.newstak.in/bihar/story/bihar-weather-update-24-september-orange-alert-heavy-rain-forecast-3287317-2026-09-23"
         }
       ]
     },
