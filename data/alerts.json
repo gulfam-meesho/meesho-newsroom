@@ -1,5 +1,5 @@
 {
-  "compiledAt": "2026-09-24T12:30:00+05:30",
+  "compiledAt": "2026-09-24T15:15:00+05:30",
   "note": "Manually-refreshed research digest compiled from public news sources, including regional/vernacular press, local TV channels and YouTube ground reports where available. Not a live news-wire feed — update this file (or re-run research) to refresh. Built for Meesho 3P logistics capacity planning (Delhivery · Shadowfax · Xpressbees): LM/FM manifestation, non-adherence hotspots, and serviceability-loss tracking. Not an official Meesho product.",
   "upcomingEvents": [
     {
@@ -546,6 +546,198 @@
     }
   ],
   "alerts": [
+    {
+      "id": "odisha-malkangiri-bayapada-ghat-landslide-18-villages-sep24-2026",
+      "icon": "⛰️",
+      "title": "Malkangiri: ghat landslide at Bayapada cuts off 18 villages; movement restricted both sides",
+      "category": "Landslide",
+      "categoryKey": "landslide",
+      "severity": "high",
+      "status": "ongoing",
+      "region": "east",
+      "states": [
+        "Odisha"
+      ],
+      "date": "2026-09-24",
+      "summary": "Deep-depression rain triggered a landslide on Thursday in the Bayapada area of Malkangiri district, where soil and debris from the ghat slid onto the road and cut off connectivity to 18 villages. Movement has been restricted on both sides of the ghat while the administration clears mud and stones; landslides at multiple other locations in Malkangiri were also reported. In neighbouring Rayagada, knee-deep water accumulated on roads and the Collector has flagged 11 landslide-prone hotspots.",
+      "impact": "Treat Bayapada-ghat-dependent villages of Malkangiri as temporarily non-serviceable for LM until the road is cleared; hold FM pickups and route Malkangiri-bound loads with a 24-48h SLA buffer. Watch Rayagada's 11 flagged hotspots before dispatching line-haul through the ghats.",
+      "sources": [
+        {
+          "name": "Kalinga TV (ground report, TV)",
+          "url": "https://kalingatv.com/odisha/landslide-in-malkangiri-amid-heavy-rain-18-villages-cut-off-road-clearance-underway/"
+        }
+      ]
+    },
+    {
+      "id": "odisha-six-district-rain-237-villages-8000-shifted-sep24-2026",
+      "icon": "🌊",
+      "title": "South Odisha: 237 villages in 6 districts hit, 8,082 shifted; bridges near Damjodi and Haridaphut under water",
+      "category": "Flood",
+      "categoryKey": "flood",
+      "severity": "high",
+      "status": "ongoing",
+      "region": "east",
+      "states": [
+        "Odisha"
+      ],
+      "date": "2026-09-24",
+      "summary": "Revenue Minister Suresh Pujari said 37 blocks, 160 gram panchayats and 237 villages plus 21 wards of 5 urban local bodies are affected across Koraput, Ganjam, Malkangiri, Gajapati, Nabarangpur and Rayagada; 8,082 people have been shifted and five senior officers sent to Malkangiri, Koraput, Nabarangpur, Gajapati and Kalahandi. In Koraput's Dasmantpur block, about three feet of water flowed over the bridge near Damjodi village (Nandigaon panchayat), stranding vehicles on both sides, and water also topped the bridge near Haridaphut (Pindapadar panchayat). Semiliguda recorded 230 mm and Jeypore 161 mm in 24 hours; 33 ODRAF teams are deployed.",
+      "impact": "Expect LM failures and FM pickup misses across Koraput (Dasmantpur, Semiliguda, Jeypore), Malkangiri, Nabarangpur, Rayagada, Gajapati and Ganjam through the weekend — apply SLA relaxation, pre-emptively mark low-lying pincodes non-serviceable where bridges are overtopped, and avoid dispatching line-haul across submerged causeways.",
+      "sources": [
+        {
+          "name": "Kalinga TV (ground report, TV)",
+          "url": "https://kalingatv.com/odisha/odisha-rain-fury-6-districts-affected-over-8000-shifted-govt-sends-5-senior-officers-to-ground-zero/"
+        },
+        {
+          "name": "OdishaBytes (ground report)",
+          "url": "https://odishabytes.com/deep-depression-wreaks-havoc-in-odisha-raising-deluge-fears-5000-evacuated-amid-red-alert/"
+        }
+      ]
+    },
+    {
+      "id": "odisha-keonjhar-telkoi-panga-sankarpur-bridges-overtopped-sep24-2026",
+      "icon": "🌊",
+      "title": "Keonjhar: water flowing over Panga and Sankarpur bridges in Telkoi, traffic hit",
+      "category": "Flood",
+      "categoryKey": "flood",
+      "severity": "moderate",
+      "status": "ongoing",
+      "region": "east",
+      "states": [
+        "Odisha"
+      ],
+      "date": "2026-09-24",
+      "summary": "Water is flowing over the Panga and Sankarpur bridges in Telkoi block of Keonjhar district, affecting traffic in the area, as the deep-depression rain spreads north from south Odisha. Telkoi's bridge crossings have repeatedly overtopped this monsoon, cutting links toward Jagamohanpur and NH-49.",
+      "impact": "Hold LM vans for Telkoi-block villages beyond the Panga/Sankarpur crossings until water recedes; route Keonjhar-bound loads via NH-20/NH-49 main corridors and expect 1-day delay for Telkoi pincodes.",
+      "sources": [
+        {
+          "name": "Kalinga TV (ground report, TV)",
+          "url": "https://kalingatv.com/odisha/landslide-in-malkangiri-amid-heavy-rain-18-villages-cut-off-road-clearance-underway/"
+        }
+      ]
+    },
+    {
+      "id": "ap-613km-roads-damaged-srikakulam-356km-sep24-2026",
+      "icon": "🌧️",
+      "title": "Andhra: 613 km of R&B roads damaged by deep depression, 356 km in Srikakulam alone; 4 washouts",
+      "category": "Flood",
+      "categoryKey": "flood",
+      "severity": "high",
+      "status": "ongoing",
+      "region": "south",
+      "states": [
+        "Andhra Pradesh"
+      ],
+      "date": "2026-09-24",
+      "summary": "R&B Minister B.C. Janardhan Reddy said 613 km of state roads were damaged as of 7 a.m. Thursday, with Srikakulam accounting for 356 km. Roads were washed away at four locations by deep craters, cross-drainage works damaged at 78 locations (37 under restoration), and traffic disrupted at 23 locations (14 cleared). Damage is spread across Srikakulam, Parvathipuram-Manyam, Vizianagaram, Alluri Sitarama Raju, Visakhapatnam, Anakapalli, Kakinada, East Godavari, Konaseema, West Godavari, Anantapur, Kurnool and Nandyal.",
+      "impact": "Srikakulam, Parvathipuram-Manyam and Vizianagaram LM should run on a 24-48h SLA buffer with alternate routing around washed-out stretches; watch Vizag hub outbound to north-coastal pincodes. 614 accident-prone spots have been flagged — avoid night line-haul on ghat and CD-damaged sections.",
+      "sources": [
+        {
+          "name": "Munsif News 24x7",
+          "url": "https://munsifdaily.com/torrential-downpours-damage-613-km-of-roads/"
+        }
+      ]
+    },
+    {
+      "id": "vijayawada-ntr-krishna-lowlying-inundation-sep24-2026",
+      "icon": "🌧️",
+      "title": "Vijayawada: continuous rain floods low-lying areas as deep depression moves inland",
+      "category": "Flood",
+      "categoryKey": "flood",
+      "severity": "moderate",
+      "status": "ongoing",
+      "region": "south",
+      "states": [
+        "Andhra Pradesh"
+      ],
+      "date": "2026-09-24",
+      "summary": "After the deep depression crossed near Kalingapatnam between 11 pm Sep 23 and 1 am Sep 24, continuous rain since Thursday morning flooded low-lying areas of Vijayawada. IMD expects the system to hold deep-depression intensity for about 12 hours before weakening while moving north-northwest.",
+      "impact": "Vijayawada city LM (low-lying colonies) may see failed attempts and slower first-attempt delivery today; keep Vijayawada/NTR district FM pickups flexible and watch for Krishna-district waterlogging spillover into Friday.",
+      "sources": [
+        {
+          "name": "The Week",
+          "url": "https://www.theweek.in/news/india/2026/09/24/imd-update-deep-depression-makes-landfall-in-andhra-rain-to-continue.html"
+        }
+      ]
+    },
+    {
+      "id": "south-bengal-orange-alert-midnapore-jhargram-sep24-27-2026",
+      "icon": "🌧️",
+      "title": "South Bengal: orange alert for 6 districts, up to 200 mm in Jhargram and Dum Dum; rain till Sep 27",
+      "category": "Flood",
+      "categoryKey": "flood",
+      "severity": "moderate",
+      "status": "ongoing",
+      "region": "east",
+      "states": [
+        "West Bengal"
+      ],
+      "date": "2026-09-24",
+      "summary": "The remnant of the deep depression is bringing heavy to very heavy rain to East and West Midnapore and Jhargram, with heavy rain in South 24 Parganas, Bankura, Purulia, West Burdwan, Birbhum and Howrah; an orange alert is up for six districts and up to 200 mm is forecast in Dum Dum and Jhargram with 50-60 km/h winds. Kolkata recorded 65.4 mm in 24 hours and scattered rain is expected across south Bengal till Sunday, Sep 27.",
+      "impact": "Plan for waterlogging-driven LM slowdowns in Kolkata/Dum Dum and rural Midnapore-Jhargram pincodes through Sep 27; avoid scheduling large FM pickups from Howrah/South 24 Parganas low-lying clusters during peak-rain windows and keep Durga Puja pre-festival volume buffers in mind.",
+      "sources": [
+        {
+          "name": "The Week",
+          "url": "https://www.theweek.in/news/india/2026/09/24/imd-update-deep-depression-makes-landfall-in-andhra-rain-to-continue.html"
+        },
+        {
+          "name": "The Hawk",
+          "url": "https://www.thehawk.in/news/india/deep-depression-over-bay-to-bring-heavy-rain-across-west-bengal-till-friday"
+        },
+        {
+          "name": "IMD Kolkata special bulletin",
+          "url": "https://mausam.imd.gov.in/kolkata/mcdata/sb.pdf"
+        }
+      ]
+    },
+    {
+      "id": "telangana-bhupalpally-roads-washed-crops-submerged-sep24-2026",
+      "icon": "🌧️",
+      "title": "Telangana: Jayashankar Bhupalpally drenched as deep depression rain washes away roads, submerges crops",
+      "category": "Flood",
+      "categoryKey": "flood",
+      "severity": "moderate",
+      "status": "ongoing",
+      "region": "south",
+      "states": [
+        "Telangana"
+      ],
+      "date": "2026-09-24",
+      "summary": "Telugu daily Andhra Jyothy reports heavy rain from the deep depression lashing Jayashankar Bhupalpally district, with floods washing away roads and submerging crops. Orange alerts covered 11 Telangana districts on Sep 23-24.",
+      "impact": "Expect LM delays for interior Bhupalpally mandal pincodes and possible FM pickup gaps; route Bhupalpally-bound loads via main state highways only and add a 24h SLA buffer until road damage is assessed.",
+      "sources": [
+        {
+          "name": "Andhra Jyothy (ground report, Telugu)",
+          "url": "https://www.andhrajyothy.com/2026/telangana/warangal/heavy-rains-lash-telangana-as-deep-depression-triggers-floods-and-roads-washed-away-crops-submerged-vvnp-1545723.html"
+        },
+        {
+          "name": "Nativeplanet",
+          "url": "https://www.nativeplanet.com/travel-guide/telangana-heavy-rain-alert-14-districts-on-high-watch-as-monsoon-disrupts-travel-2026-011-24461.html"
+        }
+      ]
+    },
+    {
+      "id": "raipur-ganesh-visarjan-traffic-curbs-sep25-27-2026",
+      "icon": "🛡️",
+      "title": "Raipur Ganesh Visarjan from Sep 25, jhanki procession Sep 27: police traffic and safety rules",
+      "category": "National Advisory",
+      "categoryKey": "advisory",
+      "severity": "watch",
+      "status": "upcoming",
+      "region": "east",
+      "states": [
+        "Chhattisgarh"
+      ],
+      "date": "2026-09-25",
+      "summary": "Raipur police have issued traffic and safety rules for Ganesh idol immersion starting September 25, with the main jhanki procession on September 27. This coincides with IMD's forecast of widespread rain over Chhattisgarh through Sep 29.",
+      "impact": "Schedule Raipur city LM and FM runs outside procession hours on Sep 25-27, expect heavy-vehicle diversions on procession routes, and plan for rain-plus-procession delays in central Raipur pincodes.",
+      "sources": [
+        {
+          "name": "Dainik Jagran MP-CG (ground report)",
+          "url": "https://english.dainikjagranmpcg.com/states/chhattisgarh/raipur-ganesh-visarjan-2026-immersion-begins-september-25-jhanki-procession/article-32846"
+        }
+      ]
+    },
     {
       "id": "jharkhand-tspc-3day-bandh-7-districts-sep24-26-2026",
       "icon": "🚛",
@@ -2082,7 +2274,7 @@
         "Pan-India"
       ],
       "date": "2026-09-28",
-      "summary": "The United Forum of Bank Unions, which claims to represent 90% of the banking workforce, has confirmed it will go ahead with a three-day nationwide strike from 28 to 30 September after conciliation before the Deputy Chief Labour Commissioner remained inconclusive. The core demand is a five-day banking week. Because the strike follows the fourth Saturday and Sunday, branches may be unavailable for normal customer-facing work for five consecutive days from 26 to 30 September. SBI has advised customers to complete important transactions in advance and to use ATMs, Customer Service Points, internet banking, YONO, mobile banking and UPI.",
+      "summary": "The United Forum of Bank Unions, which claims to represent 90% of the banking workforce, has confirmed it will go ahead with a three-day nationwide strike from 28 to 30 September after conciliation before the Deputy Chief Labour Commissioner remained inconclusive. The core demand is a five-day banking week. Because the strike follows the fourth Saturday and Sunday, branches may be unavailable for normal customer-facing work for five consecutive days from 26 to 30 September. SBI has advised customers to complete important transactions in advance and to use ATMs, Customer Service Points, internet banking, YONO, mobile banking and UPI. SBI has issued a customer advisory for the 28-30 September strike, and the unions have warned of an indefinite nationwide strike from October 26 if the dispute is not resolved.",
       "impact": "COD remittance, cash deposit and branch-dependent settlement cycles for Delhivery, Shadowfax and Xpressbees delivery partners will stall from 26 to 30 Sep - pre-fund partner float and move DP payouts to digital rails before 25 Sep. Expect cash-handling friction at rural CSP-dependent LM hubs; the window also overlaps month-end, so clear vendor payments and FM pickup-agent settlements ahead of it.",
       "sources": [
         {
@@ -2096,6 +2288,14 @@
         {
           "name": "NewsX - Bank Strike 2026, 3-day nationwide strike from Sept 28 (ground report, TV)",
           "url": "https://www.youtube.com/watch?v=YDi9NPZBwu4"
+        },
+        {
+          "name": "SBI strike advisory",
+          "url": "https://sbi.bank.in/documents/136/49244919/STRIKE+ADVISORY+28-30+SEPT+2026+(4).pdf"
+        },
+        {
+          "name": "Business Standard",
+          "url": "https://www.business-standard.com/amp/industry/banking/banks-to-remain-open-on-sunday-ahead-of-proposed-3-day-strike-from-sep-28-126092300574_1.html"
         }
       ]
     },
