@@ -1,5 +1,5 @@
 {
-  "compiledAt": "2026-09-24T18:30:00+05:30",
+  "compiledAt": "2026-09-24T21:30:00+05:30",
   "note": "Manually-refreshed research digest compiled from public news sources, including regional/vernacular press, local TV channels and YouTube ground reports where available. Not a live news-wire feed — update this file (or re-run research) to refresh. Built for Meesho 3P logistics capacity planning (Delhivery · Shadowfax · Xpressbees): LM/FM manifestation, non-adherence hotspots, and serviceability-loss tracking. Not an official Meesho product.",
   "upcomingEvents": [
     {
@@ -599,6 +599,94 @@
     }
   ],
   "alerts": [
+    {
+      "id": "ap-vizianagaram-therlam-badangi-denkada-power-suspended-sep24-2026",
+      "icon": "🌧️",
+      "title": "Vizianagaram: power supply suspended in Therlam, Badangi, Denkada as gusty winds and rain lash district",
+      "category": "Flood",
+      "categoryKey": "flood",
+      "severity": "moderate",
+      "status": "ongoing",
+      "region": "south",
+      "states": [
+        "Andhra Pradesh"
+      ],
+      "date": "2026-09-24",
+      "summary": "Heavy rain with gusty winds from the deep depression that crossed near Kalingapatnam hit parts of Vizianagaram district on September 24, including Therlam, Badangi and Denkada mandals, where power supply was suspended as a precaution. Educational institutions in Srikakulam and several other districts were given holidays on Thursday and Friday (Sep 24-25).",
+      "impact": "Expect LM delays and weak phone/scan connectivity in Therlam, Badangi and Denkada (Bobbili–Vizianagaram belt) while power is off; check DC/sortation backup power in the Vizianagaram cluster, allow OFD cut-off relaxation for Sep 24-25 and hold COD-heavy rural routes where riders cannot top up devices.",
+      "sources": [
+        {
+          "name": "NewsMeter (ground report)",
+          "url": "https://newsmeter.in/regional/andhra-pradesh/heavy-rain-hits-ap-hard-roads-flooded-landslides-reported-and-paddy-fields-submerged-776135"
+        }
+      ]
+    },
+    {
+      "id": "ap-south-coastal-guntur-bapatla-palnadu-prakasam-heavy-rain-sep25-2026",
+      "icon": "🌧️",
+      "title": "South coastal AP: heavy rain forecast Sep 25 for NTR, Krishna, Guntur, Bapatla, Palnadu, Prakasam; NTR flash floods",
+      "category": "Flood",
+      "categoryKey": "flood",
+      "severity": "watch",
+      "status": "upcoming",
+      "region": "south",
+      "states": [
+        "Andhra Pradesh"
+      ],
+      "date": "2026-09-25",
+      "summary": "As the weakening depression moves inland, heavy rainfall is likely at one or two places in NTR, Krishna, Guntur, Bapatla, Palnadu and Prakasam districts on September 25. On September 24, flash floods hit several locations in NTR district with streams and canals overflowing onto major roads, and hundreds of acres of paddy were submerged between Vijayawada and Rajahmundry.",
+      "impact": "Rain risk shifts south from Srikakulam to the Vijayawada–Guntur–Ongole corridor on Sep 25: pre-position FM pickups in Vijayawada/Guntur before noon, watch canal-side low-lying roads in NTR district, and keep SLA buffer for Bapatla, Narasaraopet (Palnadu) and Ongole (Prakasam) LM routes.",
+      "sources": [
+        {
+          "name": "NewsMeter (ground report)",
+          "url": "https://newsmeter.in/regional/andhra-pradesh/heavy-rain-hits-ap-hard-roads-flooded-landslides-reported-and-paddy-fields-submerged-776135"
+        }
+      ]
+    },
+    {
+      "id": "sikkim-gangtok-nh10-ranipool-odd-even-restriction-review-sep24-2026",
+      "icon": "⛽",
+      "title": "Gangtok: odd-even vehicle curbs on NH-10 Ranipool (Mayfair Jn)–Zero Point stretch under HC-ordered review",
+      "category": "Fuel & Energy",
+      "categoryKey": "fuel",
+      "severity": "watch",
+      "status": "ongoing",
+      "region": "east",
+      "states": [
+        "Sikkim"
+      ],
+      "date": "2026-09-24",
+      "summary": "The Sikkim High Court on September 22 directed the state to reconsider, within three weeks, its odd-even vehicle movement restriction on the NH-10 stretch from Mayfair Junction, Ranipool to Zero Point Junction, Gangtok; the case is listed for October 15. The restriction, introduced amid petrol/diesel buffer-stock concerns, was withdrawn for private vehicles outside Gangtok from May 31 but remains in force within Gangtok town.",
+      "impact": "Until the policy changes, LM vehicles in Gangtok town can ply the Ranipool–Zero Point NH-10 stretch only on permitted days — plan alternate-day vehicle rostering (odd/even plates) for Gangtok hubs and keep two-wheeler riders on the core town beats; review again after the Oct 15 hearing.",
+      "sources": [
+        {
+          "name": "The News Mill (ground report)",
+          "url": "https://thenewsmill.com/2026/09/sikkim-hc-directs-govt-to-review-nh-10-odd-even-policy-in-3-weeks/"
+        }
+      ]
+    },
+    {
+      "id": "kerala-malappuram-pookkottumpadam-kottappuzha-flash-flood-sep2026",
+      "icon": "🌊",
+      "title": "Malappuram: Kottappuzha flash flood at TK Colony, Pookkottumpadam — one dead, seven feared missing",
+      "category": "Flood",
+      "categoryKey": "flood",
+      "severity": "moderate",
+      "status": "ongoing",
+      "region": "south",
+      "states": [
+        "Kerala"
+      ],
+      "date": "2026-09-20",
+      "summary": "A sudden flash flood in the Kottappuzha river struck TK Colony in Pookkottumpadam (Malappuram district, Nilambur belt) around 5 pm on September 20; one man was found dead at Muttikkund in Pottikkallu and seven people, including tourists, were feared swept away. About 27 people stranded mid-river were rescued; spots from Olarvattom Canal to TK Colony and the Koyipra foothills (Kettungal, Aanakkundu, Balawadippadi) were affected.",
+      "impact": "Localised risk for Pookkottumpadam/Nilambur hill-foot LM routes during continuing Kerala orange-alert rain — avoid riverside village roads near Kottappuzha after heavy afternoon showers and allow SLA buffer for Nilambur-area pincodes.",
+      "sources": [
+        {
+          "name": "The News Mill / ANI (ground report)",
+          "url": "https://thenewsmill.com/2026/09/one-dead-seven-missing-after-flash-flood-in-pookkottumpadam-kerala/"
+        }
+      ]
+    },
     {
       "id": "ap-alluri-chintalamma-ghat-koyyuru-landslide-araku-sep24-2026",
       "icon": "⛰️",
