@@ -1,5 +1,5 @@
 {
-  "compiledAt": "2026-09-24T15:15:00+05:30",
+  "compiledAt": "2026-09-24T18:30:00+05:30",
   "note": "Manually-refreshed research digest compiled from public news sources, including regional/vernacular press, local TV channels and YouTube ground reports where available. Not a live news-wire feed — update this file (or re-run research) to refresh. Built for Meesho 3P logistics capacity planning (Delhivery · Shadowfax · Xpressbees): LM/FM manifestation, non-adherence hotspots, and serviceability-loss tracking. Not an official Meesho product.",
   "upcomingEvents": [
     {
@@ -13,6 +13,24 @@
         {
           "name": "The Jain Religion — Paryushan Parva 2026",
           "url": "https://thejainreligion.in/shwetambar-paryushan-parva-dates-2026"
+        }
+      ]
+    },
+    {
+      "id": "ambaji-bhadarvi-poonam-fair-2026",
+      "icon": "🛕",
+      "community": "Hindu (Gujarat regional)",
+      "title": "Ambaji Bhadarvi Poonam Mela (main day Sep 26): lakhs of padyatris on the Palanpur-Danta-Ambaji roads - expect Banaskantha highway congestion and slow LM around Ambaji/Danta",
+      "date": "2026-09-23",
+      "endDate": "2026-09-26",
+      "sources": [
+        {
+          "name": "ShubhPanchang - Bhadarvi Poonam 2026",
+          "url": "https://shubhpanchang.in/festivals/bhadarvi-poonam-2026?lang=en"
+        },
+        {
+          "name": "Banaskantha district (Govt of Gujarat) - Ambaji Fair",
+          "url": "https://banaskantha.nic.in/festival/ambaji-fair/"
         }
       ]
     },
@@ -44,6 +62,23 @@
         {
           "name": "Drik Panchang",
           "url": "https://www.drikpanchang.com/shraddha/pitru-paksha-shraddha-dates.html"
+        }
+      ]
+    },
+    {
+      "id": "bhagat-singh-jayanti-punjab-2026",
+      "icon": "🇮🇳",
+      "community": "National (Punjab regional)",
+      "title": "Shaheed Bhagat Singh Jayanti (Sep 28): Punjab gazetted holiday - lighter LM/FM staffing and shop closures statewide, coinciding with the Sep 28-30 bank strike",
+      "date": "2026-09-28",
+      "sources": [
+        {
+          "name": "Sakshi Education - Punjab schools holiday Sep 28",
+          "url": "https://education.sakshi.com/en/schools/education-news/punjab-state-all-schools-holiday-announced-september-28th-monday-due-birth-anniversary-shaheed-bhagat-singh-200289"
+        },
+        {
+          "name": "Office Holidays - Birthday of S. Bhagat Singh Ji",
+          "url": "https://www.officeholidays.com/holidays/birthday-of-s-bhagat-singh-ji"
         }
       ]
     },
@@ -206,6 +241,24 @@
         {
           "name": "Samvat.in",
           "url": "https://samvat.in/festivals/navaratri-2026/"
+        }
+      ]
+    },
+    {
+      "id": "kullu-dussehra-2026",
+      "icon": "🏔️",
+      "community": "Hindu (Himachal regional)",
+      "title": "International Kullu Dussehra (Oct 20-26): week-long fair at Dhalpur maidan draws 4-5 lakh visitors - heavy Mandi-Kullu-Manali NH-3 congestion on top of monsoon road damage",
+      "date": "2026-10-20",
+      "endDate": "2026-10-26",
+      "sources": [
+        {
+          "name": "Itinerary Diary - Kullu Dussehra 2026",
+          "url": "https://www.itinerarydiary.com/journal/kullu-dussehra-2026/"
+        },
+        {
+          "name": "Incredible India - Kullu Dussehra",
+          "url": "https://www.incredibleindia.gov.in/en/festivals-and-events/kullu-dussehra"
         }
       ]
     },
@@ -547,6 +600,116 @@
   ],
   "alerts": [
     {
+      "id": "ap-alluri-chintalamma-ghat-koyyuru-landslide-araku-sep24-2026",
+      "icon": "⛰️",
+      "title": "Alluri Sitarama Raju: landslide at Chintalamma Ghat (Koyyuru mandal) drops debris on NH; Araku ghat landslips",
+      "category": "Landslide",
+      "categoryKey": "landslide",
+      "severity": "high",
+      "status": "ongoing",
+      "region": "south",
+      "states": [
+        "Andhra Pradesh"
+      ],
+      "date": "2026-09-24",
+      "summary": "At Chintalamma Ghat Road in Koyyuru mandal of Alluri Sitarama Raju district, parts of the hillside gave way after heavy rain and earth and debris fell onto the National Highway, disrupting traffic on the ghat stretch. Araku Valley has had three days of continuous rain, with landslips reported along several ghat roads. Separately, flash floods hit several places in NTR district as streams and canals overflowed onto major roads, and hundreds of acres of paddy between Vijayawada and Rajahmundry are submerged.",
+      "impact": "Avoid Chintalamma Ghat and Araku ghat roads for Vizag-Paderu/Araku feeder runs; move ASR-district LM to daylight-only with a 24-48h SLA buffer and flag Koyyuru, Paderu and Araku pincodes for extended TAT. Expect FM pickup misses in NTR district (Vijayawada rural) where flash floods have reached roads; heavy rain is forecast again on 25 September for NTR, Krishna, Guntur, Bapatla, Palnadu and Prakasam.",
+      "sources": [
+        {
+          "name": "NewsMeter (ground report)",
+          "url": "https://newsmeter.in/regional/andhra-pradesh/heavy-rain-hits-ap-hard-roads-flooded-landslides-reported-and-paddy-fields-submerged-776135"
+        }
+      ]
+    },
+    {
+      "id": "odisha-kalahandi-lanjigarh-thuamul-rampur-landslide-watch-sep24-2026",
+      "icon": "⛰️",
+      "title": "Kalahandi: red warning; landslide vigil at Madanpur Rampur, Koksara, Lanjigarh, Thuamul Rampur; Hati and Tel rising",
+      "category": "Landslide",
+      "categoryKey": "landslide",
+      "severity": "watch",
+      "status": "ongoing",
+      "region": "east",
+      "states": [
+        "Odisha"
+      ],
+      "date": "2026-09-24",
+      "summary": "With IMD's red warning for extremely heavy rain over Kalahandi, Nabarangpur, Koraput and Malkangiri, the Kalahandi administration is maintaining strict vigilance in landslide-prone Madanpur Rampur, Koksara, Lanjigarh and Thuamul Rampur blocks. Continuous rain and gusty winds hit Dharmagada, Koksara and Jaipatna overnight, and the Hati and Tel rivers are steadily rising, prompting warnings to riverside residents. Schools and colleges in Kalahandi are closed; 28 temporary shelters and 13 mobile health units are ready.",
+      "impact": "Early-warning item for Kalahandi: pre-flag Thuamul Rampur and Lanjigarh hill pincodes and Hati/Tel riverside villages (Dharmagada, Jaipatna, Koksara) for extended TAT on 24-26 September, and keep Bhawanipatna hub line-haul on main roads only. Escalate to non-serviceable if slides or river overtopping are reported.",
+      "sources": [
+        {
+          "name": "Argus News (ground report, TV)",
+          "url": "https://argusenglish.in/weather-calamities/deep-depression-triggers-torrential-rains-in-odisha-schools-shut"
+        }
+      ]
+    },
+    {
+      "id": "surat-ganesh-visarjan-25-roads-closed-heavy-vehicle-no-entry-sep25-2026",
+      "icon": "🛡️",
+      "title": "Surat Ganesh Visarjan Sep 25: 25 main roads shut from 6 am; no heavy-vehicle entry from Palsana, Sayan, Olpad",
+      "category": "National Advisory",
+      "categoryKey": "advisory",
+      "severity": "high",
+      "status": "upcoming",
+      "region": "west",
+      "states": [
+        "Gujarat"
+      ],
+      "date": "2026-09-25",
+      "summary": "The Surat Police Commissioner's notification closes about 25 main roads, including the Rajmarg, to general traffic from 6 am on 25 September. Large idols will be immersed by crane at Hazira, Magdalla and Dumas; Dumas and Suvali beaches are closed to the public on 25-26 September, and air passengers are told to leave three hours early because of procession traffic on the Dumas route. All heavy vehicles entering Surat from Palsana, Sayan and Olpad are barred until immersion ends.",
+      "impact": "Surat is a major Meesho supplier (textile) cluster - expect FM pickup failures across central Surat and the Dumas/Magdalla/Hazira belt on 25 September and hold line-haul trucks outside the city at Palsana/Kadodara until the no-entry lifts. Pull FM pickups forward to 24 September evening or push to 26 September, and route LM for western Surat (Piplod, Vesu, Dumas Road) as a next-day delivery.",
+      "sources": [
+        {
+          "name": "Sandesh (ground report, Gujarati)",
+          "url": "https://sandesh.com/gujarat/news/surat/surat-ganesh-visarjan-25-roads-closed-dumas-suvali-beach-entry-ban"
+        }
+      ]
+    },
+    {
+      "id": "ahmedabad-ganesh-visarjan-road-closures-sep25-2026",
+      "icon": "🛡️",
+      "title": "Ahmedabad visarjan curbs from 1 pm Sep 25: Geeta Mandir-Jamalpur, Kalupur-Town Hall, Riverfront roads shut",
+      "category": "National Advisory",
+      "categoryKey": "advisory",
+      "severity": "moderate",
+      "status": "upcoming",
+      "region": "west",
+      "states": [
+        "Gujarat"
+      ],
+      "date": "2026-09-25",
+      "summary": "Ahmedabad Police Commissioner Anupamsinh Gehlot's notification, effective from 1 pm on 25 September, closes the ST Geeta Mandir-Jamalpur bridge-Paldi road, Geeta Mandir to Raipur/Sarangpur/Kalupur station, the Kalupur station-Sarangpur-Raipur-Khamasa-Ellisbridge-Town Hall stretch, Delhi Darwaja-Dadhichi bridge routes and the Riverfront road from Vadaj crematorium and Picnic House to under Ambedkar bridge. All restricted and diversion routes are no-parking zones; diversions run via Behrampura-Danilimda-Anjali and Kalupur bridge-Saraspur.",
+      "impact": "Schedule Ahmedabad old-city and east-bank LM (Kalupur, Raipur, Jamalpur, Shahpur, Dariyapur) and FM pickups before 1 pm on 25 September; expect afternoon-evening failed attempts in walled-city pincodes and route line-haul to the Aslali/Changodar side via SP Ring Road rather than through the core.",
+      "sources": [
+        {
+          "name": "ETV Bharat Gujarat (ground report, Gujarati)",
+          "url": "https://www.etvbharat.com/gu/state/ahmedabad-police-commissioner-notification-for-ganesh-visarjan-gjs26092304494"
+        }
+      ]
+    },
+    {
+      "id": "chhattisgarh-lightning-balod-kanker-bemetara-bastar-schools-shut-sep24-2026",
+      "icon": "🌧️",
+      "title": "Chhattisgarh: lightning kills 4 in Balod, Kanker, Bemetara; Bastar schools shut, Jagdalpur-Hyderabad flight cancelled",
+      "category": "Flood",
+      "categoryKey": "flood",
+      "severity": "moderate",
+      "status": "ongoing",
+      "region": "east",
+      "states": [
+        "Chhattisgarh"
+      ],
+      "date": "2026-09-24",
+      "summary": "Four people died in lightning strikes on Wednesday - a woman working in a field in Balod, a farmer in Kanker and two labourers near a pond in Bemetara. All schools in Bastar district were closed on 24 September and quarterly exams postponed, and the Jagdalpur-Hyderabad flight was cancelled due to weather. IMD has issued 40-60 km/h wind alerts for 14 districts including Raipur, Durg, Bilaspur, Kanker and Dhamtari, with heavy to very heavy rain possible in south Chhattisgarh on 24-25 September.",
+      "impact": "Expect slower LM and FM in Bastar (Jagdalpur), Kanker and Kondagaon on 24-25 September and restrict rider movement in open rural stretches during thunderstorm windows; air-linked express loads into Jagdalpur should move by road via Raipur with a 1-day buffer.",
+      "sources": [
+        {
+          "name": "Dainik Jagran MP-CG (ground report)",
+          "url": "https://english.dainikjagranmpcg.com/states/chhattisgarh/chhattisgarh-weather-alert-4-killed-in-lightning-strikes-heavy-rain/article-32850"
+        }
+      ]
+    },
+    {
       "id": "odisha-malkangiri-bayapada-ghat-landslide-18-villages-sep24-2026",
       "icon": "⛰️",
       "title": "Malkangiri: ghat landslide at Bayapada cuts off 18 villages; movement restricted both sides",
@@ -729,12 +892,16 @@
         "Chhattisgarh"
       ],
       "date": "2026-09-25",
-      "summary": "Raipur police have issued traffic and safety rules for Ganesh idol immersion starting September 25, with the main jhanki procession on September 27. This coincides with IMD's forecast of widespread rain over Chhattisgarh through Sep 29.",
+      "summary": "Raipur police have issued traffic and safety rules for Ganesh idol immersion starting September 25, with the main jhanki procession on September 27, and heavy vehicles are banned on 19 city routes until September 27 under the revised festival traffic plan. This coincides with IMD's forecast of widespread rain over Chhattisgarh through Sep 29 and 40-60 km/h wind alerts for Raipur and 14 other districts.",
       "impact": "Schedule Raipur city LM and FM runs outside procession hours on Sep 25-27, expect heavy-vehicle diversions on procession routes, and plan for rain-plus-procession delays in central Raipur pincodes.",
       "sources": [
         {
           "name": "Dainik Jagran MP-CG (ground report)",
           "url": "https://english.dainikjagranmpcg.com/states/chhattisgarh/raipur-ganesh-visarjan-2026-immersion-begins-september-25-jhanki-procession/article-32846"
+        },
+        {
+          "name": "Dainik Jagran MP-CG (ground report)",
+          "url": "https://english.dainikjagranmpcg.com/states/chhattisgarh/raipur-traffic-plan-changed-during-ganesh-festival-heavy-vehicles-banned/article-32224"
         }
       ]
     },
@@ -1440,18 +1607,18 @@
     {
       "id": "odisha-malkangiri-bridges-submerged",
       "icon": "🌊",
-      "title": "Malkangiri bridges resurfaced and NH-326 reopened, but red alert threatens re-closure on 24-25 September",
+      "title": "Malkangiri: NH-326 cut off again as Kangurukonda and Poteru bridges go under 2-3 ft of water",
       "category": "Flood",
       "categoryKey": "flood",
-      "severity": "moderate",
+      "severity": "critical",
       "status": "ongoing",
       "region": "east",
       "states": [
         "Odisha"
       ],
-      "date": "2026-09-22",
-      "summary": "After 524 mm in 24 hours put two to three feet of water over the Poteru, Pangam, Kankurukonda, Kanyashram and MV-96 bridges, NH-326 - the Vijayawada-Ranchi corridor - was fully blocked, with hundreds of buses, trucks and ambulances stranded. Floodwaters have since receded and movement on NH-326 has resumed. With red alerts covering Malkangiri for 24-25 September, re-closure is likely.",
-      "impact": "NH-326 is open today but plan for it to shut again on 24-25 September - do not stage Malkangiri-bound line-haul on the bridges and keep a Jeypore or Koraput holding point. Malkangiri rural pincodes stay on extended TAT rather than restored cut-offs.",
+      "date": "2026-09-24",
+      "summary": "The deep-depression rain has re-closed the corridor that had only just reopened: four bridges in Malkangiri, including those at Kangurukonda and Poteru, are submerged with water flowing two to three feet above the decks, and NH-326 (Vijayawada-Ranchi corridor) has been cut off again. Police are posted on both sides of vulnerable bridges and schools and colleges across the district are shut. IMD has a red warning for extremely heavy rain over Malkangiri, Koraput, Nabarangpur and Kalahandi for the next 24 hours.",
+      "impact": "Treat Malkangiri district (Kalimela, Motu, Chitrakonda side) as non-serviceable for LM/FM on 24-25 September and stop Vijayawada-Jeypore line-haul via NH-326; re-open only after the bridges are confirmed clear. Hold Malkangiri-bound shipments at Jeypore/Koraput hubs rather than dispatching into the corridor.",
       "sources": [
         {
           "name": "OrissaPOST (ground report)",
@@ -1460,6 +1627,10 @@
         {
           "name": "ThePrint",
           "url": "https://theprint.in/india/heavy-rain-induced-by-depression-lashes-odisha-schools-closed/3049478/"
+        },
+        {
+          "name": "Argus News (ground report, TV)",
+          "url": "https://argusenglish.in/weather-calamities/deep-depression-triggers-torrential-rains-in-odisha-schools-shut"
         }
       ]
     },
