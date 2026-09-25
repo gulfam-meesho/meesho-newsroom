@@ -1,5 +1,5 @@
 {
-  "compiledAt": "2026-09-25T10:40:00+05:30",
+  "compiledAt": "2026-09-25T12:20:00+05:30",
   "note": "Manually-refreshed research digest compiled from public news sources, including regional/vernacular press, local TV channels and YouTube ground reports where available. Not a live news-wire feed — update this file (or re-run research) to refresh. Built for Meesho 3P logistics capacity planning (Delhivery · Shadowfax · Xpressbees): LM/FM manifestation, non-adherence hotspots, and serviceability-loss tracking. Not an official Meesho product.",
   "upcomingEvents": [
     {
@@ -2023,7 +2023,7 @@
         "West Bengal"
       ],
       "date": "2026-09-20",
-       "summary": "Erosion turned severe in the Radhakrishnapur area of Taranagar village in Raghunathganj II block, Murshidabad, taking 19 homes, an old Manasa temple, shops and several bighas of farmland. Another 50 to 70 houses are under immediate threat. The Farakka-belt blocks - Farakka, Samserganj, Suti I and II, Raghunathganj II, Lalgola, Bhagawangola I and II, Raninagar I and II and Jalangi - face this every year.",
+      "summary": "Erosion turned severe in the Radhakrishnapur area of Taranagar village in Raghunathganj II block, Murshidabad, taking 19 homes, an old Manasa temple, shops and several bighas of farmland. Another 50 to 70 houses are under immediate threat. The Farakka-belt blocks - Farakka, Samserganj, Suti I and II, Raghunathganj II, Lalgola, Bhagawangola I and II, Raninagar I and II and Jalangi - face this every year.",
       "impact": "Treat Raghunathganj II, Suti and Samserganj riverside pincodes as shrinking serviceable areas and re-verify addresses before dispatch. Route Murshidabad FM through Jangipur town rather than the riverbank villages.",
       "sources": [
         {
@@ -2143,26 +2143,30 @@
     {
       "id": "sikkim-gyalshing-rimbi-singlitam-landslide-sep2026",
       "icon": "⛰️",
-      "title": "Gyalshing: 161 evacuated as Rimbi river shifts course and the Singlitam slide reactivates",
+      "title": "Rimbi village landslide worsens: 32 houses and 4 govt quarters threatened as Singlitam hillock destabilises further",
       "category": "Landslide",
       "categoryKey": "landslide",
-      "severity": "high",
+      "severity": "critical",
       "status": "ongoing",
       "region": "east",
       "states": [
         "Sikkim"
       ],
-      "date": "2026-09-15",
-      "summary": "Incessant rain since 12 September triggered fresh landslides at Singlitam and Rimbi in Gyalshing district; 128 people from 28 houses were evacuated at Rimbi and 161 district-wide. Seven households hit directly at Singlitam were moved to a relief centre in Singlitam Ward. The Rimbi river has changed course and is now attacking the roadside flank; the state plans a Bailey bridge at higher ground, with a temporary bamboo bridge in place from 15 September.",
-      "impact": "West Sikkim beats around Gyalshing, Rimbi and Singlitam run over a bamboo bridge until the Bailey bridge is built - restrict to two-wheeler LM and hold heavier consignments at Gyalshing. Flag Rimbi-side villages for extended TAT.",
+      "date": "2026-09-25",
+      "summary": "A recurring mudslide that began on 12 September at the Singlitam hillock above Rimbi village (West Sikkim, Yuksom-Tashiding constituency) has intensified after Yuksom-Rimbi recorded 224.6mm of rain in 24 hours - the highest in Sikkim. At least 32 houses and 4 government quarters are now threatened by mud, sand and debris; the Rimbi-Yuksom and Rimbi-Khecheopalri roads are both closed, and the CM has confirmed the Geyzing district administration is running relief camps at Rimbi Panchayat Bhawan for evacuated families.",
+      "impact": "Treat Rimbi, Yuksom and Khecheopalri (Geyzing subdivision, West Sikkim) as non-serviceable for LM/FM until both roads reopen; hold any COD/RTO pickups in the area and re-route West Sikkim linehaul via alternate roads with a 3-4 day SLA buffer given the slope is still active. Flag Pelling-belt sellers for pickup delays.",
       "sources": [
         {
-          "name": "India Today NE",
-          "url": "https://www.indiatodayne.in/sikkim/story/sikkims-gyalshing-on-alert-as-landslides-hit-singlitam-rimbi-128-evacuated-1450781-2026-09-15"
+          "name": "EastMojo (ground report)",
+          "url": "https://eastmojo.com/sikkim/2026/09/25/sikkim-32-houses-in-rimbi-face-landslide-flash-flood-threat/"
         },
         {
-          "name": "The News Mill (ground report)",
-          "url": "https://thenewsmill.com/2026/09/128-evacuated-from-28-houses-in-sikkims-rimbi-after-fresh-landslide/"
+          "name": "The Tribune",
+          "url": "https://www.tribuneindia.com/news/india/torrential-rain-landslide-wreaks-havoc-in-sikkims-rimbi-several-houses-damaged/"
+        },
+        {
+          "name": "Outlook India",
+          "url": "https://www.outlookindia.com/national/sikkim-landslide-fresh-mudslide-hits-rimbi-village-amid-heavy-rain-watch"
         }
       ]
     },
@@ -3034,4 +3038,4 @@
       ]
     }
   ]
-}
+        }
