@@ -1,5 +1,5 @@
 {
-  "compiledAt": "2026-09-25T00:15:00+05:30",
+  "compiledAt": "2026-09-25T10:40:00+05:30",
   "note": "Manually-refreshed research digest compiled from public news sources, including regional/vernacular press, local TV channels and YouTube ground reports where available. Not a live news-wire feed — update this file (or re-run research) to refresh. Built for Meesho 3P logistics capacity planning (Delhivery · Shadowfax · Xpressbees): LM/FM manifestation, non-adherence hotspots, and serviceability-loss tracking. Not an official Meesho product.",
   "upcomingEvents": [
     {
@@ -2023,7 +2023,7 @@
         "West Bengal"
       ],
       "date": "2026-09-20",
-      "summary": "Erosion turned severe in the Radhakrishnapur area of Taranagar village in Raghunathganj II block, Murshidabad, taking 19 homes, an old Manasa temple, shops and several bighas of farmland. Another 50 to 70 houses are under immediate threat. The Farakka-belt blocks - Farakka, Samserganj, Suti I and II, Raghunathganj II, Lalgola, Bhagawangola I and II, Raninagar I and II and Jalangi - face this every year.",
+       "summary": "Erosion turned severe in the Radhakrishnapur area of Taranagar village in Raghunathganj II block, Murshidabad, taking 19 homes, an old Manasa temple, shops and several bighas of farmland. Another 50 to 70 houses are under immediate threat. The Farakka-belt blocks - Farakka, Samserganj, Suti I and II, Raghunathganj II, Lalgola, Bhagawangola I and II, Raninagar I and II and Jalangi - face this every year.",
       "impact": "Treat Raghunathganj II, Suti and Samserganj riverside pincodes as shrinking serviceable areas and re-verify addresses before dispatch. Route Murshidabad FM through Jangipur town rather than the riverbank villages.",
       "sources": [
         {
@@ -2239,8 +2239,8 @@
       "states": [
         "Uttar Pradesh"
       ],
-      "date": "2026-09-15",
-      "summary": "Nine houses have been lost to Sharda river erosion in Lakhimpur Kheri with 20 more in immediate danger, and villagers are demolishing their own homes to salvage bricks; the Virbaba Sthan site is also threatened. Earlier in the season the Sharda ran 32 cm above the danger mark after 1.91 lakh cusecs were released from Banbasa barrage, pushing water into villages of the Palia, Bhira and Bijua blocks where residents needed boats to move. Sharda-Mohana erosion is reported intensifying across three separate pockets of the district.",
+      "date": "2026-09-24",
+      "summary": "Nine houses have been lost to Sharda river erosion in Lakhimpur Kheri with 20 more in immediate danger, and villagers are demolishing their own homes to salvage bricks; the Virbaba Sthan site is also threatened. Earlier in the season the Sharda ran 32 cm above the danger mark after 1.91 lakh cusecs were released from Banbasa barrage, pushing water into villages of the Palia, Bhira and Bijua blocks where residents needed boats to move. Sharda-Mohana erosion is reported intensifying across three separate pockets of the district. As of 24 September, erosion has intensified further along the Mohana-Sharda confluence stretch, with standing crops now also at risk in addition to homes.",
       "impact": "Palia, Bhira and Bijua block pincodes need address re-validation and should stay on extended TAT - households are moving, so non-delivery there is address loss, not rider failure. Hold FM pickup from riverside seller clusters until the Banbasa release stabilises.",
       "sources": [
         {
@@ -2250,6 +2250,10 @@
         {
           "name": "Amar Ujala (ground report)",
           "url": "https://www.amarujala.com/uttar-pradesh/lakhimpur-kheri/homes-destroyed-by-sharda-river-erosion-villagers-demolish-their-own-houses-in-lakhimpur-kheri-2026-09-12"
+        },
+        {
+          "name": "Amar Ujala (ground report, Hindi)",
+          "url": "https://www.amarujala.com/uttar-pradesh/lakhimpur-kheri/mohana-sharda-river-erosion-intensifies-crops-in-danger-lakhimpur-news-c-120-1-lkh1008-185816-2026-09-24"
         }
       ]
     },
@@ -3004,6 +3008,28 @@
         {
           "name": "eSakal (Marathi, ground report)",
           "url": "https://www.esakal.com/vidarbha/nagpur/vidarbha-rain-forecast-cyclone-impact-heavy-rain-alert-september-2026-asi01"
+        }
+      ]
+    },
+    {
+      "id": "kerala-wayanad-meppadi-mundakkai-quarrying-trekking-halt-sep2026",
+      "icon": "⛰️",
+      "title": "Wayanad collector halts quarrying, trekking near Mundakkai-Chooralmala (Meppadi) as rain alert renews landslide vigil",
+      "category": "Landslide",
+      "categoryKey": "landslide",
+      "severity": "watch",
+      "status": "ongoing",
+      "region": "south",
+      "states": [
+        "Kerala"
+      ],
+      "date": "2026-09-24",
+      "summary": "With IMD issuing a yellow alert for 7-12 cm of rain, the Wayanad district collector ordered a halt to granite quarrying, adventure-tourism operations and trekking, directing authorities to closely monitor earth-slip-prone zones. Special vigilance was flagged for the Mundakkai-Chooralmala area of Meppadi panchayat - site of the July 2024 landslide that killed dozens - along with the Kalladi-Anakkampoyil tunnel site and the Wayanad Township project near Kalpetta.",
+      "impact": "Treat Meppadi, Mundakkai, Chooralmala and the Kalpetta hill belt as elevated-risk for LM/FM through this rain spell; avoid dispatching riders on hill roads after dark, and pre-position Meppadi-bound stock at the Kalpetta hub in case local roads are closed on short notice.",
+      "sources": [
+        {
+          "name": "Onmanorama (ground report)",
+          "url": "https://www.onmanorama.com/news/kerala/2026/09/24/wayanad-halts-trekking-adventure-tourism-and-quarry-operations-amid-heavy-rain-warning.html"
         }
       ]
     }
