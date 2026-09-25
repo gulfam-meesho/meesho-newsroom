@@ -1,5 +1,5 @@
 {
-  "compiledAt": "2026-09-25T15:25:00+05:30",
+  "compiledAt": "2026-09-25T18:25:00+05:30",
   "note": "Manually-refreshed research digest compiled from public news sources, including regional/vernacular press, local TV channels and YouTube ground reports where available. Not a live news-wire feed — update this file (or re-run research) to refresh. Built for Meesho 3P logistics capacity planning (Delhivery · Shadowfax · Xpressbees): LM/FM manifestation, non-adherence hotspots, and serviceability-loss tracking. Not an official Meesho product.",
   "upcomingEvents": [
     {
@@ -481,7 +481,7 @@
     },
     {
       "id": "new-year-2027",
-  "icon": "🎉",
+      "icon": "🎉",
       "community": "National",
       "title": "New Year's Day (Jan 1, 2027): pan-India public holiday, 1-day dispatch/pickup slip expected",
       "date": "2027-01-01",
@@ -743,7 +743,7 @@
         "Odisha"
       ],
       "date": "2026-09-25",
-      "summary": "Odisha Fire Services said Puri has been designated a 'red zone' for two days as the sea turned extremely rough, deploying 98 lifeguards and banning sea bathing. The Koraput collector ordered all schools up to Higher Secondary and all anganwadi centres closed on Friday, 25 Sep, amid a continuing heavy-rain forecast. Earlier, a fallen tree on the Jatni–Pipili main road near Mathasahi stranded commuters for hours before fire services cleared it.",
+      "summary": "Odisha Fire Services said Puri has been designated a 'red zone' for two days as the sea turned extremely rough, deploying 98 lifeguards and banning sea bathing. The Koraput collector ordered all schools up to Higher Secondary and all anganwadi centres closed on Friday, 25 Sep, amid a continuing heavy-rain forecast. Earlier, a fallen tree on the Jatni–Pipili main road near Mathasahi stranded commuters for hours before fire services cleared it. Evening update (25 Sep): the Alipore/regional met offices confirm the system has fully weakened into a depression over south interior Odisha, so the acute cyclone-watch phase is over, but the residual rain belt keeps Koraput's interior roads hazardous into the evening of 25 Sep.",
       "impact": "Mainly a watch signal: coastal Puri LM is running but expect wind/tree-fall delays on Khordha–Puri roads; schools-shut signals in Koraput point to continued hazardous interior roads on 25 Sep — keep Koraput buffers in place.",
       "sources": [
         {
@@ -949,7 +949,7 @@
       "summary": "With IMD's red warning for extremely heavy rain over Kalahandi, Nabarangpur, Koraput and Malkangiri, the Kalahandi administration is maintaining strict vigilance in landslide-prone Madanpur Rampur, Koksara, Lanjigarh and Thuamul Rampur blocks. Continuous rain and gusty winds hit Dharmagada, Koksara and Jaipatna overnight, and the Hati and Tel rivers are steadily rising, prompting warnings to riverside residents. Schools and colleges in Kalahandi are closed; 28 temporary shelters and 13 mobile health units are ready.",
       "impact": "Early-warning item for Kalahandi: pre-flag Thuamul Rampur and Lanjigarh hill pincodes and Hati/Tel riverside villages (Dharmagada, Jaipatna, Koksara) for extended TAT on 24-26 September, and keep Bhawanipatna hub line-haul on main roads only. Escalate to non-serviceable if slides or river overtopping are reported.",
       "sources": [
-      {
+        {
           "name": "Argus News (ground report, TV)",
           "url": "https://argusenglish.in/weather-calamities/deep-depression-triggers-torrential-rains-in-odisha-schools-shut"
         }
@@ -1148,7 +1148,7 @@
         "West Bengal"
       ],
       "date": "2026-09-24",
-      "summary": "The remnant of the deep depression is bringing heavy to very heavy rain to East and West Midnapore and Jhargram, with heavy rain in South 24 Parganas, Bankura, Purulia, West Burdwan, Birbhum and Howrah; an orange alert is up for six districts and up to 200 mm is forecast in Dum Dum and Jhargram with 50-60 km/h winds. Kolkata recorded 65.4 mm in 24 hours and scattered rain is expected across south Bengal till Sunday, Sep 27.",
+      "summary": "The remnant of the deep depression is bringing heavy to very heavy rain to East and West Midnapore and Jhargram, with heavy rain in South 24 Parganas, Bankura, Purulia, West Burdwan, Birbhum and Howrah; an orange alert is up for six districts and up to 200 mm is forecast in Dum Dum and Jhargram with 50-60 km/h winds. Kolkata recorded 65.4 mm in 24 hours and scattered rain is expected across south Bengal till Sunday, Sep 27. Evening update (25 Sep, Alipore Met Office): the system has now weakened into a regular depression after crossing the AP-Odisha coast; Kolkata, Howrah, Hooghly, North 24 Parganas, Jhargram, Purba Bardhaman, Nadia and Murshidabad continue to see scattered light-to-moderate rain, while Purba Medinipur, Paschim Medinipur and South 24 Parganas remain on orange alert for heavy rain and Purulia, Bankura, Paschim Bardhaman and Birbhum are on a separate heavy-rain alert through Saturday, 26 Sep.",
       "impact": "Plan for waterlogging-driven LM slowdowns in Kolkata/Dum Dum and rural Midnapore-Jhargram pincodes through Sep 27; avoid scheduling large FM pickups from Howrah/South 24 Parganas low-lying clusters during peak-rain windows and keep Durga Puja pre-festival volume buffers in mind.",
       "sources": [
         {
@@ -1162,6 +1162,10 @@
         {
           "name": "IMD Kolkata special bulletin",
           "url": "https://mausam.imd.gov.in/kolkata/mcdata/sb.pdf"
+        },
+        {
+          "name": "Asianet Newsable (evening update)",
+          "url": "https://newsable.asianetnews.com/gallery/india/kolkata-weather-update-deep-depression-arnab-weakens-rain-alert-remains-l3uagzs"
         }
       ]
     },
@@ -2903,7 +2907,7 @@
           "name": "Sunday Guardian Live",
           "url": "https://sundayguardianlive.com/india/india-weather-forecast-tomorrow-imd-issues-alert-for-heavy-rain-thunderstorm-for-several-states-check-forecast-for-delhi-maharashtra-up-jharkhand-bihar-odisha-northeast-safety-advisory-290406/"
         }
-     ]
+      ]
     },
     {
       "id": "ap-vizianagaram-chandrampeta-vasantha-road-ginjerugedda-sep2026",
