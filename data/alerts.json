@@ -1,5 +1,5 @@
 {
-  "compiledAt": "2026-09-25T18:25:00+05:30",
+  "compiledAt": "2026-09-26T10:35:00+05:30",
   "note": "Manually-refreshed research digest compiled from public news sources, including regional/vernacular press, local TV channels and YouTube ground reports where available. Not a live news-wire feed — update this file (or re-run research) to refresh. Built for Meesho 3P logistics capacity planning (Delhivery · Shadowfax · Xpressbees): LM/FM manifestation, non-adherence hotspots, and serviceability-loss tracking. Not an official Meesho product.",
   "upcomingEvents": [
     {
@@ -600,6 +600,110 @@
   ],
   "alerts": [
     {
+      "id": "jk-flood-damage-24000-houses-5300-roads-govt-report-sep25-2026",
+      "icon": "🛡️",
+      "title": "J&K govt tally: 24,416 houses and 5,373 roads damaged in 2025-26/2026-27 floods, Udhampur and Rajouri worst-hit",
+      "category": "National Advisory",
+      "categoryKey": "advisory",
+      "severity": "moderate",
+      "status": "ongoing",
+      "region": "north",
+      "states": [
+        "Jammu and Kashmir"
+      ],
+      "date": "2026-09-25",
+      "summary": "A government reply tabled this week put cumulative flood/cloudburst damage across Jammu & Kashmir at 24,416 residential structures (23,470 in Jammu division, 946 in Kashmir division), 5,373 roads (5,084 Jammu, 289 Kashmir) and 4,183 water-supply schemes, with 106,322 hectares of crop area hit. Udhampur (6,997 houses), Rajouri (4,781) and Jammu district (2,718) are worst-affected in Jammu division; Pulwama (289) and Budgam (271) lead in Kashmir. The government said temporary restoration of 2025-26 damage is complete with permanent works underway, while 2026-27 damage is still being restored.",
+      "impact": "Treat Udhampur, Rajouri and Jammu-district rural pincodes as running on degraded, partially-restored roads through the winter — keep an extended SLA buffer for LM/FM there and avoid committing new capacity until permanent road restoration is confirmed complete in each block.",
+      "sources": [
+        {
+          "name": "Kashmir Observer (ground report)",
+          "url": "https://kashmirobserver.net/2026/09/25/over-24000-houses-5000-roads-damaged-in-jk-floods-govt/"
+        },
+        {
+          "name": "Northlines (ground report)",
+          "url": "https://thenorthlines.com/restoration-of-cloudburst-flash-flood-affected-infrastructure-underway-govt/"
+        }
+      ]
+    },
+    {
+      "id": "uttarakhand-red-alert-bageshwar-nainital-pithoragarh-dehradun-haridwar-sep26-27-2026",
+      "icon": "🌧️",
+      "title": "Uttarakhand red alert: Bageshwar, Nainital, Pithoragarh on Sep 26; Dehradun, Haridwar on Sep 27 as western disturbance moves in",
+      "category": "Flood",
+      "categoryKey": "flood",
+      "severity": "watch",
+      "status": "upcoming",
+      "region": "north",
+      "states": [
+        "Uttarakhand"
+      ],
+      "date": "2026-09-26",
+      "summary": "IMD has placed Bageshwar, Nainital and Pithoragarh under a red alert for 26 September, shifting to Dehradun and Haridwar on 27 September, as a western disturbance brings a fresh spell of severe weather to northwest India. Heavy downpours could continue through 28 September with a risk of flooding or landslides, alongside thunderstorms, lightning and gusty winds.",
+      "impact": "Pre-emptively buffer hill-district LM in Bageshwar, Nainital and Pithoragarh for 26 September and Dehradun/Haridwar plains routes for 27 September; hold non-essential linehaul on hill roads (already fragile after the Sep 17 Pithoragarh-Tanakpur NH-9 damage) until the red-alert window passes on 28 September.",
+      "sources": [
+        {
+          "name": "NewsBytes",
+          "url": "https://www.newsbytesapp.com/news/india/imd-warns-of-heavy-uttarakhand-rain-september-26-and-27/tldr"
+        },
+        {
+          "name": "Nativeplanet",
+          "url": "https://www.nativeplanet.com/news/imd-red-alert-uttarakhand-2026-heavy-rain-landslide-warnings-north-india-weather-011-24563.html"
+        }
+      ]
+    },
+    {
+      "id": "himachal-pradesh-fresh-rainfall-forecast-sep26-29-2026",
+      "icon": "🌧️",
+      "title": "Himachal Pradesh braces for fresh rain spell Sep 26-29, adding to already-damaged hill roads",
+      "category": "Flood",
+      "categoryKey": "flood",
+      "severity": "watch",
+      "status": "upcoming",
+      "region": "north",
+      "states": [
+        "Himachal Pradesh"
+      ],
+      "date": "2026-09-26",
+      "summary": "IMD forecasts a fresh spell of rainfall across Himachal Pradesh from 26 to 29 September, even as the state's monsoon rainfall for the season remains about 13% below normal. The fresh rain risks reactivating slide-prone stretches already flagged in Mandi, Kullu and Kangra districts.",
+      "impact": "Extend the existing Mandi-Kullu-Kangra ghat-road SLA buffer through 29 September; avoid pre-positioning extra LM capacity on Chailchowk-Tattapani and Manikaran-Barshaini stretches until the fresh spell passes.",
+      "sources": [
+        {
+          "name": "LatestLY (agency report)",
+          "url": "https://www.latestly.com/agency-news/india-news-himachal-pradesh-to-receive-rainfall-from-september-26-29-as-monsoon-remains-13-below-normal-imd-7619404.html"
+        },
+        {
+          "name": "Asianet Newsable",
+          "url": "https://newsable.asianetnews.com/india/himachal-pradesh-to-see-fresh-rainfall-from-sep-26-heavy-rains-likely-articleshow-gxv25dk"
+        }
+      ]
+    },
+    {
+      "id": "bengaluru-bandh-cauvery-water-dispute-sep26-2026",
+      "icon": "🚛",
+      "title": "Bengaluru bandh called for Sep 26 over Cauvery water release to Tamil Nadu; pro-Kannada outfits shut trade, transport",
+      "category": "Strike / Bandh",
+      "categoryKey": "strike",
+      "severity": "high",
+      "status": "ongoing",
+      "region": "south",
+      "states": [
+        "Karnataka"
+      ],
+      "date": "2026-09-26",
+      "summary": "Pro-Kannada organisations and the Kannada Okkuta have called a Bengaluru bandh for 26 September protesting the release of Cauvery water to Tamil Nadu, with trade associations and auto-taxi unions extending support. Markets in the city's core commercial pockets and several transport operators are expected to stay shut for the day, though essential services are exempt.",
+      "impact": "Expect FM pickup failures across core Bengaluru trading pockets (Chickpet, KR Market, Avenue Road belt) and slower LM city-wide on 26 September; hold non-essential dispatch/pickup in the CBD until evening and confirm rider availability before committing OFD SLAs for the day.",
+      "sources": [
+        {
+          "name": "The News Minute",
+          "url": "https://www.thenewsminute.com/karnataka/bengaluru-bandh-called-on-september-26-over-cauvery-water-row"
+        },
+        {
+          "name": "Deccan Herald",
+          "url": "https://www.deccanherald.com/amp/story/india%2Fkarnataka%2Fbengaluru%2Fcall-for-bengaluru-bandh-on-sept-26-over-cauvery-2698637"
+        }
+      ]
+    },
+    {
       "id": "telangana-kothagudem-pamuleru-bridge-rajupeta-palvoncha-mandalapalli-sep24-2026",
       "icon": "🌊",
       "title": "Two spans of Pamuleru stream bridge near Rajupeta (Mulakalapalli mandal) washed away — Palvoncha–Mandalapalli traffic halted",
@@ -1056,8 +1160,8 @@
         "Odisha"
       ],
       "date": "2026-09-24",
-      "summary": "Revenue Minister Suresh Pujari said 37 blocks, 160 gram panchayats and 237 villages plus 21 wards of 5 urban local bodies are affected across Koraput, Ganjam, Malkangiri, Gajapati, Nabarangpur and Rayagada; 8,082 people have been shifted and five senior officers sent to Malkangiri, Koraput, Nabarangpur, Gajapati and Kalahandi. In Koraput's Dasmantpur block, about three feet of water flowed over the bridge near Damjodi village (Nandigaon panchayat), stranding vehicles on both sides, and water also topped the bridge near Haridaphut (Pindapadar panchayat). Semiliguda recorded 230 mm and Jeypore 161 mm in 24 hours; 33 ODRAF teams are deployed.",
-      "impact": "Expect LM failures and FM pickup misses across Koraput (Dasmantpur, Semiliguda, Jeypore), Malkangiri, Nabarangpur, Rayagada, Gajapati and Ganjam through the weekend — apply SLA relaxation, pre-emptively mark low-lying pincodes non-serviceable where bridges are overtopped, and avoid dispatching line-haul across submerged causeways.",
+      "summary": "Revenue Minister Suresh Pujari said 37 blocks, 160 gram panchayats and 237 villages plus 21 wards of 5 urban local bodies are affected across Koraput, Ganjam, Malkangiri, Gajapati, Nabarangpur and Rayagada; 8,082 people have been shifted and five senior officers sent to Malkangiri, Koraput, Nabarangpur, Gajapati and Kalahandi. In Koraput's Dasmantpur block, about three feet of water flowed over the bridge near Damjodi village (Nandigaon panchayat), stranding vehicles on both sides, and water also topped the bridge near Haridaphut (Pindapadar panchayat). Semiliguda recorded 230 mm and Jeypore 161 mm in 24 hours; 33 ODRAF teams are deployed. Updated 26 Sep: Revenue Minister Suresh Pujari said evacuations now stand at roughly 1,500 in Malkangiri, 4,000 in Nabarangpur and 7,000 in Gajapati (multiple landslides reported there); Baitarani river at Akhuapada is at 18.79m, above the 18.33m warning level. The minister said rainfall is expected to ease by 26 September evening with gradual improvement, but asked residents to stay alert for the next 24 hours.",
+      "impact": "Expect LM failures and FM pickup misses across Koraput (Dasmantpur, Semiliguda, Jeypore), Malkangiri, Nabarangpur, Rayagada, Gajapati and Ganjam through the weekend — apply SLA relaxation, pre-emptively mark low-lying pincodes non-serviceable where bridges are overtopped, and avoid dispatching line-haul across submerged causeways. Situation is forecast to improve from the evening of 26 September — hold the SLA relaxation through Saturday and reassess Sunday before resuming normal LM/FM cadence in Malkangiri, Nabarangpur and Gajapati.",
       "sources": [
         {
           "name": "Kalinga TV (ground report, TV)",
@@ -1583,32 +1687,6 @@
         {
           "name": "FloodList - Uttar Pradesh",
           "url": "https://floodlist.com/tag/uttar-pradesh"
-        }
-      ]
-    },
-    {
-      "id": "punjab-prtc-punbus-strike-postponed-sep2026",
-      "icon": "🚛",
-      "title": "Punjab Roadways, Punbus and PRTC chakka jam deferred to 24 September government meeting",
-      "category": "Strike / Bandh",
-      "categoryKey": "strike",
-      "severity": "watch",
-      "status": "upcoming",
-      "region": "north",
-      "states": [
-        "Punjab"
-      ],
-      "date": "2026-09-24",
-      "summary": "Punbus, PRTC and Punjab Roadways contract workers deferred the indefinite chakka jam that was to begin on 22 September after meeting the new Transport Secretary, and agreed to keep buses running until a government meeting on 24 September. Union president Resham Singh Gill said the strike proceeds only if the 24 September meeting fails. Demands are regularisation, an end to the contract system, and salary and service benefits. The deferral followed a meeting with newly appointed Transport Secretary Anurag Verma, who assured the union its concerns would be considered; the workers additionally want outsourced staff brought under direct departmental contracts with equal pay for equal work. As of the afternoon of 25 September, no confirmed outcome of the 24 September meeting has been reported in press coverage - treat the chakka-jam threat as still live pending an official union statement.",
-      "impact": "24 September is a double flashpoint in Punjab - this bus-strike decision and the farmers' MSP meeting land on the same day. Hold a contingency plan for Ludhiana, Jalandhar, Amritsar and Patiala FM pickups on 25-26 September and re-verify the outcome on the evening of 24 September.",
-      "sources": [
-        {
-          "name": "The Tribune",
-          "url": "https://www.tribuneindia.com/news/jalandhar/roadways-punbus-and-prtc-workers-defer-chakka-jam"
-        },
-        {
-          "name": "PTC News (ground report, TV)",
-          "url": "https://www.ptcnews.tv/punjab/punjab-roadways-punbus-prtc-workers-indefinite-strike-september-22-4429550"
         }
       ]
     },
@@ -2147,7 +2225,7 @@
     {
       "id": "sikkim-gyalshing-rimbi-singlitam-landslide-sep2026",
       "icon": "⛰️",
-      "title": "Rimbi village landslide worsens: 32 houses and 4 govt quarters threatened as Singlitam hillock destabilises further",
+      "title": "Rimbi village landslide worsens: 35 houses damaged, Singlitam hillock still active, both approach roads shut",
       "category": "Landslide",
       "categoryKey": "landslide",
       "severity": "critical",
@@ -2157,7 +2235,7 @@
         "Sikkim"
       ],
       "date": "2026-09-25",
-      "summary": "A recurring mudslide that began on 12 September at the Singlitam hillock above Rimbi village (West Sikkim, Yuksom-Tashiding constituency) has intensified after Yuksom-Rimbi recorded 224.6mm of rain in 24 hours - the highest in Sikkim. At least 32 houses and 4 government quarters are now threatened by mud, sand and debris; the Rimbi-Yuksom and Rimbi-Khecheopalri roads are both closed, and the CM has confirmed the Geyzing district administration is running relief camps at Rimbi Panchayat Bhawan for evacuated families.",
+      "summary": "A recurring mudslide that began on 12 September at the Singlitam hillock above Rimbi village (West Sikkim, Yuksom-Tashiding constituency) intensified further after Yuksom-Rimbi recorded 224.6mm of rain in 24 hours - the highest in Sikkim. Ground reports on 25 September put the toll at 35 houses damaged (no casualties); the Rimbi-Yuksom and Rimbi-Khecheopalri roads remain closed, and the Geyzing district administration is running relief camps at Rimbi Panchayat Bhawan for evacuated families.",
       "impact": "Treat Rimbi, Yuksom and Khecheopalri (Geyzing subdivision, West Sikkim) as non-serviceable for LM/FM until both roads reopen; hold any COD/RTO pickups in the area and re-route West Sikkim linehaul via alternate roads with a 3-4 day SLA buffer given the slope is still active. Flag Pelling-belt sellers for pickup delays.",
       "sources": [
         {
@@ -2171,6 +2249,14 @@
         {
           "name": "Outlook India",
           "url": "https://www.outlookindia.com/national/sikkim-landslide-fresh-mudslide-hits-rimbi-village-amid-heavy-rain-watch"
+        },
+        {
+          "name": "ETV Bharat (ground report)",
+          "url": "https://www.etvbharat.com/en/state/major-landslide-strikes-sikkims-rimbi-several-houses-damaged-enn26092501612"
+        },
+        {
+          "name": "ANI / The News Mill (ground report)",
+          "url": "https://www.aninews.in/news/national/general-news/major-landslide-damages-houses-in-sikkims-rimbi-village-after-heavy-rainfall-no-casualties-reported20260925082114/"
         }
       ]
     },
@@ -3046,4 +3132,4 @@
       ]
     }
   ]
-}
+    }
