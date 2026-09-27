@@ -1,5 +1,5 @@
 {
-  "compiledAt": "2026-09-27T11:50:00+05:30",
+  "compiledAt": "2026-09-27T12:25:00+05:30",
   "note": "Manually-refreshed research digest compiled from public news sources, including regional/vernacular press, local TV channels and YouTube ground reports where available. Not a live news-wire feed — update this file (or re-run research) to refresh. Built for Meesho 3P logistics capacity planning (Delhivery · Shadowfax · Xpressbees): LM/FM manifestation, non-adherence hotspots, and serviceability-loss tracking. Not an official Meesho product.",
   "upcomingEvents": [
     {
@@ -1005,28 +1005,6 @@
       ]
     },
     {
-      "id": "odisha-puri-red-zone-sea-ban-koraput-schools-shut-sep25-2026",
-      "icon": "🌀",
-      "title": "Puri declared 'red zone' with sea-bathing ban for two days; Koraput shuts all schools and anganwadis on 25 Sep",
-      "category": "Cyclone",
-      "categoryKey": "cyclone",
-      "severity": "watch",
-      "status": "ongoing",
-      "region": "east",
-      "states": [
-        "Odisha"
-      ],
-      "date": "2026-09-25",
-      "summary": "Odisha Fire Services said Puri has been designated a 'red zone' for two days as the sea turned extremely rough, deploying 98 lifeguards and banning sea bathing. The Koraput collector ordered all schools up to Higher Secondary and all anganwadi centres closed on Friday, 25 Sep, amid a continuing heavy-rain forecast. Earlier, a fallen tree on the Jatni–Pipili main road near Mathasahi stranded commuters for hours before fire services cleared it. Evening update (25 Sep): the Alipore/regional met offices confirm the system has fully weakened into a depression over south interior Odisha, so the acute cyclone-watch phase is over, but the residual rain belt keeps Koraput's interior roads hazardous into the evening of 25 Sep.",
-      "impact": "Mainly a watch signal: coastal Puri LM is running but expect wind/tree-fall delays on Khordha–Puri roads; schools-shut signals in Koraput point to continued hazardous interior roads on 25 Sep — keep Koraput buffers in place.",
-      "sources": [
-        {
-          "name": "ETV Bharat (live blog, ground report)",
-          "url": "https://www.etvbharat.com/en/state/live-blog--cyclone-arnab-live-updates-deep-depression-heavy-rain-odisha-andhra-pradesh-weather-enn26092308889"
-        }
-      ]
-    },
-    {
       "id": "up-kanpur-jajmau-ganga-bridge-heavy-vehicle-ban-diversion-till-dec13-2026",
       "icon": "🛡️",
       "title": "NHAI bars heavy vehicles on Kanpur's Jajmau Ganga bridge for repairs; Lucknow–Kanpur traffic diverted via Ganga Barrage till 13 Dec",
@@ -1452,36 +1430,6 @@
       ]
     },
     {
-      "id": "jharkhand-tspc-3day-bandh-7-districts-sep24-26-2026",
-      "icon": "🚛",
-      "title": "TSPC calls 3-day bandh Sep 24-26 in Chatra, Hazaribagh, Palamu, Latehar, Garhwa, Lohardaga, Gumla",
-      "category": "Strike / Bandh",
-      "categoryKey": "strike",
-      "severity": "high",
-      "status": "ongoing",
-      "region": "east",
-      "states": [
-        "Jharkhand"
-      ],
-      "date": "2026-09-24",
-      "summary": "The Maoist splinter group TSPC (Tritiya Prastuti Committee) has called a three-day shutdown from 24 to 26 September across seven Jharkhand districts - Chatra, Hazaribagh, Palamu, Latehar, Garhwa, Lohardaga and Gumla - calling the police encounter of its leader Brijesh Ganjhu in Uttar Pradesh fake. Posters announcing the bandh have been put up, and the districts are on alert for three days.",
-      "impact": "Naxal-called bandhs in this belt typically halt trucks and rural road traffic even where markets open - hold line-haul into Palamu (Daltonganj), Latehar, Garhwa and Chatra for 24-26 September and push FM pickups to 27 September. Expect LM attempt failures in rural pincodes of all seven districts; Hazaribagh town and Ranchi-bound NH traffic may run with security escort only.",
-      "sources": [
-        {
-          "name": "ETV Bharat Jharkhand (ground report, Hindi)",
-          "url": "https://www.etvbharat.com/hi/state/tspc-announced-three-day-shutdown-across-seven-districts-of-jharkhand-in-protest-against-brijesh-ganjhu-encounter-jhs26092306290"
-        },
-        {
-          "name": "Amar Ujala Ranchi (ground report, Hindi)",
-          "url": "https://www.amarujala.com/jharkhand/ranchi/shutdown-announced-from-september-24-to-26-in-protest-against-the-death-of-tpc-supremo-brijesh-ganjhu-ranchi-news-c-1-1-noi1475-4759485-2026-09-24"
-        },
-        {
-          "name": "AajTak",
-          "url": "https://www.aajtak.in/india/jharkhand/story/naxalite-brijesh-ganjhu-encounter-tspc-announces-3-day-bandh-ntc-drmt-rpti-2651472-2026-09-24"
-        }
-      ]
-    },
-    {
       "id": "ap-srikakulam-vamsadhara-nagavali-spate-gangavaram-culvert-sep2026",
       "icon": "🌊",
       "title": "Srikakulam: Vamsadhara and Nagavali in spate; culvert at Gangavaram washed away, 53 riverside villages on alert",
@@ -1556,33 +1504,6 @@
         {
           "name": "The Assam Tribune (ground report)",
           "url": "https://assamtribune.com/assam/brahmaputra-comes-within-10m-of-breaching-biswanath-embankment-locals-on-edge-1618180"
-        }
-      ]
-    },
-    {
-      "id": "manipur-nh37-jiribam-jirighat-truck-stranding-sep2026",
-      "icon": "🚛",
-      "title": "644 trucks and oil tankers stranded at Jiribam after Awangkhul and Nungba landslides cut NH-37",
-      "category": "Strike / Bandh",
-      "categoryKey": "strike",
-      "severity": "critical",
-      "status": "ongoing",
-      "region": "east",
-      "states": [
-        "Manipur",
-        "Assam"
-      ],
-      "date": "2026-09-20",
-      "summary": "Landslides at Awangkhul and Nungba in Noney district cut the Imphal-Jiribam section of NH-37, leaving 644 goods trucks stranded at Jiribam - oil tankers, foodgrain carriers and construction-material vehicles. Separately reported counts put around 800 goods trucks and fuel tankers stuck across Manipur and Assam, with a security-escort shortage compounding the landslide closures. No clearance report has surfaced.",
-      "impact": "NH-37 is the Silchar lifeline into Imphal and it is both slide-blocked and blockade-bound - do not dispatch Manipur-bound line-haul via Jiribam. Assume Imphal, Thoubal, Bishnupur and Churachandpur stay on extended TAT or non-serviceable until both the slides and the UNC blockade clear.",
-      "sources": [
-        {
-          "name": "Eastern Mirror (ground report)",
-          "url": "https://www.easternmirrornagaland.com/manipur-landslides-halt-nh-37-traffic-644-trucks-stuck-in-jiribam"
-        },
-        {
-          "name": "Sentinel Assam (ground report)",
-          "url": "https://www.sentinelassam.com/breakingnews/800-goods-trucks-and-fuel-tankers-stranded-in-manipur-and-assam-during-security-escort-shortage-and-landslides"
         }
       ]
     },
@@ -1737,7 +1658,7 @@
     {
       "id": "uttarakhand-pithoragarh-tanakpur-nh9-ghatbend-sep2026",
       "icon": "⛰️",
-      "title": "Pithoragarh-Tanakpur NH-9 night traffic banned 6pm-6am at Ghat Bend until roughly 2 October",
+      "title": "Pithoragarh-Tanakpur NH-9 at Ghat bend: one-way traffic resumes amid continued rockfall; 11 Pithoragarh roads shut, Adi Kailash Yatra halted",
       "category": "Landslide",
       "categoryKey": "landslide",
       "severity": "high",
@@ -1746,13 +1667,21 @@
       "states": [
         "Uttarakhand"
       ],
-      "date": "2026-09-17",
-      "summary": "Continuous shooting stones and debris from a vulnerable slope near Ghat Bend on the Pithoragarh-Tanakpur all-weather road (NH-9) have caused repeated blockages and injured passengers in commercial vehicles. Pithoragarh district administration ordered vehicles not to ply between 6 pm and 6 am for at least 15 days from around 17 September, so the night curfew runs to roughly 2 October. NH officials will permanently treat the slope across a 200-metre width, up from the 100 metres treated earlier.",
-      "impact": "Kumaon line-haul into Pithoragarh, Dharchula and Munsiyari loses its night window until about 2 October - re-cut departures from Tanakpur and Khatima to arrive before 6 pm or accept a day's slip. Flag Pithoragarh-district rural pincodes for extended TAT rather than non-serviceable.",
+      "date": "2026-09-26",
+      "summary": "The landslide/rockfall zone at Ghat bend on the Pithoragarh-Tanakpur NH-9 (first hit 15 Sep, night traffic halted 17 Sep) is now being cautiously opened for one-way traffic even as stones continue to fall intermittently. Separately, fresh heavy rain has closed 11 roads across Pithoragarh district and halted the Adi Kailash Yatra pilgrim route, with the district under IMD red alert on 26 Sep shifting to Dehradun/Haridwar on 27 Sep.",
+      "impact": "Keep the Pithoragarh-Tanakpur NH-9 Ghat-bend stretch on escort/one-way convoy timing only — no unescorted linehaul; treat all 11 closed Pithoragarh roads as non-serviceable pincodes and extend SLA for the wider Pithoragarh hill belt through the red-alert window (28 Sep).",
       "sources": [
         {
           "name": "Northern Gazette (ground report)",
           "url": "https://thenortherngazette.com/index.php/2026/09/17/night-traffic-halted-due-to-landslide-stone-fall-on-pithoragarh-tanakpur-nh-9/"
+        },
+        {
+          "name": "Northern Gazette (ground report)",
+          "url": "https://thenortherngazette.com/index.php/2026/09/25/traffic-cautiously-allowed-at-ghat-bend-amid-continued-shooting-of-stones/"
+        },
+        {
+          "name": "Northern Gazette (ground report)",
+          "url": "https://thenortherngazette.com/index.php/2026/09/26/heavy-rains-halt-adi-kailash-yatra-11-roads-closed-in-pithoragarh/"
         }
       ]
     },
@@ -2269,7 +2198,7 @@
     {
       "id": "sikkim-gyalshing-rimbi-singlitam-landslide-sep2026",
       "icon": "⛰️",
-      "title": "Rimbi village landslide worsens: 35 houses damaged, Singlitam hillock still active, both approach roads shut",
+      "title": "Rimbi village landslide: 107 evacuated, 30+ homes destroyed; officials say West Sikkim village may be unsafe to inhabit",
       "category": "Landslide",
       "categoryKey": "landslide",
       "severity": "critical",
@@ -2279,54 +2208,20 @@
         "Sikkim"
       ],
       "date": "2026-09-26",
-      "summary": "A recurring mudslide that began on 12 September at the Singlitam hillock above Rimbi village (West Sikkim, Yuksom-Tashiding constituency) has worsened further: ground reports on 26 September say more than 32 houses and government quarters have been damaged, and officials now warn Rimbi may become uninhabitable if the slope keeps failing. Affected families are being permanently shifted to safer locations rather than temporary relief camps, and both the Rimbi-Yuksom and Rimbi-Khecheopalri roads remain closed with the hillock still active. An ANI ground report (26 Sep) confirms the Rimbi landslide has damaged more than 32 houses and government quarters; affected families have shifted to safer locations and no casualties have been reported so far.",
-      "impact": "Treat Rimbi, Yuksom and Khecheopalri (Geyzing subdivision, West Sikkim) as non-serviceable for LM/FM with no near-term reopening in sight - address masters here are shifting permanently, not temporarily, so re-validate any pincode-level serviceability rather than waiting out the slide. Route West Sikkim linehaul via alternate roads and flag Pelling-belt sellers for extended pickup delays.",
+      "summary": "A major landslide on the night of 25 September in the Singlitam-Rimbi belt of Gyalshing district swept debris through the area, damaging or destroying more than 30 houses. Disaster Relief Commissioner Rinzing Chewang confirmed 107 residents have been moved to a relief camp at the Gram Prasasan Kendra, with nine more houses evacuated in Singlitam as a precaution. Officials now warn repeated landslides may have destabilised the ground beneath Rimbi to the point the village is unsafe for habitation; a post-monsoon geological assessment is planned. CM Prem Singh Tamang has asked for close surveillance of the site.",
+      "impact": "Treat Rimbi and Singlitam (Gyalshing district, West Sikkim) as non-serviceable indefinitely — evacuation and possible permanent resettlement are underway, not just a road-clearance situation. Hold FM pickups and LM commitments for this pocket and route Gyalshing-belt linehaul via alternate roads; do not plan capacity restoration here until the post-monsoon geological assessment is complete.",
       "sources": [
+        {
+          "name": "Northeast News (ground report)",
+          "url": "https://nenews.in/politics/rimbi-landslides-107-evacuated-as-west-sikkim-village-faces-fresh-threat/65669/"
+        },
+        {
+          "name": "Deccan Herald",
+          "url": "https://www.deccanherald.com/india/sikkim/recurring-landslides-threaten-to-render-west-sikkim-village-uninhabitable-4160528"
+        },
         {
           "name": "EastMojo (ground report)",
           "url": "https://eastmojo.com/sikkim/2026/09/26/sikkim-rimbi-may-be-uninhabitable-after-recurring-landslides/"
-        },
-        {
-          "name": "ANI (ground report)",
-          "url": "https://aninews.in/news/national/general-news/families-shift-to-safer-locations-as-landslide-damages-over-32-houses-govt-quarters-in-sikkims-rimbi20260926093441/"
-        },
-        {
-          "name": "The News Mill (ground report)",
-          "url": "https://thenewsmill.com/2026/09/heavy-rainfall-triggers-landslide-damages-over-32-houses-in-sikkims-rimbi-village/"
-        },
-        {
-          "name": "ANI (ground report)",
-          "url": "https://aninews.in/news/national/general-news/families-shift-to-safer-locations-as-landslide-damages-over-32-houses-govt-quarters-in-sikkims-rimbi20260926093441/"
-        }
-      ]
-    },
-    {
-      "id": "manipur-unc-indefinite-economic-blockade-sep2026",
-      "icon": "🚛",
-      "title": "Manipur: UNC suspends economic blockade on highways from 6pm Sep 26 after Guwahati tripartite talks",
-      "category": "Strike / Bandh",
-      "categoryKey": "strike",
-      "severity": "watch",
-      "status": "ongoing",
-      "region": "east",
-      "states": [
-        "Manipur"
-      ],
-      "date": "2026-09-23",
-      "summary": "The United Naga Council (UNC), which had escalated an economic blockade on national highways feeding Manipur over recent months, announced it is suspending the blockade with effect from 6 pm on 26 September 2026, following tripartite talks between the UNC, the Government of Manipur and the Government of India held in Guwahati. UNC president Ng Lorho thanked the public for their cooperation during the agitation; specific terms of the agreement were not disclosed.",
-      "impact": "NH-2 (Imphal-Dimapur) and NH-37 (Imphal-Jiribam) linehaul into the Imphal valley should start clearing from the evening of 26 September as the blockade lifts - resume normal LM/FM planning for Imphal, Senapati, Kangpokpi and the Jiribam corridor, but keep a contingency buffer since the suspension is fresh and could be revisited if talks stall.",
-      "sources": [
-        {
-          "name": "The Print",
-          "url": "https://theprint.in/india/united-naga-council-suspends-4-month-economic-blockade-in-manipur/3054252/"
-        },
-        {
-          "name": "EastMojo (ground report)",
-          "url": "https://eastmojo.com/manipur/2026/09/26/united-naga-council-suspends-manipur-economic-blockade-after-talks/"
-        },
-        {
-          "name": "Ukhrul Times (ground report)",
-          "url": "https://ukhrultimes.com/economic-blockade-suspended-sep-26-after-guwahati-talks-unc/"
         }
       ]
     },
@@ -2384,67 +2279,6 @@
         {
           "name": "Amar Ujala (ground report, Hindi)",
           "url": "https://www.amarujala.com/uttar-pradesh/lakhimpur-kheri/mohana-sharda-river-erosion-intensifies-crops-in-danger-lakhimpur-news-c-120-1-lkh1008-185816-2026-09-24"
-        }
-      ]
-    },
-    {
-      "id": "nh66-mumbai-goa-16t-ban-ganeshotsav-sep2026",
-      "icon": "🛡️",
-      "title": "NH-66 Mumbai-Goa bars 16-tonne-plus trucks and trailers through the 26 September festival window",
-      "category": "National Advisory",
-      "categoryKey": "advisory",
-      "severity": "high",
-      "status": "ongoing",
-      "region": "west",
-      "states": [
-        "Maharashtra",
-        "Goa"
-      ],
-      "date": "2026-09-23",
-      "summary": "Maharashtra banned multi-axle trucks, trailers and heavy goods carriers of 16 tonnes and above on NH-66 across the Ganeshotsav travel and immersion windows from 11 to 26 September, including a hard 39-hour block from 08:00 on 19 September to 23:00 on 20 September that has now elapsed. The state subsequently revised the order to let police relax restrictions where conditions permit. Milk, petrol, diesel, domestic LPG cylinders, medicines, ambulances, police and fire vehicles are exempt.",
-      "impact": "The Mumbai-Goa trunk is closed to full-truck-load movement until 26 September - run Konkan and Goa replenishment on sub-16T vehicles or hold to the 27th. Combine this with the Raghuveer Ghat restriction when planning Ratnagiri and Sindhudurg FM coverage.",
-      "sources": [
-        {
-          "name": "Free Press Journal",
-          "url": "https://www.freepressjournal.in/mumbai/ganeshotsav-2026-heavy-vehicles-of-16-tonnes-and-above-banned-on-mumbai-goa-national-highway-nh-66-from-september-11-check-details"
-        },
-        {
-          "name": "Pudhari (ground report)",
-          "url": "https://pudhari.news/maharashtra/raigad/ganeshotsav-2026-ganesh-visarjan-nh-66-mumbai-goa-highway-heavy-vehicles-banned-39-hours-ng81"
-        },
-        {
-          "name": "Zee 24 Taas (ground report, TV)",
-          "url": "https://zeenews.india.com/marathi/maharashtra/ban-on-heavy-vehicles-on-the-mumbai-goa-highway-during-ganeshotsav-2026/1030079"
-        }
-      ]
-    },
-    {
-      "id": "pune-ganeshotsav-heavy-vehicle-ban-12-roads-sep2026",
-      "icon": "🛡️",
-      "title": "Pune bars heavy vehicles from 12 central roads including Laxmi, Tilak, Bajirao and Karve to 26 September",
-      "category": "National Advisory",
-      "categoryKey": "advisory",
-      "severity": "high",
-      "status": "ongoing",
-      "region": "west",
-      "states": [
-        "Maharashtra"
-      ],
-      "date": "2026-09-23",
-      "summary": "Pune has barred heavy and oversized vehicles from 12 key central roads - Laxmi Road, Tilak Road, Bajirao Road and Karve Road among them - from 12 to 26 September. Parts of Laxmi Road, Shivaji Road and Bajirao Road are closed round the clock and several other roads shut to vehicles every evening from 5 pm. Separate diversions were notified for Wagholi on 22 September. PMPML is running 799 extra buses through 25 September with services to 2 am.",
-      "impact": "Pune's city core - Sadashiv Peth, Shukrawar Peth, Narayan Peth and Budhwar Peth pincodes - is effectively two-wheeler-only until 26 September, so reroute van-based LM to the Wagholi, Hadapsar and Kothrud edges and pull evening cut-offs ahead of 5 pm.",
-      "sources": [
-        {
-          "name": "Free Press Journal",
-          "url": "https://www.freepressjournal.in/pune/pune-heavy-vehicles-banned-on-12-key-roads-during-ganeshotsav-check-full-list"
-        },
-        {
-          "name": "Pune Pulse (ground report)",
-          "url": "https://www.mypunepulse.com/pune-traffic-restrictions-from-september-18-to-25-for-ganeshotsav-check-affected-roads-and-diversions/"
-        },
-        {
-          "name": "The Bridge Chronicle (ground report)",
-          "url": "https://www.thebridgechronicle.com/pune/pune-traffic-road-closures-diversions-ganeshotsav-sept-18-25-2026-agn97"
         }
       ]
     },
@@ -2680,8 +2514,8 @@
       "states": [
         "Bihar"
       ],
-      "date": "2026-09-24",
-      "summary": "The Meteorological Centre, Patna has put all Bihar districts on alert for 24 September - 19 under orange and 19 under yellow - with heavy rain at isolated places, lightning and 40-50 kmph gusts. Weather is forecast to stay poor from 24 to 26 September as the Bay of Bengal deep depression moves inland. The state is already carrying a severe flood season, with the Ganga, Kosi and Gandak above danger marks at several gauges earlier this month.",
+      "date": "2026-09-26",
+      "summary": "The Meteorological Centre, Patna has put all Bihar districts on alert for 24 September - 19 under orange and 19 under yellow - with heavy rain at isolated places, lightning and 40-50 kmph gusts. Weather is forecast to stay poor from 24 to 26 September as the Bay of Bengal deep depression moves inland. The state is already carrying a severe flood season, with the Ganga, Kosi and Gandak above danger marks at several gauges earlier this month. State-wide, the flood situation remains grim with more than 46.88 lakh people now affected across 15 districts as river levels stay high despite an overall seasonal rainfall deficit, per the latest government tally.",
       "impact": "Expect FM pickup slippage and LM attempt failures across Bihar on 24-26 September, worst in already-flooded riverine blocks of Bhagalpur, Khagaria, Katihar and Saran. Keep extended TAT on Kosi-Gandak belt pincodes and run Patna hub outbound in morning windows before afternoon thunderstorms.",
       "sources": [
         {
@@ -2695,6 +2529,10 @@
         {
           "name": "News Tak (ground report, Hindi)",
           "url": "https://www.newstak.in/bihar/story/bihar-weather-update-24-september-orange-alert-heavy-rain-forecast-3287317-2026-09-23"
+        },
+        {
+          "name": "ThePrint",
+          "url": "https://theprint.in/india/bihar-flood-situation-grim-as-over-46-lakh-people-affected-across-15-districts/3039964/"
         }
       ]
     },
@@ -2875,36 +2713,6 @@
       ]
     },
     {
-      "id": "odisha-kalinga-ghat-restriction-red-warning-south-districts-sep2026",
-      "icon": "🌧️",
-      "title": "Odisha: vehicle curbs on Kalinga Ghat (Ganjam-Kandhamal); red warning for Rayagada, Koraput, Gajapati, Ganjam",
-      "category": "Flood",
-      "categoryKey": "flood",
-      "severity": "critical",
-      "status": "ongoing",
-      "region": "east",
-      "states": [
-        "Odisha"
-      ],
-      "date": "2026-09-23",
-      "summary": "IMD has issued a red warning for Rayagada, Koraput, Gajapati and Ganjam for 23 and 24 September, with very heavy to extremely heavy rain across south Odisha and an extremely-heavy-rainfall alert running until 25 September. The state government has restricted vehicular movement on certain roads including Kalinga Ghat, which connects Ganjam and Kandhamal. Rescue teams are deployed in Ganjam, Gajapati, Koraput, Malkangiri, Rayagada, Kalahandi and Bolangir, and educational institutions are shut until 24 September in Nabarangpur, Malkangiri, Puri, Jagatsinghpur, Ganjam, Gajapati, Koraput and Khurda. Fishermen are barred from the sea until 24 September.",
-      "impact": "The Kalinga Ghat curb severs the shortest Berhampur-Phulbani link - route Kandhamal-bound freight via Bhanjanagar or Boudh instead. Treat Rayagada, Koraput, Gajapati, Ganjam and Malkangiri pincodes as non-serviceable for 23-24 Sep, hold Berhampur and Jeypore LM attempts, and keep Bhubaneswar as the staging hub rather than pushing stock into south Odisha branches.",
-      "sources": [
-        {
-          "name": "OdishaTV (ground report)",
-          "url": "https://odishatv.in/odisha/extremely-heavy-rainfall-alert-imd-issues-red-warning-for-odisha-till-sept-25-12564695"
-        },
-        {
-          "name": "The Open Press (ground report)",
-          "url": "https://theopenpress.in/article/odisha-red-alert-ganjam-kandhamal"
-        },
-        {
-          "name": "Pragativadi (ground report)",
-          "url": "https://pragativadi.com/odisha-faces-spell-of-very-heavy-rain-as-bay-system-strengthens/"
-        }
-      ]
-    },
-    {
       "id": "assam-barpeta-roumari-pathar-brahmaputra-erosion-sep2026",
       "icon": "🏞️",
       "title": "Assam: Brahmaputra swallows much of Roumari Pathar village in Barpeta; Barkhetri residents on night watch",
@@ -2985,7 +2793,7 @@
     {
       "id": "odisha-koraput-red-warning-district-lockdown-sep2026",
       "icon": "🛡️",
-      "title": "Koraput officials barred from leaving HQ till 25 Sep; schools shut across 10 Odisha districts, Malkangiri to the 25th",
+      "title": "Red warning continues for Nabarangpur, Kalahandi, Koraput as south Odisha depression weakens but rain persists",
       "category": "National Advisory",
       "categoryKey": "advisory",
       "severity": "high",
@@ -2994,13 +2802,17 @@
       "states": [
         "Odisha"
       ],
-      "date": "2026-09-23",
-      "summary": "IMD has a red warning for Koraput running from 23 September to the morning of 25 September, with heavy to extremely heavy rain forecast on 23-24 September. The Koraput district administration has barred government officials and employees from leaving district headquarters without prior permission until 25 September, is monitoring water levels at four dams, and is stocking chuda, jaggery and medicines in low-lying areas. Educational institutions are shut in Malkangiri from 23 to 25 September; in Khordha, Nabarangpur, Ganjam, Koraput, Rayagada and Bolangir on 23-24 September; and in Jagatsinghpur, Puri and Kalahandi on 23 September.",
-      "impact": "Treat Koraput, Malkangiri, Nabarangpur and Rayagada as non-serviceable through 24 September, and Malkangiri through the 25th. With the district machinery locked to headquarters there is no local escalation path for stuck consignments, so keep Jeypore and Berhampur as holding points rather than pushing stock into block-level branches, and restart south-Odisha LM only after the Koraput red warning lapses on the morning of 25 September.",
+      "date": "2026-09-27",
+      "summary": "Even as the deep depression that crossed the Odisha-Andhra coast has weakened, IMD continues a red warning for Nabarangpur, Kalahandi and Koraput districts with orange warnings for several neighbouring districts, as the system's residual moisture keeps south-interior Odisha under heavy rain. Interior roads and low-lying bridge crossings in these districts remain hazardous.",
+      "impact": "Maintain non-serviceable/extended-SLA flags for interior blocks of Nabarangpur, Kalahandi and Koraput districts through the red-warning window; avoid committing tight linehaul schedules on ghat and interior roads in this belt until the warning is downgraded.",
       "sources": [
         {
-          "name": "OdishaTV (ground report)",
-          "url": "https://odishatv.in/odisha/heavy-rain-alert-for-odisha-schools-colleges-shut-in-10-districts-red-warning-for-koraput-12566253"
+          "name": "Pragativadi (ground report)",
+          "url": "https://pragativadi.com/deep-depression-over-south-odisha-weakens-red-warning-for-nabarangpur-kalahandi-koraput/"
+        },
+        {
+          "name": "OMM Com News (ground report)",
+          "url": "https://ommcomnews.com/odisha-news/deep-depression-weakening-red-warning-issued-for-3-odisha-districts/"
         }
       ]
     },
@@ -3037,19 +2849,23 @@
       "title": "Vizianagaram: Chandrampeta–Vasantha road shut as Ginjerugedda stream floods; Palasa, Kalingapatnam log ~10 cm",
       "category": "Flood",
       "categoryKey": "flood",
-      "severity": "high",
+      "severity": "moderate",
       "status": "ongoing",
       "region": "south",
       "states": [
         "Andhra Pradesh"
       ],
       "date": "2026-09-22",
-      "summary": "Officials suspended traffic on the Chandrampeta–Vasantha road in Vizianagaram district after heavy water from the Ginjerugedda stream flooded it following rain since Monday night. APSDMA recorded about 10 cm at Palasa and Kalingapatnam (Srikakulam), 7.1 cm at Peda Bayalu (Alluri Sitarama Raju) and 6.2 cm at Bhogapuram (Vizianagaram). IMD-Amaravati issued an orange alert for 24 Sep for Parvathipuram Manyam, ASR, Kakinada, Konaseema, East/West Godavari and Eluru, with a yellow alert for Srikakulam, Vizianagaram, Visakhapatnam, Anakapalle, Krishna, Guntur, NTR and Bapatla.",
-      "impact": "Treat rural LM beats around Chandrampeta/Vasantha (Vizianagaram) and the Palasa–Kalingapatnam belt (Srikakulam) as partly non-serviceable until the stream recedes. Also, pre-alert Delhivery/Shadowfax/Xpressbees hubs in Kakinada, Konaseema (Amalapuram), Rajahmundry, Eluru and Bhimavaram: the orange alert moves south on 24 Sep. Stagger FM pickups and relax SLAs for 24–25 Sep.",
+      "summary": "Officials suspended traffic on the Chandrampeta–Vasantha road in Vizianagaram district after heavy water from the Ginjerugedda stream flooded it following rain since Monday night. APSDMA recorded about 10 cm at Palasa and Kalingapatnam (Srikakulam), 7.1 cm at Peda Bayalu (Alluri Sitarama Raju) and 6.2 cm at Bhogapuram (Vizianagaram). IMD-Amaravati issued an orange alert for 24 Sep for Parvathipuram Manyam, ASR, Kakinada, Konaseema, East/West Godavari and Eluru, with a yellow alert for Srikakulam, Vizianagaram, Visakhapatnam, Anakapalle, Krishna, Guntur, NTR and Bapatla. Update: local reports on 26 Sep say floodwaters in the Gantyada/Gedda Vagu stream stretch have receded and road access is being restored, though residual waterlogging may persist in low spots.",
+      "impact": "Downgrade from non-serviceable to extended-SLA watch for Chandrampeta-Vasantha (Vizianagaram) as floodwaters recede; confirm road passability before resuming normal LM cut-offs.",
       "sources": [
         {
           "name": "Deccan Chronicle (Visakhapatnam bureau, ground report)",
           "url": "https://www.deccanchronicle.com/southern-states/andhra-pradesh/heavy-rains-lash-several-parts-of-ap-1989704"
+        },
+        {
+          "name": "Andhra Jyothy (ground report, Telugu)",
+          "url": "https://www.andhrajyothy.com/2026/andhra-pradesh/vizianagaram/floodwaters-have-receded-1561706.html"
         }
       ]
     },
@@ -3190,4 +3006,4 @@
       ]
     }
   ]
-    }
+        }
