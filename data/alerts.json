@@ -1,5 +1,5 @@
 {
-  "compiledAt": "2026-09-26T18:27:03+05:30",
+  "compiledAt": "2026-09-27T11:50:00+05:30",
   "note": "Manually-refreshed research digest compiled from public news sources, including regional/vernacular press, local TV channels and YouTube ground reports where available. Not a live news-wire feed — update this file (or re-run research) to refresh. Built for Meesho 3P logistics capacity planning (Delhivery · Shadowfax · Xpressbees): LM/FM manifestation, non-adherence hotspots, and serviceability-loss tracking. Not an official Meesho product.",
   "upcomingEvents": [
     {
@@ -2211,32 +2211,6 @@
       ]
     },
     {
-      "id": "west-bengal-south-coastal-precyclone-rain-sep2026",
-      "icon": "🌧️",
-      "title": "North Bengal flagged for 7-11 cm on 23-24 September; LC-3 hoisted at Kolkata and Haldia ports",
-      "category": "Flood",
-      "categoryKey": "flood",
-      "severity": "moderate",
-      "status": "ongoing",
-      "region": "east",
-      "states": [
-        "West Bengal"
-      ],
-      "date": "2026-09-23",
-      "summary": "RMC Kolkata's 22 September bulletin puts light to moderate rain over all North Bengal districts on 23-24 September with heavy rain of 7-11 cm at one or two places over Jalpaiguri and Darjeeling. Widespread rain is forecast for Sub-Himalayan West Bengal and Sikkim from 22 to 26 September and for Gangetic West Bengal from 20 to 26 September. Local Cautionary Signal No. 3 is hoisted at Kolkata and Haldia ports with Sectional Signal No. 1 at Sagar Island, and fishermen are barred from the sea off West Bengal from 22 to 25 September.",
-      "impact": "This is the precursor window for fresh Darjeeling, Kalimpong and NH-10 slides - keep Siliguri buffer stock high and treat hill pincodes as at-risk from 23 September. Kolkata and Haldia port-linked inbound should assume degraded throughput for 23-25 September.",
-      "sources": [
-        {
-          "name": "IMD RMC Kolkata bulletin",
-          "url": "https://mausam.imd.gov.in/kolkata/mcdata/sb.pdf"
-        },
-        {
-          "name": "Daily Jagran",
-          "url": "https://www.thedailyjagran.com/india/news/kolkata-weather-update-imd-issues-heavy-rain-alert-for-south-bengal-districts-darjeeling-south-24-parganas-east-midnapore-till-sept-23-10329776"
-        }
-      ]
-    },
-    {
       "id": "sikkim-nh10-bardang-landslide-sep2026",
       "icon": "⛰️",
       "title": "NH-10 at Bardang 20th Mile back to one-way traffic after 17 September mudslide",
@@ -3190,6 +3164,28 @@
         {
           "name": "Onmanorama (ground report)",
           "url": "https://www.onmanorama.com/news/kerala/2026/09/24/wayanad-halts-trekking-adventure-tourism-and-quarry-operations-amid-heavy-rain-warning.html"
+        }
+      ]
+    },
+    {
+      "id": "bihar-saharsa-kosi-kedli-rampur-barhara-flood-sep27-2026",
+      "icon": "🌊",
+      "title": "Saharsa: Kosi floodwater enters Kedli, Rampur, Barhara villages between embankments as Birpur discharges season's peak 3.13 lakh cusecs",
+      "category": "Flood",
+      "categoryKey": "flood",
+      "severity": "high",
+      "status": "ongoing",
+      "region": "east",
+      "states": [
+        "Bihar"
+      ],
+      "date": "2026-09-27",
+      "summary": "The Kosi river has swelled to its highest discharge of the season, with the Birpur barrage recording 3.13 lakh cusecs on 26-27 September. Floodwater has entered homes and kitchens in Kedli (near the eastern Kosi embankment), Rampur, Barhara and other villages lying between the eastern and western Kosi embankments in Saharsa district. Roads in these villages are now largely unusable, with boats - often overloaded with 20-25 people - the only way in or out as currents strengthen. Families are also short of drinking water, firewood and livestock fodder; the administration has urged evacuation to higher ground but many residents are staying back to protect homes and animals.",
+      "impact": "Flag Kedli, Rampur, Barhara and other between-embankment villages in Saharsa district as non-serviceable for LM/FM - roads are impassable and only limited boat transport is available. Hold FM pickups from Kosi-belt sellers in Saharsa and add a multi-day SLA buffer until the Birpur discharge recedes from its seasonal peak.",
+      "sources": [
+        {
+          "name": "News Karnataka (ground report)",
+          "url": "https://newskarnataka.com/india/kosi-floods-inundate-saharsa-villages-in-bihar/27092026/"
         }
       ]
     }
