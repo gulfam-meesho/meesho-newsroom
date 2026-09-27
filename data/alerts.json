@@ -1,5 +1,5 @@
 {
-  "compiledAt": "2026-09-27T12:25:00+05:30",
+  "compiledAt": "2026-09-27T19:50:00+05:30",
   "note": "Manually-refreshed research digest compiled from public news sources, including regional/vernacular press, local TV channels and YouTube ground reports where available. Not a live news-wire feed — update this file (or re-run research) to refresh. Built for Meesho 3P logistics capacity planning (Delhivery · Shadowfax · Xpressbees): LM/FM manifestation, non-adherence hotspots, and serviceability-loss tracking. Not an official Meesho product.",
   "upcomingEvents": [
     {
@@ -848,32 +848,6 @@
       ]
     },
     {
-      "id": "bengaluru-bandh-cauvery-water-dispute-sep26-2026",
-      "icon": "🚛",
-      "title": "Bengaluru bandh called for Sep 26 over Cauvery water release to Tamil Nadu; pro-Kannada outfits shut trade, transport",
-      "category": "Strike / Bandh",
-      "categoryKey": "strike",
-      "severity": "high",
-      "status": "ongoing",
-      "region": "south",
-      "states": [
-        "Karnataka"
-      ],
-      "date": "2026-09-26",
-      "summary": "Pro-Kannada organisations and the Kannada Okkuta have called a Bengaluru bandh for 26 September protesting the release of Cauvery water to Tamil Nadu, with trade associations and auto-taxi unions extending support. Markets in the city's core commercial pockets and several transport operators are expected to stay shut for the day, though essential services are exempt.",
-      "impact": "Expect FM pickup failures across core Bengaluru trading pockets (Chickpet, KR Market, Avenue Road belt) and slower LM city-wide on 26 September; hold non-essential dispatch/pickup in the CBD until evening and confirm rider availability before committing OFD SLAs for the day.",
-      "sources": [
-        {
-          "name": "The News Minute",
-          "url": "https://www.thenewsminute.com/karnataka/bengaluru-bandh-called-on-september-26-over-cauvery-water-row"
-        },
-        {
-          "name": "Deccan Herald",
-          "url": "https://www.deccanherald.com/amp/story/india%2Fkarnataka%2Fbengaluru%2Fcall-for-bengaluru-bandh-on-sept-26-over-cauvery-2698637"
-        }
-      ]
-    },
-    {
       "id": "telangana-kothagudem-pamuleru-bridge-rajupeta-palvoncha-mandalapalli-sep24-2026",
       "icon": "🌊",
       "title": "Two spans of Pamuleru stream bridge near Rajupeta (Mulakalapalli mandal) washed away — Palvoncha–Mandalapalli traffic halted",
@@ -991,7 +965,7 @@
         "Odisha"
       ],
       "date": "2026-09-23",
-      "summary": "In Dasmantpur block of Koraput, about three feet of water was flowing over the bridge near Damjodi village under Nandigaon panchayat, stranding vehicles on both sides. Water also accumulated over the bridge near Haridaphut under Pindapadar panchayat, on the road linking Dasmantpur police-station square with Adimunda square — the lifeline for about 20 villages of Pindapadar and Duarashuni panchayats to Koraput market. Koraput remained under red warning to 25 Sep and the collector has shut all schools and anganwadis on 25 Sep.",
+      "summary": "In Dasmantpur block of Koraput, about three feet of water was flowing over the bridge near Damjodi village under Nandigaon panchayat, stranding vehicles on both sides. Water also accumulated over the bridge near Haridaphut under Pindapadar panchayat, on the road linking Dasmantpur police-station square with Adimunda square — the lifeline for about 20 villages of Pindapadar and Duarashuni panchayats to Koraput market. Koraput remained under red warning to 25 Sep and the collector has shut all schools and anganwadis on 25 Sep. In Koraput's Kotpad block, heavy rain has also damaged over 100 houses, per district reports on Sep 26.",
       "impact": "Hold LM to Pindapadar/Duarashuni/Nandigaon GP villages (Dasmantpur block) until water recedes; the Dasmantpur–Adimunda road is the only route. Add 48h SLA buffer to Koraput district and expect FM delays for Jeypore/Koraput sellers.",
       "sources": [
         {
@@ -2390,19 +2364,19 @@
     {
       "id": "bob-deep-depression-landfall-vizag-gopalpur-sep2026",
       "icon": "🌀",
-      "title": "Deep depression crossed coast near Kalingapatnam (Srikakulam) overnight 23-24 Sep; weakening while moving NNW via south Odisha towards Chhattisgarh",
+      "title": "Cyclone Arnab (deep depression) weakens to low-pressure area over Chhattisgarh after Odisha-AP landfall",
       "category": "Cyclone",
       "categoryKey": "cyclone",
-      "severity": "high",
+      "severity": "moderate",
       "status": "ongoing",
       "region": "east",
       "states": [
         "Andhra Pradesh",
         "Odisha"
       ],
-      "date": "2026-09-24",
-      "summary": "IMD said the deep depression crossed the north Andhra Pradesh–south Odisha coast close to southwest of Kalingapatnam in Srikakulam district between 11 pm on 23 Sep and 1 am on 24 Sep, with winds of 55-65 kmph gusting to 75 kmph. It entered Odisha via Rayagada and Koraput and is forecast to move north-northwest and weaken into a depression, passing Nabarangpur–Kalahandi–Balangir–Bargarh into Chhattisgarh. Odisha says 37 blocks, 160 GPs and 237 villages in six districts were affected and 8,082 people evacuated; Puri remains a 'red zone' with sea bathing banned for two days. Update (25 Sep afternoon): IMD confirmed the system has weakened further into a depression over south interior Odisha, with the rain belt continuing to track towards Kalahandi-Bargarh and Chhattisgarh; red-warning districts have narrowed to Nabarangpur, Kalahandi and Koraput.",
-      "impact": "Landfall phase is over but the rain belt now shifts inland: keep SLA relaxation on south Odisha (Koraput, Rayagada, Malkangiri, Nabarangpur, Kalahandi) and north coastal AP (Srikakulam, Vizianagaram, Alluri) pincodes through 26 Sep, and pre-alert Chhattisgarh (Bastar division, Raipur-Durg belt) hubs for 25-26 Sep. Restart coastal FM pickups in Vizag/Srikakulam only after local route checks.",
+      "date": "2026-09-27",
+      "summary": "The Bay of Bengal system publicly tracked as 'Cyclone Arnab' made landfall as a deep depression near Kalingapatnam, between Visakhapatnam and Gopalpur, around midnight Sep 23-24. It crossed into south interior Odisha (near Nuapada) by Sep 25 and has since weakened further into a well-marked low-pressure area tracking north-northwest toward Chhattisgarh and Madhya Pradesh. Over 8,000 people were evacuated across Odisha and Andhra Pradesh during the landfall phase, with heavy rain also reported in Jharkhand.",
+      "impact": "Vizag, Gopalpur, Kalingapatnam and south Odisha/north AP hubs saw LM/FM stoppages during landfall (Sep 23-25); those should be largely clear now. Watch for a secondary rain band over Chhattisgarh (Raipur/Bastar belt) and Madhya Pradesh over the next 24-48h - keep buffer stock and SLA relaxation flags active for those hubs rather than the coast.",
       "sources": [
         {
           "name": "ETV Bharat (live blog, ground report)",
@@ -3004,6 +2978,50 @@
           "url": "https://newskarnataka.com/india/kosi-floods-inundate-saharsa-villages-in-bihar/27092026/"
         }
       ]
+    },
+    {
+      "id": "odisha-jajpur-dasarathpur-kani-river-panchayats-submerged-sep26-2026",
+      "icon": "🌊",
+      "title": "Kani river overflow submerges two panchayats in Jajpur's Dasarathpur block, Odisha",
+      "category": "Flood",
+      "categoryKey": "flood",
+      "severity": "moderate",
+      "status": "ongoing",
+      "region": "east",
+      "states": [
+        "Odisha"
+      ],
+      "date": "2026-09-26",
+      "summary": "The Kani river overflowed its banks in Jajpur district's Dasarathpur block, submerging two panchayats as heavy rain continued across Odisha through Sep 26. The overflow adds to a state-wide picture in which more than 70,000 people have been evacuated to 395 relief camps and 16 sluice gates were opened at Hirakud Dam to manage reservoir levels.",
+      "impact": "Jajpur district hubs should flag Dasarathpur block pincodes as at-risk for LM delays; low-lying approach roads to the two affected panchayats may be impassable for 1-2 days. Track Hirakud gate discharge for downstream Mahanadi-delta pincodes (Cuttack/Jagatsinghpur) over the coming days.",
+      "sources": [
+        {
+          "name": "The Print",
+          "url": "https://theprint.in/india/odisha-evacuates-over-70000-people-opens-relief-camps-as-rain-induced-floods-hit-districts/3054526/"
+        }
+      ]
+    },
+    {
+      "id": "odisha-mayurbhanj-similipal-devkund-bridges-washed-sep26-2026",
+      "icon": "🌊",
+      "title": "Similipal's Devkund access route cut as bridges/culverts washed away, Mayurbhanj",
+      "category": "Flood",
+      "categoryKey": "flood",
+      "severity": "watch",
+      "status": "ongoing",
+      "region": "east",
+      "states": [
+        "Odisha"
+      ],
+      "date": "2026-09-26",
+      "summary": "Heavy rainfall has washed away or damaged bridges and culverts on the access route to the Devkund tourist site inside Similipal National Park, Mayurbhanj district, prompting a temporary closure of the site. The area sits within the wider Odisha flood emergency affecting Balasore, Jajpur, Koraput and Kalahandi districts.",
+      "impact": "Low direct LM/FM impact (forest/tourism route), but signals continued road-infrastructure damage in Mayurbhanj's interior blocks - worth a spot-check on any last-mile roads feeding villages near Similimal's buffer zone before committing delivery SLAs there this week.",
+      "sources": [
+        {
+          "name": "The Print",
+          "url": "https://theprint.in/india/odisha-evacuates-over-70000-people-opens-relief-camps-as-rain-induced-floods-hit-districts/3054526/"
+        }
+      ]
     }
   ]
-        }
+}
