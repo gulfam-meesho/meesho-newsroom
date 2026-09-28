@@ -1,5 +1,5 @@
 {
-  "compiledAt": "2026-09-28T09:22:00+05:30",
+  "compiledAt": "2026-09-28T12:30:00+05:30",
   "note": "Manually-refreshed research digest compiled from public news sources, including regional/vernacular press, local TV channels and YouTube ground reports where available. Not a live news-wire feed — update this file (or re-run research) to refresh. Built for Meesho 3P logistics capacity planning (Delhivery · Shadowfax · Xpressbees): LM/FM manifestation, non-adherence hotspots, and serviceability-loss tracking. Not an official Meesho product.",
   "upcomingEvents": [
     {
@@ -956,25 +956,33 @@
       ]
     },
     {
-      "id": "godavari-bhadrachalam-warning-level-1-2-forecast-sep26-2026",
+      "id": "godavari-bhadrachalam-second-warning-49-villages-sep27-2026",
       "icon": "🌊",
-      "title": "Godavari at Bhadrachalam forecast to reach Warning Level-I by 26 Sep afternoon and Level-II by night",
+      "title": "Godavari crosses second warning level at Bhadrachalam (~48 ft); 49 villages hit in Bhadradri Kothagudem/AP agency area",
       "category": "Flood",
       "categoryKey": "flood",
       "severity": "high",
-      "status": "upcoming",
+      "status": "ongoing",
       "region": "south",
       "states": [
         "Telangana",
         "Andhra Pradesh"
       ],
-      "date": "2026-09-26",
-      "summary": "Andhra Pradesh officials said on 24 Sep that the Godavari at Bhadrachalam is likely to reach Warning Level-I by the afternoon of 26 Sep and Warning Level-II that night, as heavy inflows are expected into Godavari-basin reservoirs including Sabari, Indravati, Yeleru, Tandava, Yerrakalva, Pampa and Meghadrigadda. CM Naidu told officials to fill tanks and reservoirs with the available flows.",
-      "impact": "Pre-position stock and plan for 2-3 days of disruption in Bhadrachalam, Burgampadu, Kunavaram, Chintoor, VR Puram and Polavaram-area pincodes (Godavari agency villages that routinely get cut off at Level-II). Pull forward deliveries due in the Bhadrachalam belt to 25 Sep where possible.",
+      "date": "2026-09-27",
+      "summary": "As forecast, the Godavari at Bhadrachalam rose past Warning Level-I and on 27 September crossed the second warning level at around 48 ft, with heavy inflows from Sabari, Indravati, Yeleru and other basin tributaries. Roughly 49 villages along the river in the Bhadrachalam agency area are now affected, with low-lying habitations near the ghats evacuated as a precaution and boat movement suspended.",
+      "impact": "Treat Bhadrachalam, Burgampadu, Kunavaram, Chintoor, VR Puram and Polavaram-area pincodes (Godavari agency villages) as non-serviceable or delayed for the next 2-3 days; hold FM pickups from low-lying riverside pincodes and route LM via NH30 rather than river-adjacent link roads until the level recedes below second-warning mark.",
       "sources": [
         {
-          "name": "LatestLY (agency report)",
-          "url": "https://www.latestly.com/agency-news/india-news-fill-reservoirs-tanks-with-available-rainwater-flows-andhra-cm-naidu-directs-officials-7619284.html"
+          "name": "The Hans India",
+          "url": "https://www.thehansindia.com/telangana/godavari-reaches-second-warning-level-at-bhadrachalam-49-villages-affected-by-floods-1103517"
+        },
+        {
+          "name": "Deccan Chronicle",
+          "url": "https://www.deccanchronicle.com/southern-states/telangana/godavari-water-level-reaches-48-ft-in-telanganas-bhadrachalam-second-warning-issued-1900684"
+        },
+        {
+          "name": "Social News XYZ",
+          "url": "https://www.socialnews.xyz/2026/09/27/godavari-river-level-rises-at-bhadrachalam-in-telangana-after-heavy-rain/"
         }
       ]
     },
@@ -1404,32 +1412,6 @@
         {
           "name": "Nativeplanet",
           "url": "https://www.nativeplanet.com/travel-guide/telangana-heavy-rain-alert-14-districts-on-high-watch-as-monsoon-disrupts-travel-2026-011-24461.html"
-        }
-      ]
-    },
-    {
-      "id": "raipur-ganesh-visarjan-traffic-curbs-sep25-27-2026",
-      "icon": "🛡️",
-      "title": "Raipur Ganesh Visarjan from Sep 25, jhanki procession Sep 27: police traffic and safety rules",
-      "category": "National Advisory",
-      "categoryKey": "advisory",
-      "severity": "watch",
-      "status": "upcoming",
-      "region": "east",
-      "states": [
-        "Chhattisgarh"
-      ],
-      "date": "2026-09-25",
-      "summary": "Raipur police have issued traffic and safety rules for Ganesh idol immersion starting September 25, with the main jhanki procession on September 27, and heavy vehicles are banned on 19 city routes until September 27 under the revised festival traffic plan. This coincides with IMD's forecast of widespread rain over Chhattisgarh through Sep 29 and 40-60 km/h wind alerts for Raipur and 14 other districts.",
-      "impact": "Schedule Raipur city LM and FM runs outside procession hours on Sep 25-27, expect heavy-vehicle diversions on procession routes, and plan for rain-plus-procession delays in central Raipur pincodes.",
-      "sources": [
-        {
-          "name": "Dainik Jagran MP-CG (ground report)",
-          "url": "https://english.dainikjagranmpcg.com/states/chhattisgarh/raipur-ganesh-visarjan-2026-immersion-begins-september-25-jhanki-procession/article-32846"
-        },
-        {
-          "name": "Dainik Jagran MP-CG (ground report)",
-          "url": "https://english.dainikjagranmpcg.com/states/chhattisgarh/raipur-traffic-plan-changed-during-ganesh-festival-heavy-vehicles-banned/article-32224"
         }
       ]
     },
@@ -2330,15 +2312,15 @@
       "title": "Marathwada drought protests: Dharashiv farmers block the Dhule-Solapur highway at Yedshi",
       "category": "Strike / Bandh",
       "categoryKey": "strike",
-      "severity": "moderate",
+      "severity": "watch",
       "status": "ongoing",
       "region": "west",
       "states": [
         "Maharashtra"
       ],
-      "date": "2026-09-20",
-      "summary": "Marathwada is running a 38% rainfall shortfall with a near six-week dry spell that has scorched soybean and cotton. Farmers in Dharashiv blocked the Dhule-Solapur highway near Yedshi carrying withered soybean and demanding a drought declaration. In Lohara, thousands marched with tractors and bullock carts seeking Rs 1 lakh per hectare aid, a cattle subsidy and loan waiver, and Washim and Beed saw rallies on 16 September.",
-      "impact": "Rasta-roko is the stated tactic, so treat the Dhule-Solapur corridor near Yedshi as intermittently blockable with little notice. Keep a Solapur-Tuljapur-Latur alternate live and avoid single-route dependency for Dharashiv and Latur FM beats.",
+      "date": "2026-09-26",
+      "summary": "Marathwada is running a 38% rainfall shortfall with a near six-week dry spell that has scorched soybean and cotton. Farmers in Dharashiv blocked the Dhule-Solapur highway near Yedshi carrying withered soybean and demanding a drought declaration, with rallies also in Lohara, Washim and Beed. On 26 September the state government responded, declaring drought across 265 talukas statewide (123 of them severely drought-hit) and announcing a 12-point relief package covering farm-loan relief, power-bill waivers and student fee concessions.",
+      "impact": "With the drought formally declared and a relief package announced, the acute rasta-roko risk on the Dhule-Solapur corridor near Yedshi should ease, but keep a Solapur-Tuljapur-Latur alternate live for a few more days as a precaution. Separately, flag pincodes across the 265 drought-hit talukas (concentrated in Marathwada and Vidarbha) for a likely near-term dip in COD conversion and demand — not a serviceability block, just a demand-side watch item for these areas.",
       "sources": [
         {
           "name": "Agrowon / eSakal (ground report)",
@@ -3066,4 +3048,4 @@
       ]
     }
   ]
-}
+    }
