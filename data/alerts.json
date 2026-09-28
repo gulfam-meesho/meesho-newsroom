@@ -1,5 +1,5 @@
 {
-  "compiledAt": "2026-09-28T12:30:00+05:30",
+  "compiledAt": "2026-09-28T15:25:00+05:30",
   "note": "Manually-refreshed research digest compiled from public news sources, including regional/vernacular press, local TV channels and YouTube ground reports where available. Not a live news-wire feed — update this file (or re-run research) to refresh. Built for Meesho 3P logistics capacity planning (Delhivery · Shadowfax · Xpressbees): LM/FM manifestation, non-adherence hotspots, and serviceability-loss tracking. Not an official Meesho product.",
   "upcomingEvents": [
     {
@@ -599,6 +599,28 @@
     }
   ],
   "alerts": [
+    {
+      "id": "himachal-shimla-rohru-jangalikh-sundru-khad-landslide-sep28-2026",
+      "icon": "⛰️",
+      "title": "Fresh landslide near Jangalikh village (Rohru, Chhohara block) blocks pedestrian route on Sundru Khad",
+      "category": "Landslide",
+      "categoryKey": "landslide",
+      "severity": "watch",
+      "status": "ongoing",
+      "region": "north",
+      "states": [
+        "Himachal Pradesh"
+      ],
+      "date": "2026-09-28",
+      "summary": "A fresh landslide near Jangalikh village in Chhohara development block of Rohru sub-division, Shimla district, sent debris into the Sundru Khad on 28 September, blocking the pedestrian route to the village. The Rohru SDM confirmed that despite fears of a temporary blockage forming a lake in the khad, water flow has returned to normal and no lake formed; the administration is continuing to monitor the site.",
+      "impact": "Treat the Jangalikh (Chhohara block, Rohru) pedestrian/foot route as non-serviceable for FM pickups until debris is cleared; vehicular LM in the wider Rohru belt is unaffected for now since the khad did not dam up, but keep a short watch for renewed slippage given the string of active slides elsewhere in Shimla and Mandi districts this week.",
+      "sources": [
+        {
+          "name": "The North News (ground report)",
+          "url": "https://www.thenorthnews.in/heavy-landslide-near-jangalikh-blocks-pedestrian-route-in-rohru/"
+        }
+      ]
+    },
     {
       "id": "uttarakhand-badrinath-rishikesh-sirobagarh-rockfall-sep27-2026",
       "icon": "⛰️",
@@ -3048,4 +3070,4 @@
       ]
     }
   ]
-    }
+}
