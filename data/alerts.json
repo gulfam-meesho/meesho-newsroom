@@ -1,5 +1,5 @@
 {
-  "compiledAt": "2026-09-28T08:15:00+05:30",
+  "compiledAt": "2026-09-28T09:22:00+05:30",
   "note": "Manually-refreshed research digest compiled from public news sources, including regional/vernacular press, local TV channels and YouTube ground reports where available. Not a live news-wire feed — update this file (or re-run research) to refresh. Built for Meesho 3P logistics capacity planning (Delhivery · Shadowfax · Xpressbees): LM/FM manifestation, non-adherence hotspots, and serviceability-loss tracking. Not an official Meesho product.",
   "upcomingEvents": [
     {
@@ -1153,13 +1153,17 @@
       "states": [
         "Kerala"
       ],
-      "date": "2026-09-20",
-      "summary": "A sudden flash flood in the Kottappuzha river struck TK Colony in Pookkottumpadam (Malappuram district, Nilambur belt) around 5 pm on September 20; one man was found dead at Muttikkund in Pottikkallu and seven people, including tourists, were feared swept away. About 27 people stranded mid-river were rescued; spots from Olarvattom Canal to TK Colony and the Koyipra foothills (Kettungal, Aanakkundu, Balawadippadi) were affected.",
-      "impact": "Localised risk for Pookkottumpadam/Nilambur hill-foot LM routes during continuing Kerala orange-alert rain — avoid riverside village roads near Kottappuzha after heavy afternoon showers and allow SLA buffer for Nilambur-area pincodes.",
+      "date": "2026-09-22",
+      "summary": "A sudden flash flood in the Kottappuzha river struck TK Colony in Pookkottumpadam (Malappuram district, Nilambur belt) on the evening of September 20, sweeping away several people including tourists. The death toll rose in the following days and by September 22 all six flash-flood victims had been accounted for after the body of the last missing woman was recovered near Muttikkund/Pottikkallu, closing out the multi-day search-and-rescue operation. Spots from Olarvattom Canal to TK Colony and the Koyipra foothills (Kettungal, Aanakkundu, Balawadippadi) were affected.",
+      "impact": "Search-and-rescue is complete, so the acute LM stoppage has eased; keep a lighter SLA buffer for Pookkottumpadam/Nilambur hill-foot pincodes during any further heavy afternoon showers, and continue avoiding riverside village roads near Kottappuzha as a standing precaution given the terrain's flash-flood history.",
       "sources": [
         {
           "name": "The News Mill / ANI (ground report)",
           "url": "https://thenewsmill.com/2026/09/one-dead-seven-missing-after-flash-flood-in-pookkottumpadam-kerala/"
+        },
+        {
+          "name": "ANI (ground report)",
+          "url": "https://aninews.in/news/national/general-news/keralam-body-of-missing-woman-recovered-in-nilambur-all-six-flash-flood-victims-found20260922150236/"
         }
       ]
     },
@@ -1697,9 +1701,9 @@
       "states": [
         "Uttar Pradesh"
       ],
-      "date": "2026-09-23",
-      "summary": "Floods now span 23 of Uttar Pradesh's districts with over 16,000 people evacuated. In Gonda district the Ghaghra and Sarayu have crossed danger level in Tarabganj and Karnalganj tehsils, submerging 12 villages. Rising Ganga, Varuna, Gomti and Nand waters have flooded 54 villages in Varanasi, and the Rapti and Sarayu have partly or fully submerged 45 villages in Gorakhpur. Sharda, Ganga and Sarayu levels continue to rise, cutting road links and prompting relocation advisories in low-lying areas.",
-      "impact": "Flag rural pincodes in Gonda (Tarabganj, Karnalganj), Varanasi rural, Gorakhpur, Ballia, Lakhimpur Kheri and Bahraich as non-serviceable or extended-SLA until waters recede. Route Purvanchal line-haul via NH-27 and Lucknow rather than riverine district roads, and rebalance FM pickup capacity from flooded blocks to the Lucknow and Kanpur hubs.",
+      "date": "2026-09-27",
+      "summary": "Floods now span 23 of Uttar Pradesh's districts with over 16,000 people evacuated. In Gonda district the Ghaghra and Sarayu have crossed danger level in Tarabganj and Karnalganj tehsils, submerging 12 villages. Rising Ganga, Varuna, Gomti and Nand waters have flooded 54 villages in Varanasi, and the Rapti and Sarayu have partly or fully submerged 45 villages in Gorakhpur. Sharda, Ganga and Sarayu levels continue to rise, cutting road links and prompting relocation advisories in low-lying areas. A fresh update on 27 September reported 6 additional fatalities across Lakhimpur Kheri, Amethi and Barabanki districts as rain continued, with Lucknow, Farrukhabad, Kanpur Nagar, Kannauj, Kanpur Dehat and Hardoi also under the weather system's impact.",
+      "impact": "Flag rural pincodes in Gonda (Tarabganj, Karnalganj), Varanasi rural, Gorakhpur, Ballia, Lakhimpur Kheri and Bahraich as non-serviceable or extended-SLA until waters recede. Route Purvanchal line-haul via NH-27 and Lucknow rather than riverine district roads, and rebalance FM pickup capacity from flooded blocks to the Lucknow and Kanpur hubs. Extend the same non-serviceable/extended-SLA treatment to Lakhimpur Kheri, Amethi and Barabanki rural pincodes given the fresh fatalities reported there on 27 September, and add a buffer for Farrukhabad, Kannauj and Hardoi LM routes.",
       "sources": [
         {
           "name": "Onmanorama",
@@ -1712,6 +1716,10 @@
         {
           "name": "FloodList - Uttar Pradesh",
           "url": "https://floodlist.com/tag/uttar-pradesh"
+        },
+        {
+          "name": "India.com (agency report)",
+          "url": "https://www.india.com/news/india/imd-weather-update-rain-news-27-september-schools-shut-jharkhand-downpour-uttarakhand-char-dham-yatra-madhya-pradesh-uttar-pradesh-thunderstorm-flash-flood-8530484/"
         }
       ]
     },
@@ -2045,15 +2053,15 @@
       "title": "Jharkhand yellow alert for 11 districts on 23 September, orange for five districts on 24 September",
       "category": "Flood",
       "categoryKey": "flood",
-      "severity": "moderate",
+      "severity": "high",
       "status": "ongoing",
       "region": "east",
       "states": [
         "Jharkhand"
       ],
-      "date": "2026-09-23",
-      "summary": "IMD has a yellow alert on 23 September for Lohardaga, Gumla, Simdega, Ramgarh, Ranchi, Khunti, Bokaro, Dhanbad, Saraikela-Kharsawan and East and West Singhbhum, with an orange alert following on 24 September for five districts. Heavy to very heavy rain is flagged across Gumla, Simdega, Ranchi, Khunti, West Singhbhum, Latehar, Lohardaga, Ramgarh, Hazaribagh, Koderma, Giridih, Bokaro, Dhanbad and Saraikela-Kharsawan, with rain continuing to 26 September. Peak impact is expected on 24 September, driven by the same Bay of Bengal system.",
-      "impact": "Ranchi, Jamshedpur and Dhanbad hub outbound should carry a day's buffer for 24 September, with Gumla, Simdega, Khunti and West Singhbhum rural pincodes the most exposed. Keep Ranchi FM pickup slots in the morning window ahead of the afternoon peak.",
+      "date": "2026-09-27",
+      "summary": "IMD had a yellow alert on 23 September for Lohardaga, Gumla, Simdega, Ramgarh, Ranchi, Khunti, Bokaro, Dhanbad, Saraikela-Kharsawan and East and West Singhbhum, with an orange alert following on 24 September for five districts; heavy rain continued through the following days. By 26-27 September, the Subarnarekha river at Jamshedpur/East Singhbhum was running 2.02 m above its danger mark and the Kharkai river 4.50 m above its danger mark, with Ranchi's Kanke (Gonda) Dam at 27.05 ft against a 28 ft capacity and the Hatia and Getalsud dams also rising sharply. Schools suspended classes from KG to Class 12 in Ranchi and Jamshedpur, six flights were cancelled at Ranchi's Birsa Munda Airport, and residents were seen wading through knee-deep water with vehicles stranded on waterlogged roads.",
+      "impact": "Ranchi, Jamshedpur and Dhanbad hub outbound should carry an extended buffer through 28-29 September while the Subarnarekha and Kharkai stay well above danger mark; avoid riverbank-adjacent FM pickups in East Singhbhum and keep Ranchi/Jamshedpur OFD cut-offs relaxed given the school-closure-level disruption and waterlogged roads. Watch Birsa Munda Airport-linked air-cargo connections for continued flight cancellations.",
       "sources": [
         {
           "name": "ThePrint",
@@ -2062,6 +2070,10 @@
         {
           "name": "The Bharat Now (ground report)",
           "url": "https://thebharatnow.in/breaking-news/jharkhand-weather-24-september-heavy-rain-orange-alert-ranchi/"
+        },
+        {
+          "name": "Daijiworld (ground report)",
+          "url": "https://daijiworld.com/news/newsDisplay?newsID=1326796"
         }
       ]
     },
@@ -2201,15 +2213,15 @@
       "title": "Rimbi village landslide: 107 evacuated, 30+ homes destroyed; officials say West Sikkim village may be unsafe to inhabit",
       "category": "Landslide",
       "categoryKey": "landslide",
-      "severity": "critical",
+      "severity": "high",
       "status": "ongoing",
       "region": "east",
       "states": [
         "Sikkim"
       ],
-      "date": "2026-09-26",
-      "summary": "A major landslide on the night of 25 September in the Singlitam-Rimbi belt of Gyalshing district swept debris through the area, damaging or destroying more than 30 houses. Disaster Relief Commissioner Rinzing Chewang confirmed 107 residents have been moved to a relief camp at the Gram Prasasan Kendra, with nine more houses evacuated in Singlitam as a precaution. Officials now warn repeated landslides may have destabilised the ground beneath Rimbi to the point the village is unsafe for habitation; a post-monsoon geological assessment is planned. CM Prem Singh Tamang has asked for close surveillance of the site.",
-      "impact": "Treat Rimbi and Singlitam (Gyalshing district, West Sikkim) as non-serviceable indefinitely — evacuation and possible permanent resettlement are underway, not just a road-clearance situation. Hold FM pickups and LM commitments for this pocket and route Gyalshing-belt linehaul via alternate roads; do not plan capacity restoration here until the post-monsoon geological assessment is complete.",
+      "date": "2026-09-27",
+      "summary": "A major landslide on the night of 25 September in the Singlitam-Rimbi belt of Gyalshing district swept debris through the area, damaging or destroying more than 30 houses. Disaster Relief Commissioner Rinzing Chewang confirmed 107 residents were moved to a relief camp at the Gram Prasasan Kendra, with nine more houses evacuated in Singlitam as a precaution. Officials warn repeated landslides may have destabilised the ground beneath Rimbi to the point the village is unsafe for habitation, with a post-monsoon geological assessment planned. On 27 September the Rimbi road itself reopened to all vehicular movement after coordinated restoration work by the district administration, though the underlying village-safety question remains unresolved.",
+      "impact": "Linehaul/transit through Rimbi is passable again from 27 September, so route-level delays should ease. However, continue treating Rimbi and Singlitam as non-serviceable for FM pickups and new LM commitments to affected households — evacuation and a possible permanent resettlement are still underway pending the post-monsoon geological assessment.",
       "sources": [
         {
           "name": "Northeast News (ground report)",
@@ -2222,6 +2234,10 @@
         {
           "name": "EastMojo (ground report)",
           "url": "https://eastmojo.com/sikkim/2026/09/26/sikkim-rimbi-may-be-uninhabitable-after-recurring-landslides/"
+        },
+        {
+          "name": "Northeast Now (ground report)",
+          "url": "https://nenews.in/news/sikkims-rimbi-road-reopens-to-vehicular-movement-after-restoration/65823/"
         }
       ]
     },
