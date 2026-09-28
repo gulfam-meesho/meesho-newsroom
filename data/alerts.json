@@ -1,5 +1,5 @@
 {
-  "compiledAt": "2026-09-27T19:50:00+05:30",
+  "compiledAt": "2026-09-28T08:15:00+05:30",
   "note": "Manually-refreshed research digest compiled from public news sources, including regional/vernacular press, local TV channels and YouTube ground reports where available. Not a live news-wire feed — update this file (or re-run research) to refresh. Built for Meesho 3P logistics capacity planning (Delhivery · Shadowfax · Xpressbees): LM/FM manifestation, non-adherence hotspots, and serviceability-loss tracking. Not an official Meesho product.",
   "upcomingEvents": [
     {
@@ -599,6 +599,32 @@
     }
   ],
   "alerts": [
+    {
+      "id": "uttarakhand-badrinath-rishikesh-sirobagarh-rockfall-sep27-2026",
+      "icon": "⛰️",
+      "title": "Rockfall shuts Badrinath-Rishikesh NH at Sirobagarh (Pauri Garhwal); pilgrim and goods traffic stranded both sides",
+      "category": "Landslide",
+      "categoryKey": "landslide",
+      "severity": "high",
+      "status": "ongoing",
+      "region": "north",
+      "states": [
+        "Uttarakhand"
+      ],
+      "date": "2026-09-27",
+      "summary": "Heavy rain over the past two days brought down a large quantity of rocks and debris onto the Badrinath-Rishikesh National Highway at the Sirobagarh stretch in Pauri Garhwal around 8am on 27 September, stranding a substantial number of vehicles on both sides, including pilgrims bound for Badrinath and Kedarnath. Srinagar (Pauri Garhwal) Police have stepped up vigilance on vulnerable stretches and are advising commuters to halt at safe locations rather than push through until the Sirobagarh stretch is cleared. Rudraprayag district administration has been placed on high alert, and multiple other landslides/rockfalls are affecting traffic across the hill state.",
+      "impact": "Treat the Rishikesh-Srinagar-Rudraprayag-Badrinath corridor (Pauri Garhwal/Rudraprayag hubs) as non-serviceable until Sirobagarh is cleared - hold linehaul rather than queue vehicles at the blockage, and extend SLA for Chamoli/Badrinath-belt pincodes. Re-check before dispatching Kedarnath-route consignments given the parallel Kedarnath Dham pilgrim advisory.",
+      "sources": [
+        {
+          "name": "ANI News",
+          "url": "https://aninews.in/news/national/general-news/uttarakhand-badrinath-rishikesh-highway-blocked-due-to-heavy-rain20260927132345/"
+        },
+        {
+          "name": "Asianet Newsable",
+          "url": "https://newsable.asianetnews.com/india/uttarakhand-rains-badrinath-rishikesh-highway-blocked-pilgrims-stranded-articleshow-z4m803g"
+        }
+      ]
+    },
     {
       "id": "odisha-mayurbhanj-20-blocks-10373-relocated-sep26-2026",
       "icon": "🌊",
@@ -2629,13 +2655,13 @@
       "category": "Strike / Bandh",
       "categoryKey": "strike",
       "severity": "high",
-      "status": "upcoming",
+      "status": "ongoing",
       "region": "pan-india",
       "states": [
         "Pan-India"
       ],
       "date": "2026-09-28",
-      "summary": "The United Forum of Bank Unions, which claims to represent 90% of the banking workforce, has confirmed it will go ahead with a three-day nationwide strike from 28 to 30 September after conciliation before the Deputy Chief Labour Commissioner remained inconclusive. The core demand is a five-day banking week. Because the strike follows the fourth Saturday and Sunday, branches may be unavailable for normal customer-facing work for five consecutive days from 26 to 30 September. SBI has advised customers to complete important transactions in advance and to use ATMs, Customer Service Points, internet banking, YONO, mobile banking and UPI. SBI has issued a customer advisory for the 28-30 September strike, and the unions have warned of an indefinite nationwide strike from October 26 if the dispute is not resolved.",
+      "summary": "The United Forum of Bank Unions' three-day nationwide strike began today, 28 September, after conciliation before the Deputy Chief Labour Commissioner remained inconclusive; the core demand is a five-day banking week. Branches have been effectively unavailable for normal customer-facing work for five consecutive days counting the preceding weekend (26-30 September). SBI and other PSBs have advised customers to rely on ATMs, Customer Service Points, internet banking, YONO, mobile banking and UPI through 30 September. Unions have warned of an indefinite nationwide strike from 26 October if the dispute remains unresolved.",
       "impact": "COD remittance, cash deposit and branch-dependent settlement cycles for Delhivery, Shadowfax and Xpressbees delivery partners will stall from 26 to 30 Sep - pre-fund partner float and move DP payouts to digital rails before 25 Sep. Expect cash-handling friction at rural CSP-dependent LM hubs; the window also overlaps month-end, so clear vendor payments and FM pickup-agent settlements ahead of it.",
       "sources": [
         {
