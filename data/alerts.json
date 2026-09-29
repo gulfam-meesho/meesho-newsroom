@@ -1,5 +1,5 @@
 {
- "compiledAt": "2026-09-29T08:30:00+05:30",
+ "compiledAt": "2026-09-29T12:18:26+05:30",
  "note": "Manually-refreshed research digest compiled from public news sources, including regional/vernacular press, local TV channels and YouTube ground reports where available. Not a live news-wire feed — update this file (or re-run research) to refresh. Built for Meesho 3P logistics capacity planning (Delhivery · Shadowfax · Xpressbees): LM/FM manifestation, non-adherence hotspots, and serviceability-loss tracking. Not an official Meesho product.",
  "upcomingEvents": [
   {
@@ -259,6 +259,19 @@
     {
      "name": "Incredible India - Kullu Dussehra",
      "url": "https://www.incredibleindia.gov.in/en/festivals-and-events/kullu-dussehra"
+    }
+   ]
+  },
+  {
+   "id": "ufbu-indefinite-bank-strike-oct26-2026",
+   "icon": "🏦",
+   "community": "National",
+   "title": "UFBU indefinite public-sector bank strike threatened from Oct 26 - COD cash deposit/remittance delays possible during pre-Diwali peak",
+   "date": "2026-10-26",
+   "sources": [
+    {
+     "name": "Upstox News",
+     "url": "https://upstox.com/news/personal-finance/latest-updates/bank-strike-september-28-30-latest-updates-sbi-icici-hdfc-pnb-boi-bob-canara-union-bank-customers/article-200856/"
     }
    ]
   },
@@ -600,6 +613,28 @@
  ],
  "alerts": [
   {
+   "id": "pan-india-ufbu-bank-strike-sep28-30-oct26-indefinite-2026",
+   "icon": "🚛",
+   "title": "UFBU 3-day public-sector bank strike Sep 28-30; indefinite strike threatened from Oct 26",
+   "category": "Strike / Bandh",
+   "categoryKey": "strike",
+   "severity": "moderate",
+   "status": "ongoing",
+   "region": "pan-india",
+   "states": [
+    "Pan-India"
+   ],
+   "date": "2026-09-29",
+   "summary": "The United Forum of Bank Unions has called a nationwide strike on September 28-30 over its five-day banking week demand after conciliation talks failed on September 22. Public-sector banks (SBI, PNB, Bank of India, Union Bank, Central Bank, Indian Bank) expect branch, cash-deposit and cheque disruption; private banks like ICICI, HDFC and Axis are not part of the strike. Unions have also announced an indefinite strike from October 26 if the demand stays unresolved.",
+   "impact": "Expect delays in COD cash deposits and remittance by 3P delivery partners (Delhivery, Shadowfax, Xpressbees) at public-sector bank branches, especially in tier-3/rural pockets with only PSU bank presence; push carriers to use ATM/ADWM, BC points and digital deposit channels. Plan for a repeat risk from Oct 26, right after Dussehra and just before the Diwali peak.",
+   "sources": [
+    {
+     "name": "Upstox News",
+     "url": "https://upstox.com/news/personal-finance/latest-updates/bank-strike-september-28-30-latest-updates-sbi-icici-hdfc-pnb-boi-bob-canara-union-bank-customers/article-200856/"
+    }
+   ]
+  },
+  {
    "id": "odisha-statewide-13-districts-1-lakh-evacuated-sep28-2026",
    "icon": "🌊",
    "title": "Odisha floods: 1 lakh+ evacuated to 500+ relief centres across 13 districts; Balasore alone 67,266 shifted",
@@ -638,12 +673,16 @@
     "Himachal Pradesh"
    ],
    "date": "2026-09-28",
-   "summary": "A fresh landslide near Jangalikh village in Chhohara development block of Rohru sub-division, Shimla district, sent debris into the Sundru Khad on 28 September, blocking the pedestrian route to the village. The Rohru SDM confirmed that despite fears of a temporary blockage forming a lake in the khad, water flow has returned to normal and no lake formed; the administration is continuing to monitor the site.",
+   "summary": "A fresh landslide near Jangalikh village in Chhohara development block of Rohru sub-division, Shimla district, sent debris into the Sundru Khad on 28 September, blocking the pedestrian route to the village. The Rohru SDM confirmed that despite fears of a temporary blockage forming a lake in the khad, water flow has returned to normal and no lake formed; the administration is continuing to monitor the site. PTI (via DD India) adds that stones had been rolling down the hill since Sunday, some nearby villages were cut off and traffic was disrupted; the administration has appealed to people to avoid the Pabbar river and surrounding khads, particularly in the Janglikh area.",
    "impact": "Treat the Jangalikh (Chhohara block, Rohru) pedestrian/foot route as non-serviceable for FM pickups until debris is cleared; vehicular LM in the wider Rohru belt is unaffected for now since the khad did not dam up, but keep a short watch for renewed slippage given the string of active slides elsewhere in Shimla and Mandi districts this week.",
    "sources": [
     {
      "name": "The North News (ground report)",
      "url": "https://www.thenorthnews.in/heavy-landslide-near-jangalikh-blocks-pedestrian-route-in-rohru/"
+    },
+    {
+     "name": "DD India / PTI",
+     "url": "https://ddindia.co.in/2026/09/landslide-in-shimla-cuts-off-villages-disrupts-traffic/"
     }
    ]
   },
@@ -2759,4 +2798,4 @@
    ]
   }
  ]
-     }
+  }
