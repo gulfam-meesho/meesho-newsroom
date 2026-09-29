@@ -1,5 +1,5 @@
 {
-  "compiledAt": "2026-09-29T15:40:00+05:30",
+  "compiledAt": "2026-09-29T18:45:00+05:30",
   "note": "Manually-refreshed research digest compiled from public news sources, including regional/vernacular press, local TV channels and YouTube ground reports where available. Not a live news-wire feed — update this file (or re-run research) to refresh. Built for Meesho 3P logistics capacity planning (Delhivery · Shadowfax · Xpressbees): LM/FM manifestation, non-adherence hotspots, and serviceability-loss tracking. Not an official Meesho product.",
   "upcomingEvents": [
     {
@@ -92,6 +92,23 @@
         {
           "name": "PublicHolidays.in",
           "url": "https://publicholidays.in/mahatma-gandhis-birthday/"
+        }
+      ]
+    },
+    {
+      "id": "odisha-bandh-oct8-2026",
+      "icon": "🚛",
+      "community": "National (Odisha regional)",
+      "title": "Odisha Bandh (Oct 8) called by OPCC/INDIA bloc over MMDR Amendment Act, with 7-day mineral transport blockade - expect statewide LM/FM stoppage",
+      "date": "2026-10-08",
+      "sources": [
+        {
+          "name": "Odisha TV",
+          "url": "https://odishatv.in/odisha/odisha-bandh-on-sept-30-oct-8-over-mmdr-act-gyanesh-kumar-and-nityananda-gond-resignations-12589847"
+        },
+        {
+          "name": "OrissaPOST",
+          "url": "https://www.orissapost.com/odisha-braces-for-bandh-sept-30-oct-8-over-mmdr-amendment-act-resignation-demands/"
         }
       ]
     },
@@ -612,6 +629,40 @@
     }
   ],
   "alerts": [
+    {
+      "id": "odisha-statewide-bandh-sep30-oct8-mining-blockade-2026",
+      "icon": "🚛",
+      "title": "Odisha bandh tomorrow (Sep 30, 12-hr) over textbook errors; Congress/INDIA bloc bandh Oct 8 plus 7-day mineral transport blockade",
+      "category": "Strike / Bandh",
+      "categoryKey": "strike",
+      "severity": "high",
+      "status": "upcoming",
+      "region": "east",
+      "states": [
+        "Odisha"
+      ],
+      "date": "2026-09-30",
+      "summary": "Naba Nirman Krushak Sangathan (NNKS) and allied outfits have called a statewide Odisha bandh on 30 September (reported as 12-hour) demanding action over textbook errors and the resignation of School and Mass Education Minister Nityananda Gond. Shops, markets and private establishments are expected to stay shut and buses may be affected; hospitals, ambulances, pharmacies and fire services are exempt. Separately, OPCC has called a statewide bandh on 8 October over the MMDR Amendment Act 2026 and announced a seven-day economic blockade halting mining, mineral extraction and mineral transportation, with INDIA bloc parties invited to join.",
+      "impact": "Expect near-zero LM attempts and FM pickups across Odisha on Sep 30 (bandh-day picket risk on NH-16/NH-49 and at Bhubaneswar, Cuttack, Berhampur, Sambalpur, Balasore hubs): pre-plan attempt reschedules, hold line-haul departures and keep drivers off roads in the morning. This lands on top of flood-hit Balasore, Bhadrak, Mayurbhanj and the Mahanadi delta, so add 24-48h SLA buffer. Plan again for Oct 8 and watch the mineral-transport blockade in Keonjhar, Sundargarh and Jajpur belts for truck-availability tightness.",
+      "sources": [
+        {
+          "name": "Odisha TV (ground report, TV)",
+          "url": "https://odishatv.in/odisha/odisha-bandh-on-sept-30-oct-8-over-mmdr-act-gyanesh-kumar-and-nityananda-gond-resignations-12589847"
+        },
+        {
+          "name": "OrissaPOST (ground report)",
+          "url": "https://www.orissapost.com/odisha-braces-for-bandh-sept-30-oct-8-over-mmdr-amendment-act-resignation-demands/"
+        },
+        {
+          "name": "UNI India",
+          "url": "https://www.uniindia.com/east-india/agitation-odisha-bandh-textbook-errors/194063"
+        },
+        {
+          "name": "Deccan Chronicle",
+          "url": "https://www.deccanchronicle.com/news/current-affairs/odisha-faces-two-bandhs-over-mmdr-act-textbook-row-1991598"
+        }
+      ]
+    },
     {
       "id": "odisha-bhadrak-deuli-pala-boitalu-mahara-cutoff-sep29-2026",
       "icon": "🌊",
@@ -2842,4 +2893,4 @@
       ]
     }
   ]
-    }
+}
