@@ -1,5 +1,5 @@
 {
-  "compiledAt": "2026-09-29T18:45:00+05:30",
+  "compiledAt": "2026-09-30T09:30:00+05:30",
   "note": "Manually-refreshed research digest compiled from public news sources, including regional/vernacular press, local TV channels and YouTube ground reports where available. Not a live news-wire feed — update this file (or re-run research) to refresh. Built for Meesho 3P logistics capacity planning (Delhivery · Shadowfax · Xpressbees): LM/FM manifestation, non-adherence hotspots, and serviceability-loss tracking. Not an official Meesho product.",
   "upcomingEvents": [
     {
@@ -632,11 +632,11 @@
     {
       "id": "odisha-statewide-bandh-sep30-oct8-mining-blockade-2026",
       "icon": "🚛",
-      "title": "Odisha bandh tomorrow (Sep 30, 12-hr) over textbook errors; Congress/INDIA bloc bandh Oct 8 plus 7-day mineral transport blockade",
+      "title": "Odisha bandh TODAY (Sep 30, 12-hr) over textbook errors; Congress/INDIA bloc bandh Oct 8 plus 7-day mineral transport blockade",
       "category": "Strike / Bandh",
       "categoryKey": "strike",
       "severity": "high",
-      "status": "upcoming",
+      "status": "ongoing",
       "region": "east",
       "states": [
         "Odisha"
