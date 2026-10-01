@@ -1,5 +1,5 @@
 {
-  "compiledAt": "2026-10-01T09:30:00+05:30",
+  "compiledAt": "2026-10-01T15:17:34+05:30",
   "note": "Manually-refreshed research digest compiled from public news sources, including regional/vernacular press, local TV channels and YouTube ground reports where available. Not a live news-wire feed — update this file (or re-run research) to refresh. Built for Meesho 3P logistics capacity planning (Delhivery · Shadowfax · Xpressbees): LM/FM manifestation, non-adherence hotspots, and serviceability-loss tracking. Not an official Meesho product.",
   "upcomingEvents": [
     {
@@ -580,6 +580,29 @@
     }
   ],
   "alerts": [
+    {
+      "id": "nagaland-longleng-yongshei-dikhou-river-landslide-blockage-oct1-2026",
+      "icon": "⛰️",
+      "title": "Longleng landslide near Yongshei blocks ~80% of Dikhou River channel; Sivasagar (Assam) downstream villages on alert",
+      "category": "Landslide",
+      "categoryKey": "landslide",
+      "severity": "watch",
+      "status": "ongoing",
+      "region": "east",
+      "states": [
+        "Nagaland",
+        "Assam"
+      ],
+      "date": "2026-10-01",
+      "summary": "Sivasagar district administration issued a cautionary advisory after a major landslide between Yaongyimsen (Mokokchung) and Yongshei (Longleng) in Nagaland blocked about 80% of the Dikhou River channel, per the Longleng Deputy Commissioner's Sep 30 message and the Yongshei village chairman. No abnormal flow or sudden drop in water level has been seen downstream so far and the Dikhou level at Bihubar is stable; ground verification was scheduled for Oct 1.",
+      "impact": "Early-warning signal only: if the blockage breaches, riverside villages along the Dikhou in Sivasagar district (Assam) and low-lying Longleng/Mokokchung belts could see sudden flash flooding. Keep a short watch on Sivasagar and Nagaland hill-road LM, avoid parking FM pickups near the Dikhou banks, and re-check after the ground verification report.",
+      "sources": [
+        {
+          "name": "Hub Network (ground report)",
+          "url": "https://hubnetwork.in/longleng-landslide-blocks-80-of-dikhou-river-channel-assams-sivasagar-on-alert"
+        }
+      ]
+    },
     {
       "id": "odisha-balasore-bhograi-30-villages-waterlogged-sep30-2026",
       "icon": "🌊",
