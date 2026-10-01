@@ -1,56 +1,7 @@
 {
-  "compiledAt": "2026-09-30T09:30:00+05:30",
+  "compiledAt": "2026-10-01T09:30:00+05:30",
   "note": "Manually-refreshed research digest compiled from public news sources, including regional/vernacular press, local TV channels and YouTube ground reports where available. Not a live news-wire feed — update this file (or re-run research) to refresh. Built for Meesho 3P logistics capacity planning (Delhivery · Shadowfax · Xpressbees): LM/FM manifestation, non-adherence hotspots, and serviceability-loss tracking. Not an official Meesho product.",
   "upcomingEvents": [
-    {
-      "id": "das-lakshan-parva-2026",
-      "icon": "🕉️",
-      "community": "Jain (Digambar)",
-      "title": "Digambar Das Lakshan Parva (Sep 16-25): ends this week — Jain-majority trading pockets (Rajasthan, MP, Gujarat) see shop/market closures on closing days",
-      "date": "2026-09-16",
-      "endDate": "2026-09-25",
-      "sources": [
-        {
-          "name": "The Jain Religion — Paryushan Parva 2026",
-          "url": "https://thejainreligion.in/shwetambar-paryushan-parva-dates-2026"
-        }
-      ]
-    },
-    {
-      "id": "ambaji-bhadarvi-poonam-fair-2026",
-      "icon": "🛕",
-      "community": "Hindu (Gujarat regional)",
-      "title": "Ambaji Bhadarvi Poonam Mela (main day Sep 26): lakhs of padyatris on the Palanpur-Danta-Ambaji roads - expect Banaskantha highway congestion and slow LM around Ambaji/Danta",
-      "date": "2026-09-23",
-      "endDate": "2026-09-26",
-      "sources": [
-        {
-          "name": "ShubhPanchang - Bhadarvi Poonam 2026",
-          "url": "https://shubhpanchang.in/festivals/bhadarvi-poonam-2026?lang=en"
-        },
-        {
-          "name": "Banaskantha district (Govt of Gujarat) - Ambaji Fair",
-          "url": "https://banaskantha.nic.in/festival/ambaji-fair/"
-        }
-      ]
-    },
-    {
-      "id": "anant-chaturdashi-ganpati-visarjan-2026",
-      "icon": "🕉️",
-      "community": "Hindu",
-      "title": "Anant Chaturdashi / Ganpati Visarjan (Sep 25): mass immersion processions — major LM disruption in Mumbai, Pune, Ahmedabad, Bengaluru, Hyderabad, Delhi",
-      "date": "2026-09-25",
-      "sources": [
-        {
-          "name": "LatestLY",
-          "url": "https://www.latestly.com/india/information/ganesh-visarjan-2026-date-shubh-muhurat-puja-vidhi-all-about-anant-chaturdashi-7613621.html"
-        },
-        {
-          "name": "Drikpanchang",
-          "url": "https://www.drikpanchang.com/festivals/ganesh-visarjan/ganesh-visarjan-date-time.html"
-        }
-      ]
-    },
     {
       "id": "pitru-paksha-2026",
       "icon": "🪔",
@@ -630,11 +581,11 @@
   ],
   "alerts": [
     {
-      "id": "odisha-statewide-bandh-sep30-oct8-mining-blockade-2026",
-      "icon": "🚛",
-      "title": "Odisha bandh TODAY (Sep 30, 12-hr) over textbook errors; Congress/INDIA bloc bandh Oct 8 plus 7-day mineral transport blockade",
-      "category": "Strike / Bandh",
-      "categoryKey": "strike",
+      "id": "odisha-balasore-bhograi-30-villages-waterlogged-sep30-2026",
+      "icon": "🌊",
+      "title": "Balasore's Bhograi: 30+ villages in 10 panchayats still waterlogged, roads under ~3 ft water at Kachuadi, Kulida, Nachinda, Putina",
+      "category": "Flood",
+      "categoryKey": "flood",
       "severity": "high",
       "status": "ongoing",
       "region": "east",
@@ -642,24 +593,134 @@
         "Odisha"
       ],
       "date": "2026-09-30",
-      "summary": "Naba Nirman Krushak Sangathan (NNKS) and allied outfits have called a statewide Odisha bandh on 30 September (reported as 12-hour) demanding action over textbook errors and the resignation of School and Mass Education Minister Nityananda Gond. Shops, markets and private establishments are expected to stay shut and buses may be affected; hospitals, ambulances, pharmacies and fire services are exempt. Separately, OPCC has called a statewide bandh on 8 October over the MMDR Amendment Act 2026 and announced a seven-day economic blockade halting mining, mineral extraction and mineral transportation, with INDIA bloc parties invited to join.",
-      "impact": "Expect near-zero LM attempts and FM pickups across Odisha on Sep 30 (bandh-day picket risk on NH-16/NH-49 and at Bhubaneswar, Cuttack, Berhampur, Sambalpur, Balasore hubs): pre-plan attempt reschedules, hold line-haul departures and keep drivers off roads in the morning. This lands on top of flood-hit Balasore, Bhadrak, Mayurbhanj and the Mahanadi delta, so add 24-48h SLA buffer. Plan again for Oct 8 and watch the mineral-transport blockade in Keonjhar, Sundargarh and Jajpur belts for truck-availability tightness.",
+      "summary": "Odisha TV reports over 30 villages across 10 gram panchayats in Bhograi block (and parts of Basudevpur in Bhadrak) remain waterlogged even as rivers recede. Roads in Kachuadi, Siaruib, Kulida, Kusuda, Gabagaon, Nachinda and Putina panchayats are under about three feet of water, homes are flooded waist-deep, and residents are living in cyclone shelters. About 34 people from Makarapada were stranded for nearly four days before fire-service rescue.",
+      "impact": "Treat Bhograi block panchayats (Kachuadi, Kulida, Kusuda, Gabagaon, Nachinda, Putina) and adjoining Basudevpur pincodes as non-serviceable for LM; hold FM pickups from sellers there and expect RTO/undelivered build-up at the Balasore hub until drainage clears.",
       "sources": [
+        {
+          "name": "Odisha TV (ground report, TV)",
+          "url": "https://odishatv.in/odisha/odisha-flood-over-30-villages-in-balasores-bhograi-remain-waterlogged-12592735"
+        }
+      ]
+    },
+    {
+      "id": "pan-india-commercial-lpg-hike-oct1-2026",
+      "icon": "⛽",
+      "title": "Commercial LPG cylinder up Rs 62.50 from Oct 1 (some reports Rs 71.50 by city); ATF up; domestic LPG unchanged",
+      "category": "Fuel & Energy",
+      "categoryKey": "fuel",
+      "severity": "watch",
+      "status": "ongoing",
+      "region": "pan-india",
+      "states": [
+        "Pan-India"
+      ],
+      "date": "2026-10-01",
+      "summary": "Oil marketing companies raised the price of the 19-kg commercial LPG cylinder from 1 October 2026 by about Rs 62.50 (reports cite up to Rs 71.50 depending on city), and aviation turbine fuel by about Rs 16 per litre, ahead of the festive season. Domestic LPG prices were left unchanged. Exact city-wise rates vary by outlet.",
+      "impact": "Expect cost pressure for sort-centre canteens, hub operations and food-linked sellers; watch for fuel-surcharge asks from Delhivery, Shadowfax and Xpressbees as diesel/gas costs flow into pre-Diwali rate negotiations. No direct LM/FM stoppage.",
+      "sources": [
+        {
+          "name": "Business Today",
+          "url": "https://bazaar.businesstoday.in/business-news/story/commercial-lpg-cylinder-price-hike-19-kg-cylinder-gets-costlier-from-october-1-check-new-rates-1457476-2026-10-01"
+        },
+        {
+          "name": "National Herald",
+          "url": "https://nationalheraldindia.com/business/commercial-lpg-prices-rise-by-rs-6250-aviation-fuel-up-rs-16-per-litre"
+        },
+        {
+          "name": "ZeeBiz",
+          "url": "https://www.zeebiz.com/india/news-lpg-cylinder-price-october-1-2026-check-city-wise-commercial-cookig-gas-refill-rates-domestic-prices-subsidy-booking-rules-kick-in-soon-403136"
+        }
+      ]
+    },
+    {
+      "id": "ne-south-heavy-rain-advisory-monsoon-withdrawal-sep30-2026",
+      "icon": "🌧️",
+      "title": "IMD: heavy rain in Northeast (Arunachal Oct 2-4), Kerala, interior Karnataka, Tamil Nadu as monsoon withdrawal continues; Bihar rain Sep 30-Oct 6",
+      "category": "Flood",
+      "categoryKey": "flood",
+      "severity": "watch",
+      "status": "upcoming",
+      "region": "pan-india",
+      "states": [
+        "Assam",
+        "Arunachal Pradesh",
+        "Meghalaya",
+        "Nagaland",
+        "Manipur",
+        "Mizoram",
+        "Tripura",
+        "Kerala",
+        "Karnataka",
+        "Tamil Nadu",
+        "Bihar"
+      ],
+      "date": "2026-09-30",
+      "summary": "ETV Bharat reports IMD forecasts isolated heavy rain over Assam, Meghalaya, Nagaland, Manipur, Mizoram and Tripura, over Arunachal Pradesh from Oct 2 to 4, and over Kerala, interior Karnataka and Tamil Nadu/Puducherry, with gusts to 60 kmph over Tamil Nadu and the Bay of Bengal. Bihar expects thunderstorms with 50 kmph gusts from Sep 30 to Oct 6, with scattered rain across Odisha, Bengal, Jharkhand, Konkan and Goa as the southwest monsoon withdraws.",
+      "impact": "Keep buffer on hill/ghat corridors in the Northeast and Kerala-Karnataka Western Ghats; expect waterlogging-led LM slips in Guwahati, Itanagar belt and Bihar districts and avoid scheduling tight FM windows during thunderstorm hours.",
+      "sources": [
+        {
+          "name": "ETV Bharat",
+          "url": "https://www.etvbharat.com/en/bharat/rain-thunderstorm-alert-across-india-northeast-remains-focus-as-monsoon-withdrawal-continues-enn26093001884"
+        },
+        {
+          "name": "Down To Earth",
+          "url": "https://www.downtoearth.org.in/climate-change/daily-weather-tracker-heavy-rain-forecast-for-northeast-and-south-india-as-monsoon-withdrawal-continues"
+        }
+      ]
+    },
+    {
+      "id": "uttarakhand-char-dham-yatra-resumed-chirbasa-slide-cleared-sep28-2026",
+      "icon": "⛰️",
+      "title": "Uttarakhand: Char Dham Yatra resumed Sep 28; Chirbasa (Kedarnath route) slide cleared after ~1,500 pilgrims stranded",
+      "category": "Landslide",
+      "categoryKey": "landslide",
+      "severity": "watch",
+      "status": "ongoing",
+      "region": "north",
+      "states": [
+        "Uttarakhand"
+      ],
+      "date": "2026-09-28",
+      "summary": "Garhwal Commissioner Anand Swarup said Char Dham Yatra resumed after weather improved. A landslide near Chirbasa on the Kedarnath route on Sunday night stranded about 1,500 pilgrims before rescue teams cleared the road. District magistrates can again suspend movement locally if rain or blockages recur.",
+      "impact": "Badrinath/Kedarnath corridor LM/FM can resume with caution from Rishikesh/Srinagar (UK) hubs; verify local road status daily and keep a 24h buffer on Rudraprayag-Sonprayag-Gaurikund and Joshimath belts.",
+      "sources": [
+        {
+          "name": "ANI",
+          "url": "https://aninews.in/news/national/general-news/uttarakhand-char-dham-yatra-resumes-after-two-day-suspension-as-weather-improves20260928140116/"
+        }
+      ]
+    },
+    {
+      "id": "odisha-bandh-oct8-india-bloc-mmdr-mining-blockade-2026",
+      "icon": "🚛",
+      "title": "Odisha bandh on Oct 8 called by INDIA bloc over MMDR Act, with economic blockade on mineral transport; Keonjhar demo Oct 7",
+      "category": "Strike / Bandh",
+      "categoryKey": "strike",
+      "severity": "high",
+      "status": "upcoming",
+      "region": "east",
+      "states": [
+        "Odisha"
+      ],
+      "date": "2026-10-01",
+      "summary": "The 12-hour Sep 30 bandh by NNKS has passed. The INDIA bloc (Congress, CPI(M), CPI, CPI(ML), SP, RJD, NCP and others) has now called a statewide Odisha bandh on 8 October demanding repeal of the MMDR Amendment Act 2026, the resignation of Education Minister Nityananda Gond over textbook errors, and action against the CEC over SIR irregularities. A demonstration is planned in Keonjhar on 7 October and economic blockades of mineral extraction and transport in mining regions on 8 October.",
+      "impact": "Plan for near-zero LM/FM across Odisha on Oct 8 (picket risk on NH-16/NH-49 and Bhubaneswar, Cuttack, Berhampur, Sambalpur, Balasore hubs): pre-schedule attempt reschedules and hold line-haul. Expect truck tightness in Keonjhar, Sundargarh and Jajpur mining belts from Oct 7, on top of flood-hit coastal districts.",
+      "sources": [
+        {
+          "name": "ThePrint",
+          "url": "https://theprint.in/india/india-bloc-announces-odisha-bandh-on-oct-8-over-new-mining-law-other-issues/3056760/"
+        },
         {
           "name": "Odisha TV (ground report, TV)",
           "url": "https://odishatv.in/odisha/odisha-bandh-on-sept-30-oct-8-over-mmdr-act-gyanesh-kumar-and-nityananda-gond-resignations-12589847"
         },
         {
-          "name": "OrissaPOST (ground report)",
-          "url": "https://www.orissapost.com/odisha-braces-for-bandh-sept-30-oct-8-over-mmdr-amendment-act-resignation-demands/"
+          "name": "OMM Com News (ground report)",
+          "url": "https://ommcomnews.com/odisha-news/india-bloc-calls-odisha-bandh-on-oct-8-over-mmdr-amendment-act/"
         },
         {
-          "name": "UNI India",
-          "url": "https://www.uniindia.com/east-india/agitation-odisha-bandh-textbook-errors/194063"
-        },
-        {
-          "name": "Deccan Chronicle",
-          "url": "https://www.deccanchronicle.com/news/current-affairs/odisha-faces-two-bandhs-over-mmdr-act-textbook-row-1991598"
+          "name": "Hans India",
+          "url": "https://www.thehansindia.com/odisha/india-bloc-calls-odisha-bandh-on-oct-8-1127173"
         }
       ]
     },
@@ -710,18 +771,18 @@
     {
       "id": "pan-india-ufbu-bank-strike-sep28-30-oct26-indefinite-2026",
       "icon": "🚛",
-      "title": "UFBU 3-day public-sector bank strike Sep 28-30; indefinite strike threatened from Oct 26",
+      "title": "UFBU 3-day bank strike (Sep 28-30) over; indefinite strike threatened from Oct 26",
       "category": "Strike / Bandh",
       "categoryKey": "strike",
-      "severity": "moderate",
-      "status": "ongoing",
+      "severity": "watch",
+      "status": "upcoming",
       "region": "pan-india",
       "states": [
         "Pan-India"
       ],
-      "date": "2026-09-29",
-      "summary": "The United Forum of Bank Unions has called a nationwide strike on September 28-30 over its five-day banking week demand after conciliation talks failed on September 22. Public-sector banks (SBI, PNB, Bank of India, Union Bank, Central Bank, Indian Bank) expect branch, cash-deposit and cheque disruption; private banks like ICICI, HDFC and Axis are not part of the strike. Unions have also announced an indefinite strike from October 26 if the demand stays unresolved.",
-      "impact": "Expect delays in COD cash deposits and remittance by 3P delivery partners (Delhivery, Shadowfax, Xpressbees) at public-sector bank branches, especially in tier-3/rural pockets with only PSU bank presence; push carriers to use ATM/ADWM, BC points and digital deposit channels. Plan for a repeat risk from Oct 26, right after Dussehra and just before the Diwali peak.",
+      "date": "2026-10-01",
+      "summary": "The UFBU three-day public-sector bank strike ended on 30 September. Unions have announced an indefinite strike from October 26 if the five-day banking week demand remains unresolved.",
+      "impact": "Clear any COD cash-deposit backlog accumulated at PSU branches during Sep 28-30 with Delhivery, Shadowfax and Xpressbees; keep digital/ATM/BC deposit routes ready ahead of a possible Oct 26 stoppage just before the Diwali peak.",
       "sources": [
         {
           "name": "Upstox News",
@@ -778,32 +839,6 @@
         {
           "name": "DD India / PTI",
           "url": "https://ddindia.co.in/2026/09/landslide-in-shimla-cuts-off-villages-disrupts-traffic/"
-        }
-      ]
-    },
-    {
-      "id": "uttarakhand-badrinath-rishikesh-sirobagarh-rockfall-sep27-2026",
-      "icon": "⛰️",
-      "title": "Rockfall shuts Badrinath-Rishikesh NH at Sirobagarh (Pauri Garhwal); pilgrim and goods traffic stranded both sides",
-      "category": "Landslide",
-      "categoryKey": "landslide",
-      "severity": "high",
-      "status": "ongoing",
-      "region": "north",
-      "states": [
-        "Uttarakhand"
-      ],
-      "date": "2026-09-27",
-      "summary": "Heavy two-day rain triggered fresh rockfall/debris at the Sirobagarh stretch (Pauri Garhwal) on Sep 27, burying the Badrinath-Rishikesh NH and stranding pilgrim traffic on both sides. As of Sep 28 authorities have given no reopening timeline and are advising vehicles to halt at safe points; the IMD-driven Char Dham Yatra suspension issued with the Sep 26-27 red alert remains in effect, with conditions expected to ease only from Sep 29. IMD forecasts easing from 29 Sep; check for reopening before releasing held shipments.",
-      "impact": "Treat the Rishikesh-Badrinath/Joshimath corridor as non-serviceable for LM/FM until clearance is confirmed; hold shipments at Rishikesh/Srinagar(UK) hub and expect improvement only from Sep 29 onward per IMD.",
-      "sources": [
-        {
-          "name": "ANI News",
-          "url": "https://aninews.in/news/national/general-news/uttarakhand-badrinath-rishikesh-highway-blocked-due-to-heavy-rain20260927132345/"
-        },
-        {
-          "name": "Asianet Newsable",
-          "url": "https://newsable.asianetnews.com/india/uttarakhand-rains-badrinath-rishikesh-highway-blocked-pilgrims-stranded-articleshow-z4m803g"
         }
       ]
     },
@@ -2893,4 +2928,4 @@
       ]
     }
   ]
-}
+    }
