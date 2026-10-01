@@ -1,5 +1,5 @@
 {
-  "compiledAt": "2026-10-01T15:17:34+05:30",
+    "compiledAt": "2026-10-01T18:35:00+05:30",
   "note": "Manually-refreshed research digest compiled from public news sources, including regional/vernacular press, local TV channels and YouTube ground reports where available. Not a live news-wire feed — update this file (or re-run research) to refresh. Built for Meesho 3P logistics capacity planning (Delhivery · Shadowfax · Xpressbees): LM/FM manifestation, non-adherence hotspots, and serviceability-loss tracking. Not an official Meesho product.",
   "upcomingEvents": [
     {
@@ -2947,6 +2947,32 @@
         {
           "name": "MSN/PTI",
           "url": "https://www.msn.com/en-in/news/other/odisha-cm-tours-flood-hit-districts-as-govt-moves-over-1-lakh-people-to-relief-camps/ar-AA2d4dVm?ocid=BingNewsVerp"
+        }
+      ]
+    },
+    {
+      "id": "bihar-gandak-record-level-embankment-breaches-bagaha-areraj-sep30-2026",
+      "icon": "🌊",
+      "title": "Bihar: Gandak hits record 91.25 m at Bagaha; embankments breached at Khairatwa, Phuliyakhad, Areraj, Paroo, Maker",
+      "category": "Flood",
+      "categoryKey": "flood",
+      "severity": "high",
+      "status": "ongoing",
+      "region": "east",
+      "states": [
+        "Bihar"
+      ],
+      "date": "2026-09-30",
+      "summary": "Heavy rain in Nepal pushed the Gandak to a record 91.25 m at Bagaha (West Champaran), beating the 2024 mark of 90.90 m, with 5.43 lakh cusecs discharged at Valmikinagar barrage. Breaches were reported at Khairatwa (Bagaha-1) and Phuliyakhad (Bairia), a ring embankment in Areraj block (East Champaran), Paroo block (Muzaffarpur) and Maker block (Saran); floodwater has entered villages and homes across West/East Champaran and five panchayats in Gopalganj. Officials repaired 169 seepage/piping points; in Khagaria, boats and relief camps were set up as the Kosi and Bagmati also press other districts.",
+      "impact": "Flag Bagaha, Bairia (West Champaran), Areraj (East Champaran), Paroo (Muzaffarpur), Maker (Saran) and the Gopalganj flood panchayats as non-serviceable for LM; hold FM pickups there and add 48-72h SLA buffer at Bettiah, Motihari, Gopalganj and Muzaffarpur hubs. Expect further breach/overtopping risk while Nepal discharge stays high.",
+      "sources": [
+        {
+          "name": "The Statesman",
+          "url": "https://www.thestatesman.com/india/east-champaran-floods-gandak-crosses-91-metre-mark-after-nepal-rains-gopalganj-villages-and-homes-inundated-1503644927.html"
+        },
+        {
+          "name": "The Statesman (ground report)",
+          "url": "https://www.thestatesman.com/india/rising-gandak-waters-deepen-flood-threat-in-north-bihar-cm-assures-embankment-repairs-1503645295.html"
         }
       ]
     }
