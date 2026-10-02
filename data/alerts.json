@@ -1,5 +1,5 @@
 {
- "compiledAt": "2026-10-02T12:00:00+05:30",
+ "compiledAt": "2026-10-02T18:30:00+05:30",
  "note": "Manually-refreshed research digest compiled from public news sources, including regional/vernacular press, local TV channels and YouTube ground reports where available. Not a live news-wire feed — update this file (or re-run research) to refresh. Built for Meesho 3P logistics capacity planning (Delhivery · Shadowfax · Xpressbees): LM/FM manifestation, non-adherence hotspots, and serviceability-loss tracking. Not an official Meesho product.",
  "upcomingEvents": [
   {
@@ -1192,28 +1192,6 @@
     {
      "name": "ETV Bharat (live blog)",
      "url": "https://www.etvbharat.com/en/state/live-blog--cyclone-arnab-live-updates-deep-depression-heavy-rain-odisha-andhra-pradesh-weather-enn26092308889"
-    }
-   ]
-  },
-  {
-   "id": "up-kanpur-jajmau-ganga-bridge-heavy-vehicle-ban-diversion-till-dec13-2026",
-   "icon": "🛡️",
-   "title": "NHAI bars heavy vehicles on Kanpur's Jajmau Ganga bridge for repairs; Lucknow–Kanpur traffic diverted via Ganga Barrage till 13 Dec",
-   "category": "Route Advisory",
-   "categoryKey": "advisory",
-   "severity": "high",
-   "status": "ongoing",
-   "region": "north",
-   "states": [
-    "Uttar Pradesh"
-   ],
-   "date": "2026-09-15",
-   "summary": "NHAI has stopped heavy-vehicle movement on the Jajmau Ganga bridge in Kanpur for repair work. UPSRTC buses from Lucknow no longer go from the Unnao bypass straight to Jajmau; they now run via Marhla chauraha, Saraiyan crossing and the Ganga Barrage to Jhakarkati, adding about 15 km (fare raised from Rs 123 to Rs 145). The diversion is to remain in force until 13 December.",
-   "impact": "Lucknow–Kanpur linehauls and Unnao-side FM milk runs should plan on the Ganga Barrage route (+15 km, extra congestion) until mid-December; re-baseline Kanpur hub cut-off times and inform carriers' Unnao/Jajmau LM teams. Heavy trucks may face slow-downs around Company Bagh/GT Road.",
-   "sources": [
-    {
-     "name": "Lalluram (Hindi, ground report)",
-     "url": "https://lalluram.com/lucknow-kanpur-bus-fare-route-change/"
     }
    ]
   },
@@ -3003,4 +2981,4 @@
    ]
   }
  ]
-    }
+}
