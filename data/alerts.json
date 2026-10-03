@@ -1,5 +1,5 @@
 {
-  "compiledAt": "2026-10-03T10:45:00+05:30",
+  "compiledAt": "2026-10-03T12:30:00+05:30",
   "note": "Manually-refreshed research digest compiled from public news sources, including regional/vernacular press, local TV channels and YouTube ground reports where available. Not a live news-wire feed — update this file (or re-run research) to refresh. Built for Meesho 3P logistics capacity planning (Delhivery · Shadowfax · Xpressbees): LM/FM manifestation, non-adherence hotspots, and serviceability-loss tracking. Not an official Meesho product.",
   "upcomingEvents": [
     {
@@ -563,6 +563,40 @@
     }
   ],
   "alerts": [
+    {
+      "id": "andaman-myanmar-deep-depression-bay-of-bengal-oct2-2026",
+      "icon": "🌀",
+      "title": "After Arnab, a new deep depression over north Andaman Sea moves toward Myanmar coast; IMD watching Bay of Bengal",
+      "category": "Cyclone",
+      "categoryKey": "cyclone",
+      "severity": "watch",
+      "status": "ongoing",
+      "region": "east",
+      "states": [
+        "West Bengal",
+        "Odisha",
+        "Andaman & Nicobar",
+        "Tripura",
+        "Mizoram"
+      ],
+      "date": "2026-10-02",
+      "summary": "IMD has flagged a deep depression over the north Andaman Sea tracking toward the Myanmar coast as Cyclone Arnab's remnant system fades. It is expected to track away from the Indian mainland, but its outer bands and sea conditions are being watched for Bengal, Tripura and Mizoram.",
+      "impact": "No direct LM/FM stoppage expected. Keep a watch on Kolkata/Haldia port-linked line-haul, Tripura and Mizoram hill routes and Andaman shipments for sea-state advisories over the next 48h; Odisha and Andhra hubs still recovering from Arnab rain should not assume full normalisation.",
+      "sources": [
+        {
+          "name": "LatestLY",
+          "url": "https://www.latestly.com/india/news/cyclone-arnab-threat-imd-says-deep-depression-forms-over-myanmar-7624233.html"
+        },
+        {
+          "name": "NewsBytes",
+          "url": "https://www.newsbytesapp.com/news/india/imd-flags-deep-depression-over-north-andaman-sea-toward-myanmar/tldr"
+        },
+        {
+          "name": "The Daily Jagran",
+          "url": "https://thedailyjagran.com/india/news/cyclone-arnab-fades-new-deep-depression-near-mayanmmar-coast-sparks-fresh-weather-watch-imd-alert-10330818"
+        }
+      ]
+    },
     {
       "id": "karnataka-bengaluru-heavy-rain-panathur-varthur-yelahanka-oct1-2026",
       "icon": "🌧️",
@@ -1236,32 +1270,6 @@
       ]
     },
     {
-      "id": "kerala-malappuram-pookkottumpadam-kottappuzha-flash-flood-sep2026",
-      "icon": "🌊",
-      "title": "Malappuram: Kottappuzha flash flood at TK Colony, Pookkottumpadam — one dead, seven feared missing",
-      "category": "Flood",
-      "categoryKey": "flood",
-      "severity": "critical",
-      "status": "ongoing",
-      "region": "south",
-      "states": [
-        "Kerala"
-      ],
-      "date": "2026-09-22",
-      "summary": "The Kottappuzha flash flood near Pookkottumpadam and TK Colony in Malappuram has claimed at least 6 lives as of the latest recovery operations, with search and relief work continuing in the affected stretch.",
-      "impact": "Search-and-rescue is complete, so the acute LM stoppage has eased; keep a lighter SLA buffer for Pookkottumpadam/Nilambur hill-foot pincodes during any further heavy afternoon showers, and continue avoiding riverside village roads near Kottappuzha as a standing precaution given the terrain's flash-flood history.",
-      "sources": [
-        {
-          "name": "The News Mill / ANI (ground report)",
-          "url": "https://thenewsmill.com/2026/09/one-dead-seven-missing-after-flash-flood-in-pookkottumpadam-kerala/"
-        },
-        {
-          "name": "ANI (ground report)",
-          "url": "https://aninews.in/news/national/general-news/keralam-body-of-missing-woman-recovered-in-nilambur-all-six-flash-flood-victims-found20260922150236/"
-        }
-      ]
-    },
-    {
       "id": "ap-alluri-chintalamma-ghat-koyyuru-landslide-araku-sep24-2026",
       "icon": "⛰️",
       "title": "Alluri Sitarama Raju: landslide at Chintalamma Ghat (Koyyuru mandal) drops debris on NH; Araku ghat landslips",
@@ -1502,54 +1510,6 @@
       ]
     },
     {
-      "id": "assam-biswanath-solmari-embankment-erosion-sep2026",
-      "icon": "🏞️",
-      "title": "Assam: Brahmaputra within 10 m of breaching Biswanath Ghat-Panpur embankment at Solmari village",
-      "category": "River Erosion",
-      "categoryKey": "erosion",
-      "severity": "critical",
-      "status": "ongoing",
-      "region": "east",
-      "states": [
-        "Assam"
-      ],
-      "date": "2026-09-22",
-      "summary": "Assam Tribune reports the Brahmaputra has come within roughly 10 metres of breaching the Biswanath–Panpur embankment near Solmari, with Sentinel Assam separately reporting continued erosion panic among residents in the area. Breach risk is heightened, not resolved.",
-      "impact": "Early-warning item for Biswanath district: an embankment breach would flood Biswanath Ghat and Panpur-side villages. Keep Biswanath Chariali LM on normal SLA but pre-flag riverside pincodes for extended TAT, and watch for breach reports before dispatch.",
-      "sources": [
-        {
-          "name": "The Assam Tribune (ground report)",
-          "url": "https://assamtribune.com/assam/brahmaputra-comes-within-10m-of-breaching-biswanath-embankment-locals-on-edge-1618180"
-        }
-      ]
-    },
-    {
-      "id": "himachal-mandi-kullu-kangra-roads-sep2026",
-      "icon": "⛰️",
-      "title": "Himachal ends monsoon with 47 roads still blocked - Mandi 21, Kangra 10, Kullu 7",
-      "category": "Landslide",
-      "categoryKey": "landslide",
-      "severity": "high",
-      "status": "ongoing",
-      "region": "north",
-      "states": [
-        "Himachal Pradesh"
-      ],
-      "date": "2026-09-22",
-      "summary": "Himachal's State Emergency Operations Centre listed 47 roads still blocked statewide on 22 September - Mandi 21, Kangra 10, Kullu 7, Sirmaur and Una 3 each, Lahaul-Spiti 2 and Shimla 1. The count has fallen steadily from 60 on 18 September, so the network is slowly recovering. The 85-day monsoon window from 30 June to 22 September closed with 354 deaths and damage above Rs 3,219 crore, with 601 houses fully destroyed and 1,416 partially damaged.",
-      "impact": "Mandi and Kullu remain the binding constraint on Himachal hill line-haul - keep relaxed SLAs on Mandi, Kullu and Kangra rural pincodes but begin restoring normal cut-offs as the blocked count falls. Rebuild FM pickup slots into Kangra first, where the road count is improving fastest.",
-      "sources": [
-        {
-          "name": "ANI",
-          "url": "https://aninews.in/news/national/general-news/heavy-monsoon-rains-claimed-354-lives-caused-over-rs-3219-crore-damage-in-himachal20260922235402/"
-        },
-        {
-          "name": "The Tribune (ground report)",
-          "url": "https://www.tribuneindia.com/news/himachal/51-roads-remain-blocked-across-himachal-rain-to-continue-till-sept-22"
-        }
-      ]
-    },
-    {
       "id": "jk-nh44-ramban-banihal-traffic-sep2026",
       "icon": "🛡️",
       "title": "NH-44 Jammu-Srinagar open but slow: single-lane chokepoints at Dhalwal and Marog-Nachil Pather",
@@ -1714,28 +1674,6 @@
       ]
     },
     {
-      "id": "odisha-sundargarh-bonai-villages-marooned",
-      "icon": "🌊",
-      "title": "Odisha: villages remain marooned in Sundargarh's Bonai block as Sarasara, Patang bridges near Balang stay submerged",
-      "category": "Flood",
-      "categoryKey": "flood",
-      "severity": "high",
-      "status": "ongoing",
-      "region": "east",
-      "states": [
-        "Odisha"
-      ],
-      "date": "2026-09-22",
-      "summary": "At least five villages remain marooned in Sundargarh district's Bonai block after the Sarasara and Patang bridges near Balang stayed submerged; no confirmation of bridge clearance has surfaced. Pre-build buffer stock at Rourkela hub given the compounding cyclone landfall expected Sep 23-24.",
-      "impact": "Flag Bonai block villages non-serviceable until bridges are confirmed clear; pre-build buffer stock at Rourkela hub given the compounding cyclone landfall on Sep 23-24.",
-      "sources": [
-        {
-          "name": "OdishaTV (ground report)",
-          "url": "https://odishatv.in/news/odisha/heavy-rain-cuts-off-villages-in-odisha-s-sundargarh-and-malkangiri-271240"
-        }
-      ]
-    },
-    {
       "id": "jharkhand-flash-flood-alert-14-districts-sep2026",
       "icon": "🌧️",
       "title": "Jharkhand yellow alert for 11 districts on 23 September, orange for five districts on 24 September",
@@ -1857,32 +1795,6 @@
       ]
     },
     {
-      "id": "jnpt-nhava-sheva-congestion-sep2026",
-      "icon": "🛡️",
-      "title": "Nhava Sheva/JNPA congestion persists; gate-in turnaround near 20 hours for some truckers",
-      "category": "National Advisory",
-      "categoryKey": "advisory",
-      "severity": "high",
-      "status": "ongoing",
-      "region": "west",
-      "states": [
-        "Maharashtra"
-      ],
-      "date": "2026-09-22",
-      "summary": "Congestion at JNPT/Nhava Sheva continues. Trade bodies report the disruption is being driven by an APMT (BMCT) berth closure for infrastructure upgrades that has diverted vessel and cargo traffic to other terminals (e.g. PSA Mumbai/NSICT), causing landside logjams; the Container Freight Stations Association of India (CFSAI) has attributed continued operational delays at JNPA-linked CFS facilities to this traffic congestion and infrastructure constraints.",
-      "impact": "Continue building extra buffer time (~20 hrs) for gate-in/gate-out at JNPT-linked CFS/ICDs; where possible, route FM pickups tied to import consignments via CFS facilities with shorter current queues and monitor JNPA/CFSAI advisories for terminal-specific delays.",
-      "sources": [
-        {
-          "name": "Maritime Gateway",
-          "url": "https://www.maritimegateway.com/nhava-sheva-congestion/"
-        },
-        {
-          "name": "Container News",
-          "url": "https://container-news.com/congestion-reported-at-indias-nhava-sheva-port-after-apmt-berth-closure/"
-        }
-      ]
-    },
-    {
       "id": "maharashtra-marathwada-drought-rasta-roko-sep2026",
       "icon": "🚛",
       "title": "Marathwada drought protests: Dharashiv farmers block the Dhule-Solapur highway at Yedshi",
@@ -1905,33 +1817,6 @@
         {
           "name": "eSakal Marathwada (ground report)",
           "url": "https://www.esakal.com/marathwada/farmers-in-distress-where-is-the-government-thousands-outraged-in-lohara-stop-mla-from-speaking-and-scatter-soybeans-pjp78"
-        }
-      ]
-    },
-    {
-      "id": "gujarat-rajasthan-monsoon-withdrawal-sep2026",
-      "icon": "🛡️",
-      "title": "Monsoon retreating: withdrawal line at Jaisalmer-Nagaur-Sikar, Saurashtra-Kutch dry in three to four days",
-      "category": "National Advisory",
-      "categoryKey": "advisory",
-      "severity": "watch",
-      "status": "ongoing",
-      "region": "west",
-      "states": [
-        "Rajasthan",
-        "Gujarat"
-      ],
-      "date": "2026-09-22",
-      "summary": "Monsoon withdrawal continues across western Rajasthan, with Barmer and Jaisalmer recording high temperatures (~43-44C) as dry, post-withdrawal conditions set in; IMD forecasts rain returning to eastern Rajasthan districts from Sep 27 as the withdrawal line shifts further east. Separately, Gujarat's Saurashtra-Kutch and South Gujarat regions are forecast to get a fresh rain spell around Sep 30-Oct 1, suggesting a short lull before the next system.",
-      "impact": "Expect a near-term lull in monsoon-related disruption in western Rajasthan and Saurashtra-Kutch, but plan for a fresh Gujarat rain spell (Saurashtra-Kutch to South Gujarat) affecting collection/delivery routes from around Sep 30.",
-      "sources": [
-        {
-          "name": "Herald Goa (ground report)",
-          "url": "https://www.heraldgoa.in/goa/southwest-monsoon-begins-withdrawal-from-west-rajasthan-says-imd/489333/"
-        },
-        {
-          "name": "IMD Ahmedabad state forecast",
-          "url": "https://mausam.imd.gov.in/ahmedabad/mcdata/state.pdf"
         }
       ]
     },
@@ -2111,62 +1996,6 @@
       ]
     },
     {
-      "id": "kerala-kottayam-idukki-cloudburst-poonjar-sep2026",
-      "icon": "⛰️",
-      "title": "Cloudburst-type downpours hit Poonjar, Erattupetta, Vagamon and Vattavada; 10 dead, high ranges cut",
-      "category": "Landslide",
-      "categoryKey": "landslide",
-      "severity": "critical",
-      "status": "ongoing",
-      "region": "south",
-      "states": [
-        "Kerala"
-      ],
-      "date": "2026-09-22",
-      "summary": "Extremely intense localised convective downpours - described as cloudburst-like rather than monsoon-trough driven - battered Poonjar, Erattupetta, Vagamon, Kuttikkanam and Vattavada near Munnar on 22 September, triggering widespread landslides. Regina Johnny and her son Josephine Johnny died when their house at Poonjar Payyanithottam collapsed, and soil and gravel blocked the Poonjar-Adivaram road at Peringulam. Total deaths across Malappuram, Kottayam and Idukki reached 10. Idukki's minister-in-charge Anoop Jacob asked travellers to postpone all non-essential travel to the high ranges, with relief camps opened at Pazhampillichal Government LP School and the LP School at Palisakkallu.",
-      "impact": "Treat Idukki and eastern Kottayam high-range pincodes - Poonjar, Erattupetta, Vagamon, Kuttikkanam, Munnar and Vattavada - as non-serviceable or extended-TAT until roads are confirmed clear. Because the pattern is cloudburst-driven, forecast alerts will not reliably precede the blockage, so hold buffer stock at Kottayam and Thodupuzha rather than pushing daily into the hills.",
-      "sources": [
-        {
-          "name": "Onmanorama (ground report)",
-          "url": "https://www.onmanorama.com/news/kerala/2026/09/22/kottayam-idukki-flood-causes.html"
-        },
-        {
-          "name": "Kerala Kaumudi (ground report)",
-          "url": "https://keralakaumudi.com/en/en/kerala/general/two-killed-in-poonjar-landslides-1786433"
-        },
-        {
-          "name": "Public TV English (ground report, TV)",
-          "url": "https://english.publictv.in/heavy-rain-triggers-landslides-flash-floods-across-keralam-families-evacuated-in-idukki-five-dead/"
-        }
-      ]
-    },
-    {
-      "id": "bengaluru-it-corridor-waterlogging-sep2026",
-      "icon": "🌊",
-      "title": "Bengaluru IT corridor waterlogged at Marathahalli, KR Puram and Kadubeesanahalli after a second day of rain",
-      "category": "Flood",
-      "categoryKey": "flood",
-      "severity": "moderate",
-      "status": "ongoing",
-      "region": "south",
-      "states": [
-        "Karnataka"
-      ],
-      "date": "2026-09-22",
-      "summary": "A second consecutive day of heavy showers on 22 September caused severe traffic, waterlogging and tree falls across Bengaluru. Water accumulated at Thubarahalli, Varthur Kodi, the BGS Flyover, Marathahalli, Kadubeesanahalli and KR Puram, all on the eastern IT corridor. The city observatory logged 15.9 mm in the 24 hours to 8:30 am and traffic police advised alternative routes.",
-      "impact": "Bengaluru east LM - Whitefield, Marathahalli, Bellandur, KR Puram and Varthur pincodes - will run 60 to 90 minutes behind on rain evenings, so shift those beats earlier and re-sequence around Varthur Kodi and the BGS flyover. Move FM pickups from Whitefield seller clusters into morning slots.",
-      "sources": [
-        {
-          "name": "Deccan Herald",
-          "url": "https://deccanherald.com/india/karnataka/bengaluru/bengaluru-20260921-2-905193552-4153311"
-        },
-        {
-          "name": "News Karnataka (ground report)",
-          "url": "https://newskarnataka.com/bengaluru/bengaluru-rain-causes-waterlogging-traffic-snarls/22092026/"
-        }
-      ]
-    },
-    {
       "id": "ufbu-bank-strike-sep28-30-2026",
       "icon": "🚛",
       "title": "UFBU 3-day nationwide bank strike Sep 28-30 now on day 2; unions threaten indefinite strike from Oct 26",
@@ -2231,58 +2060,6 @@
       ]
     },
     {
-      "id": "assam-barpeta-roumari-pathar-brahmaputra-erosion-sep2026",
-      "icon": "🏞️",
-      "title": "Assam: Brahmaputra swallows much of Roumari Pathar village in Barpeta; Barkhetri residents on night watch",
-      "category": "River Erosion",
-      "categoryKey": "erosion",
-      "severity": "moderate",
-      "status": "ongoing",
-      "region": "east",
-      "states": [
-        "Assam"
-      ],
-      "date": "2026-09-21",
-      "summary": "Severe erosion has continued for nearly a month at Roumari Pathar in Barpeta district, where the Brahmaputra has reportedly swallowed a major portion of the village along with public institutions, farmland and the homesteads of hundreds of families. Riverbank erosion along the Brahmaputra is also keeping residents of Barkhetri awake at night. Statewide, erosion by the Brahmaputra and its tributaries has wiped out close to 330 villages over a decade and affected 23,369 families between 2016 and 2026, with Dhubri worst hit at 5,241 families and the river widening there by 4.64 km; Morigaon, South Salmara-Mankachar and Barpeta are the other hardest-hit districts.",
-      "impact": "Retire address masters for eroded habitations in Roumari Pathar and the Barkhetri belt rather than carrying them as repeat failed-attempt pincodes - this is a structural serviceability loss, not a weather event. Rebase Barpeta, Dhubri, Morigaon and South Salmara LM beat plans on surviving villages, and avoid siting new 3P last-mile touchpoints inside the active erosion corridor.",
-      "sources": [
-        {
-          "name": "The Sentinel Assam (ground report)",
-          "url": "https://www.sentinelassam.com/topheadlines/assam-brahmaputra-erosion-swallows-330-villages-in-a-decade-displaces-23000-families"
-        },
-        {
-          "name": "The Sentinel Assam - Barkhetri (ground report)",
-          "url": "https://www.sentinelassam.com/north-east-india-news/assam-news/assam-riverbank-erosion-along-brahmaputra-keeps-barkhetri-residents-awake-at-night"
-        },
-        {
-          "name": "Village Square (ground report)",
-          "url": "https://villagesquare.in/assam-soil-erosion-worsening-with-climate-change-and-floods/"
-        }
-      ]
-    },
-    {
-      "id": "odisha-gajapati-140-landslide-spots-vigil-sep2026",
-      "icon": "⛰️",
-      "title": "Gajapati keeps 140 identified landslide-prone spots under watch; 6 cyclone and 264 temporary shelters readied",
-      "category": "Landslide",
-      "categoryKey": "landslide",
-      "severity": "high",
-      "status": "ongoing",
-      "region": "east",
-      "states": [
-        "Odisha"
-      ],
-      "date": "2026-09-22",
-      "summary": "Rain intensified across Gajapati district through 22 September after overnight drizzle, and a red warning is in force for the district. The administration is keeping a special watch on 140 identified landslide-prone locations and has directed BDOs and tehsildars of every block to monitor and act immediately. Six cyclone shelters and 264 temporary shelters have been readied, and the Fire Services Department is on alert for uprooted trees and blocked roads. The District Fire Officer said rescue teams were pre-positioned a week in advance on the strength of the red warning.",
-      "impact": "Gajapati's ghat pincodes - Mohana, Nuagada, R Udayagiri and the Paralakhemundi-Berhampur approach - should be treated as landslide-interruptible rather than merely wet: a slide can close a beat with no forecast lead time. Hold Paralakhemundi LM attempts on 23-24 September, stage stock at Berhampur, and expect FM pickup loss across the district's interior blocks.",
-      "sources": [
-        {
-          "name": "OdishaTV (ground report)",
-          "url": "https://odishatv.in/odisha/heavy-rain-batters-gajapati-red-warning-issued-140-landslide-prone-locations-kept-under-vigil-12563806"
-        }
-      ]
-    },
-    {
       "id": "odisha-koraput-red-warning-district-lockdown-sep2026",
       "icon": "🛡️",
       "title": "Red warning continues for Nabarangpur, Kalahandi, Koraput as south Odisha depression weakens but rain persists",
@@ -2336,54 +2113,6 @@
       ]
     },
     {
-      "id": "ap-vizianagaram-chandrampeta-vasantha-road-ginjerugedda-sep2026",
-      "icon": "🌊",
-      "title": "Vizianagaram: Chandrampeta–Vasantha road shut as Ginjerugedda stream floods; Palasa, Kalingapatnam log ~10 cm",
-      "category": "Flood",
-      "categoryKey": "flood",
-      "severity": "moderate",
-      "status": "ongoing",
-      "region": "south",
-      "states": [
-        "Andhra Pradesh"
-      ],
-      "date": "2026-09-22",
-      "summary": "Officials suspended traffic on the Chandrampeta–Vasantha road in Vizianagaram district after heavy water from the Ginjerugedda stream flooded it following rain since Monday night. APSDMA recorded about 10 cm at Palasa and Kalingapatnam (Srikakulam), 7.1 cm at Peda Bayalu (Alluri Sitarama Raju) and 6.2 cm at Bhogapuram (Vizianagaram). IMD-Amaravati issued an orange alert for 24 Sep for Parvathipuram Manyam, ASR, Kakinada, Konaseema, East/West Godavari and Eluru, with a yellow alert for Srikakulam, Vizianagaram, Visakhapatnam, Anakapalle, Krishna, Guntur, NTR and Bapatla. Update: local reports on 26 Sep say floodwaters in the Gantyada/Gedda Vagu stream stretch have receded and road access is being restored, though residual waterlogging may persist in low spots.",
-      "impact": "Downgrade from non-serviceable to extended-SLA watch for Chandrampeta-Vasantha (Vizianagaram) as floodwaters recede; confirm road passability before resuming normal LM cut-offs.",
-      "sources": [
-        {
-          "name": "Deccan Chronicle (Visakhapatnam bureau, ground report)",
-          "url": "https://www.deccanchronicle.com/southern-states/andhra-pradesh/heavy-rains-lash-several-parts-of-ap-1989704"
-        },
-        {
-          "name": "Andhra Jyothy (ground report, Telugu)",
-          "url": "https://www.andhrajyothy.com/2026/andhra-pradesh/vizianagaram/floodwaters-have-receded-1561706.html"
-        }
-      ]
-    },
-    {
-      "id": "gujarat-saurashtra-93-talukas-mahuva-gondal-rain-sep2026",
-      "icon": "🌧️",
-      "title": "Saurashtra: rain across 93 talukas — Mahuva 4 in, Gondal 3.6 in, Manavadar 3 in ahead of monsoon withdrawal",
-      "category": "Flood",
-      "categoryKey": "flood",
-      "severity": "watch",
-      "status": "ongoing",
-      "region": "west",
-      "states": [
-        "Gujarat"
-      ],
-      "date": "2026-09-21",
-      "summary": "Rain fell across 93 talukas of Gujarat in 24 hours, mostly in Saurashtra. Mahuva (Bhavnagar) had the most at 4 inches, followed by Gondal (Rajkot) at 3.62 inches, Manavadar 3 inches, Junagadh city 2.36 inches, and Vanthali, Veraval and Bhanvad about 2 inches each. Keshod and Vadia recorded about 1.7–1.8 inches.",
-      "impact": "Localized waterlogging risk only; no route closures reported. Watch LM TAT on Mahuva, Gondal, Junagadh, Veraval and Keshod beats (Rajkot/Junagadh/Bhavnagar hubs) for short delays. No non-serviceable flags needed for now.",
-      "sources": [
-        {
-          "name": "Gujarat First (ground report, TV)",
-          "url": "https://www.gujaratfirst.com/ahmedabad/gujarat-rain-93-talukas-mahuva-4-inch-gondal-manavadar-junagadh-gujarat-first-digital/340667"
-        }
-      ]
-    },
-    {
       "id": "ap-srikakulam-tekkali-palasa-sompeta-inundation-sep2026",
       "icon": "🌊",
       "title": "Srikakulam: Palasa 14 cm, Sompeta 13 cm, Tekkali 11 cm; water enters homes at Tekkali's Bhavani Nagar",
@@ -2402,32 +2131,6 @@
         {
           "name": "ThePrint (PTI)",
           "url": "https://theprint.in/india/deep-depression-brings-heavy-rains-to-several-parts-of-andhra/3050998/"
-        }
-      ]
-    },
-    {
-      "id": "kerala-idukki-night-travel-ban-munnar-diversion-sep2026",
-      "icon": "⛰️",
-      "title": "Idukki bans night travel (7 pm–6 am) in hill areas; Munnar town traffic diverted, Adimali Pazhampillichal families shifted",
-      "category": "Landslide",
-      "categoryKey": "landslide",
-      "severity": "high",
-      "status": "ongoing",
-      "region": "south",
-      "states": [
-        "Kerala"
-      ],
-      "date": "2026-09-22",
-      "summary": "The Idukki district administration has banned all night travel in high-range areas from 7 pm to 6 am and shut adventure-tourism spots until rain alerts are withdrawn. In Munnar, vehicles from Old Munnar to the town are diverted via the Gap Road near the CSI church and the bridge by the police station. Families at landslide risk in Adimali's Pazhampillichal were evacuated, fallen trees blocked the Kochi–Dhanushkodi national highway at several points, and travellers on the Neriamangalam–Valara stretch were told to take extreme care. On 22 September, landslides briefly cut the Erattupetta–Vagamon road, damaged the Poonjar–Adivaram road at several points, and cut off about 30 families and tourists at Thattambara near Vattavada; Idukki's minister-in-charge asked tourists to postpone non-essential travel to the high ranges.",
-      "impact": "Night line-haul into Idukki is effectively closed. Push Munnar, Adimali, Kattappana and Nedumkandam dispatches out of Kochi/Muvattupuzha in the morning so vans clear the ghat before 7 pm, and add a D+1 buffer for Vagamon, Vattavada and the Poonjar–Erattupetta belt. Mark Thattambara/Kottakamboor pincodes non-serviceable until the washed-out roads reopen.",
-      "sources": [
-        {
-          "name": "Times Kerala (ground report)",
-          "url": "https://timeskerala.com/kerala/idukki-heavy-rain-restrictions-night-travel-ban-landslide-threat-orange-alert/"
-        },
-        {
-          "name": "Onmanorama (ground report)",
-          "url": "https://www.onmanorama.com/news/kerala/2026/09/22/kottayam-idukki-flood-causes.html"
         }
       ]
     },
@@ -2774,4 +2477,4 @@
       ]
     }
   ]
-        }
+}
