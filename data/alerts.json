@@ -1,5 +1,5 @@
 {
-  "compiledAt": "2026-10-03T12:30:00+05:30",
+    "compiledAt": "2026-10-03T18:30:00+05:30",
   "note": "Manually-refreshed research digest compiled from public news sources, including regional/vernacular press, local TV channels and YouTube ground reports where available. Not a live news-wire feed — update this file (or re-run research) to refresh. Built for Meesho 3P logistics capacity planning (Delhivery · Shadowfax · Xpressbees): LM/FM manifestation, non-adherence hotspots, and serviceability-loss tracking. Not an official Meesho product.",
   "upcomingEvents": [
     {
@@ -2473,6 +2473,32 @@
         {
           "name": "Business Standard",
           "url": "https://www.business-standard.com/india-news/cyclone-arnab-crosses-andhra-odisha-coast-1-500-evacuated-from-gajapati-nc-126092400408_1.html"
+        }
+      ]
+    },
+    {
+      "id": "odisha-ganjam-kandhamal-kalinga-ghati-closed-sep27-2026",
+      "icon": "⛰️",
+      "title": "Kalinga Ghati (Ganjam–Kandhamal hill road) shut indefinitely after landslides and rockfalls; guard wall damaged",
+      "category": "Landslide",
+      "categoryKey": "landslide",
+      "severity": "high",
+      "status": "ongoing",
+      "region": "east",
+      "states": [
+        "Odisha"
+      ],
+      "date": "2026-09-27",
+      "summary": "Large boulders and rockfalls from deep-depression rain damaged the hillside and about 200 m of guard wall at Kalinga Ghati, the road link between Ganjam and Kandhamal districts. Vehicular movement remains barred until the road is cleared and safety work is done; no restoration timeline given. Separately, boulders blocked NH-16 at Bada Ghati (Khallikote) and landslides hit ghats in Gajapati and Malkangiri.",
+      "impact": "Treat Kandhamal-side delivery points reached via Kalinga Ghati as at risk: reroute via alternate Ganjam/Boudh approaches, expect longer LM/FM transit, flag affected pincodes for SLA relaxation and avoid fresh manifestation into cut-off pockets until reopening.",
+      "sources": [
+        {
+          "name": "Deccan Chronicle (ground report)",
+          "url": "https://www.deccanchronicle.com/nation/cm-majhi-surveys-flood-hit-south-odisha-kalinga-ghati-remains-shut-after-landslides-1991016"
+        },
+        {
+          "name": "Deccan Chronicle",
+          "url": "https://www.deccanchronicle.com/nation/heavy-rain-disrupts-life-in-southern-odisha-landslides-road-blockades-hit-several-districts-1990535"
         }
       ]
     }
