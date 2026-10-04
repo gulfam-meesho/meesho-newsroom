@@ -1,5 +1,5 @@
 {
-    "compiledAt": "2026-10-03T18:30:00+05:30",
+    "compiledAt": "2026-10-04T12:00:00+05:30",
   "note": "Manually-refreshed research digest compiled from public news sources, including regional/vernacular press, local TV channels and YouTube ground reports where available. Not a live news-wire feed — update this file (or re-run research) to refresh. Built for Meesho 3P logistics capacity planning (Delhivery · Shadowfax · Xpressbees): LM/FM manifestation, non-adherence hotspots, and serviceability-loss tracking. Not an official Meesho product.",
   "upcomingEvents": [
     {
@@ -563,6 +563,30 @@
     }
   ],
   "alerts": [
+    {
+      "id": "kerala-tn-puducherry-yellow-alert-oct4-2026",
+      "icon": "🌧️",
+      "title": "IMD yellow alert for heavy rain, lightning and 30-50 kmph gusts in Kerala, Tamil Nadu, Puducherry and Karaikal on Oct 4",
+      "category": "Flood",
+      "categoryKey": "flood",
+      "severity": "watch",
+      "status": "ongoing",
+      "region": "south",
+      "states": [
+        "Kerala",
+        "Tamil Nadu",
+        "Puducherry"
+      ],
+      "date": "2026-10-04",
+      "summary": "IMD has issued a yellow alert for heavy rainfall with thunderstorms, lightning and gusty winds of 30-50 kmph over Kerala, Tamil Nadu, Puducherry and Karaikal. Isolated to scattered showers are also forecast across the Northeast, northwest, central and eastern India between Oct 5 and 9.",
+      "impact": "Early-warning only: keep a short buffer on Kerala and Tamil Nadu coastal and ghat-road LM routes during afternoon thunderstorm windows; no direct stoppage reported yet. Watch for waterlogging in low-lying Chennai, Kochi and Puducherry delivery zones.",
+      "sources": [
+        {
+          "name": "NewsBytes",
+          "url": "https://www.newsbytesapp.com/news/india/imd-issues-yellow-alert-for-heavy-rain/story"
+        }
+      ]
+    },
     {
       "id": "andaman-myanmar-deep-depression-bay-of-bengal-oct2-2026",
       "icon": "🌀",
