@@ -1,5 +1,5 @@
 {
-  "compiledAt": "2026-10-06T14:30:00+05:30",
+  "compiledAt": "2026-10-06T21:00:00+05:30",
   "note": "Manually-refreshed research digest compiled from public news sources, including regional/vernacular press, local TV channels and YouTube ground reports where available. Not a live news-wire feed — update this file (or re-run research) to refresh. Built for Meesho 3P logistics capacity planning (Delhivery · Shadowfax · Xpressbees): LM/FM manifestation, non-adherence hotspots, and serviceability-loss tracking. Not an official Meesho product.",
   "upcomingEvents": [
     {
@@ -611,13 +611,17 @@
       "states": [
         "Jammu and Kashmir"
       ],
-      "date": "2026-10-05",
-      "summary": "J&K Traffic Police report very slow movement on NH-44 from 3 to 4 Oct due to single-lane traffic and NHAI widening/concrete work between Mager and Khooni Nallah, with 30-40 minute regulated halts at Dawal (Udhampur). Night travel is discouraged between Ramban and Banihal because of shooting stones and landslide risk, and oil/gas tankers are restricted to 0700-1900 hrs on the Digdol-Khooni Nallah axis. The Oct 5 plan allows LMVs and goods carriers both ways subject to fair weather; Kishtwar-Sinthan-Anantnag (NH-244), Mughal Road and Sonamarg-Gumri remain time-window restricted.",
+      "date": "2026-10-06",
+      "summary": "J&K Traffic Police report very slow movement on NH-44 from 3 to 4 Oct due to single-lane traffic and NHAI widening/concrete work between Mager and Khooni Nallah, with 30-40 minute regulated halts at Dawal (Udhampur). Night travel is discouraged between Ramban and Banihal because of shooting stones and landslide risk, and oil/gas tankers are restricted to 0700-1900 hrs on the Digdol-Khooni Nallah axis. The Oct 5 plan allows LMVs and goods carriers both ways subject to fair weather; Kishtwar-Sinthan-Anantnag (NH-244), Mughal Road and Sonamarg-Gumri remain time-window restricted. Update (Oct 6 advisory): LMVs and passenger traffic allowed both ways on NH-44 subject to fair weather; oil/gas tankers still restricted 0700-1900 hrs on the Digdol-Khooni Nallah widening stretch, and loaded tankers may move from Chenani only 1700-0500 hrs. Srinagar-Sonamarg-Gumri road has a 1 PM cutoff (Kargil-bound traffic only 1200-1700), Mughal Road (Poonch-Shopian) is open 0700-1800 only, and Kishtwar-Sinthan-Anantnag allows light vehicles 0900-1600 with approval.",
       "impact": "Plan Jammu-Srinagar line-haul for daytime only and add 6-12h buffer for Kashmir-bound FM/LM via Ramban and Banihal; avoid night dispatch. Re-check TCU Ramban status before dispatch, and keep Kashmir hubs stocked in case rain closes the highway.",
       "sources": [
         {
           "name": "J&K Traffic Police advisory via JK Updates (ground report)",
           "url": "https://jkadworld.com/jk-news-today/jammu-srinagar-highway-traffic-advisory-5th-oct-2026nh-44-ssg-road-travel-guidelines/"
+        },
+        {
+          "name": "J&K Traffic Police advisory via JK Updates, Oct 6 (ground report)",
+          "url": "https://jkadworld.com/jk-news-today/jammu-srinagar-highway-traffic-advisory-6th-oct-2026nh-44-ssg-road-travel-guidelines/"
         }
       ]
     },
@@ -1497,4 +1501,4 @@
       ]
     }
   ]
-}
+    }
