@@ -1,5 +1,5 @@
 {
-  "compiledAt": "2026-10-05T18:00:00+05:30",
+  "compiledAt": "2026-10-06T08:45:00+05:30",
   "note": "Manually-refreshed research digest compiled from public news sources, including regional/vernacular press, local TV channels and YouTube ground reports where available. Not a live news-wire feed — update this file (or re-run research) to refresh. Built for Meesho 3P logistics capacity planning (Delhivery · Shadowfax · Xpressbees): LM/FM manifestation, non-adherence hotspots, and serviceability-loss tracking. Not an official Meesho product.",
   "upcomingEvents": [
     {
@@ -564,6 +564,42 @@
   ],
   "alerts": [
     {
+      "id": "pan-india-imd-24-states-rain-thunderstorm-alert-oct6-2026",
+      "icon": "🌧️",
+      "title": "IMD heavy rain and thunderstorm alert for 24 states on Oct 6, including Himachal, Uttarakhand, UP, Maharashtra, Andhra and Karnataka",
+      "category": "Flood",
+      "categoryKey": "flood",
+      "severity": "watch",
+      "status": "ongoing",
+      "region": "pan-india",
+      "states": [
+        "Himachal Pradesh",
+        "Uttarakhand",
+        "Uttar Pradesh",
+        "Maharashtra",
+        "Andhra Pradesh",
+        "Karnataka",
+        "Delhi"
+      ],
+      "date": "2026-10-06",
+      "summary": "Multiple outlets report an IMD heavy-rain and thunderstorm alert covering about 24 states for 6 October, with thunderstorms forecast over Himachal Pradesh and Uttarakhand this week and alerts for Delhi, Maharashtra, UP, Andhra Pradesh and Karnataka.",
+      "impact": "Early-warning only: add buffer on hill-road LM/FM in Himachal and Uttarakhand, and expect afternoon waterlogging-led slips in Delhi-NCR, Maharashtra, Andhra and Karnataka urban pincodes; avoid tight FM windows during thunderstorm hours.",
+      "sources": [
+        {
+          "name": "India.com",
+          "url": "https://www.india.com/news/india/weather-tomorrow-october-6-imd-issues-heavy-rain-thunderstorm-alert-for-several-states-check-forecast-for-delhi-maharashtra-up-andhra-himachal-karnataka-8533110/"
+        },
+        {
+          "name": "Prabhat Khabar (ground report)",
+          "url": "https://www.prabhatkhabar.com/national/6-october-2026-weather-alert-heavy-rain-24-states-imd"
+        },
+        {
+          "name": "The Week",
+          "url": "https://www.theweek.in/news/india/2026/10/04/delhi-to-get-rains-this-week-imd-forecast-thunderstorms-in-himachal-uttarakhand.amp.html"
+        }
+      ]
+    },
+    {
       "id": "jk-nh44-single-lane-ramban-banihal-shooting-stones-oct5-2026",
       "icon": "⛰️",
       "title": "J&K NH-44: single-lane crawl Ramban-Banihal and Dawal (Udhampur); night travel and tankers restricted amid shooting-stone risk",
@@ -818,8 +854,8 @@
       "states": [
         "Odisha"
       ],
-      "date": "2026-10-01",
-      "summary": "The 12-hour Sep 30 bandh by NNKS has passed. The INDIA bloc (Congress, CPI(M), CPI, CPI(ML), SP, RJD, NCP and others) has now called a statewide Odisha bandh on 8 October demanding repeal of the MMDR Amendment Act 2026, the resignation of Education Minister Nityananda Gond over textbook errors, and action against the CEC over SIR irregularities. A demonstration is planned in Keonjhar on 7 October and economic blockades of mineral extraction and transport in mining regions on 8 October. Reports as of Oct 5 confirm the Oct 8 bandh call stands, three days out.",
+      "date": "2026-10-06",
+      "summary": "The 12-hour Sep 30 bandh by NNKS has passed. The INDIA bloc (Congress, CPI(M), CPI, CPI(ML), SP, RJD, NCP and others) has now called a statewide Odisha bandh on 8 October demanding repeal of the MMDR Amendment Act 2026, the resignation of Education Minister Nityananda Gond over textbook errors, and action against the CEC over SIR irregularities. A demonstration is planned in Keonjhar on 7 October and economic blockades of mineral extraction and transport in mining regions on 8 October. Reports as of Oct 5 confirm the Oct 8 bandh call stands, three days out. Pragativadi reports around 10 police platoons are being deployed in Bhubaneswar ahead of the bandh call.",
       "impact": "Plan for near-zero LM/FM across Odisha on Oct 8 (picket risk on NH-16/NH-49 and Bhubaneswar, Cuttack, Berhampur, Sambalpur, Balasore hubs): pre-schedule attempt reschedules and hold line-haul. Expect truck tightness in Keonjhar, Sundargarh and Jajpur mining belts from Oct 7, on top of flood-hit coastal districts.",
       "sources": [
         {
@@ -837,6 +873,14 @@
         {
           "name": "Hans India",
           "url": "https://www.thehansindia.com/odisha/india-bloc-calls-odisha-bandh-on-oct-8-1127173"
+        },
+        {
+          "name": "Pragativadi (ground report)",
+          "url": "https://pragativadi.com/odisha-bandh-call-10-police-platoons-deployed-in-bhubaneswar/"
+        },
+        {
+          "name": "UNI India",
+          "url": "https://www.uniindia.com/east-india/agitation-odisha-bandh-india-bloc/197089"
         }
       ]
     },
@@ -967,176 +1011,6 @@
       ]
     },
     {
-      "id": "odisha-mayurbhanj-20-blocks-10373-relocated-sep26-2026",
-      "icon": "🌊",
-      "title": "Mayurbhanj: 20 blocks flooded, 10,373 people relocated; Betnoti-Badasahi and Manatri-Baisinga roads cut",
-      "category": "Flood",
-      "categoryKey": "flood",
-      "severity": "high",
-      "status": "ongoing",
-      "region": "east",
-      "states": [
-        "Odisha"
-      ],
-      "date": "2026-09-26",
-      "summary": "Flooding across Mayurbhanj district has affected 20 blocks plus one municipality and one Notified Area Council, with 10,373 people relocated to 89 relief camps and 72 free-kitchen centres running; three ODRAF and 18 fire-service teams are deployed. The Betnoti-Badasahi and Manatri-Baisinga roads are blocked, and the Budhabalanga river is running 2-3 feet over the Nakhara bridge in Betnoti block, affecting Patalipura and Kalama villages (Betnoti) and Salagaon, Managobindapur, Chandanpur, Durgapur, Kendudiha and Balabhadrapur (Badasahi). Schools are shut in Thakurmunda, Kaptipada, Udala, Gopabandhunagar, Khunta, Badasahi and Betnoti blocks, though Udala, Kaptipada, Bangiriposi and Saraskana are showing recession and reopening roads.",
-      "impact": "Flag Betnoti and Badasahi block pincodes as non-serviceable while the Betnoti-Badasahi and Manatri-Baisinga roads stay cut; hold FM pickups from these blocks and route Baripada-hub line-haul via alternate roads. Udala, Kaptipada, Bangiriposi and Saraskana pincodes can resume normal SLA as roads reopen there.",
-      "sources": [
-        {
-          "name": "ANI (ground report)",
-          "url": "https://aninews.in/news/national/general-news/flood-crisis-hits-odishas-mayurbhanj-20-blocks-affected-over-10000-relocated20260926114644/"
-        }
-      ]
-    },
-    {
-      "id": "odisha-khordha-banpur-balugaon-road-flood-sep26-2026",
-      "icon": "🌧️",
-      "title": "Khordha: flood-like situation in Banpur, Banpur-Balugaon road cut off, paddy fields inundated",
-      "category": "Flood",
-      "categoryKey": "flood",
-      "severity": "moderate",
-      "status": "ongoing",
-      "region": "east",
-      "states": [
-        "Odisha"
-      ],
-      "date": "2026-09-26",
-      "summary": "Heavy rainfall has triggered a flood-like situation in Banpur block of Khordha district, with floodwater entering residential areas and the Banpur-Balugaon road submerged and disconnected. Paddy fields around Banpur are inundated, affecting local farmers, as the wider Khordha-Puri coastal belt remains under the influence of the weakening Bay of Bengal depression.",
-      "impact": "Flag Banpur block pincodes (Khordha district) as non-serviceable for LM/FM until the Banpur-Balugaon road reopens; reroute Khordha-Puri coastal linehaul via NH-16 and hold rural pickups in the Banpur belt.",
-      "sources": [
-        {
-          "name": "ANI (ground report)",
-          "url": "https://aninews.in/news/national/general-news/flood-like-situation-in-odisha8217s-banpur-after-heavy-rainfall-roads-submerged20260926091606/"
-        }
-      ]
-    },
-    {
-      "id": "odisha-hirakud-dam-gates-mahanadi-delta-risk-sep26-2026",
-      "icon": "🌊",
-      "title": "Hirakud Dam opens up to 20 gates as Mahanadi rises; Sambalpur-Subarnapur-Baragarh and delta districts on watch",
-      "category": "Flood",
-      "categoryKey": "flood",
-      "severity": "moderate",
-      "status": "ongoing",
-      "region": "east",
-      "states": [
-        "Odisha"
-      ],
-      "date": "2026-09-26",
-      "summary": "Hirakud Dam authorities have been progressively closing sluice gates as reservoir water levels decline (ommcomnews reports gates down to single digits from a peak of 28-30 open). At Mundali on the Mahanadi delta, inflow was 7.60 lakh cusecs as of Sep28 morning, still below the 10 lakh cusecs threshold considered a danger zone, per Odisha govt/Minister Suresh Pujari.",
-      "impact": "Delta flood risk is easing but not eliminated; Mahanadi is still rising, not yet a declared danger zone. FM/LM routes through Cuttack/Jagatsinghpur/Kendrapara delta belt should stay on watch but de-escalate from critical planning.",
-      "sources": [
-        {
-          "name": "OdishaBytes",
-          "url": "https://odishabytes.com/odishas-hirakud-dam-opens-3-more-gates-amid-rising-mahanadi-flow-check-indravati-status/"
-        },
-        {
-          "name": "Pragativadi (ground report)",
-          "url": "https://pragativadi.com/hirakud-dam-opens-20-gates-amid-rising-water-levels/"
-        }
-      ]
-    },
-    {
-      "id": "westbengal-fagudoba-sankosh-river-erosion-bhutan-border-sep2026",
-      "icon": "🏞️",
-      "title": "Fagudoba village on Sankosh river (Bengal-Bhutan-Assam border) losing land to erosion, SSB camp at risk",
-      "category": "River Erosion",
-      "categoryKey": "erosion",
-      "severity": "watch",
-      "status": "ongoing",
-      "region": "east",
-      "states": [
-        "West Bengal"
-      ],
-      "date": "2026-09-26",
-      "summary": "Fagudoba, one of the last settlements on the West Bengal-Bhutan and West Bengal-Assam border, is losing farmland and forest to erosion by the Sankosh river, which originates in Bhutan. Heavy siltation and debris flow from Bhutan have raised the riverbed, and the eroding bank now threatens an SSB (Sashastra Seema Bal) camp on the India-Bhutan border in addition to village land.",
-      "impact": "Flag Fagudoba and other Sankosh-riverside border villages for extended TAT and hold FM pickups from sellers there; monitor for a full village cut-off if erosion accelerates through the tail of the monsoon.",
-      "sources": [
-        {
-          "name": "The Statesman (ground report)",
-          "url": "https://www.thestatesman.com/cities/kolkata/last-village-on-bengal-bhutan-border-faces-threat-from-river-erosion-1503626505.html"
-        }
-      ]
-    },
-    {
-      "id": "odisha-baleshwar-subarnarekha-jalaka-154-villages-sep26-2026",
-      "icon": "🌊",
-      "title": "Balasore: Subarnarekha and Jalaka above danger mark, 154+ villages flooded across Bhograi, Baliapal, Jaleswar, Basta",
-      "category": "Flood",
-      "categoryKey": "flood",
-      "severity": "high",
-      "status": "ongoing",
-      "region": "east",
-      "states": [
-        "Odisha"
-      ],
-      "date": "2026-09-26",
-      "summary": "OdishaTV (Sep27) reports Subarnarekha water level is falling in Balasore but the flood situation 'remains grim' with many villages still marooned; statewide update (Sep28) confirms Subarnarekha is among the rivers now receding.",
-      "impact": "Trend is improving but village-level marooning and crop damage continue in Jaleswar/Balasore belt; keep last-mile routes on alert for a few more days before assuming full clearance.",
-      "sources": [
-        {
-          "name": "OMM Com News (ground report)",
-          "url": "https://ommcomnews.com/odisha-news/subarnarekha-over-154-villages-flooded-in-baleshwar/"
-        },
-        {
-          "name": "Pragativadi (ground report)",
-          "url": "https://pragativadi.com/twin-rivers-swell-in-odisha-high-tide-and-dam-releases-trigger-fourth-flood-wave-in-baleshwar/"
-        },
-        {
-          "name": "Kalinga TV (ground report, TV)",
-          "url": "https://kalingatv.com/odisha/baleshwar-flood-alert-subarnarekha-flows-above-danger-mark-over-100-villages-affected/"
-        }
-      ]
-    },
-    {
-      "id": "chhattisgarh-raipur-durg-kharun-river-amleshwar-khudmuda-sep26-2026",
-      "icon": "🌊",
-      "title": "Kharun river floods Amleshwar and Khudmuda villages in Durg; Mahadev Ghat road linking Raipur-Patan-Durg submerged",
-      "category": "Flood",
-      "categoryKey": "flood",
-      "severity": "moderate",
-      "status": "ongoing",
-      "region": "east",
-      "states": [
-        "Chhattisgarh"
-      ],
-      "date": "2026-09-26",
-      "summary": "Continuous rainfall over the past 24 hours has pushed the Kharun river out of its banks, causing waterlogging in riverside villages across Raipur and Durg districts. The Raipur-Patan-Durg road via Mahadev Ghat is submerged and impassable, and flood-like conditions have been reported in Amleshwar and Khudmuda villages of Durg district, where roads are no longer visible under floodwater and water has entered homes. The Raipur-Bhilai road via Mahadev Ghat is also disrupted by the strong water flow.",
-      "impact": "Avoid the Mahadev Ghat route between Raipur, Patan and Durg/Bhilai until water recedes; reroute Raipur-Durg-Bhilai line-haul via NH-53/NH-130 instead. Flag Amleshwar and Khudmuda (Durg district) pincodes for extended TAT and hold FM pickups from riverside sellers there.",
-      "sources": [
-        {
-          "name": "ANI (ground report)",
-          "url": "https://aninews.in/news/national/general-news/heavy-rain-triggers-flood-like-situation-in-chhattisgarh-kharun-river-swells-roads-submerged-in-raipur-durg20260926104901/"
-        }
-      ]
-    },
-    {
-      "id": "karnataka-mandya-cauvery-protest-bengaluru-mysuru-highway-sep25-2026",
-      "icon": "🚛",
-      "title": "Mandya: farmers briefly block Bengaluru-Mysuru highway at Jayachamaraja Wadiyar Circle over Cauvery release to Tamil Nadu",
-      "category": "Strike / Bandh",
-      "categoryKey": "strike",
-      "severity": "moderate",
-      "status": "ongoing",
-      "region": "south",
-      "states": [
-        "Karnataka"
-      ],
-      "date": "2026-09-25",
-      "summary": "Raitha Sangha, Karnataka Rakshana Vedike and BJP members protested near Jayachamaraja Wadiyar Circle in Mandya on 25 September against the CWRC/CWMA direction to release 4,000 cusecs of Cauvery water daily to Tamil Nadu for 15 days, briefly blocking the Bengaluru-Mysuru highway. KRS reservoir stood at 105.7 ft against a maximum of 124.8 ft, with farmer leaders warning Karnataka cannot spare more water. CM D K Shivakumar has said the state will challenge the CWRC direction. This dispute continues into the 26 September Bengaluru bandh.",
-      "impact": "Treat the Bengaluru-Mysuru highway near Mandya (Jayachamaraja Wadiyar Circle) as intermittently blockable with little notice while the Cauvery dispute runs hot - keep an alternate Bengaluru-Mysuru routing option live for line-haul and avoid scheduling tight-window linehaul through Mandya town during protest hours.",
-      "sources": [
-        {
-          "name": "News Karnataka (ground report)",
-          "url": "https://newskarnataka.com/mandya/mandya-farmers-protest-cauvery-water-release-to-tamil-nadu/25092026/"
-        },
-        {
-          "name": "Telangana Today",
-          "url": "https://telanganatoday.com/mandya-farmers-protest-cauvery-water-release-to-tamil-nadu"
-        }
-      ]
-    },
-    {
       "id": "jk-flood-damage-24000-houses-5300-roads-govt-report-sep25-2026",
       "icon": "🛡️",
       "title": "J&K govt tally: 24,416 houses and 5,373 roads damaged in 2025-26/2026-27 floods, Udhampur and Rajouri worst-hit",
@@ -1159,89 +1033,6 @@
         {
           "name": "Northlines (ground report)",
           "url": "https://thenorthlines.com/restoration-of-cloudburst-flash-flood-affected-infrastructure-underway-govt/"
-        }
-      ]
-    },
-    {
-      "id": "telangana-kothagudem-pamuleru-bridge-rajupeta-palvoncha-mandalapalli-sep24-2026",
-      "icon": "🌊",
-      "title": "Two spans of Pamuleru stream bridge near Rajupeta (Mulakalapalli mandal) washed away — Palvoncha–Mandalapalli traffic halted",
-      "category": "Flood",
-      "categoryKey": "flood",
-      "severity": "critical",
-      "status": "ongoing",
-      "region": "south",
-      "states": [
-        "Telangana"
-      ],
-      "date": "2026-09-24",
-      "summary": "Floodwaters in the Pamuleru stream washed away two spans of the bridge near Rajupeta in Mulakalapalli mandal of Bhadradri Kothagudem district, completely stopping traffic between Palvoncha and Mandalapalli. Kothagudem is among five Telangana districts under a red alert until 26 Sep, so restoration is unlikely in the short term.",
-      "impact": "Mark Mulakalapalli-mandal villages reachable only via Palvoncha–Mandalapalli as temporarily non-serviceable; reroute Palvoncha/Kothagudem LM via longer alternate roads with a 1-2 day SLA buffer. Hold FM pickups from sellers in the mandal until an alternate route is confirmed.",
-      "sources": [
-        {
-          "name": "Asianet Newsable",
-          "url": "https://newsable.asianetnews.com/gallery/india/andhra-pradesh-telangana-weather-latest-update-heavy-rain-alert-issued-for-three-days-e2nhmot"
-        },
-        {
-          "name": "Telangana Today (ground report)",
-          "url": "https://telanganatoday.com/tag/mulakalapalli-mandal"
-        }
-      ]
-    },
-    {
-      "id": "north-bengal-darjeeling-jalpaiguri-alipurduar-orange-alert-digha-mandarmani-sep25-2026",
-      "icon": "🌧️",
-      "title": "Orange alert for Darjeeling, Jalpaiguri, Alipurduar on 25 Sep; high tides spill into Mandarmani, fishing banned off Digha",
-      "category": "Flood",
-      "categoryKey": "flood",
-      "severity": "watch",
-      "status": "ongoing",
-      "region": "east",
-      "states": [
-        "West Bengal",
-        "Sikkim"
-      ],
-      "date": "2026-09-25",
-      "summary": "The weather office forecast heavy to very heavy rain in North Bengal and Sikkim on 24-25 Sep, with Darjeeling, Jalpaiguri and Alipurduar on orange alert for 25 Sep and a raised risk of landslides and road blockages on NH-10. On the coast, gusty winds hit Digha and Mandarmani, the sea spilled into parts of Mandarmani, and fishermen are barred from going to sea along Digha, Shankarpur, Junput and Petuaghat. Kansabati Dam in Bankura logged 100 mm in 24 hours.",
-      "impact": "Watch Siliguri–Darjeeling/Kalimpong and Dooars (Jalpaiguri, Alipurduar) LM on 25 Sep for landslip or waterlogging delays ahead of the Puja volume ramp-up; keep East Midnapore coastal pincodes (Digha, Ramnagar, Contai) on a 24h buffer.",
-      "sources": [
-        {
-          "name": "Asianet Newsable",
-          "url": "https://newsable.asianetnews.com/gallery/india/west-bengal-latest-weather-update-heavy-rain-alert-as-bay-of-bengal-depression-intensifies-pt7w82i"
-        },
-        {
-          "name": "ETV Bharat (live blog)",
-          "url": "https://www.etvbharat.com/en/state/live-blog--cyclone-arnab-live-updates-deep-depression-heavy-rain-odisha-andhra-pradesh-weather-enn26092308889"
-        }
-      ]
-    },
-    {
-      "id": "uttarakhand-pithoragarh-tanakpur-nh9-ghatbend-sep2026",
-      "icon": "⛰️",
-      "title": "Pithoragarh-Tanakpur NH-9 at Ghat bend: one-way traffic resumes amid continued rockfall; 11 Pithoragarh roads shut, Adi Kailash Yatra halted",
-      "category": "Landslide",
-      "categoryKey": "landslide",
-      "severity": "high",
-      "status": "ongoing",
-      "region": "north",
-      "states": [
-        "Uttarakhand"
-      ],
-      "date": "2026-09-26",
-      "summary": "Ghat bend traffic is being cautiously allowed one-way (as of Sep 25) despite continued stone-fall; NHAI has now sanctioned a Rs 33-crore permanent slope-treatment project (announced Sep 28), confirming intermittent single-lane halts will continue for the near term. Separately, wider Pithoragarh district saw 11 roads closed and the Adi Kailash Yatra halted by heavy rain on Sep 26 (see new alert).",
-      "impact": "Continue routing Tanakpur-Pithoragarh consignments with buffer time for cautious one-way movement at Ghat bend; do not expect resolution soon given the multi-month slope-treatment timeline just announced.",
-      "sources": [
-        {
-          "name": "Northern Gazette (ground report)",
-          "url": "https://thenortherngazette.com/index.php/2026/09/17/night-traffic-halted-due-to-landslide-stone-fall-on-pithoragarh-tanakpur-nh-9/"
-        },
-        {
-          "name": "Northern Gazette (ground report)",
-          "url": "https://thenortherngazette.com/index.php/2026/09/25/traffic-cautiously-allowed-at-ghat-bend-amid-continued-shooting-of-stones/"
-        },
-        {
-          "name": "Northern Gazette (ground report)",
-          "url": "https://thenortherngazette.com/index.php/2026/09/26/heavy-rains-halt-adi-kailash-yatra-11-roads-closed-in-pithoragarh/"
         }
       ]
     },
@@ -1397,32 +1188,6 @@
       ]
     },
     {
-      "id": "maharashtra-marathwada-drought-rasta-roko-sep2026",
-      "icon": "🚛",
-      "title": "Marathwada drought protests: Dharashiv farmers block the Dhule-Solapur highway at Yedshi",
-      "category": "Strike / Bandh",
-      "categoryKey": "strike",
-      "severity": "watch",
-      "status": "ongoing",
-      "region": "west",
-      "states": [
-        "Maharashtra"
-      ],
-      "date": "2026-09-26",
-      "summary": "Maharashtra's government officially declared drought in 265 of 358 talukas (Sep 26, 2026) -- including nearly all of Marathwada -- and announced relief measures for farmers, students and rural households, following sustained protests such as the Dharashiv farmers' blockade of the Dhule-Solapur highway (NH-52) over scorched soybean crops.",
-      "impact": "The official declaration may ease the most acute protest activity short-term, but sporadic rasta roko/tractor-march actions remain likely in Dharashiv, Beed, Latur and other Marathwada talukas as relief disbursement is monitored; keep contingency routing for the Dhule-Solapur (NH-52) corridor through Dharashiv.",
-      "sources": [
-        {
-          "name": "Agrowon / eSakal (ground report)",
-          "url": "https://agrowon.esakal.com/agro-special/dharashiv-farmers-protest-soybean-crop-damage-dry-drought-ddb79"
-        },
-        {
-          "name": "eSakal Marathwada (ground report)",
-          "url": "https://www.esakal.com/marathwada/farmers-in-distress-where-is-the-government-thousands-outraged-in-lohara-stop-mla-from-speaking-and-scatter-soybeans-pjp78"
-        }
-      ]
-    },
-    {
       "id": "madhya-pradesh-17-district-heavy-rain-sep2026",
       "icon": "🌧️",
       "title": "East MP heavy rain from Sep 24: Chhatarpur, Panna, Satna, Shahdol, Mandla, Balaghat, Seoni, Chhindwara; peak Sep 25-26",
@@ -1496,74 +1261,6 @@
         {
           "name": "OMMCOM News",
           "url": "https://ommcomnews.com/odisha-news/deep-depression-weakens-into-depression-over-south-interior-odisha-imd/"
-        }
-      ]
-    },
-    {
-      "id": "chhattisgarh-bastar-bijapur-sukma-extreme-rain-sep2026",
-      "icon": "🌧️",
-      "title": "South Chhattisgarh braces for extremely heavy rain on 24 September; Bastar, Bijapur, Sukma flagged",
-      "category": "Flood",
-      "categoryKey": "flood",
-      "severity": "high",
-      "status": "ongoing",
-      "region": "east",
-      "states": [
-        "Chhattisgarh"
-      ],
-      "date": "2026-09-25",
-      "summary": "With the weakening deep depression tracking from south Odisha into Chhattisgarh, the state is under an extremely-heavy-rain warning for 24 Sep and very-heavy-rain warnings for 25 and 26 Sep, with thundersqualls of 50-60 kmph gusting to 70 kmph. South Chhattisgarh — Bastar, Dantewada, Sukma and Bijapur — is expected to see heavy to very heavy rain at some places; residents of low-lying areas have been told to watch for rising streams and waterlogging.",
-      "impact": "Treat Bastar-division pincodes (Jagdalpur, Dantewada, Sukma, Bijapur, Narayanpur) as high-risk for LM on 25-26 Sep — interior nala crossings go under quickly; keep COD/RTO buffers and inform carriers of possible NH-30/NH-63 slowdowns. Raipur–Durg–Bilaspur FM hubs may see thunderstorm-related delays.",
-      "sources": [
-        {
-          "name": "Dainik Jagran MP-CG English",
-          "url": "https://english.dainikjagranmpcg.com/states/chhattisgarh/chhattisgarh-weather-heavy-rain-alert-till-sept-28/article-32442"
-        },
-        {
-          "name": "NPG News (Hindi, ground report)",
-          "url": "https://npg.news/chhattisgarh/cg-weather-today-heavy-rain-alert-depression-bay-of-bengal-22-september-2026-1320590"
-        },
-        {
-          "name": "Business Today",
-          "url": "https://www.businesstoday.in/india/story/imd-warns-of-extremely-heavy-rain-as-bay-of-bengal-system-heads-towards-andhra-odisha-coast-556700-2026-09-20"
-        },
-        {
-          "name": "Bansal News (ground report)",
-          "url": "https://bansalnews.com/cg-ka-mausam-chhattisgarh-weather-update-bastar-bijapur-sukma-heavy-rain-alert-skm/"
-        }
-      ]
-    },
-    {
-      "id": "bihar-rain-turn-from-23sep2026",
-      "icon": "🌧️",
-      "title": "Bihar: orange alert in 19 districts, yellow in 19 more as depression remnant brings rain Sep 24-26",
-      "category": "Flood",
-      "categoryKey": "flood",
-      "severity": "high",
-      "status": "ongoing",
-      "region": "east",
-      "states": [
-        "Bihar"
-      ],
-      "date": "2026-09-26",
-      "summary": "Alert has evolved from a 19-district orange warning to a 12-district yellow alert as of Sep28 (ETV Bharat Hindi): Samastipur, Siwan, Saran, Vaishali, Madhubani, Darbhanga, Sheohar, West Champaran, East Champaran, Gopalganj, Sitamarhi and Muzaffarpur, with winds up to 30 km/h. Gandak and Kosi rivers remain swollen from continuous rain in Nepal's terai, and villages across roughly 17 districts have seen submersion.",
-      "impact": "Flood risk from Kosi/Gandak persists in north Bihar even as the rain-alert severity itself has eased; continue routing around low-lying embankment-adjacent villages in the 12 alerted districts.",
-      "sources": [
-        {
-          "name": "Patna Press (ground report)",
-          "url": "https://patnapress.com/bihar-weather-update-rain-likely-in-9-districts-today-heavy-rain-alert-from-september-24/"
-        },
-        {
-          "name": "Prabhat Khabar (ground report, Hindi)",
-          "url": "https://www.prabhatkhabar.com/state/bihar/bihar-weather-alert-heavy-rain-19-districts-orange-alert-50-kmph-wind-imd-forecast"
-        },
-        {
-          "name": "News Tak (ground report, Hindi)",
-          "url": "https://www.newstak.in/bihar/story/bihar-weather-update-24-september-orange-alert-heavy-rain-forecast-3287317-2026-09-23"
-        },
-        {
-          "name": "ThePrint",
-          "url": "https://theprint.in/india/bihar-flood-situation-grim-as-over-46-lakh-people-affected-across-15-districts/3039964/"
         }
       ]
     },
@@ -1654,102 +1351,6 @@
       ]
     },
     {
-      "id": "odisha-jajpur-dasarathpur-kani-river-panchayats-submerged-sep26-2026",
-      "icon": "🌊",
-      "title": "Kani river overflow submerges two panchayats in Jajpur's Dasarathpur block, Odisha",
-      "category": "Flood",
-      "categoryKey": "flood",
-      "severity": "high",
-      "status": "ongoing",
-      "region": "east",
-      "states": [
-        "Odisha"
-      ],
-      "date": "2026-09-26",
-      "summary": "Situation has escalated: Sambad English/OdishaTV report a fresh ~70-foot breach in the Kani river embankment (this is the fifth flood in Dasarathpur block in 50 days), and as of Sep28, Jajpur district ordered 91 primary schools shut across Dasarathpur, Jajpur and Binjharpur blocks due to flooding (Kalinga TV).",
-      "impact": "Recurring embankment failures mean this is not a one-off; treat Dasarathpur/Jajpur block roads as a standing risk for repeat cut-offs, not a single resolved incident.",
-      "sources": [
-        {
-          "name": "The Print",
-          "url": "https://theprint.in/india/odisha-evacuates-over-70000-people-opens-relief-camps-as-rain-induced-floods-hit-districts/3054526/"
-        }
-      ]
-    },
-    {
-      "id": "odisha-mayurbhanj-similipal-devkund-bridges-washed-sep26-2026",
-      "icon": "🌊",
-      "title": "Similipal's Devkund access route cut as bridges/culverts washed away, Mayurbhanj",
-      "category": "Flood",
-      "categoryKey": "flood",
-      "severity": "watch",
-      "status": "ongoing",
-      "region": "east",
-      "states": [
-        "Odisha"
-      ],
-      "date": "2026-09-26",
-      "summary": "Heavy rainfall has washed away or damaged bridges and culverts on the access route to the Devkund tourist site inside Similipal National Park, Mayurbhanj district, prompting a temporary closure of the site. The area sits within the wider Odisha flood emergency affecting Balasore, Jajpur, Koraput and Kalahandi districts.",
-      "impact": "Low direct LM/FM impact (forest/tourism route), but signals continued road-infrastructure damage in Mayurbhanj's interior blocks - worth a spot-check on any last-mile roads feeding villages near Similimal's buffer zone before committing delivery SLAs there this week.",
-      "sources": [
-        {
-          "name": "The Print",
-          "url": "https://theprint.in/india/odisha-evacuates-over-70000-people-opens-relief-camps-as-rain-induced-floods-hit-districts/3054526/"
-        }
-      ]
-    },
-    {
-      "id": "uttarakhand-pithoragarh-11-roads-adi-kailash-yatra-halt-sep26-2026",
-      "icon": "🌧️",
-      "title": "Heavy rain shuts 11 roads across Pithoragarh district, halts Adi Kailash Yatra route",
-      "category": "Flood/Rain Disruption",
-      "categoryKey": "flood",
-      "severity": "high",
-      "status": "ongoing",
-      "region": "north",
-      "states": [
-        "Uttarakhand"
-      ],
-      "date": "2026-09-26",
-      "summary": "Heavy rainfall across Pithoragarh district on Sep 26 forced closure of 11 roads district-wide and halted the Adi Kailash Yatra pilgrimage route, in addition to the separately tracked chronic Ghat bend chokepoint on NH-9. NHAI has now sanctioned a Rs 33-crore permanent slope-treatment project at Ghat bend (announced Sep 28), confirming disruption at that spot is expected to persist near-term even as fresh closures hit other roads in the district.",
-      "impact": "Expect delivery delays and possible non-serviceable flags across multiple Pithoragarh district pincodes beyond the NH-9 Ghat bend stretch already tracked separately; stage buffer stock at Tanakpur/Haldwani hubs for onward dispatch once district roads reopen, and add a 1-2 day SLA buffer for last-mile in hill-block pincodes.",
-      "sources": [
-        {
-          "name": "Northern Gazette (ground report)",
-          "url": "https://thenortherngazette.com/index.php/2026/09/26/heavy-rains-halt-adi-kailash-yatra-11-roads-closed-in-pithoragarh/"
-        },
-        {
-          "name": "Northern Gazette (ground report)",
-          "url": "https://thenortherngazette.com/index.php/2026/09/28/landslide-prone-ghat-bend-on-nh-9-to-get-rs-33-crore-slope-treatment/"
-        }
-      ]
-    },
-    {
-      "id": "maharashtra-265-talukas-drought-declared-sep2026",
-      "icon": "🛡️",
-      "title": "Maharashtra declares drought in 265 of 358 talukas, nearly all of Marathwada covered",
-      "category": "Advisory",
-      "categoryKey": "advisory",
-      "severity": "moderate",
-      "status": "ongoing",
-      "region": "west",
-      "states": [
-        "Maharashtra"
-      ],
-      "date": "2026-09-26",
-      "summary": "The Maharashtra government officially declared drought conditions in 265 of the state's 358 talukas (about 74%) on Sep 26, 2026, after a weak monsoon caused widespread crop losses, with nearly all of Marathwada included. Relief measures for farmers, students and rural households were announced alongside the declaration.",
-      "impact": "Farmer distress remains high in Marathwada and other drought-hit talukas; expect continued sporadic rasta roko/tractor-march protests on rural arterial roads (notably the NH-52 Dhule-Solapur corridor through Dharashiv) as relief rollout is monitored. LM/FM teams should keep contingency routing and extra buffer time for routes through Dharashiv, Beed, Latur and Akola belts.",
-      "sources": [
-        {
-          "name": "Business Standard",
-          "url": "https://www.business-standard.com/india-news/maharashtra-declares-265-of-358-talukas-drought-hit-announces-relief-126092600381_1.html"
-        },
-        {
-          "name": "Free Press Journal",
-          "url": "https://www.freepressjournal.in/mumbai/maharashtra-declares-drought-in-265-talukas-after-severe-dry-spell-relief-measures-announced-for-farmers-students-and-rural-areas"
-        }
-      ]
-    },
-    {
       "id": "kerala-coastal-kallakkadal-highwave-yellow-alert-sep28-2026",
       "icon": "🏞️",
       "title": "Kerala coast under Kallakkadal high-wave warning alongside yellow rain alert statewide",
@@ -1816,32 +1417,6 @@
       ]
     },
     {
-      "id": "odisha-ganjam-rushikulya-river-rises-villages-sep26-2026",
-      "icon": "🌊",
-      "title": "Rushikulya river rises in Ganjam, floodwater enters villages",
-      "category": "Flood",
-      "categoryKey": "flood",
-      "severity": "moderate",
-      "status": "ongoing",
-      "region": "east",
-      "states": [
-        "Odisha"
-      ],
-      "date": "2026-09-26",
-      "summary": "The Rushikulya river's water level continued rising in Ganjam district, with floodwater entering several villages, as part of the broader south Odisha rain system (Kanak News ground report, Sep26). Odisha CM subsequently toured flood-hit districts including Ganjam as the state moved over 1 lakh people to relief camps (PTI, Sep27).",
-      "impact": "Watch for village-road access issues in low-lying Rushikulya-belt areas of Ganjam district; coordinate with local hubs before dispatching last-mile runs into riverside villages.",
-      "sources": [
-        {
-          "name": "Kanak News (ground report)",
-          "url": "https://kanaknews.com/videos/society/%E0%AC%A8%E0%AC%88-%E0%AC%AC%E0%AC%A2%E0%AC%B2%E0%AC%BE-%E0%AC%97%E0%AC%81-%E0%AC%AC%E0%AC%A1%E0%AC%B2%E0%AC%BE-ganjam-flood-news-rushikulya-river-rises-water-enters-villages-12576226"
-        },
-        {
-          "name": "MSN/PTI",
-          "url": "https://www.msn.com/en-in/news/other/odisha-cm-tours-flood-hit-districts-as-govt-moves-over-1-lakh-people-to-relief-camps/ar-AA2d4dVm?ocid=BingNewsVerp"
-        }
-      ]
-    },
-    {
       "id": "bihar-gandak-record-level-embankment-breaches-bagaha-areraj-sep30-2026",
       "icon": "🌊",
       "title": "Bihar: Gandak hits record 91.25 m at Bagaha; embankments breached at Khairatwa, Phuliyakhad, Areraj, Paroo, Maker",
@@ -1890,36 +1465,6 @@
         {
           "name": "Newstrack",
           "url": "https://english.newstrack.com/india-news/adi-kailash-route-blocked-by-landslide-over-350-pilgrims-stopped-in-uttarakhand-636695"
-        }
-      ]
-    },
-    {
-      "id": "sikkim-west-rimbi-village-recurring-landslides-uninhabitable-sep25-2026",
-      "icon": "⛰️",
-      "title": "Rimbi village (West Sikkim): recurring landslides damage 30+ houses, 107 displaced; village may be declared uninhabitable",
-      "category": "Landslide",
-      "categoryKey": "landslide",
-      "severity": "moderate",
-      "status": "ongoing",
-      "region": "east",
-      "states": [
-        "Sikkim"
-      ],
-      "date": "2026-09-25",
-      "summary": "Repeated landslides since August have damaged more than 30 houses and displaced 107 people at Rimbi in West Sikkim, with fresh debris after heavy rain on 24-25 September; no casualties were reported and the village faces being declared uninhabitable.",
-      "impact": "Mark Rimbi and adjoining hamlets non-serviceable for LM and hold FM pickups there; keep a 24-48h buffer on West Sikkim hill-road routing as monsoon withdrawal rains continue.",
-      "sources": [
-        {
-          "name": "Down To Earth (ground report)",
-          "url": "https://www.downtoearth.org.in/climate-change/will-the-village-survive-question-that-haunts-everyone-after-landslide-at-rimbi-in-west-sikkim"
-        },
-        {
-          "name": "ANI",
-          "url": "https://www.aninews.in/news/national/general-news/major-landslide-damages-houses-in-sikkims-rimbi-village-after-heavy-rainfall-no-casualties-reported20260925082114/"
-        },
-        {
-          "name": "Deccan Herald",
-          "url": "https://www.deccanherald.com/india/sikkim/recurring-landslides-threaten-to-render-west-sikkim-village-uninhabitable-4160528"
         }
       ]
     },
