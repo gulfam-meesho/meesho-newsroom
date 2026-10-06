@@ -1,5 +1,5 @@
 {
-  "compiledAt": "2026-10-06T08:45:00+05:30",
+  "compiledAt": "2026-10-06T14:30:00+05:30",
   "note": "Manually-refreshed research digest compiled from public news sources, including regional/vernacular press, local TV channels and YouTube ground reports where available. Not a live news-wire feed — update this file (or re-run research) to refresh. Built for Meesho 3P logistics capacity planning (Delhivery · Shadowfax · Xpressbees): LM/FM manifestation, non-adherence hotspots, and serviceability-loss tracking. Not an official Meesho product.",
   "upcomingEvents": [
     {
@@ -855,7 +855,7 @@
         "Odisha"
       ],
       "date": "2026-10-06",
-      "summary": "The 12-hour Sep 30 bandh by NNKS has passed. The INDIA bloc (Congress, CPI(M), CPI, CPI(ML), SP, RJD, NCP and others) has now called a statewide Odisha bandh on 8 October demanding repeal of the MMDR Amendment Act 2026, the resignation of Education Minister Nityananda Gond over textbook errors, and action against the CEC over SIR irregularities. A demonstration is planned in Keonjhar on 7 October and economic blockades of mineral extraction and transport in mining regions on 8 October. Reports as of Oct 5 confirm the Oct 8 bandh call stands, three days out. Pragativadi reports around 10 police platoons are being deployed in Bhubaneswar ahead of the bandh call.",
+      "summary": "The 12-hour Sep 30 bandh by NNKS has passed. The INDIA bloc (Congress, CPI(M), CPI, CPI(ML), SP, RJD, NCP and others) has now called a statewide Odisha bandh on 8 October demanding repeal of the MMDR Amendment Act 2026, the resignation of Education Minister Nityananda Gond over textbook errors, and action against the CEC over SIR irregularities. A demonstration is planned in Keonjhar on 7 October and economic blockades of mineral extraction and transport in mining regions on 8 October. Reports as of Oct 5 confirm the Oct 8 bandh call stands, three days out. Pragativadi reports around 10 police platoons are being deployed in Bhubaneswar ahead of the bandh call. As of Oct 6, the Oct 8 call still stands; no exemptions or bandh hours have been published yet.",
       "impact": "Plan for near-zero LM/FM across Odisha on Oct 8 (picket risk on NH-16/NH-49 and Bhubaneswar, Cuttack, Berhampur, Sambalpur, Balasore hubs): pre-schedule attempt reschedules and hold line-haul. Expect truck tightness in Keonjhar, Sundargarh and Jajpur mining belts from Oct 7, on top of flood-hit coastal districts.",
       "sources": [
         {
@@ -1188,32 +1188,6 @@
       ]
     },
     {
-      "id": "madhya-pradesh-17-district-heavy-rain-sep2026",
-      "icon": "🌧️",
-      "title": "East MP heavy rain from Sep 24: Chhatarpur, Panna, Satna, Shahdol, Mandla, Balaghat, Seoni, Chhindwara; peak Sep 25-26",
-      "category": "Flood",
-      "categoryKey": "flood",
-      "severity": "moderate",
-      "status": "upcoming",
-      "region": "west",
-      "states": [
-        "Madhya Pradesh"
-      ],
-      "date": "2026-09-24",
-      "summary": "The forecast heavy-rain spell over eastern MP (Chhatarpur, Panna, Satna, Shahdol, Mandla etc.) materialized and was reinforced around Sep 26 by remnants of Cyclone Arnab (Bay of Bengal), which triggered a fresh 'very heavy rain' alert across 13 MP districts. State-wide seasonal rainfall has now reached roughly 95.4% of normal with 25 districts recording their full quota, indicating the monsoon is in its final active phase but still capable of sharp spells.",
-      "impact": "Relax SLAs for eastern MP rural pincodes (Mandla, Dindori, Balaghat, Seoni, Shahdol) for 25-26 September and route Jabalpur-bound line-haul in daylight. West MP (Indore, Bhopal, Ujjain) should run near normal.",
-      "sources": [
-        {
-          "name": "Free Press Journal (ground report)",
-          "url": "https://www.freepressjournal.in/bhopal/madhya-pradesh-weather-today-depression-over-bay-of-bengal-intensifies-heavy-rainfall-alert-issued-for-anant-chaturdashi"
-        },
-        {
-          "name": "Free Press Journal",
-          "url": "https://www.freepressjournal.in/bhopal/madhya-pradesh-weather-update-heavy-rain-alert-from-september-24-as-monsoon-nears-departure-clouds-hover-in-bhopal-after-late-night-drizzle"
-        }
-      ]
-    },
-    {
       "id": "bob-deep-depression-landfall-vizag-gopalpur-sep2026",
       "icon": "🌀",
       "title": "Cyclone Arnab (deep depression) weakens to low-pressure area over Chhattisgarh after Odisha-AP landfall",
@@ -1523,4 +1497,4 @@
       ]
     }
   ]
-    }
+}
