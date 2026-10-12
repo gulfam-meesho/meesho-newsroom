@@ -1,5 +1,5 @@
 {
-  "compiledAt": "2026-10-12T15:00:00+05:30",
+  "compiledAt": "2026-10-12T21:30:00+05:30",
   "note": "Manually-refreshed research digest compiled from public news sources, including regional/vernacular press, local TV channels and YouTube ground reports where available. Not a live news-wire feed — update this file (or re-run research) to refresh. Built for Meesho 3P logistics capacity planning (Delhivery · Shadowfax · Xpressbees): LM/FM manifestation, non-adherence hotspots, and serviceability-loss tracking. Not an official Meesho product.",
   "upcomingEvents": [
     {
@@ -576,6 +576,36 @@
   ],
   "alerts": [
     {
+      "id": "delhi-jantar-mantar-protest-internet-shutdown-metro-closures-oct10-2026",
+      "icon": "📵",
+      "title": "Delhi: mobile internet suspended within 4 km of Jantar Mantar; 45 of 303 metro stations shut during Oct 10 protest",
+      "category": "Network Shutdown",
+      "categoryKey": "network",
+      "severity": "high",
+      "status": "ongoing",
+      "region": "north",
+      "states": [
+        "Delhi"
+      ],
+      "date": "2026-10-11",
+      "summary": "The Home Ministry ordered mobile internet suspended within a 4-km radius of the Janpath-Kartavya Path crossing from 10 pm Oct 9 to 10 pm Oct 10, after a 1.5-km, 12-hour suspension on Oct 2, plus a separate 500-m, 10-hour suspension reported around eight makeshift detention centres. During the Oct 10 protest against the Chief Election Commissioner the Solicitor General said 45 of 303 metro stations were closed. On Oct 11 the Supreme Court said 'Internet facilities should function unhindered' and the government said connectivity was restored; the matter is back before the bench on Oct 13.",
+      "impact": "Central Delhi (4-km zone around Connaught Place/India Gate/Jantar Mantar) is exposed to repeat shutdowns and traffic/metro curbs: expect rider app/OTP/tracking failures, delivery attempt slippage and lower rider attendance there on protest days. Keep Delhi central-zone LM on offline-capable routing, add 1-day SLA buffer on protest dates, and watch the Oct 13 hearing for further orders.",
+      "sources": [
+        {
+          "name": "MediaNama",
+          "url": "https://www.medianama.com/2026/10/223-supreme-court-internet-shutdown-delhi/"
+        },
+        {
+          "name": "Business Standard",
+          "url": "https://www.business-standard.com/india-news/internet-shutdown-within-4-km-radius-of-jantar-mantar-for-48-hours-126100901157_1.html"
+        },
+        {
+          "name": "Outlook India",
+          "url": "https://www.outlookindia.com/national/internet-to-be-suspended-around-jantar-mantar-till-10-pm-on-saturday"
+        }
+      ]
+    },
+    {
       "id": "jk-nh44-single-lane-ramban-banihal-shooting-stones-oct5-2026",
       "icon": "⛰️",
       "title": "J&K NH-44: single-lane crawl Ramban-Banihal and Dawal (Udhampur); night travel and tankers restricted amid shooting-stone risk",
@@ -733,33 +763,6 @@
       ]
     },
     {
-      "id": "haryana-rice-millers-cmr-boycott-sep2026",
-      "icon": "🚛",
-      "title": "Haryana rice millers boycott CMR registration before 1 October procurement; 6.5 lakh MT stuck",
-      "category": "Strike / Bandh",
-      "categoryKey": "strike",
-      "severity": "watch",
-      "status": "upcoming",
-      "region": "north",
-      "states": [
-        "Haryana",
-        "Punjab"
-      ],
-      "date": "2026-09-30",
-      "summary": "Dispute remains unresolved ahead of the Oct 1 procurement start: an estimated 6.5 lakh MT of custom-milled rice is stuck across Haryana with millers still refusing to register for the new season over pending CMR dues (~Rs 2,800 crore) and policy disagreements.",
-      "impact": "No change — continue to flag potential paddy/rice-linked logistics congestion at Haryana mandi-adjacent hubs from Oct 1 if the registration standoff is not resolved before procurement begins.",
-      "sources": [
-        {
-          "name": "The Tribune",
-          "url": "https://www.tribuneindia.com/news/haryana/6-5-lakh-mt-rice-stuck-across-haryana-millers-refuse-to-register-for-next-season/"
-        },
-        {
-          "name": "Rural Voice",
-          "url": "https://eng.ruralvoice.in/state/rice-millers-disputes-with-government-disrupt-paddy-procurement-in-haryana.html"
-        }
-      ]
-    },
-    {
       "id": "bihar-gandak-record-level-embankment-breaches-bagaha-areraj-sep30-2026",
       "icon": "🌊",
       "title": "Bihar: Gandak hits record 91.25 m at Bagaha; embankments breached at Khairatwa, Phuliyakhad, Areraj, Paroo, Maker",
@@ -822,34 +825,6 @@
           "url": "https://english.newstrack.com/india-news/adi-kailash-route-blocked-by-landslide-over-350-pilgrims-stopped-in-uttarakhand-636695"
         }
       ]
-    },
-    {
-      "id": "bay-of-bengal-new-deep-depression-myanmar-coast-arnab-fades-oct2026",
-      "icon": "🌀",
-      "title": "Cyclone Arnab fades after Andhra-Odisha landfall; new deep depression near Myanmar coast on watch",
-      "category": "Cyclone",
-      "categoryKey": "cyclone",
-      "severity": "watch",
-      "status": "ongoing",
-      "region": "east",
-      "states": [
-        "Odisha",
-        "Andhra Pradesh",
-        "West Bengal"
-      ],
-      "date": "2026-10-02",
-      "summary": "Daily Jagran reports Cyclone Arnab has weakened after crossing the Andhra-Odisha coast, while a new deep depression near the Myanmar coast has triggered a fresh weather watch.",
-      "impact": "Early-warning only: keep eastern-coast hubs (Odisha, Bengal, Northeast) on watch for renewed rain bands; no direct LM/FM stoppage from the new system yet.",
-      "sources": [
-        {
-          "name": "The Daily Jagran",
-          "url": "https://www.thedailyjagran.com/india/news/cyclone-arnab-fades-new-deep-depression-near-mayanmmar-coast-sparks-fresh-weather-watch-imd-alert-10330818"
-        },
-        {
-          "name": "Business Standard",
-          "url": "https://www.business-standard.com/india-news/cyclone-arnab-crosses-andhra-odisha-coast-1-500-evacuated-from-gajapati-nc-126092400408_1.html"
-        }
-      ]
     }
   ]
-    }
+}
