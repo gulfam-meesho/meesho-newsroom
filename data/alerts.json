@@ -1,5 +1,5 @@
 {
-  "compiledAt": "2026-10-12T21:30:00+05:30",
+  "compiledAt": "2026-10-13T12:00:00+05:30",
   "note": "Manually-refreshed research digest compiled from public news sources, including regional/vernacular press, local TV channels and YouTube ground reports where available. Not a live news-wire feed — update this file (or re-run research) to refresh. Built for Meesho 3P logistics capacity planning (Delhivery · Shadowfax · Xpressbees): LM/FM manifestation, non-adherence hotspots, and serviceability-loss tracking. Not an official Meesho product.",
   "upcomingEvents": [
     {
@@ -575,6 +575,36 @@
     }
   ],
   "alerts": [
+    {
+      "id": "jk-jammu-record-october-rain-oct10-2026",
+      "icon": "🌧️",
+      "title": "Jammu records heaviest October rainfall in 71 years; two dead, normal life disrupted across Jammu region",
+      "category": "Flood",
+      "categoryKey": "flood",
+      "severity": "high",
+      "status": "ongoing",
+      "region": "north",
+      "states": [
+        "Jammu & Kashmir"
+      ],
+      "date": "2026-10-11",
+      "summary": "Jammu recorded its highest October rainfall in 71 years over Oct 10-11, with two deaths reported and normal life disrupted, per Kashmir Observer, ThePrint and Greater Kashmir. Waterlogging, landslide and road-blockage risk remains across the Jammu division, adding to the existing NH-44 Ramban-Banihal shooting-stones restrictions.",
+      "impact": "Treat Jammu city and the hill belts (Ramban, Doda, Udhampur, Reasi) as at-risk for LM delays; add a 24-48h SLA buffer at Jammu hub, hold FM pickups from flooded low-lying localities, and plan alternate/late-window routing on the Jammu-Srinagar NH-44 corridor until roads are cleared.",
+      "sources": [
+        {
+          "name": "Kashmir Observer (ground report)",
+          "url": "https://kashmirobserver.net/2026/10/11/two-killed-as-record-rain-batters-jammu/"
+        },
+        {
+          "name": "ThePrint",
+          "url": "https://theprint.in/india/jammu-sees-record-breaking-october-rainfall-two-dead-life-disrupted/3068628/"
+        },
+        {
+          "name": "Greater Kashmir (ground report)",
+          "url": "https://www.greaterkashmir.com/jammu/jammu-sees-record-breaking-october-rainfall-two-dead-life-disrupted-12666480"
+        }
+      ]
+    },
     {
       "id": "delhi-jantar-mantar-protest-internet-shutdown-metro-closures-oct10-2026",
       "icon": "📵",
