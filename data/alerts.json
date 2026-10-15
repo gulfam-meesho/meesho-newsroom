@@ -1,5 +1,5 @@
 {
-  "compiledAt": "2026-10-14T12:00:00+05:30",
+  "compiledAt": "2026-10-15T12:00:00+05:30",
   "note": "Manually-refreshed research digest compiled from public news sources, including regional/vernacular press, local TV channels and YouTube ground reports where available. Not a live news-wire feed — update this file (or re-run research) to refresh. Built for Meesho 3P logistics capacity planning (Delhivery · Shadowfax · Xpressbees): LM/FM manifestation, non-adherence hotspots, and serviceability-loss tracking. Not an official Meesho product.",
   "upcomingEvents": [
     {
@@ -551,6 +551,32 @@
   ],
   "alerts": [
     {
+      "id": "punjab-bandh-mansa-jhota-killing-oct15-2026",
+      "icon": "🚛",
+      "title": "Punjab bandh today (6am-5pm) over killing of anti-drug activist Parvinder Singh Jhota in Mansa; SGPC, Punjabi University shut",
+      "category": "Strike / Bandh",
+      "categoryKey": "strike",
+      "severity": "high",
+      "status": "ongoing",
+      "region": "north",
+      "states": [
+        "Punjab"
+      ],
+      "date": "2026-10-15",
+      "summary": "A Punjab bandh is being observed on Oct 15 from 6 am to 5 pm after the killing of anti-drug activist Parvinder Singh Jhota in Mansa; protesters demand a CBI probe. SGPC offices/institutions and Punjabi University, Patiala have announced closures, with barricades and security arrangements reported on roads leading to Mansa and highway blockades reported. No blanket statewide closure of markets, banks or petrol pumps is confirmed; impact varies by district and may start earlier or run past 5 pm.",
+      "impact": "Expect LM/FM stoppage or heavy slippage on Oct 15 in Mansa and neighbouring Malwa belt towns, plus highway-blockade delays on Punjab line-haul. Re-slot Oct 15 attempts to Oct 16 for Mansa/Bathinda/Patiala-side pincodes, avoid dispatching riders through protest sites, and brief Delhivery/Shadowfax/Xpressbees Punjab hubs on a possible spill-over past 5 pm.",
+      "sources": [
+        {
+          "name": "Sunday Guardian (Punjab bandh Oct 15 explainer)",
+          "url": "https://sundayguardianlive.com/trending/punjab-bandh-tomorrow-whats-open-whats-closed-on-october-15-check-schools-colleges-markets-banks-buses-trains-petrol-pumps-emergency-services-updates-more-305704/"
+        },
+        {
+          "name": "The Daily Jagran (ground report)",
+          "url": "https://www.thedailyjagran.com/india/news/punjab-bandh-today-highway-blocked-classes-shifted-online-as-parminder-jhotas-father-urges-massive-participation-10332778"
+        }
+      ]
+    },
+    {
       "id": "imd-12-state-thunderstorm-hail-gusts-oct14-2026",
       "icon": "🌧️",
       "title": "IMD rain-thunderstorm alert for 12 states Oct 14: Bihar, UP, Jharkhand, Rajasthan districts named, gusts up to 75 km/h",
@@ -784,29 +810,6 @@
       ]
     },
     {
-      "id": "nagaland-longleng-yongshei-dikhou-river-landslide-blockage-oct1-2026",
-      "icon": "⛰️",
-      "title": "Longleng landslide near Yongshei blocks ~80% of Dikhou River channel; Sivasagar (Assam) downstream villages on alert",
-      "category": "Landslide",
-      "categoryKey": "landslide",
-      "severity": "watch",
-      "status": "ongoing",
-      "region": "east",
-      "states": [
-        "Nagaland",
-        "Assam"
-      ],
-      "date": "2026-10-01",
-      "summary": "Sivasagar district administration issued a cautionary advisory after a major landslide between Yaongyimsen (Mokokchung) and Yongshei (Longleng) in Nagaland blocked about 80% of the Dikhou River channel, per the Longleng Deputy Commissioner's Sep 30 message and the Yongshei village chairman. No abnormal flow or sudden drop in water level has been seen downstream so far and the Dikhou level at Bihubar is stable; ground verification was scheduled for Oct 1.",
-      "impact": "Early-warning signal only: if the blockage breaches, riverside villages along the Dikhou in Sivasagar district (Assam) and low-lying Longleng/Mokokchung belts could see sudden flash flooding. Keep a short watch on Sivasagar and Nagaland hill-road LM, avoid parking FM pickups near the Dikhou banks, and re-check after the ground verification report.",
-      "sources": [
-        {
-          "name": "Hub Network (ground report)",
-          "url": "https://hubnetwork.in/longleng-landslide-blocks-80-of-dikhou-river-channel-assams-sivasagar-on-alert"
-        }
-      ]
-    },
-    {
       "id": "pan-india-commercial-lpg-hike-oct1-2026",
       "icon": "⛽",
       "title": "Commercial LPG cylinder up Rs 62.50 from Oct 1 (some reports Rs 71.50 by city); ATF up; domestic LPG unchanged",
@@ -955,6 +958,28 @@
           "url": "https://english.newstrack.com/india-news/adi-kailash-route-blocked-by-landslide-over-350-pilgrims-stopped-in-uttarakhand-636695"
         }
       ]
+    },
+    {
+      "id": "himachal-shimla-dhalli-sanjauli-bypass-landslide-oct7-2026",
+      "icon": "⛰️",
+      "title": "Shimla: fresh landslide on Dhalli-Sanjauli bypass halts traffic both ways; route to Kufri, Naldehra, Narkanda hit",
+      "category": "Landslide",
+      "categoryKey": "landslide",
+      "severity": "moderate",
+      "status": "ongoing",
+      "region": "north",
+      "states": [
+        "Himachal Pradesh"
+      ],
+      "date": "2026-10-07",
+      "summary": "The Dhalli-Sanjauli bypass in Shimla saw a fresh slide on Oct 7 as boulders and debris came down on the carriageway, stopping traffic in both directions, with motorists reporting narrow escapes. The bypass carries traffic toward Kufri, Naldehra, Narkanda and upper Shimla and has had repeated slope failures, including a major slide in June. Clearance status after Oct 7 was not confirmed in the report, and IMD forecasts more rain over Himachal on Oct 14-18.",
+      "impact": "Treat the Dhalli-Sanjauli stretch and upper-Shimla pincodes (Kufri, Naldehra, Narkanda belt) as at risk of non-serviceability; use alternate routing via Shimla town, avoid evening dispatch, and add 24h SLA buffer through Oct 18 given fresh rain forecasts.",
+      "sources": [
+        {
+          "name": "The News Himachal (ground report)",
+          "url": "https://thenewshimachal.com/2026/10/boulders-debris-crash-onto-dhalli-sanjauli-bypass-vehicles-narrowly-escape/"
+        }
+      ]
     }
   ]
-    }
+        }
