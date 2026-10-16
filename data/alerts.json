@@ -1,5 +1,5 @@
 {
-  "compiledAt": "2026-10-16T12:15:00+05:30",
+  "compiledAt": "2026-10-16T18:30:00+05:30",
   "note": "Manually-refreshed research digest compiled from public news sources, including regional/vernacular press, local TV channels and YouTube ground reports where available. Not a live news-wire feed — update this file (or re-run research) to refresh. Built for Meesho 3P logistics capacity planning (Delhivery · Shadowfax · Xpressbees): LM/FM manifestation, non-adherence hotspots, and serviceability-loss tracking. Not an official Meesho product.",
   "upcomingEvents": [
     {
@@ -507,6 +507,62 @@
   ],
   "alerts": [
     {
+      "id": "jk-uri-rajerwani-landslide-oct15-2026",
+      "icon": "⛰️",
+      "title": "Landslide blocks highway near Rajerwani, Uri (Baramulla) on Oct 15",
+      "category": "Landslide",
+      "categoryKey": "landslide",
+      "severity": "moderate",
+      "status": "ongoing",
+      "region": "north",
+      "states": [
+        "Jammu and Kashmir"
+      ],
+      "date": "2026-10-15",
+      "summary": "Kashmir Reader reported on Oct 15 that a landslide blocked the highway near Rajerwani in Uri, Baramulla district. Only the headline was retrieved, so clearance status and duration are unconfirmed; fresh rain is forecast over J&K till Oct 18.",
+      "impact": "Treat Uri and the Baramulla-Uri border belt as at risk of delayed LM/FM; verify road reopening before dispatch and add 12-24h SLA buffer for Uri pincodes through Oct 18.",
+      "sources": [
+        {
+          "name": "Kashmir Reader (ground report)",
+          "url": "https://kashmirreader.com/2026/10/15/landslide-blocks-highway-near-rajerwani-uri/"
+        }
+      ]
+    },
+    {
+      "id": "punjab-bandh-oct15-parvinder-jhota-murder-2026",
+      "icon": "🚛",
+      "title": "Punjab bandh Oct 15 over killing of anti-drug activist Parvinder Jhota: markets, schools, transport hit, farmers block roads",
+      "category": "Strike / Bandh",
+      "categoryKey": "strike",
+      "severity": "high",
+      "status": "ongoing",
+      "region": "north",
+      "states": [
+        "Punjab"
+      ],
+      "date": "2026-10-15",
+      "summary": "A Punjab bandh was observed on Oct 15 after anti-drug activist Parvinder Singh Jhota was shot dead in Mansa; his father called the shutdown with support from SGPC, farmer bodies and political parties, and protests followed including the torching of the accused's shop. Markets, schools and transport were reported shut and roads blocked at several places, with emergency services exempted. Check whether protests or road blockades continue on Oct 16.",
+      "impact": "Expect LM/FM stoppage and blocked roads across Punjab (Mansa, Bathinda belt and wider state) on Oct 15 with spillover possible; hold dispatch into affected pincodes, re-attempt on Oct 16-17, add 24h SLA buffer, and confirm rider and hub staffing before resuming normal manifestation with Delhivery, Shadowfax and Xpressbees.",
+      "sources": [
+        {
+          "name": "Goodreturns (Punjab bandh Oct 15)",
+          "url": "https://www.goodreturns.in/news/punjab-bandh-on-october-15-what-will-remain-closed-markets-schools-transport-sgpc-institutions-1541477.html"
+        },
+        {
+          "name": "The Tribune (live blog, ground report)",
+          "url": "https://www.tribuneindia.com/liveblog/bathinda/punjab-bandh-live-farmers-block-roads-emergency-services-exempted"
+        },
+        {
+          "name": "National Herald",
+          "url": "https://www.nationalheraldindia.com/national/punjab-drug-activist-parvinder-singh-jhota-murder-mansa-shop-torched-bandh-call"
+        },
+        {
+          "name": "Daily Jagran",
+          "url": "https://www.thedailyjagran.com/india/news/punjab-bandh-on-october-15-parvinder-jhota-father-calls-for-shutdown-sgpc-farmers-akali-dal-bjp-congress-extend-support-whats-closed-10332752"
+        }
+      ]
+    },
+    {
       "id": "kerala-tn-ne-monsoon-onset-orange-alert-oct15-2026",
       "icon": "🌧️",
       "title": "Northeast monsoon sets in over Kerala and Tamil Nadu: orange alerts in 4 districts each",
@@ -764,36 +820,6 @@
         {
           "name": "J&K Traffic Police advisory via JK Updates, Oct 6 (ground report)",
           "url": "https://jkadworld.com/jk-news-today/jammu-srinagar-highway-traffic-advisory-6th-oct-2026nh-44-ssg-road-travel-guidelines/"
-        }
-      ]
-    },
-    {
-      "id": "pan-india-commercial-lpg-hike-oct1-2026",
-      "icon": "⛽",
-      "title": "Commercial LPG cylinder up Rs 62.50 from Oct 1 (some reports Rs 71.50 by city); ATF up; domestic LPG unchanged",
-      "category": "Fuel & Energy",
-      "categoryKey": "fuel",
-      "severity": "watch",
-      "status": "ongoing",
-      "region": "pan-india",
-      "states": [
-        "Pan-India"
-      ],
-      "date": "2026-10-01",
-      "summary": "Oil marketing companies raised the price of the 19-kg commercial LPG cylinder from 1 October 2026 by about Rs 62.50 (reports cite up to Rs 71.50 depending on city), and aviation turbine fuel by about Rs 16 per litre, ahead of the festive season. Domestic LPG prices were left unchanged. Exact city-wise rates vary by outlet.",
-      "impact": "Expect cost pressure for sort-centre canteens, hub operations and food-linked sellers; watch for fuel-surcharge asks from Delhivery, Shadowfax and Xpressbees as diesel/gas costs flow into pre-Diwali rate negotiations. No direct LM/FM stoppage.",
-      "sources": [
-        {
-          "name": "Business Today",
-          "url": "https://bazaar.businesstoday.in/business-news/story/commercial-lpg-cylinder-price-hike-19-kg-cylinder-gets-costlier-from-october-1-check-new-rates-1457476-2026-10-01"
-        },
-        {
-          "name": "National Herald",
-          "url": "https://nationalheraldindia.com/business/commercial-lpg-prices-rise-by-rs-6250-aviation-fuel-up-rs-16-per-litre"
-        },
-        {
-          "name": "ZeeBiz",
-          "url": "https://www.zeebiz.com/india/news-lpg-cylinder-price-october-1-2026-check-city-wise-commercial-cookig-gas-refill-rates-domestic-prices-subsidy-booking-rules-kick-in-soon-403136"
         }
       ]
     },
