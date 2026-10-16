@@ -1,51 +1,7 @@
 {
-  "compiledAt": "2026-10-15T12:00:00+05:30",
+  "compiledAt": "2026-10-16T12:15:00+05:30",
   "note": "Manually-refreshed research digest compiled from public news sources, including regional/vernacular press, local TV channels and YouTube ground reports where available. Not a live news-wire feed — update this file (or re-run research) to refresh. Built for Meesho 3P logistics capacity planning (Delhivery · Shadowfax · Xpressbees): LM/FM manifestation, non-adherence hotspots, and serviceability-loss tracking. Not an official Meesho product.",
   "upcomingEvents": [
-    {
-      "id": "pitru-paksha-2026",
-      "icon": "🪔",
-      "community": "Hindu",
-      "title": "Pitru Paksha (Shraddh) - 16-day inauspicious period, demand dips sharply then rebounds at Navratri",
-      "date": "2026-09-26",
-      "endDate": "2026-10-10",
-      "sources": [
-        {
-          "name": "Drik Panchang",
-          "url": "https://www.drikpanchang.com/shraddha/pitru-paksha-shraddha-dates.html"
-        }
-      ]
-    },
-    {
-      "id": "guru-ram-das-gurpurab-2026",
-      "icon": "🪯",
-      "community": "Sikh",
-      "title": "Guru Ram Das Ji Parkash Gurpurab (Oct 9): Punjab gurdwara gatherings, localized route congestion",
-      "date": "2026-10-09",
-      "sources": [
-        {
-          "name": "FestivalsFun",
-          "url": "https://www.festivalsfun.com/india/guru-purab/guru-ram-das-jayanti.html"
-        }
-      ]
-    },
-    {
-      "id": "mahalaya-amavasya-2026",
-      "icon": "🪔",
-      "community": "Hindu",
-      "title": "Mahalaya Amavasya / Sarva Pitru Amavasya (Oct 10): final day of Pitru Paksha, precedes Sharad Navratri — marks transition into peak festive-season LM surge nationally",
-      "date": "2026-10-10",
-      "sources": [
-        {
-          "name": "Guptvrindavandham",
-          "url": "https://guptvrindavandham.org/blogs/pitru-paksha-start-and-end-date/"
-        },
-        {
-          "name": "Samvat.in — Mahalaya Amavasya 2026",
-          "url": "https://samvat.in/festivals/mahalaya-amavasya-2026/"
-        }
-      ]
-    },
     {
       "id": "bathukamma-2026",
       "icon": "🌼",
@@ -551,28 +507,30 @@
   ],
   "alerts": [
     {
-      "id": "punjab-bandh-mansa-jhota-killing-oct15-2026",
-      "icon": "🚛",
-      "title": "Punjab bandh today (6am-5pm) over killing of anti-drug activist Parvinder Singh Jhota in Mansa; SGPC, Punjabi University shut",
-      "category": "Strike / Bandh",
-      "categoryKey": "strike",
-      "severity": "high",
+      "id": "kerala-tn-ne-monsoon-onset-orange-alert-oct15-2026",
+      "icon": "🌧️",
+      "title": "Northeast monsoon sets in over Kerala and Tamil Nadu: orange alerts in 4 districts each",
+      "category": "Flood",
+      "categoryKey": "flood",
+      "severity": "moderate",
       "status": "ongoing",
-      "region": "north",
+      "region": "south",
       "states": [
-        "Punjab"
+        "Kerala",
+        "Tamil Nadu",
+        "Puducherry"
       ],
       "date": "2026-10-15",
-      "summary": "A Punjab bandh is being observed on Oct 15 from 6 am to 5 pm after the killing of anti-drug activist Parvinder Singh Jhota in Mansa; protesters demand a CBI probe. SGPC offices/institutions and Punjabi University, Patiala have announced closures, with barricades and security arrangements reported on roads leading to Mansa and highway blockades reported. No blanket statewide closure of markets, banks or petrol pumps is confirmed; impact varies by district and may start earlier or run past 5 pm.",
-      "impact": "Expect LM/FM stoppage or heavy slippage on Oct 15 in Mansa and neighbouring Malwa belt towns, plus highway-blockade delays on Punjab line-haul. Re-slot Oct 15 attempts to Oct 16 for Mansa/Bathinda/Patiala-side pincodes, avoid dispatching riders through protest sites, and brief Delhivery/Shadowfax/Xpressbees Punjab hubs on a possible spill-over past 5 pm.",
+      "summary": "Onmanorama (Oct 15) reports Kerala on heavy rain alert as the northeast monsoon sets in, with an orange alert in 4 districts; The Hans India reports the northeast monsoon beginning in Tamil Nadu with four districts under orange alert. Check the IMD/KSDMA district list before dispatch for the exact districts.",
+      "impact": "Expect LM slippage, waterlogging in low-lying Chennai/coastal TN and Kerala pincodes, and rider attendance dips through the Oct 16-18 rain spell, followed by low fleet availability at Ayudha Puja/Dussehra (Oct 19-20). Add a 24h SLA buffer for orange-alert districts and avoid FM pickups from flooded lanes.",
       "sources": [
         {
-          "name": "Sunday Guardian (Punjab bandh Oct 15 explainer)",
-          "url": "https://sundayguardianlive.com/trending/punjab-bandh-tomorrow-whats-open-whats-closed-on-october-15-check-schools-colleges-markets-banks-buses-trains-petrol-pumps-emergency-services-updates-more-305704/"
+          "name": "Onmanorama (ground report)",
+          "url": "https://www.onmanorama.com/news/kerala/2026/10/15/kerala-on-heavy-rain-alert-as-north-east-monsoon-sets-in-orange-alert-in-4-districts.html"
         },
         {
-          "name": "The Daily Jagran (ground report)",
-          "url": "https://www.thedailyjagran.com/india/news/punjab-bandh-today-highway-blocked-classes-shifted-online-as-parminder-jhotas-father-urges-massive-participation-10332778"
+          "name": "The Hans India",
+          "url": "https://www.thehansindia.com/tamilnadu/northeast-monsoon-to-begin-in-tamil-nadu-today-four-districts-under-orange-alert-1132607"
         }
       ]
     },
@@ -862,40 +820,6 @@
       ]
     },
     {
-      "id": "himachal-shimla-rohru-jangalikh-sundru-khad-landslide-sep28-2026",
-      "icon": "⛰️",
-      "title": "Fresh landslide near Jangalikh village (Rohru, Chhohara block) blocks pedestrian route on Sundru Khad",
-      "category": "Landslide",
-      "categoryKey": "landslide",
-      "severity": "watch",
-      "status": "ongoing",
-      "region": "north",
-      "states": [
-        "Himachal Pradesh"
-      ],
-      "date": "2026-10-02",
-      "summary": "A fresh landslide near Jangalikh village in Chhohara development block of Rohru sub-division, Shimla district, sent debris into the Sundru Khad on 28 September, blocking the pedestrian route to the village. The Rohru SDM confirmed that despite fears of a temporary blockage forming a lake in the khad, water flow has returned to normal and no lake formed; the administration is continuing to monitor the site. PTI (via DD India) adds that stones had been rolling down the hill since Sunday, some nearby villages were cut off and traffic was disrupted; the administration has appealed to people to avoid the Pabbar river and surrounding khads, particularly in the Janglikh area. Update: Himachal CM Sukhvinder Singh Sukhu visited Rohru villages and directed that the Janglik road be reopened within ten days, with Rs 6 crore sanctioned for bridge construction.",
-      "impact": "Treat the Jangalikh (Chhohara block, Rohru) pedestrian/foot route as non-serviceable for FM pickups until debris is cleared; vehicular LM in the wider Rohru belt is unaffected for now since the khad did not dam up, but keep a short watch for renewed slippage given the string of active slides elsewhere in Shimla and Mandi districts this week.",
-      "sources": [
-        {
-          "name": "The North News (ground report)",
-          "url": "https://www.thenorthnews.in/heavy-landslide-near-jangalikh-blocks-pedestrian-route-in-rohru/"
-        },
-        {
-          "name": "DD India / PTI",
-          "url": "https://ddindia.co.in/2026/09/landslide-in-shimla-cuts-off-villages-disrupts-traffic/"
-        },
-        {
-          "name": "The Tribune (ground report)",
-          "url": "https://www.tribuneindia.com/news/himachal/himachal-chief-minister-sukhvinder-singh-sukhu-orders-janglik-road-restoration-within-10-days"
-        },
-        {
-          "name": "ThePrint",
-          "url": "https://theprint.in/india/himachal-cm-visits-villages-in-rohru-directs-repair-of-landslide-hit-road-in-10-days/3060267/"
-        }
-      ]
-    },
-    {
       "id": "bihar-gandak-record-level-embankment-breaches-bagaha-areraj-sep30-2026",
       "icon": "🌊",
       "title": "Bihar: Gandak hits record 91.25 m at Bagaha; embankments breached at Khairatwa, Phuliyakhad, Areraj, Paroo, Maker",
@@ -934,32 +858,6 @@
       ]
     },
     {
-      "id": "uttarakhand-adi-kailash-mangti-nullah-landslide-dharchula-oct2-2026",
-      "icon": "⛰️",
-      "title": "Landslide at Mangti nullah blocks Adi Kailash route; 350+ pilgrims halted at Dharchula (Pithoragarh)",
-      "category": "Landslide",
-      "categoryKey": "landslide",
-      "severity": "moderate",
-      "status": "ongoing",
-      "region": "north",
-      "states": [
-        "Uttarakhand"
-      ],
-      "date": "2026-10-02",
-      "summary": "A landslide at Mangti nullah on the Adi Kailash route in Pithoragarh district blocked the road, and more than 350 pilgrims and travellers were stopped at Dharchula, per reports dated 2 October.",
-      "impact": "Treat the Dharchula-Gunji-Kuti border belt as non-serviceable for LM/FM until the road is cleared; hold pickups from sellers beyond Dharchula and add a 24-48h SLA buffer for Pithoragarh hub inbound.",
-      "sources": [
-        {
-          "name": "Northern Gazette (ground report)",
-          "url": "https://thenortherngazette.com/index.php/2026/10/02/over-350-adi-kailash-pilgrims-stopped-at-dharchula-after-landslide-blocks-route/"
-        },
-        {
-          "name": "Newstrack",
-          "url": "https://english.newstrack.com/india-news/adi-kailash-route-blocked-by-landslide-over-350-pilgrims-stopped-in-uttarakhand-636695"
-        }
-      ]
-    },
-    {
       "id": "himachal-shimla-dhalli-sanjauli-bypass-landslide-oct7-2026",
       "icon": "⛰️",
       "title": "Shimla: fresh landslide on Dhalli-Sanjauli bypass halts traffic both ways; route to Kufri, Naldehra, Narkanda hit",
@@ -982,4 +880,4 @@
       ]
     }
   ]
-        }
+    }
