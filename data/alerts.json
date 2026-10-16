@@ -1,5 +1,5 @@
 {
-  "compiledAt": "2026-10-16T18:30:00+05:30",
+  "compiledAt": "2026-10-16T21:00:00+05:30",
   "note": "Manually-refreshed research digest compiled from public news sources, including regional/vernacular press, local TV channels and YouTube ground reports where available. Not a live news-wire feed — update this file (or re-run research) to refresh. Built for Meesho 3P logistics capacity planning (Delhivery · Shadowfax · Xpressbees): LM/FM manifestation, non-adherence hotspots, and serviceability-loss tracking. Not an official Meesho product.",
   "upcomingEvents": [
     {
@@ -507,6 +507,36 @@
   ],
   "alerts": [
     {
+      "id": "pan-india-commercial-lpg-hike-oct1-2026",
+      "icon": "⛽",
+      "title": "Commercial 19-kg LPG hiked Rs 62-71.50 from Oct 1; domestic cylinder rates unchanged",
+      "category": "Fuel & Energy",
+      "categoryKey": "fuel",
+      "severity": "watch",
+      "status": "ongoing",
+      "region": "pan-india",
+      "states": [
+        "Pan-India"
+      ],
+      "date": "2026-10-01",
+      "summary": "Oil marketing companies raised the price of 19-kg commercial LPG cylinders by roughly Rs 62 to Rs 71.50 (varying by city) from October 1, while domestic rates were left unchanged. Separate reports also flag Jio-BP raising retail petrol and diesel prices.",
+      "impact": "Watch for cost pass-through from Delhivery, Shadowfax and Xpressbees (fuel-surcharge requests) and for food/dhaba-linked rider cost pressure ahead of the Diwali peak; no direct route stoppage expected.",
+      "sources": [
+        {
+          "name": "Goodreturns (LPG price hike Oct 1)",
+          "url": "https://www.goodreturns.in/news/lpg-gas-cylinder-prices-hiked-october-1-2026-19-kg-commercial-lpg-prices-up-rs-62-71-50-city-wise-1538497.html"
+        },
+        {
+          "name": "BusinessWorld",
+          "url": "https://businessworld.in/article/commercial-lpg-cylinder-prices-hiked-by-rs-62-domestic-rates-unchanged-537840"
+        },
+        {
+          "name": "OneIndia",
+          "url": "https://www.oneindia.com/india/lpg-price-hike-from-october-1-commercial-cylinders-get-costlier-by-over-rs-60-8221337.html"
+        }
+      ]
+    },
+    {
       "id": "jk-uri-rajerwani-landslide-oct15-2026",
       "icon": "⛰️",
       "title": "Landslide blocks highway near Rajerwani, Uri (Baramulla) on Oct 15",
@@ -541,7 +571,7 @@
         "Punjab"
       ],
       "date": "2026-10-15",
-      "summary": "A Punjab bandh was observed on Oct 15 after anti-drug activist Parvinder Singh Jhota was shot dead in Mansa; his father called the shutdown with support from SGPC, farmer bodies and political parties, and protests followed including the torching of the accused's shop. Markets, schools and transport were reported shut and roads blocked at several places, with emergency services exempted. Check whether protests or road blockades continue on Oct 16.",
+      "summary": "A Punjab bandh was observed on Oct 15 after anti-drug activist Parvinder Singh Jhota was shot dead in Mansa; his father called the shutdown with support from SGPC, farmer bodies and political parties, and protests followed including the torching of the accused's shop. Markets, schools and transport were reported shut and roads blocked at several places, with emergency services exempted. Check whether protests or road blockades continue on Oct 16. Update Oct 16: no fresh reports of a continued shutdown were found in this run; treat Oct 16 as a recovery/backlog day and verify local road blockades before dispatch.",
       "impact": "Expect LM/FM stoppage and blocked roads across Punjab (Mansa, Bathinda belt and wider state) on Oct 15 with spillover possible; hold dispatch into affected pincodes, re-attempt on Oct 16-17, add 24h SLA buffer, and confirm rider and hub staffing before resuming normal manifestation with Delhivery, Shadowfax and Xpressbees.",
       "sources": [
         {
@@ -587,43 +617,6 @@
         {
           "name": "The Hans India",
           "url": "https://www.thehansindia.com/tamilnadu/northeast-monsoon-to-begin-in-tamil-nadu-today-four-districts-under-orange-alert-1132607"
-        }
-      ]
-    },
-    {
-      "id": "imd-12-state-thunderstorm-hail-gusts-oct14-2026",
-      "icon": "🌧️",
-      "title": "IMD rain-thunderstorm alert for 12 states Oct 14: Bihar, UP, Jharkhand, Rajasthan districts named, gusts up to 75 km/h",
-      "category": "Flood",
-      "categoryKey": "flood",
-      "severity": "watch",
-      "status": "ongoing",
-      "region": "north",
-      "states": [
-        "Delhi",
-        "Uttar Pradesh",
-        "Bihar",
-        "Rajasthan",
-        "Punjab",
-        "Uttarakhand",
-        "Himachal Pradesh",
-        "Jammu and Kashmir",
-        "Jharkhand",
-        "West Bengal",
-        "Odisha",
-        "Karnataka"
-      ],
-      "date": "2026-10-14",
-      "summary": "IMD issued a rain and thunderstorm alert for 12 states on Oct 14, with gusty winds up to 75 km/h in places (50 km/h in UP, 60 km/h in Jharkhand). Districts named include Bijnor, Meerut, Aligarh, Agra, Kanpur, Gorakhpur, Prayagraj and Lucknow (UP); Patna, Gaya, Muzaffarpur, Darbhanga, Purnia, Katihar and Kishanganj (Bihar); Ranchi, Dumka, Hazaribagh (Jharkhand); Jaipur, Sikar, Alwar, Kota and Udaipur (Rajasthan).",
-      "impact": "Expect slower LM runs and delayed FM pickups in the named UP, Bihar, Jharkhand and Rajasthan districts on Oct 14-15 as storms and gusts disrupt two-wheeler delivery and hub power. Keep buffer capacity in Patna, Muzaffarpur, Lucknow, Kanpur and Jaipur clusters and flag low-visibility pincodes for SLA relaxation if rain intensifies.",
-      "sources": [
-        {
-          "name": "Subkuz (IMD Oct 14 12-state alert)",
-          "url": "https://subkuz.com/news/english/details/imd-issues-rain-and-thunderstorm-alert-for-12-states-on-october-14/224214"
-        },
-        {
-          "name": "NewsBytes (IMD Oct 14 forecast)",
-          "url": "https://www.newsbytesapp.com/news/india/imd-warns-north-india-of-hail-gusts-rain-october-14/tldr"
         }
       ]
     },
